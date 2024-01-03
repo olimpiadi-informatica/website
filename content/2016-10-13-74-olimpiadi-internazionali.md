@@ -1,0 +1,38 @@
++++
+draft = false
+title = "Olimpiadi Internazionali"
+date = "2016-10-13T07:59:29"
+updated = "2016-10-13T11:40:46"
+
+[extra]
+override_updated = "2016-10-13T11:40:46"
++++
+## La squadra Olimpiadi e i risultati
+
+## La squadra Italiana delle IOI2006
+
+Il Messico ospiterà nel prossimo mese di agosto (dal 13 al 20) la 18a edizione delle Olimpiadi Internazionali di Informatica.<br/> Il sito ufficiale della manifestazione internazionale è raggiungibile all'indirizzo: [www.ioi2006.org](http://www.ioi2006.org/)
+
+I quattro titolari che compongono la Squadra Olimpica 2006 e che rappresenteranno gli studenti italiani alla manifestazione sono:
+
+Salvatore Ingala del Liceo Scientifico di Piazza Armerina (EN) <br/> Denis Nardin del Liceo Scientifico Majorana di Mirano (VE) <br/> Nicola Pierazzo del Liceo Scientifico Galilei di Dolo (VE) <br/> Fabio Scippacercola del Liceo Classico Garibaldi di Napoli
+
+<div style="text-align: center;">
+
+{{ img(src='/images/uploads/squadra2006.jpg', width='800', height='600') }}
+
+</div>
+
+<div style="text-align: center;">
+
+</div>
+
+<div style="text-align: center;">
+
+Le riserve sono: Giovanni Angelini del Liceo Scientifico Galilei di Trento e Giuseppe Santoro dell'ITC Genco di Altamura (BA).
+
+[La pagina del Ministero dell'Istruzione dedicata all'evento](http://www.istruzione.it/eventi/olimpiadi2006.shtml).
+
+Risultati della Squadra italiana alle IOI2006: Salvatore Ingala e Nicola Pierazzo hanno ottenuto due medaglie di bronzo.
+
+</div>

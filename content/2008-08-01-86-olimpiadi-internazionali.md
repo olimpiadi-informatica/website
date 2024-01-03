@@ -1,0 +1,38 @@
++++
+draft = false
+title = "IOI 2008"
+date = 2008-08-01T05:59:29Z
+updated = "2016-10-21T10:05:51"
+
+[taxonomies]
+edition = [ "2007",]
+contest = [ "international",]
+
+[extra]
+override_updated = "2016-10-21T10:05:51"
++++
+Al termine delle gare che si sono svolte in Egitto, sono state assegnate all'Italia le Olimpiadi Internazionali di Informatica 2012.
+
+[List of IOI websites and locations](http://en.wikipedia.org/wiki/International_Olympiad_in_Informatics#List_of_IOI_websites_and_locations)
+
+La 20a edizione delle Olimpiadi Internazionali di Informatica si è tenuta al Cairo (Egitto) nel mese di agosto (dal 16 al 23).
+
+Ottimo risultato per gli studenti italiani alle IOI2008.
+
+L'Italia ha ottenuto tre medaglie e, in particolare, Massimo Cairo ha vinto una medaglia d'argento e Paolo Comaschi e Giovanni Mascellani hanno vinto due medaglie di bronzo.<br/>Il sito ufficiale della manifestazione internazionale è raggiungibile all'indirizzo: [IOI 2008 - Home](http://www.ioi2008.org/)
+
+I [cinque studenti](olimpiadiItaliane/medagliati.htm) medagliati con l'oro alle ultime Olimpiadi Italiane di Informatica hanno vinto un premio della Banca d'Italia consistente in una borsa di studio da spendere per uno stage di due settimane che si terrà nel mese di settembre presso il laboratorio IBM di Hursley in Inghilterra.
+
+Il Team
+
+I 4 titolari:
+
+* Matteo Boscariol dell'ITCG Luigi Einaudi di Montebelluna (TV)
+* Massimo Cairo del Liceo Scientifico Marconi di Milano
+* Paolo Comaschi del Liceo Scientifico G. D. Cassini di Genova
+* Giovanni Mascellani del Liceo Scientifico Ulisse Dini di Pisa
+
+Le 2 riserve:
+
+* Dennis Olivetti dell'ITI Guglielmo Marconi di Verona
+* Ramesh Rajaby dell'Istituto Tecnico Industriale di Seriate (BG)

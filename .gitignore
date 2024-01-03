@@ -1,0 +1,5 @@
+public/
+static/images/gallery/
+static/processed_images/
+*.swp
+*.pyc

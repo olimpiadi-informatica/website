@@ -1,0 +1,116 @@
+<nav class="navbar navbar-expand-lg bg-dark sticky-top" data-bs-theme="dark">
+  <div class="container">
+    <a class="navbar-brand" href="/">OII</a>
+    <button class="navbar-toggler" type="button"
+            data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false"
+            aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        {% set active = taxonomy and taxonomy.name == 'contest' %}
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle {%if active%}active{%endif%}" href="#"
+             role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Gare
+          </a>
+          <ul class="dropdown-menu">
+            {% set term = get_taxonomy_term(kind="contest", term="school") %}
+            <li><a class="dropdown-item" href="{{term.path}}">Scolastiche</a></li>
+            {% set term = get_taxonomy_term(kind="contest", term="regional") %}
+            <li><a class="dropdown-item" href="{{term.path}}">Territoriali</a></li>
+            {% set term = get_taxonomy_term(kind="contest", term="national") %}
+            <li><a class="dropdown-item" href="{{term.path}}">Nazionali</a></li>
+            {% set term = get_taxonomy_term(kind="contest", term="stage") %}
+            <li><a class="dropdown-item" href="{{term.path}}">Stage</a></li>
+            {% set term = get_taxonomy_term(kind="contest", term="international") %}
+            <li><a class="dropdown-item" href="{{term.path}}">Internazionali</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" aria-current="page" href="/#edition-{{config.extra.current_edition}}">Edizione corrente</a>
+        </li>
+        <li class="nav-item">
+          {% set edition_t = get_taxonomy(kind="edition") %}
+          {% set active = taxonomy and taxonomy.name == 'edition' %}
+          <a class="nav-link {%if active%}active{%endif%}" aria-current="page" href="{{edition_t.permalink}}">Tutte le edizioni</a>
+        </li>
+        <li class="nav-item">
+          {% set gallery_s = get_section(path="gallery/_index.md", metadata_only=true) %}
+          {% set active_s = section and section.title == 'Gallery' %}
+          {% set active_p = page and page.path is starting_with("/gallery/") %}
+          {% set active = active_p or active_s %}
+          <a class="nav-link {%if active%}active{%endif%}" aria-current="page" href="{{gallery_s.path}}">Gallery</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" aria-current="page" href="https://algobadge.olinfo.it/">
+            Algobadge
+          </a>
+        </li>
+      </ul>
+      <form class="d-flex" role="search" onsubmit="search(); return false;" style="position: relative;">
+        <input class="form-control me-2" type="search" placeholder="Cerca" id="searchbar" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Cerca</button>
+        <div id="search-results" style="display: none;" data-bs-theme="light">
+          <ul id="search-results-list">
+          </ul>
+        </div> 
+      </form>
+    </div>
+  </div>
+</nav>
+<div id="search-alert-placeholder"></div>
+<script type="text/javascript">
+  let index = null;
+  const maxResults = 20;
+
+  const searchResults = document.getElementById("search-results");
+  const searchResultsList = document.getElementById("search-results-list");
+
+  const alertPlaceholder = document.getElementById('search-alert-placeholder')
+  const appendAlert = (message, type) => {
+    const wrapper = document.createElement('div')
+    wrapper.innerHTML = [
+      `<div class="alert alert-${type} alert-dismissible" role="alert">`,
+      `   <div>${message}</div>`,
+      '   <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>',
+      '</div>'
+    ].join('')
+    alertPlaceholder.append(wrapper)
+  }
+
+  async function search() {
+    if (index == null) {
+      const indexData = await (await fetch("/search_index.it.json")).json();
+      index = elasticlunr.Index.load(indexData);
+      index.use(lunr.it);
+    }
+    const val = document.getElementById("searchbar").value;
+    if (val === "") return;
+    const results = index.search(val, {});
+    if (results.length === 0) {
+      appendAlert(`Impossibile trovare ${val}`, "warning");
+      return;
+    }
+    searchResults.style.display = "block";
+    searchResultsList.innerHTML = "";
+    for (let i=0; i<Math.min(results.length, maxResults); i++) {
+      const li = document.createElement("li");
+      // TODO: consider adding a summary of the article.
+      console.log(results[i]);
+      li.innerHTML = [
+        `<div class="search-result-item">`,
+        `<a class="link-secondary link-underline-opacity-0" href=${results[i].ref}><h3>${results[i].doc.title}</h3></a>`,
+        `</div>`
+      ].join("");
+      searchResultsList.appendChild(li);
+    }
+  }
+
+  window.addEventListener('click', function(e) {
+    if (searchResults.style.display === "block" && !searchResults.contains(e.target)) {
+      searchResults.style.display = "none";
+    }
+  });
+</script>

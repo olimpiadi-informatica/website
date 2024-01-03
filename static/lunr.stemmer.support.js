@@ -1,0 +1,1 @@
+../lunr-languages/lunr.stemmer.support.js

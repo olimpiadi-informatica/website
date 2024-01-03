@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="title">
+  {{ page.title }}
+</h1>
+{% if page.extra.subtitle %}
+<h3 class="subtitle">{{ page.extra.subtitle }}</h3>
+{% endif %}
+
+{% set pathparts = page.path | split(pat="/") %}
+{% set numparts = pathparts | length %}
+{% set namepart = numparts - 2 %}
+{% set pagename = pathparts[namepart] %}
+
+<div id="galleryCarousel" class="carousel slide bg-dark">
+  <div class="carousel-indicators">
+{% for url in page.extra.gallery %}
+    <button type="button" data-bs-target="#galleryCarousel" data-bs-slide-to="{{loop.index-1}}"
+            {% if loop.index == 1 %} class="active" aria-current="true" {% endif %}></button>
+{% endfor %}
+  </div>
+  <div class="carousel-inner">
+{% for info in page.extra.gallery %}
+  {% set filename = info.filename %}
+  {% set filepath = ["images", "gallery", pagename, filename] | join(sep="/") %}
+  {% set scaled = resize_image(path=filepath, width=1000, height=1000, op="fit", format="jpg", quality=90) %}
+    <div class="carousel-item {% if loop.index == 1 %}active{% endif %}">
+      <a href="/{{filepath}}" class="d-block w-100" target="_blank">
+        <img src="{{scaled.url}}" class="d-block img-fluid mx-auto" loading="lazy" />
+      </a>
+    </div>
+{% endfor %}
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#galleryCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Indietro</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#galleryCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Avanti</span>
+  </button>
+</div>
+<script type="text/javascript">
+const elem = document.querySelector('#galleryCarousel')
+
+function ensureLoaded(element) {
+  if (!element) return;
+  element.children[0].children[0].loading = "eager";
+  
+}
+
+function slideTo(element) {
+  ensureLoaded(element);
+  ensureLoaded(element.nextElementSibling);
+  ensureLoaded(element.prevElementSibling);
+}
+
+new bootstrap.Carousel(elem, {});
+elem.addEventListener('slide.bs.carousel', event => {
+  slideTo(event.relatedTarget);
+});
+
+slideTo(document.getElementsByClassName("carousel-inner")[0].children[0])
+
+</script>
+
+{% endblock content %}

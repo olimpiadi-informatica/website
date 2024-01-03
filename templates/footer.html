@@ -1,0 +1,29 @@
+<div class="container-fluid bg-dark footer">
+  <div class="p-3"></div>
+  <div class="container text-secondary">
+    <div class="row">
+      <div class="col-lg-3">
+        <p>Laura Silva</p>
+        <p>(AICA)</p>
+        <p>02 76455042<br/><a href="mailto:info@olimpiadi-informatica.it" class="link-secondary">info@olimpiadi-informatica.it</a></p>
+      </div>
+      <div class="col-lg-3">
+        {% set page = get_page(path="fixed/stampa.md") %}
+        <p><a href="{{page.path}}" class="link-secondary">Rassegna stampa</a></p>
+        {% set page = get_page(path="fixed/storia-oii.md") %}
+        <p><a href="{{page.path}}" class="link-secondary">Storia delle OII</a></p>
+        {% set page = get_page(path="fixed/organizzazione.md") %}
+        <p><a href="{{page.path}}" class="link-secondary">Organizzazione</a></p>
+        {% set page = get_page(path="fixed/collaborazioni.md") %}
+        <p><a href="{{page.path}}" class="link-secondary">Collaborazioni con università</a></p>
+      </div>
+      <div class="col-lg-6 collaborators">
+        <h4>Collaborazioni</h4>
+        <a href="#" class="link-secondary"><img src="/logos/Hackersgen.jpg" /></a>
+        <a href="#" class="link-secondary"><img src="/logos/bending-spoons.png" /></a>
+        <a href="#" class="link-secondary"><img src="/logos/SORINT.png" /></a>
+        <a href="#" class="link-secondary"><img src="/logos/Huawei.jpg" /></a>
+      </div>
+    </div>
+  </div>
+</div>

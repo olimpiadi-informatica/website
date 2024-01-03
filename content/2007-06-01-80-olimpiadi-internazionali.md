@@ -1,0 +1,34 @@
++++
+draft = false
+title = "Annuncio squadra IOI 2007"
+date = 2007-06-01T05:59:29Z
+updated = "2016-10-13T12:51:45"
+
+[taxonomies]
+contest = [ "international",]
+edition = [ "2007",]
+
+[extra]
+override_updated = "2016-10-13T12:51:45"
++++
+La 19a edizione delle Olimpiadi Internazionali di Informatica si è tenuta a Zagabria (Croazia) nel mese di agosto (dal 15 al 22).<br/>Vedi la  [classifica ufficiale](http://ioi2007.hsin.hr/index.php?page=results) della competizione.
+
+Ottimo risultato per gli studenti italiani alle IOI2007. I quattro titolari che hanno preso parte alla manifestazione hanno vinto tutti una medaglia: in particolare Matteo Boscariol e Giovanni Mascellani hanno conquistato una medaglia d'argento ciascuno, mentre Paolo Comaschi e Massimo Cairo hanno ottenuto due medaglie di bronzo.
+
+Il sito ufficiale della manifestazione internazionale è raggiungibile all'indirizzo: <http://ioi2007.hsin.hr/>
+
+<br/>I quattro titolari della Squadra Olimpica 2007 e che rappresenteranno gli studenti italiani alla manifestazione sono:
+
+* Matteo Boscariol che frequenta la classe IV dell'ITCG Luigi Einaudi di Montebelluna (TV)
+* Massimo Cairo che frequenta la classe II del Liceo Scientifico Marconi di Milano
+* Paolo Comaschi che frequenta la classe III del Liceo Scientifico G. D. Cassini di Genova
+* Giovanni Mascellani che frequenta la classe IV del Liceo Scientifico U. Dini di Pisa
+
+Le riserve sono:
+
+* Julian Mautner che frequenta la classe V del Liceo Scientifico Albert Einstein di Merano (BZ)
+* Ramesh Rajaby che frequenta la classe IV dell'Istituto Tecnico Industriale di Seriate (BG)
+
+Di qui alla partenza i ragazzi saranno impegnati in una ulteriore fase di formazione residenziale (inizio luglio a Pisa) e nell'allenamento telematico.
+
+{{ img(src='/images/uploads/squadra2007.jpg', width='640', height='480') }}

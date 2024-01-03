@@ -1,0 +1,20 @@
++++
+draft = false
+title = "Archivio documenti"
+date = "2016-10-13T08:00:13"
+updated = "2016-10-13T11:41:20"
+
+[extra]
+override_updated = "2016-10-13T11:41:20"
++++
+## Circolare MPI
+
+Circolare MPI
+
+## Poster
+
+<div style="text-align: center;">
+
+{{ img(src='/images/uploads/poster2006.jpg', width='800', height='1108') }}
+
+</div>

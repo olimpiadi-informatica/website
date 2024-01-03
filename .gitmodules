@@ -1,0 +1,3 @@
+[submodule "lunr-languages"]
+	path = lunr-languages
+	url = https://github.com/weixsong/lunr-languages

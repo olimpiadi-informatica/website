@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="title">
+  {{ page.title }}
+</h1>
+{% if page.extra.subtitle %}
+<h3 class="subtitle">{{ page.extra.subtitle }}</h3>
+{% endif %}
+
+{% set d = page.date | date %}
+
+{% if page.updated %}
+{% set u = page.updated | date %}
+{% else %}
+{% if page.extra.override_updated %}
+{% set u = page.extra.override_updated | date %}
+{% else %}
+{% set u = d %}
+{% endif %}
+{% endif %}
+
+{% if d == u %}
+<h5>{{d}}</h5>
+{% else %}
+<h5>{{d}}<span class="text-body text-opacity-50">, aggiornato il {{u}}</span></h5>
+{% endif %}
+{% if page.extra.thumbnail %}
+<img src="{{page.extra.thumbnail}}" class="mx-auto d-block img-fluid" />
+{% endif %}
+{{ page.content | safe }}
+{% endblock content %}
