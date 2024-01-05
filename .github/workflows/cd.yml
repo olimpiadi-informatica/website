@@ -1,0 +1,25 @@
+name: Continuous Deployment
+
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+  buildSite:
+    name: Update website
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pull remote repo
+        uses: appleboy/ssh-action@1a8b3784eaa665f677fa114edd5683bb6a6bfaa8
+        with:
+          host: unito.olinfo.it
+          username: ioi
+          key: ${{ secrets.SSH_KEY }}
+          passphrase: ${{ secrets.SSH_PASSPHRASE }}
+          script_stop: true
+          script: |
+            cd website
+            git pull
+            ./scripts/build.sh
+            git checkout .
