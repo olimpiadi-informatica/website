@@ -16,6 +16,8 @@
         <p><a href="{{page.path}}" class="link-secondary">Organizzazione</a></p>
         {% set page = get_page(path="fixed/collaborazioni.md") %}
         <p><a href="{{page.path}}" class="link-secondary">Collaborazioni con università</a></p>
+        {% set term = get_taxonomy_term(kind="contest", term="digit") %}
+        <p><a href="{{term.path}}" class="link-secondary">Corso competenze digitali</a></p>
       </div>
       <div class="col-lg-6 collaborators">
         <h4>Collaborazioni</h4>

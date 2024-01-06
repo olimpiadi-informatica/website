@@ -1,11 +1,12 @@
 +++
 draft = false
 title = "Corso On-line per docenti \"Competenze Digitali\" - I Edizione"
-date = 2014-02-12T23:00:00Z
+date = 2014-02-11T23:00:00Z
 updated = "2017-07-03T16:30:59"
 
 [taxonomies]
 edition = [ "2013-2014",]
+contest = [ "digit", ]
 
 [extra]
 override_updated = "2017-07-03T16:30:59"

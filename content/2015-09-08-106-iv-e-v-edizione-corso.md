@@ -6,6 +6,7 @@ updated = "2017-07-03T16:51:30"
 
 [taxonomies]
 edition = [ "2015-2016",]
+contest = [ "digit", ]
 
 [extra]
 thumbnail = "/images/uploads/d6e7bc44feb1613d041d5385e5745b10.jpg"

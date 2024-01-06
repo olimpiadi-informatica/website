@@ -6,6 +6,7 @@ updated = "2015-08-03T15:48:07"
 
 [taxonomies]
 edition = [ "2014-2015",]
+contest = [ "digit", ]
 
 [extra]
 override_updated = "2015-08-03T15:48:07"
