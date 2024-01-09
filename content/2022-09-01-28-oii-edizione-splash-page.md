@@ -22,9 +22,9 @@ Tante novità quest'anno!
 
 **Fondamentale per iscriversi:**
 
-- Leggere attentamente la [circolare](/index.php/circolare-23.html)
+- Leggere attentamente la [circolare](/index.php/219-circolare/)
 
-- Scaricare qui il [regolamento](/index.php/regolamenti-23.html)
+- Scaricare qui il [regolamento](/index.php/218-regolamenti/)
 
 - Accedere al portale [iscrizioni](https://olimpiadi-scientifiche.it/)
 
