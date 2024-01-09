@@ -16,15 +16,18 @@ override_updated = "2022-10-24T10:50:01"
 # XXIII EDIZIONE OII
 
 <br/>
-Aperte le iscrizioni dell'edizione 2022-2023: Selezione Scolastica venerdì 16 dicembre 2022.
+Benvenuti all'edizione 2022-2023 delle Olimpiadi Italiane di Informatica!
 
 Tante novità quest'anno!
 
+Le iscrizioni delle scuole per la seguente edizione sono state aperte il giorno 24 ottobre  e si sono chiuse il 13 dicembre 2022. Selezione Scolastica venerdì 16 dicembre 2022. Il nuovo portale dedicato alle registrazioni delle scuole, dei Referenti scolastici e degli studenti è disponibile su www.olimpiadi-scientifiche.it
+
+
 **Fondamentale per iscriversi:**
 
-- Leggere attentamente la [circolare](/index.php/219-circolare/)
+- Leggere attentamente la [circolare](/219-circolare/)
 
-- Scaricare qui il [regolamento](/index.php/218-regolamenti/)
+- Scaricare qui il [regolamento](/218-regolamenti/)
 
 - Accedere al portale [iscrizioni](https://olimpiadi-scientifiche.it/)
 
