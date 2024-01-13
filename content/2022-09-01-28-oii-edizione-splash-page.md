@@ -5,11 +5,10 @@ date = 2022-09-01T08:27:27.000Z
 updated = "2022-10-24T10:50:01"
 
 [taxonomies]
-contest = ["school"]
 edition = ["2022-2023"]
 
 [extra]
-override_updated = "2022-10-24T10:50:01"
+override_updated = 2022-12-14T09:50:01.000Z
 +++
 <div style="text-align: center;">
 
