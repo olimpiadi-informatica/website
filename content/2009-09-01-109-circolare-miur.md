@@ -1,12 +1,11 @@
 +++
 draft = false
 title = "Circolare 2009-2010"
-date = 2009-09-01T11:39:09Z
+date = 2009-09-01T11:39:09.000Z
 updated = "2016-10-20T13:30:54"
 
 [taxonomies]
-contest = [ "school",]
-edition = [ "2009-2010",]
+edition = ["2009-2010"]
 
 [extra]
 override_updated = "2016-10-20T13:30:54"
