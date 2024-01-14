@@ -1,12 +1,12 @@
 +++
 draft = false
-title = "Annuncio squadra IOI 2007"
-date = 2007-06-01T05:59:29Z
+title = "IOI 2007"
+date = 2007-06-01T05:59:29.000Z
 updated = "2016-10-13T12:51:45"
 
 [taxonomies]
-contest = [ "international",]
-edition = [ "2007",]
+contest = ["international"]
+edition = ["2007"]
 
 [extra]
 override_updated = "2016-10-13T12:51:45"
