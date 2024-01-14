@@ -1,12 +1,12 @@
 +++
 draft = false
-title = "Probabili Olimpici 2015"
+title = "Ammessi OII 2015"
 date = "2015-06-30T14:54:26"
 updated = "2015-06-30T14:57:57"
 
 [taxonomies]
-contest = [ "national",]
-edition = [ "2014-2015",]
+contest = ["national"]
+edition = ["2014-2015"]
 
 [extra]
 override_updated = "2015-06-30T14:57:57"
