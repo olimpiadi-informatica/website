@@ -5,8 +5,7 @@ date = "2020-11-30T14:21:03"
 updated = "2021-03-02T16:08:46"
 
 [taxonomies]
-contest = [ "school",]
-edition = [ "2020-2021",]
+edition = ["2020-2021"]
 
 [extra]
 override_updated = "2021-03-02T16:08:46"
