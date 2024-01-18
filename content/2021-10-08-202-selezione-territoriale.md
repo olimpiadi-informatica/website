@@ -5,11 +5,12 @@ date = "2021-10-08T13:52:38"
 updated = "2022-06-14T15:03:02"
 
 [taxonomies]
-edition = [ "2021-2022",]
-contest = [ "regional",]
+edition = ["2021-2022"]
+contest = ["regional"]
 
 [extra]
 override_updated = "2022-06-14T15:03:02"
+thumbnail = "/images/uploads/f7f8c4727a011019fe43a7eaa92bf9a5.jpg"
 +++
 #### **RISULTATI SELEZIONE TERRITORIALE:**
 
