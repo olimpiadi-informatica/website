@@ -1,7 +1,8 @@
 <a href="{{ page.permalink | safe }}" class="link-secondary link-underline-opacity-0">
   <div class="thumbnail d-flex align-items-center my-1 {% if not page.extra.thumbnail %}fake-thumbnail{% endif %}">
     {% if page.extra.thumbnail %}
-    <img src="{{page.extra.thumbnail}}" class="img-thumbnail mx-auto d-block" />
+    {% set scaled = resize_image(path=page.extra.thumbnail, width=1000, height=700, op="fit", format="jpg", quality=90) %}
+    <img src="{{scaled.url}}" class="img-thumbnail mx-auto d-block" />
     {% endif %}
   </div>
   <h5 class="text-body">{{ page.title }}</h5>
