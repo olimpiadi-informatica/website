@@ -1,8 +1,15 @@
 $base-color: var(--bs-body-color);
 $faint-color: var(--bs-border-color);
 
+html {
+  scroll-padding-top: 5vh;
+}
+
 body {
   color: $base-color;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 img {
@@ -57,12 +64,6 @@ a {
   margin-top: 1rem;
   border-bottom: 1px solid #ccc;
   font-size: .9rem;
-}
-
-body {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
 }
 
 #galleryCarousel {
