@@ -8,9 +8,14 @@
   {% for edition in editions %}
   {% set edition_data = get_taxonomy_term(kind="edition", term=edition) %}
   {% set expand = loop.index0 < config.extra.expanded_editions %}
+  {% if expand %}
+  {% set collapse = "" %}
+  {% else %}
+  {% set collapse = "collapsed" %}
+  {% endif %}
   <div class="accordion-item">
     <h2 class="accordion-header">
-      <button class="accordion-button" type="button"
+      <button class="accordion-button {{collapse}}" type="button"
               data-bs-toggle="collapse" data-bs-target="#collapse{{edition}}"
               aria-expanded="{{expand}}" aria-controls="collapse{{edition}}">
         Edizione {{edition}}
