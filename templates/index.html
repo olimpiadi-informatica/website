@@ -2,7 +2,7 @@
 
 {% block content %}
 <div class="row text-center">
-  <h1 class="display-1 center">Le Olimpiadi di Informatica</h1>
+  <h1 class="display-3 center">Le Olimpiadi di Informatica</h1>
 </div>
 <div class="row">
   <div class="col-xl-4">
@@ -20,34 +20,34 @@
 <div class="p-3"></div>
 <div class="row">
   <div class="col-xl-4">
-    <h2>Giochi di Fibonacci</h2>
+    <h3>Giochi di Fibonacci</h3>
   </div>
   <div class="col-xl-4">
-    <h2>Olimpiadi di Informatica</h2>
+    <h3>Olimpiadi di Informatica</h3>
   </div>
   <div class="col-xl-4">
-    <h2>Olimpiadi a Squadre</h2>
+    <h3>Olimpiadi a Squadre</h3>
   </div>
 </div>
 <div class="p-3"></div>
 <div class="row text-center">
-  <h1 class="display-1 center">Allenati</h1>
+  <h1>Allenati</h1>
 </div>
 <div class="row">
   <div class="col-xl-4">
-    <h2><a href="https://scolastiche.olinfo.it">Scolastiche</a></h2>
+    <h3><a href="https://scolastiche.olinfo.it">Scolastiche</a></h3>
   </div>
   <div class="col-xl-4">
-    <h2><a href="https://territoriali.olinfo.it">Territoriali</a></h2>
+    <h3><a href="https://territoriali.olinfo.it">Territoriali</a></h3>
   </div>
   <div class="col-xl-4">
-    <h2><a href="https://training.olinfo.it">Nazionali</a></h2>
+    <h3><a href="https://training.olinfo.it">Nazionali</a></h3>
   </div>
 </div>
 <div class="p-3"></div>
 
 <div class="row text-center">
-  <h1 class="display-1 center">In evidenza</h1>
+  <h1>In evidenza</h1>
 </div>
 <div class="row">
   {% set highlight_counter = 0 %}
@@ -63,7 +63,7 @@
 
 {% set edition = config.extra.current_edition %}
 <div class="row text-center">
-  <h1 class="display-1 center" id="edition-{{edition}}">Edizione {{edition}}</h1>
+  <h1 id="edition-{{edition}}">Edizione {{edition}}</h1>
 </div>
 <div class="row">
   {% set edition_data = get_taxonomy_term(kind="edition", term=edition) %}
