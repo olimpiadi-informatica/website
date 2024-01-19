@@ -70,7 +70,7 @@
 <div class="row">
   {% set edition_data = get_taxonomy_term(kind="edition", term=edition) %}
   {% for page in edition_data.pages %}
-    <div class="col-xl-3 col-md-4 col-xs-6 highlight">
+    <div class="col-xl-3 col-md-4 col-sm-6 highlight">
       {% include "preview.html" %}
     </div>
   {% endfor %}
