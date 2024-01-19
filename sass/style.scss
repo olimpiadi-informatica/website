@@ -19,6 +19,7 @@ img {
 .content {
   text-align: justify;
   flex-grow: 1;
+  font-size: 1.3em;
 }
 
 .thumbnail {
@@ -27,13 +28,28 @@ img {
   vertical-align: middle;
 }
 
+.post-preview {
+  width: 100%;
+  text-align: center;
+}
+
 .fake-thumbnail {
   border: var(--bs-border-width) solid $faint-color;
   border-radius: var(--bs-border-radius);
+  max-height: 100%;
+  max-width: 75vw;
+  width: 100%;
+  aspect-ratio: 8/5;
 }
 
 .thumbnail img {
   max-height: 100%;
+  width: min(75vw, 100%);
+}
+
+.page-thumbnail {
+  max-width: 75%;
+  max-height: 50vh;
 }
 
 .collaborators img {

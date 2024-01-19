@@ -26,7 +26,9 @@
 <h5>{{d}}<span class="text-body text-opacity-50">, aggiornato il {{u}}</span></h5>
 {% endif %}
 {% if page.extra.thumbnail %}
-<img src="{{page.extra.thumbnail}}" class="mx-auto d-block img-fluid" />
+<img src="{{page.extra.thumbnail}}" class="mx-auto d-block img-fluid page-thumbnail" />
+<div class="p-2"></div>
 {% endif %}
 {{ page.content | safe }}
+<div class="p-2"></div>
 {% endblock content %}
