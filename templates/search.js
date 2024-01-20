@@ -2,7 +2,7 @@ async function loadLunr() {
   for (const url of ["elasticlunr.min.js", "lunr.stemmer.support.js", "lunr.it.js"]) {
     const script = document.createElement("script");
     script.type = "text/javascript";
-    script.src = url;
+    script.src = "/" + url;
     await new Promise((resolve) => {
       script.onload = resolve;
       document.body.appendChild(script);
