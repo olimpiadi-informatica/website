@@ -3,15 +3,19 @@ draft = false
 title = "Probabili Olimpici 2023"
 date = "2022-10-25T10:18:29"
 updated = "2023-07-14T10:41:18"
+description = "stage probabili olimpici PO 2023"
 
 [taxonomies]
-contest = [ "stage",]
-edition = [ "2021-2022",]
+contest = ["stage"]
+edition = ["2021-2022"]
 
 [extra]
 thumbnail = "/images/uploads/7be335477876db854960134c6e137164.jpg"
 override_updated = "2023-07-14T10:41:18"
 +++
+EDIT A CASO
+
+
 
 L'elenco degli atleti così soprannominati "Probabili Olimpici 2023" è stato deliberato alla conclusione della gara nazionale del 23 settembre 2022.
 
@@ -69,7 +73,7 @@ Vercellesi Francesco
 
 Zamuner Riccardo
 
-**ALLENAMENTO **RESIDENZIALE**(seconda fase) **
+**ALLENAMENTO** RESIDENZIALE**(seconda fase)** 
 
 La seconda fase si è svolta presso il SIAF di Volterra dal 2 al 5 aprile 2023 sotto l'attenta supervisione del Prof. Luigi Laura dell'Università Uninettuno.
 
