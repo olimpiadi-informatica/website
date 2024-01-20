@@ -1,38 +1,38 @@
 <div class="container-fluid bg-dark footer">
   <div class="p-3"></div>
-  <div class="container text-secondary">
+  <div class="container text-light">
     <div class="row">
       <div class="col-lg-3">
         <p>
           Laura Silva<br/>
           (AICA)<br/>
           02 76455042<br/>
-          <a href="mailto:info@olimpiadi-informatica.it" class="link-secondary">info@olimpiadi-informatica.it</a>
+          <a href="mailto:info@olimpiadi-informatica.it" class="link-light">info@olimpiadi-informatica.it</a>
         </p>
       </div>
       <div class="col-lg-3">
         {% set page = get_page(path="fixed/stampa.md") %}
-        <p><a href="{{page.path}}" class="link-secondary">Rassegna stampa</a></p>
+        <p><a href="{{page.path}}" class="link-light">Rassegna stampa</a></p>
         {% set page = get_page(path="fixed/storia-oii.md") %}
-        <p><a href="{{page.path}}" class="link-secondary">Storia delle OII</a></p>
+        <p><a href="{{page.path}}" class="link-light">Storia delle OII</a></p>
         {% set page = get_page(path="fixed/organizzazione.md") %}
-        <p><a href="{{page.path}}" class="link-secondary">Organizzazione</a></p>
+        <p><a href="{{page.path}}" class="link-light">Organizzazione</a></p>
         {% set page = get_page(path="fixed/collaborazioni.md") %}
-        <p><a href="{{page.path}}" class="link-secondary">Collaborazioni con università</a></p>
+        <p><a href="{{page.path}}" class="link-light">Collaborazioni con università</a></p>
         {% set term = get_taxonomy_term(kind="contest", term="digit") %}
-        <p><a href="{{term.path}}" class="link-secondary">Corso competenze digitali</a></p>
+        <p><a href="{{term.path}}" class="link-light">Corso competenze digitali</a></p>
       </div>
       <div class="col-lg-6 collaborators">
-        <h4>Collaborazioni</h4>
+        <h5>Collaborazioni</h5>
         {% set size = 150 %}
         {% set scaled = resize_image(path="/logos/Hackersgen.jpg", width=size, height=size, op="fit") %}
-        <a href="https://www.hackersgen.com/" class="link-secondary"><img src="{{scaled.url}}" /></a>
+        <a href="https://www.hackersgen.com/" class="link-light"><img src="{{scaled.url}}" alt="logo Hackersgen" /></a>
         {% set scaled = resize_image(path="/logos/bending-spoons.png", width=size, height=size, op="fit") %}
-        <a href="https://bendingspoons.com/" class="link-secondary"><img src="{{scaled.url}}" /></a>
+        <a href="https://bendingspoons.com/" class="link-light"><img src="{{scaled.url}}" alt="logo Bending Spoons" /></a>
         {% set scaled = resize_image(path="/logos/SORINT.png", width=size, height=size, op="fit") %}
-        <a href="https://www.sorint.com/" class="link-secondary"><img src="{{scaled.url}}" /></a>
+        <a href="https://www.sorint.com/" class="link-light"><img src="{{scaled.url}}" alt="logo Sorint" /></a>
         {% set scaled = resize_image(path="/logos/Huawei.jpg", width=size, height=size, op="fit") %}
-        <a href="https://www.huawei.com/en/corporate-information" class="link-secondary"><img src="{{scaled.url}}" /></a>
+        <a href="https://www.huawei.com/en/corporate-information" class="link-light"><img src="{{scaled.url}}" alt="logo Huawei" /></a>
       </div>
     </div>
   </div>

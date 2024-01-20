@@ -1,4 +1,5 @@
 {% for page in page_list %}
+<div class="row">
   {% if loop.index != 1 %}
   <hr>
   {% endif %}
@@ -10,15 +11,20 @@
   {% endif %}
 
   {% if page.summary %}
+  <div>
   {{ page.summary | safe }}
+  </div>
   <a href="{{ page.permalink | safe }}#continue-reading">Leggi tutto</a>
   {% else %}
   {% if page.content | length < 1000 %}
+  <div>
   {{ page.content | safe }}
+  </div>
   {% else %}
   <a href="{{ page.permalink | safe }}">Leggi tutto</a>
   {% endif %}
   {% endif %}
-  <div class="p-2"></div>
+</div>
+<div class="p-2"></div>
 {% endfor %}
 

@@ -6,7 +6,7 @@
 </div>
 <div class="row">
   <div class="col-xl-4">
-    <img src="/logos/oii.png" />
+    <img src="/logos/oii.png" alt="logo Olimpiadi"/>
   </div>
   <div class="col-xl-8 lead">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -67,10 +67,8 @@
 <div class="row text-center">
   <h1 id="edition-{{edition}}">Edizione {{edition}}</h1>
 </div>
-<div class="row">
-  {% set edition_data = get_taxonomy_term(kind="edition", term=edition) %}
-  {% set page_list = edition_data.pages %}
-  {% include "post_list.html" %}
-</div>
+{% set edition_data = get_taxonomy_term(kind="edition", term=edition) %}
+{% set page_list = edition_data.pages %}
+{% include "post_list.html" %}
 
 {% endblock content %}
