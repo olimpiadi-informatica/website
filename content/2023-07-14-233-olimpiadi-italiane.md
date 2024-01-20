@@ -6,18 +6,16 @@ updated = "2023-10-28T09:28:34"
 description = "gara nazionale olimpiadi 2023"
 
 [taxonomies]
-contest = [ "national",]
-edition = [ "2022-2023",]
+contest = ["national"]
+edition = ["2022-2023"]
 
 [extra]
 thumbnail = "/images/uploads/8e5f062e9750688c028aaa3058da9ec4.jpg"
 override_updated = "2023-10-28T09:28:34"
 highlighted = true
 +++
-
-Pubblicata la classifica della finale nazionale 2023 che si è svolta a Bergamo dal 12 al 14 ottobre….
-
 La XXIII edizione delle Olimpiadi Italiane di Informatica si è svolta dal 12 al 14 ottobre presso l’ITI Paleocapa di Bergamo, città che divide con Brescia il titolo di Capitale della Cultura 2023.
+<!-- more -->
 
 A seguito della selezione territoriale del 18 aprile 2023 e della successiva selezione AlgoBadge conclusasi il 3 luglio 2023 sono stati ammessi alla gara nazionale [105 atleti](/oldsite/233/105Ammessi_OII_2023_da_pubblicare_sito.xlsx) provenienti da tutta Italia accompagnati da 37 referenti territoriali.
 
