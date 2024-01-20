@@ -24,10 +24,15 @@
       </div>
       <div class="col-lg-6 collaborators">
         <h4>Collaborazioni</h4>
-        <a href="https://www.hackersgen.com/" class="link-secondary"><img src="/logos/Hackersgen.jpg" /></a>
-        <a href="https://bendingspoons.com/" class="link-secondary"><img src="/logos/bending-spoons.png" /></a>
-        <a href="https://www.sorint.com/" class="link-secondary"><img src="/logos/SORINT.png" /></a>
-        <a href="https://www.huawei.com/en/corporate-information" class="link-secondary"><img src="/logos/Huawei.jpg" /></a>
+        {% set size = 150 %}
+        {% set scaled = resize_image(path="/logos/Hackersgen.jpg", width=size, height=size, op="fit") %}
+        <a href="https://www.hackersgen.com/" class="link-secondary"><img src="{{scaled.url}}" /></a>
+        {% set scaled = resize_image(path="/logos/bending-spoons.png", width=size, height=size, op="fit") %}
+        <a href="https://bendingspoons.com/" class="link-secondary"><img src="{{scaled.url}}" /></a>
+        {% set scaled = resize_image(path="/logos/SORINT.png", width=size, height=size, op="fit") %}
+        <a href="https://www.sorint.com/" class="link-secondary"><img src="{{scaled.url}}" /></a>
+        {% set scaled = resize_image(path="/logos/Huawei.jpg", width=size, height=size, op="fit") %}
+        <a href="https://www.huawei.com/en/corporate-information" class="link-secondary"><img src="{{scaled.url}}" /></a>
       </div>
     </div>
   </div>
