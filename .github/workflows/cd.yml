@@ -20,6 +20,4 @@ jobs:
           script_stop: true
           script: |
             cd website
-            git checkout .
-            git pull
-            ./scripts/build.sh
+            ./scripts/update_and_deploy.sh
