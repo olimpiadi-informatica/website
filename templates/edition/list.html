@@ -23,11 +23,11 @@
     </h2>
     <div id="collapse{{edition}}" class="accordion-collapse collapse {%if expand%}show{%endif%}">
       <div class="accordion-body row">
+        <div class="list-group">
         {% for page in edition_data.pages %}
-          <div class="col-xl-3 col-md-4 col-sm-6 highlight">
-            {% include "preview.html" %}
-          </div>
+          <a href="{{ page.permalink | safe }}" class="list-group-item list-group-item-action" >{{ page.title }}</a>
         {% endfor %}
+        </div>
       </div>
     </div>
   </div>

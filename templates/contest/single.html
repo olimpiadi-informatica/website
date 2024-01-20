@@ -16,7 +16,9 @@
 
 <div class="row">
 {% for page in term.pages %}
+  {% if loop.index != 1 %}
   <hr>
+  {% endif %}
   <h1 class="title">
     <a href="{{ page.permalink | safe }}" class="link-secondary link-underline-opacity-0" >{{ page.title }}</a>
   </h1>
@@ -35,7 +37,6 @@
   {% endif %}
   {% endif %}
   <div class="p-2"></div>
-
 {% endfor %}
 </div>
 
