@@ -2,21 +2,15 @@
 
 {% block content %}
 
-{% if term.name == 'school' %}
-{% include "school.html" %}
-{% endif %}
-{% if term.name == 'regional' %}
-{% include "regional.html" %}
-{% endif %}
-{% if term.name == 'national' %}
-{% include "national.html" %}
-{% endif %}
-{% if term.name == 'stage' %}
-{% include "stage.html" %}
-{% endif %}
-{% if term.name == 'international' %}
-{% include "international.html" %}
-{% endif %}
+{% set path = ["fixed/", term.name, ".md"] | join %}
+{% set page = get_page(path=path) %}
+
+<div class="row">
+  <h1>{{page.title | safe }}</h1>
+</div>
+<div class="row lead">
+  {{page.content | safe }}
+</div>
 
 <div class="p-3"></div>
 

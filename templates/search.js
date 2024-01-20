@@ -28,6 +28,7 @@ async function search() {
   if (val === "") return;
   const results = index.search(val, {fields: {title: {boost: 3}, body: {boost: 1}, description: {boost: 2}}});
   searchResults.style.display = "block";
+  console.log(results);
   searchResults.innerHTML = "";
   if (results.length === 0) {
     const div = document.createElement("div");
@@ -41,9 +42,13 @@ async function search() {
   for (let i = 0; i < Math.min(results.length, maxResults); i++) {
     const li = document.createElement("li");
     // TODO: consider adding a summary of the article / first few words (results[i].doc.body).
+    let ref = results[i].ref;
+    if (ref in specialURIs) {
+      ref = specialURIs[ref];
+    }
     li.innerHTML = [
       `<div class="search-result-item">`,
-      `<a class="link-secondary link-underline-opacity-0" href=${results[i].ref}><h3>${results[i].doc.title}</h3></a>`,
+      `<a class="link-secondary link-underline-opacity-0" href=${ref}><h3>${results[i].doc.title}</h3></a>`,
       `</div>`
     ].join("");
     searchResultsList.appendChild(li);
