@@ -16,6 +16,8 @@ taxonomies = [
 
 [search]
 index_format = "elasticlunr_json"
+include_path = true
+include_description = true
 
 [markdown]
 # Whether to do syntax highlighting

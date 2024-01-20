@@ -26,7 +26,7 @@ async function search() {
   }
   const val = document.getElementById("searchbar").value;
   if (val === "") return;
-  const results = index.search(val, {});
+  const results = index.search(val, {fields: {title: {boost: 3}, body: {boost: 1}, description: {boost: 2}}});
   searchResults.style.display = "block";
   searchResults.innerHTML = "";
   if (results.length === 0) {

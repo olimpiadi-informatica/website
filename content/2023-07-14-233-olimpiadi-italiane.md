@@ -3,6 +3,7 @@ draft = false
 title = "Olimpiadi italiane 2023"
 date = "2023-07-14T10:06:15"
 updated = "2023-10-28T09:28:34"
+description = "gara nazionale olimpiadi 2023"
 
 [taxonomies]
 contest = [ "national",]
