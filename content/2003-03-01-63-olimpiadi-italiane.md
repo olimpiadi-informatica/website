@@ -85,7 +85,7 @@ Risultano ammessi alla selezione:
 
 Probabili Olimpici  2003
 
-|           |          |     |                 |
+|           |          |     |                 |                         |            |
 | :-------: | :------: | :-: | :-------------: | ----------------------- | ---------- |
 |  Bergia   |  Andrea  | ITI |   G. Vallauri   | Fossano (CN)            | 04/12/1985 |
 |   Pasta   |  Nicola  | ITI |    Majorana     | Seriate (BG)            | 08/01/1985 |
@@ -103,7 +103,7 @@ Primi per sede regionale
 
 </div>
 
-|      |             |             |     |                                  |                          |
+|      |             |             |     |                                  |                          |            |     |
 | :--: | :---------: | :---------: | :-: | :------------------------------: | :----------------------: | ---------- | --- |
 | ABR  |   Melodia   | Piergiorgio | ITI |            E. Mattei             |        Vasto (CH)        | 12/04/1986 | 24  |
 | CAL  |  Selvaggi   |    Ivano    | ITI |             Rossano              |       Rossano (CS)       | 27/01/1985 | 49  |
@@ -130,7 +130,7 @@ Primi per sede regionale
 
 Altri studenti ammessi
 
-|      |             |               |     |                                  |                           |
+|      |             |               |     |                                  |                           |            |     |
 | :--: | :---------: | :-----------: | :-: | :------------------------------: | :-----------------------: | ---------- | --- |
 | LOM1 |  Codecasa   |    Daniele    | ITI |         P. Hensemberger          |        Monza (MI)         | 26/12/1985 | 56  |
 | LOM1 |   Ornati    |     Paolo     | ITI |         E. Alessandrini          |    Abbiategrasso (MI)     | 27/11/1985 | 56  |

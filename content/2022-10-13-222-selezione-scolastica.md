@@ -13,6 +13,7 @@ override_updated = "2023-06-01T14:35:45"
 thumbnail = "/images/uploads/0d1fd34f22c9730e91eb5170fbddc114.jpg"
 +++
 **Venerdì 16 dicembre 2022, per la durata 90 minuti, si è svolta la gara di Selezione Scolastica della XXIII edizione.**
+<!-- more -->
 
 La prova consiste, come sempre, nella risoluzione di esercizi di carattere logico-matematico, algoritmico e di programmazione. I problemi di programmazione sono proposti in pseudocodice.
 
