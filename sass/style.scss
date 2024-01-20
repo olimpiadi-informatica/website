@@ -16,10 +16,22 @@ img {
   max-width: 100%;
 }
 
+img.logo {
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 0;
+  margin-bottom: 1vw;
+  vertical-align: middle;
+}
+
 .content {
   text-align: justify;
   flex-grow: 1;
   font-size: 1.3em;
+}
+
+.center {
+  text-align: center;
 }
 
 .thumbnail {
