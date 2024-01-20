@@ -16,19 +16,6 @@ let index = null;
 const maxResults = 20;
 
 const searchResults = document.getElementById("search-results");
-const searchResultsList = document.getElementById("search-results-list");
-
-const alertPlaceholder = document.getElementById('search-alert-placeholder')
-const appendAlert = (message, type) => {
-  const wrapper = document.createElement('div')
-  wrapper.innerHTML = [
-    `<div class="alert alert-${type} alert-dismissible" role="alert">`,
-    `   <div>${message}</div>`,
-    '   <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>',
-    '</div>'
-  ].join('')
-  alertPlaceholder.append(wrapper)
-}
 
 async function search() {
   await lunrLoaded;
@@ -40,15 +27,20 @@ async function search() {
   const val = document.getElementById("searchbar").value;
   if (val === "") return;
   const results = index.search(val, {});
+  searchResults.style.display = "block";
+  searchResults.innerHTML = "";
   if (results.length === 0) {
-    appendAlert(`Impossibile trovare ${val}`, "warning");
+    const div = document.createElement("div");
+    div.classList = ["alert alert-warning"];
+    div.innerHTML = `Nessun risultato per <b>${val}</b>`;
+    searchResults.appendChild(div);
     return;
   }
-  searchResults.style.display = "block";
-  searchResultsList.innerHTML = "";
+  const searchResultsList = document.createElement("ul");
+  searchResults.appendChild(searchResultsList);
   for (let i = 0; i < Math.min(results.length, maxResults); i++) {
     const li = document.createElement("li");
-    // TODO: consider adding a summary of the article.
+    // TODO: consider adding a summary of the article / first few words (results[i].doc.body).
     li.innerHTML = [
       `<div class="search-result-item">`,
       `<a class="link-secondary link-underline-opacity-0" href=${results[i].ref}><h3>${results[i].doc.title}</h3></a>`,

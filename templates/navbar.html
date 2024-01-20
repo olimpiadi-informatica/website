@@ -53,14 +53,11 @@
         <input class="form-control me-2" type="search" placeholder="Cerca" id="searchbar" aria-label="Search">
         <button class="btn btn-outline-success" type="submit">Cerca</button>
         <div id="search-results" style="display: none;" data-bs-theme="light">
-          <ul id="search-results-list">
-          </ul>
         </div> 
       </form>
     </div>
   </div>
 </nav>
-<div id="search-alert-placeholder"></div>
 <script type="text/javascript">
   {% set js = load_data(path="templates/search.js") %}
   {{ js | safe }}
