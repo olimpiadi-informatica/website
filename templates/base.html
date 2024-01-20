@@ -5,12 +5,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Olimpiadi Italiane di Informatica</title>
-  <link href="/bootstrap.min.css" rel="stylesheet">
-  <link href="/style.css" rel="stylesheet">
-  <script src="/bootstrap.bundle.min.js"></script>
-  <script src="/elasticlunr.min.js"></script>
-  <script src="/lunr.stemmer.support.js"></script>
-  <script src="/lunr.it.js"></script>
+  {% set bootstrap = load_data(path="static/bootstrap.min.css", format="plain") %}
+  {% set custom = load_data(path="public/style.css", format="plain") %}
+  <style>{{ bootstrap | safe }} {{ custom | safe }}</style>
+  {% set bootstrapjs = load_data(path="static/bootstrap.bundle.min.js", format="plain") %}
+  <script>{{ bootstrapjs | safe }}</script>
+  <script defer src="/elasticlunr.min.js"></script>
+  <script defer src="/lunr.stemmer.support.js"></script>
+  <script defer src="/lunr.it.js"></script>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-6V23LS02FL"></script>
   <script>
