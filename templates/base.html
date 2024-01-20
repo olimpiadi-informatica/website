@@ -4,6 +4,13 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description"
+  {% if page %}
+      content="Olimpiadi di Informatica - {{page.description}}"
+  {% else %}
+      content="Olimpiadi di Informatica"
+  {% endif %}
+  >
   <title>Olimpiadi Italiane di Informatica</title>
   {% set bootstrap = load_data(path="static/bootstrap.min.css", format="plain") %}
   {% set custom = load_data(path="public/style.css", format="plain") %}
