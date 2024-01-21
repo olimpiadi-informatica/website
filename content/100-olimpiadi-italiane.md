@@ -3,6 +3,7 @@ draft = false
 title = "Olimpiadi italiane 2009"
 date = 2009-10-27T12:55:52.000Z
 updated = "2016-10-20T13:19:54"
+description = "gara nazionale olimpiadi 2008-2009 verona"
 
 [taxonomies]
 contest = ["national"]
