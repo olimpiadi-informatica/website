@@ -3,10 +3,11 @@ draft = false
 title = "Selezione territoriale 2015-2016"
 date = "2015-09-03T22:00:00"
 updated = "2016-05-04T11:14:25"
+description = "selezione territoriale regionale 2015-2016 "
 
 [taxonomies]
-contest = [ "regional",]
-edition = [ "2015-2016",]
+contest = ["regional"]
+edition = ["2015-2016"]
 
 [extra]
 override_updated = "2016-05-04T11:14:25"
