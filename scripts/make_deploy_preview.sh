@@ -17,12 +17,16 @@ flock 100
 git checkout .
 git fetch origin "$SHA"
 git checkout "$SHA"
+git submodule init
+git submodule update --recursive
 
 ./scripts/updated_from_git.py
 ./scripts/download_gallery_images.py
 
+BASE_URL="https://$SHA.nightly.olimpiadi-informatica.it/"
+
 # There is no Zola packages for Ubuntu, build using the docker image
-docker run -u "$(id -u):$(id -g)" -v "$PWD:/app" --workdir /app ghcr.io/getzola/zola:v0.18.0 build
+docker run -u "$(id -u):$(id -g)" -v "$PWD:/app" --workdir /app ghcr.io/getzola/zola:v0.18.0 build -u $BASE_URL
 
 rm -rf "$DESTINATION"
 cp -rl public/ "$DESTINATION"
@@ -33,7 +37,7 @@ curl -L \
   -H "Authorization: Bearer $STATUS_TOKEN" \
   -H "X-GitHub-Api-Version: 2022-11-28" \
   https://api.github.com/repos/olimpiadi-informatica/website/statuses/$SHA \
-  -d "{\"state\":\"success\",\"target_url\":\"https://$SHA.nightly.olimpiadi-informatica.it/\",\"description\":\"The build succeeded!\",\"context\":\"deploy\"}"
+  -d "{\"state\":\"success\",\"target_url\":\"$BASE_URL\",\"description\":\"The build succeeded!\",\"context\":\"deploy\"}"
 
 
 echo "All done!"

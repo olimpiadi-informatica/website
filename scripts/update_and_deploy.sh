@@ -9,6 +9,8 @@ flock 100
 
 git checkout .
 git pull
+git submodule init
+git submodule update --recursive
 
 ./scripts/updated_from_git.py
 ./scripts/download_gallery_images.py
