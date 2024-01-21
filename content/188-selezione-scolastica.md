@@ -13,6 +13,7 @@ edition = ["2020-2021"]
 override_updated = "2021-04-30T15:43:31"
 +++
 **Martedì 23 febbraio 2021 si è svolta la gara di selezione scolastica della XXI edizione dalle ore 16:00 alle ore 17:30. La durata della prova è stata di 90 minuti.**
+<!-- more -->
 
 La prova consiste come sempre nella risoluzione di esercizi di carattere logico-matematico, algoritmico e di programmazione. I problemi di programmazione sono proposti in pseudocodice
 
