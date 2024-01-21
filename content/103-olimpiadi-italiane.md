@@ -1,12 +1,13 @@
 +++
 draft = false
 title = "Olimpiadi italiane 2016"
-date = 2016-09-20T20:00:00Z
+date = 2016-09-20T20:00:00.000Z
 updated = "2018-02-26T17:02:44"
+description = "gara nazionale finale 2015-2016 catania"
 
 [taxonomies]
-contest = [ "national",]
-edition = [ "2015-2016",]
+contest = ["national"]
+edition = ["2015-2016"]
 
 [extra]
 thumbnail = "/images/uploads/aaa036e4cb16038f90e128d8e39c714f.jpg"
