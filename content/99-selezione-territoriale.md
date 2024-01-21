@@ -1,12 +1,12 @@
 +++
 draft = false
 title = "Selezione territoriale 2008-2009"
-date = 2009-04-14T11:50:29Z
+date = 2009-04-14T11:50:29.000Z
 updated = "2016-10-20T13:24:01"
 
 [taxonomies]
-contest = [ "regional",]
-edition = [ "2008-2009",]
+contest = ["regional"]
+edition = ["2008-2009"]
 
 [extra]
 override_updated = "2016-10-20T13:24:01"
@@ -30,7 +30,7 @@ La selezione territoriale delle Olimpiadi di Informatica si è svolta il 2 april
 <div style="text-align: center;">
 
 </div>
-**1. Ammissione alla gara di selezione**
+\*\*1. Ammissione alla gara di selezione\*\*
 
 Per partecipare lo studente deve:
 
@@ -40,7 +40,7 @@ Per partecipare lo studente deve:
 
 • essere disponibile, qualora superi l’ultima selezione, a recarsi all’estero nel periodo della gara internazionale con gli accompagnatori designati.
 
-**_2. Caratteristiche della gara_**
+***2. Caratteristiche della gara***
 
 Obiettivo della gara è verificare le capacità dei partecipanti nel risolvere problemi mediante la scrittura di programmi secondo lo stile delle Olimpiadi Internazionali di Informatica. I problemi proposti sono simili a quelli proposti in sede internazionale, anche se mediamente più semplici.
 
@@ -126,7 +126,7 @@ Il sito Web delle Olimpiadi contiene le istruzioni su come reperire i compilator
 
 **7. Modalità di correzione ed assegnazione punteggi**
 
-Per la valutazione della gara ogni programma viene eseguito su un insieme di casi di prova e viene valutato il numero q di casi per i quali si ottiene il risultato atteso. Al programma vengono quindi assegnati q\*D punti (dove D è il coefficiente di difficoltà del problema).Il punteggio finale consiste nella somma dei punteggi ottenuti da ciascun programma.Lo stile di programmazione non ha alcun effetto sulla valutazione, così come il tempo necessario a risolvere ogni caso.
+Per la valutazione della gara ogni programma viene eseguito su un insieme di casi di prova e viene valutato il numero q di casi per i quali si ottiene il risultato atteso. Al programma vengono quindi assegnati q*D punti (dove D è il coefficiente di difficoltà del problema).Il punteggio finale consiste nella somma dei punteggi ottenuti da ciascun programma.Lo stile di programmazione non ha alcun effetto sulla valutazione, così come il tempo necessario a risolvere ogni caso.
 
 Contrariamente a quanto avveniva negli anni precedenti, non viene assegnato alcun punteggio per l’avvenuta compilazione.
 
@@ -154,7 +154,7 @@ Gennaio 2010
 
 ## Sedi
 
-| **Elenco delle Sedi Territoriali**<br/>
+\| **Elenco delle Sedi Territoriali**<br/>
 |:---: |
 | SEDE | PROVINCE <br/> ASSEGNATE | ISTITUTO | INDIRIZZO | COMUNE | PROV. | REFERENTE | E-MAIL REFERENTE |
 | ABR | AQ - CH - PE - TE | ITCG "G. Manthonè" | Via Tiburtina, 202 | Pescara | PE | Prof.ssa Rossana D'Ignazio | [digros@katamail.com](mailto:digros@katamail.com) |
@@ -200,15 +200,15 @@ Gennaio 2010
 
 Selezione regionale - Atleti ammessi
 
-|  [ABR](/oldsite/99/ABR.pdf)  |  [BAS](/oldsite/99/BAS.pdf)  |  [CAL](/oldsite/99/CAL.pdf)  | [CAM1](/oldsite/99/CAM1.pdf) | [CAM2](/oldsite/99/CAM2.pdf) |
-| :--------------------------: | :------------------------: | :------------------------: | :------------------------: | :------------------------: |
-| [EMI1](/oldsite/99/EMI1.pdf) | [EMI2](/oldsite/99/EMI2.pdf) | [EMI3](/oldsite/99/EMI3.pdf) | [EMI4](/oldsite/99/EMI4.pdf) |  [FRI](/oldsite/99/FRI.pdf)  |
-| [LAZ1](/oldsite/99/LAZ1.pdf) | [LAZ2](/oldsite/99/LAZ2.pdf) |  [LIG](/oldsite/99/LIG.pdf)  | [LOM1](/oldsite/99/LOM1.pdf) | [LOM2](/oldsite/99/LOM2.pdf) |
-| [LOM3](/oldsite/99/LOM3.pdf) | [LOM4](/oldsite/99/LOM4.pdf) |  [MAR](/oldsite/99/MAR.pdf)  |  [MOL](/oldsite/99/MOL.pdf)  | [PIE1](/oldsite/99/PIE1.pdf) |
+| [ABR](/oldsite/99/ABR.pdf)   | [BAS](/oldsite/99/BAS.pdf)   | [CAL](/oldsite/99/CAL.pdf)   | [CAM1](/oldsite/99/CAM1.pdf) | [CAM2](/oldsite/99/CAM2.pdf) |
+| ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- |
+| [EMI1](/oldsite/99/EMI1.pdf) | [EMI2](/oldsite/99/EMI2.pdf) | [EMI3](/oldsite/99/EMI3.pdf) | [EMI4](/oldsite/99/EMI4.pdf) | [FRI](/oldsite/99/FRI.pdf)   |
+| [LAZ1](/oldsite/99/LAZ1.pdf) | [LAZ2](/oldsite/99/LAZ2.pdf) | [LIG](/oldsite/99/LIG.pdf)   | [LOM1](/oldsite/99/LOM1.pdf) | [LOM2](/oldsite/99/LOM2.pdf) |
+| [LOM3](/oldsite/99/LOM3.pdf) | [LOM4](/oldsite/99/LOM4.pdf) | [MAR](/oldsite/99/MAR.pdf)   | [MOL](/oldsite/99/MOL.pdf)   | [PIE1](/oldsite/99/PIE1.pdf) |
 | [PIE2](/oldsite/99/PIE2.pdf) | [PUG1](/oldsite/99/PUG1.pdf) | [PUG2](/oldsite/99/PUG2.pdf) | [PUG3](/oldsite/99/PUG3.pdf) | [PUG4](/oldsite/99/PUG4.pdf) |
-|  [SAR](/oldsite/99/SAR.pdf)  | [SIC1](/oldsite/99/SIC1.pdf) | [SIC2](/oldsite/99/SIC2.pdf) | [SIC3](/oldsite/99/SIC3.pdf) | [TOS1](/oldsite/99/TOS1.pdf) |
-| [TOS2](/oldsite/99/TOS2.pdf) |  [TRE](/oldsite/99/TRE.pdf)  |  [UMB](/oldsite/99/UMB.pdf)  | [VEN1](/oldsite/99/VEN1.pdf) | [VEN2](/oldsite/99/VEN2.pdf) |
-| [VEN3](/oldsite/99/VEN3.pdf) | [VEN4](/oldsite/99/VEN4.pdf) | [VEN5](/oldsite/99/VEN5.pdf) |             -              |             -              |
+| [SAR](/oldsite/99/SAR.pdf)   | [SIC1](/oldsite/99/SIC1.pdf) | [SIC2](/oldsite/99/SIC2.pdf) | [SIC3](/oldsite/99/SIC3.pdf) | [TOS1](/oldsite/99/TOS1.pdf) |
+| [TOS2](/oldsite/99/TOS2.pdf) | [TRE](/oldsite/99/TRE.pdf)   | [UMB](/oldsite/99/UMB.pdf)   | [VEN1](/oldsite/99/VEN1.pdf) | [VEN2](/oldsite/99/VEN2.pdf) |
+| [VEN3](/oldsite/99/VEN3.pdf) | [VEN4](/oldsite/99/VEN4.pdf) | [VEN5](/oldsite/99/VEN5.pdf) | \-                           | \-                           |
 
 ## Prove assegnate
 
@@ -226,5 +226,5 @@ Prove assegnate alla Selezione Territoriale del 02.04.2009
 
 In questa pagina sono segnalate le iniziative di formazione organizzate a livello territoriale.
 
-- 22 maggio 2010 - ITIS B. Castelli, Brescia:  [Algoritmi in Festa](http://81.208.32.83:8080/ioi/files/algoritmi%20in%20festa.pdf) ([Locandina](http://81.208.32.83:8080/ioi/files/Locandina_bugatti.pdf))
-- 22 maggio 2010 - Liceo Scient. E. Fermi, Bologna:  [Olimpiadi di Informatica a Squadre 2010/2011 - I Edizione](http://81.208.32.83:8080/ioi/files/Rel__Prof__Carletto-Gare_reg_Emilia.pdf)
+* 22 maggio 2010 - ITIS B. Castelli, Brescia:  [Algoritmi in Festa](http://81.208.32.83:8080/ioi/files/algoritmi%20in%20festa.pdf) ([Locandina](http://81.208.32.83:8080/ioi/files/Locandina_bugatti.pdf))
+* 22 maggio 2010 - Liceo Scient. E. Fermi, Bologna:  [Olimpiadi di Informatica a Squadre 2010/2011 - I Edizione](http://81.208.32.83:8080/ioi/files/Rel__Prof__Carletto-Gare_reg_Emilia.pdf)
