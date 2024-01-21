@@ -1,12 +1,13 @@
 +++
 draft = false
 title = "Olimpiadi italiane 2010"
-date = 2010-10-20T11:55:52Z
+date = 2010-10-20T11:55:52.000Z
 updated = "2017-01-09T09:35:56"
+description = "gara nazionale finale 2009-2010 sirmione"
 
 [taxonomies]
-contest = [ "national",]
-edition = [ "2009-2010",]
+contest = ["national"]
+edition = ["2009-2010"]
 
 [extra]
 override_updated = "2017-01-09T09:35:56"
