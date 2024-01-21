@@ -69,7 +69,7 @@ Vercellesi Francesco
 
 Zamuner Riccardo
 
-**ALLENAMENTO** RESIDENZIALE**(seconda fase)** 
+**ALLENAMENTO RESIDENZIALE (seconda fase)** 
 
 La seconda fase si è svolta presso il SIAF di Volterra dal 2 al 5 aprile 2023 sotto l'attenta supervisione del Prof. Luigi Laura dell'Università Uninettuno.
 
