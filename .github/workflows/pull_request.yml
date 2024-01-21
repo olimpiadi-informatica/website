@@ -20,4 +20,4 @@ jobs:
           script_stop: true
           script: |
             cd ~/static-websites/nightly.olimpiadi-informatica.it/website
-            ./scripts/make_deploy_preview.sh ${{ github.sha }} ../builds/${{ github.sha }} ${{ secrets.STATUS_ACCESS_TOKEN }}
+            ./scripts/make_deploy_preview.sh ${{ github.ref }} ../builds/ ${{ secrets.STATUS_ACCESS_TOKEN }}

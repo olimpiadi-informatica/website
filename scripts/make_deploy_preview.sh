@@ -2,23 +2,26 @@
 
 set -xe
 
-SHA="$1"
-DESTINATION=$(realpath "$2")
+REF="$1"
+BASE_DESTINATION=$(realpath "$2")
 STATUS_TOKEN="$3"
 
 cd "$(realpath "$(dirname "$0")/..")"
 
-[ -z "$STATUS_TOKEN" ] && echo "Usage: $0 SHA DESTINATION STATUS_TOKEN"
+[ -z "$STATUS_TOKEN" ] && echo "Usage: $0 REF DESTINATION STATUS_TOKEN"
 [ -z "$STATUS_TOKEN" ] && exit 1
 
 exec 100>/tmp/website_preview.lock
 flock 100
 
 git checkout .
-git fetch origin "$SHA"
+git fetch origin "$REF"
+SHA=$(git show-ref -s "$REF")
 git checkout "$SHA"
 git submodule init
 git submodule update --recursive
+
+DESTINATION="$BASE_DESTINATION/$SHA"
 
 ./scripts/updated_from_git.py
 ./scripts/download_gallery_images.py
