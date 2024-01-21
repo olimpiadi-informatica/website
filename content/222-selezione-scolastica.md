@@ -25,7 +25,7 @@ Come da regolamento, sono stati finora ammessi alla selezione territoriale tutti
 
 2. Essere il **secondo studente nella graduatoria** di ogni Istituto Scolastico il cui punteggio **sia superiore alla media nazionale 23.75,** ovvero di **almeno 24 punti**.
 
-3. Aver riportato un punteggio**uguale o superiore a 39 punti.**
+3. Aver riportato un punteggio **uguale o superiore a 39 punti.**
 
 **Pertanto il totale degli studenti finora ammessi alla fase Territoriale ammonta a 1805.<br/>**
 
@@ -39,4 +39,4 @@ Gli studenti non selezionati **potranno invece essere ripescati** e diventare 
 
 A seguito della selezione pre-territoriale, risultano ammessi ulteriori 84 studenti ([link alla classifica](/oldsite/222/ranking-preterritoriale-2-5-marzo-2023.xlsx))
 
-É possibile consultare i quesiti e le soluzioni di gara al link[https://scolastiche.olinfo.it](https://scolastiche.olinfo.it)
+É possibile consultare i quesiti e le soluzioni di gara al link [https://scolastiche.olinfo.it](https://scolastiche.olinfo.it)
