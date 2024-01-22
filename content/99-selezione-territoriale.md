@@ -11,9 +11,13 @@ edition = ["2008-2009"]
 [extra]
 override_updated = "2016-10-20T13:24:01"
 +++
-La selezione territoriale delle Olimpiadi di Informatica si è svolta il 2 aprile 2009.
+La selezione territoriale delle Olimpiadi di Informatica si è svolta il 2 aprile 2009. Sono ammessi alla fase successiva 82 studenti provenienti da tutta Italia.
+
+<!—more—>
 
 ## Regolamento
+
+<div style="text-align: center;">
 
 **INTERNATIONAL OLYMPIAD IN INFORMATICS**
 
@@ -23,14 +27,10 @@ La selezione territoriale delle Olimpiadi di Informatica si è svolta il 2 april
 
 **(IOI 2011)**
 
-<div style="text-align: center;">
-
 </div>
 
-<div style="text-align: center;">
 
-</div>
-\*\*1. Ammissione alla gara di selezione\*\*
+***1. Ammissione alla gara di selezione***
 
 Per partecipare lo studente deve:
 
@@ -66,15 +66,15 @@ I problemi devono essere risolti tramite programmi scritti in linguaggio C/C++ o
 
 I programmi devono obbligatoriamente leggere i dati in ingresso da un file di input di nome assegnato e produrre i risultati su un file di output di nome assegnato. In particolare, questi file vanno aperti in C/C++ con le istruzioni:
 
-fr = fopen ( “input.txt”, “r”) ;
+`fr = fopen ( “input.txt”, “r”) ;`
 
-fw = fopen ( “output.txt”, “w”) ;
+`fw = fopen ( “output.txt”, “w”) ;`
 
 e in Pascal con le istruzioni
 
-assign ( fr, ‘input.txt’ ) ; reset ( fr ) ;
+`assign ( fr, ‘input.txt’ ) ; reset ( fr ) ;`
 
-assign (fw, ‘output.txt ‘) ; rewrite ( fw ) ;
+`assign (fw, ‘output.txt ‘) ; rewrite ( fw ) ;`
 
 Il nome del file che contiene il programma deve essere esattamente il nome breve riportato nel testo del problema.
 
@@ -90,7 +90,7 @@ I partecipanti possono scegliere quali problemi risolvere e in quale ordine.
 
 **5. Modalità di gara**
 
-a)Per Sede Territoriale s’intende la scuola ove si effettua la prova di selezione. In funzione del numero dei partecipanti, alcune regioni hanno più sedi ed altre sono accorpate.
+a) Per Sede Territoriale s’intende la scuola ove si effettua la prova di selezione. In funzione del numero dei partecipanti, alcune regioni hanno più sedi ed altre sono accorpate.
 
 b) La selezione ha inizio per tutte le Sedi Territoriali alle ore 13.30 del 14 aprile 2010
 
@@ -154,47 +154,47 @@ Gennaio 2010
 
 ## Sedi
 
-\| **Elenco delle Sedi Territoriali**<br/>
-|:---: |
-| SEDE | PROVINCE <br/> ASSEGNATE | ISTITUTO | INDIRIZZO | COMUNE | PROV. | REFERENTE | E-MAIL REFERENTE |
-| ABR | AQ - CH - PE - TE | ITCG "G. Manthonè" | Via Tiburtina, 202 | Pescara | PE | Prof.ssa Rossana D'Ignazio | [digros@katamail.com](mailto:digros@katamail.com) |
-| BAS | MT - PZ | L.S. "Federico II di Svevia" | Via Verdi, 1 | Melfi | PZ | Prof.ssa Teresa Caruso | [teresa.caruso@istruzione.it](mailto:teresa.caruso@istruzione.it) |
-| CAL | CS - CZ - RC | ITIS "A. Panella" | Via Emilio Cuzzocrea, 22 | Reggio Calabria | RC | Prof. Saverio Spinelli | [savspi@libero.it](mailto:savspi@libero.it) |
-| CAM1 | BN-CE-NA | ITI "G. Ferraris" | Via A. Labriola, Lotto 2G | Napoli | NA | Prof. Gaetano Calandrelli | [calandrelli@infinito.it](mailto:calandrelli@infinito.it) |
-| CAM2 | AV-SA | ITI "B. Focaccia" | Via Monticelli, 1 | Salerno | SA | Prof. Agostino Clavelli | [agostino.clavelli@istruzione.it](mailto:agostino.clavelli@istruzione.it) |
-| EMI1 | BO-FE | L.S "Enrico Fermi" | Via Mazzini, 172/2 | Bologna | BO | Prof.ssa Giorgeliana Carletto | [gcarletto@email.it](mailto:gcarletto@email.it) |
-| EMI2 | FC-RN-RA | ITIS "Blaise Pascal" | Piazzale Cino Macrelli, 100 | Cesena | FC | Prof.ssa Vanna Zabberoni | [vanna.zabberoni@itis-cesena.it](mailto:vanna.zabberoni@itis-cesena.it) |
-| EMI3 | MO-RE | I.T.G. "Blaise Pascal" | Via Makallé, 12 | Reggio Emilia | RE | Prof.ssa Annamaria Culzoni | [mariaculzoni@libero.it](mailto:mariaculzoni@libero.it) |
-| EMI4 | PR-PC | L.S. "Marconi" | Via Costituente, 2 | Parma | PR | Prof.ssa Maria Botta | [maria_botta@libero.it](mailto:maria_botta@libero.it) |
-| FRI | GO - PN - TS - UD | ITI "Arturo Malignani" | Viale Leonardo da Vinci, 10 | Udine | UD | Prof. Giuseppe Nobile | [nobile@malignani.ud.it](mailto:nobile@malignani.ud.it) |
-| LAZ1 | RM Città | ITC "Federico Caffè" | Via di Villa Pamphili | Roma | RM | Prof. Aldo Capretti | [aldcpr@tin.it](mailto:aldcpr@tin.it) |
-| LAZ2 | FR-LT-RI-VT<br/> RM prov | ITIS "Galileo Galilei" | Via Conte Verde, 51 | Roma | RM | Prof. Antonio Mastacchi | [a.mastacchi@tin.it](mailto:a.mastacchi@tin.it) |
-| LIG | GE - IM - SP - SV | ITC "Carlo Rosselli" | Via Giotto, 10 | Genova | GE | Prof.ssa Genzianella Foresti | [geforest@tin.it](mailto:geforest@tin.it) |
-| LOM1 | LO-PV<br/> MI (no Castano, Rho e Legnano | IIS "Enrico Mattei" | Via Martiri di Cefalonia, 46 | San DonatoMilanese | MI | Prof. Luca Mazzei | [lmazzei@libero.it](mailto:lmazzei@libero.it) |
-| LOM2 | CO-VA-MI <br/> (solo Castano, Rho e Legnano) | ITC "Enrico Tosi" | Viale Stelvio, 173 | Busto Arsizio | VA | Prof.ssa Silvia Tondo | [silvia.tondo@itctosi.va.it](mailto:silvia.tondo@itctosi.va.it) |
-| LOM3 | BG-LC-SO | ITI "P. Paleocapa" | Via M. Gavazzeni, 29 | Bergamo | BG | Prof.ssa Antonella Gualteroni | [antgua@yahoo.com](mailto:antgua@yahoo.com) |
-| LOM4 | BS - CR - MN | ITIS "Benedetto Castelli" | Via A. Cantore, 9 | Brescia | BS | Prof. Alessandro Bugatti | [alessandro.bugatti@istruzione.it](mailto:alessandro.bugatti@istruzione.it) |
-| MAR | AN - AP - MC - PU | ITI "V. Volterra" | Via Esino, 36 | Ancona | AN | Prof. Bruno Nossa | [prb.nossa@itis.an.it](mailto:prb.nossa@itis.an.it) |
-| MOL | CB - IS | L.S. "E. Majorana" | C.so Risorgimento | Isernia | IS | Prof. Stefano Sferra | [s.sferra@tiscali.it](mailto:s.sferra@tiscali.it) |
-| PIE1 | AL-AT-CN-TO | IIS "Baldessano-Roccati" | Viale Garibaldi, 7 | Carmagnola | TO | Prof. Giovanni Spadafora | [giovanni.spadafora@istruzione.it](mailto:giovanni.spadafora@istruzione.it) |
-| PIE2 | BI-NO-VB-VC | ITIS "Quintino Sella" | Via Fratelli Rosselli, 2 | Biella | BI | Prof. Sandro Landorno | [slandorno@itis.biella.it](mailto:slandorno@itis.biella.it) |
-| PUG1 | BA | ITCS "D. Romanazzi" | Via Celso Ulpiani, 6A | Bari | BA | Prof. Antonio De Carne | [antonio.decarne@istruzione.it](mailto:antonio.decarne@istruzione.it) |
-| PUG2 | BR-TA | LS "Oria" | Via Ada Negri, 1 | Oria | BR | Prof. Carmelo Padula | [carmepadula@libero.it](mailto:carmepadula@libero.it) |
-| PUG3 | FG | ITC "Blaise Pascal" | Via Napoli Km. 0,7 | Foggia | FG | Prof. Lucio Antonio Tortorella | [lucioantonio.tortorella@istruzione.it](mailto:lucioantonio.tortorella@istruzione.it) |
-| PUG4 | LE | ITI "Enrico Mattei" | Via Nicola Ferramosca, 82 | Maglie | LE | Prof. Nunzio Galati | [nunzio.galati@istruzione.it](mailto:nunzio.galati@istruzione.it) |
-| SAR | CA - NU - OR - SS | ITIS "Michele Giua" | Via Montecassino | Cagliari | CA | Prof.ssa Grazia Chiuchiolo | [grazia.chiuchiolo@tiscali.it](mailto:grazia.chiuchiolo@tiscali.it) |
-| SIC1 | CL-EN-RG-SR | ITI "E. Fermi" | Via Torino 137 | Siracusa | SR | Prof. Luciano Santo | [sanluciano@tin.it](mailto:sanluciano@tin.it) |
-| SIC2 | AG-ME-PA-TP | ITI "Vittorio Emanuele III" | Via Duca della Verdura, 48 | Palermo | PA | Prof. Salvatore Truncali | [truncali.s@libero.it](mailto:truncali.s@libero.it) |
-| SIC3 | CT | ITI "Cannizzaro" | Via Carlo Pisacane, 1 | Catania | CT | Prof.ssa Cettina Allegra | [cettina.allegra@tin.it](mailto:cettina.allegra@tin.it) |
-| TOS1 | AR-FI-PO-PT-SI | ITI "Antonio Meucci" | Via del Filarete, 17 | Firenze | FI | Prof. Stefano Bernardi | [s.bernardi@tin.it](mailto:s.bernardi@tin.it) |
-| TOS2 | GR-LI-LU-MS-PI | ITI "Galileo Galilei" | Via Galilei, 68 | Livorno | LI | Prof. Salvatore Speranza | [salvatoresperanza@alice.it](mailto:salvatoresperanza@alice.it) |
-| TRE | BZ - TN | L.S. "G. Galilei" | Viale Bolognini, 88 | Trento | TN | Prof.ssa Gabriella Armani | [gabarm57@hotmail.com](mailto:gabarm57@hotmail.com) |
-| UMB | PG - TR | LS "R. Donatelli" | Via della Vittoria, 35 | Terni | TR | Prof.ssa Mara Massarucci | [maramas@alice.it](mailto:maramas@alice.it) |
-| VEN1 | VE | ITI "Carlo Zuccante" | Via Baglioni, 22 | Venezia | VE | Prof. Carlo Salvagno | [c_salvagno@tin.it](mailto:c_salvagno@tin.it) |
-| VEN2 | VR | ITI "Guglielmo Marconi" | Piazzale R. Guardini, 1 | Verona | VR | Prof. Lorenzo De Carli | [ldecarli@marconivr.it](mailto:ldecarli@marconivr.it) |
-| VEN3 | VI | LS "Tron" | Via Luzio, 4 | Schio | VI | Prof. Angelo Franco Catena | [angelo.catena@tron.vi.it](mailto:angelo.catena@tron.vi.it) |
-| VEN4 | BL-TV | IIS "Luigi Einaudi" | Via J. Sansovino, 6 | Montebelluna | TV | Prof.ssa Monica Bertuola | [monica.bertuola@istruzione.it](mailto:monica.bertuola@istruzione.it) |
-| VEN5 | PD-RO | ITIS "Francesco Severi" | Via Pettinati, 46 | Padova | PD | Prof.ssa Maria Meneghini | [maria.meneghini@istruzione.it](mailto:maria.meneghini@istruzione.it) | | | |
+| \| **Elenco delle Sedi Territoriali**<br/> |                                              |                              |                              |                    |       |                                |                                                                                       |     |     |     |
+| ------------------------------------------ | -------------------------------------------- | ---------------------------- | ---------------------------- | ------------------ | ----- | ------------------------------ | ------------------------------------------------------------------------------------- | --- | --- | --- |
+| SEDE                                       | PROVINCE <br/> ASSEGNATE                     | ISTITUTO                     | INDIRIZZO                    | COMUNE             | PROV. | REFERENTE                      | E-MAIL REFERENTE                                                                      |     |     |     |
+| ABR                                        | AQ - CH - PE - TE                            | ITCG "G. Manthonè"           | Via Tiburtina, 202           | Pescara            | PE    | Prof.ssa Rossana D'Ignazio     | [digros@katamail.com](mailto:digros@katamail.com)                                     |     |     |     |
+| BAS                                        | MT - PZ                                      | L.S. "Federico II di Svevia" | Via Verdi, 1                 | Melfi              | PZ    | Prof.ssa Teresa Caruso         | [teresa.caruso@istruzione.it](mailto:teresa.caruso@istruzione.it)                     |     |     |     |
+| CAL                                        | CS - CZ - RC                                 | ITIS "A. Panella"            | Via Emilio Cuzzocrea, 22     | Reggio Calabria    | RC    | Prof. Saverio Spinelli         | [savspi@libero.it](mailto:savspi@libero.it)                                           |     |     |     |
+| CAM1                                       | BN-CE-NA                                     | ITI "G. Ferraris"            | Via A. Labriola, Lotto 2G    | Napoli             | NA    | Prof. Gaetano Calandrelli      | [calandrelli@infinito.it](mailto:calandrelli@infinito.it)                             |     |     |     |
+| CAM2                                       | AV-SA                                        | ITI "B. Focaccia"            | Via Monticelli, 1            | Salerno            | SA    | Prof. Agostino Clavelli        | [agostino.clavelli@istruzione.it](mailto:agostino.clavelli@istruzione.it)             |     |     |     |
+| EMI1                                       | BO-FE                                        | L.S "Enrico Fermi"           | Via Mazzini, 172/2           | Bologna            | BO    | Prof.ssa Giorgeliana Carletto  | [gcarletto@email.it](mailto:gcarletto@email.it)                                       |     |     |     |
+| EMI2                                       | FC-RN-RA                                     | ITIS "Blaise Pascal"         | Piazzale Cino Macrelli, 100  | Cesena             | FC    | Prof.ssa Vanna Zabberoni       | [vanna.zabberoni@itis-cesena.it](mailto:vanna.zabberoni@itis-cesena.it)               |     |     |     |
+| EMI3                                       | MO-RE                                        | I.T.G. "Blaise Pascal"       | Via Makallé, 12              | Reggio Emilia      | RE    | Prof.ssa Annamaria Culzoni     | [mariaculzoni@libero.it](mailto:mariaculzoni@libero.it)                               |     |     |     |
+| EMI4                                       | PR-PC                                        | L.S. "Marconi"               | Via Costituente, 2           | Parma              | PR    | Prof.ssa Maria Botta           | [maria_botta@libero.it](mailto:maria_botta@libero.it)                                 |     |     |     |
+| FRI                                        | GO - PN - TS - UD                            | ITI "Arturo Malignani"       | Viale Leonardo da Vinci, 10  | Udine              | UD    | Prof. Giuseppe Nobile          | [nobile@malignani.ud.it](mailto:nobile@malignani.ud.it)                               |     |     |     |
+| LAZ1                                       | RM Città                                     | ITC "Federico Caffè"         | Via di Villa Pamphili        | Roma               | RM    | Prof. Aldo Capretti            | [aldcpr@tin.it](mailto:aldcpr@tin.it)                                                 |     |     |     |
+| LAZ2                                       | FR-LT-RI-VT<br/> RM prov                     | ITIS "Galileo Galilei"       | Via Conte Verde, 51          | Roma               | RM    | Prof. Antonio Mastacchi        | [a.mastacchi@tin.it](mailto:a.mastacchi@tin.it)                                       |     |     |     |
+| LIG                                        | GE - IM - SP - SV                            | ITC "Carlo Rosselli"         | Via Giotto, 10               | Genova             | GE    | Prof.ssa Genzianella Foresti   | [geforest@tin.it](mailto:geforest@tin.it)                                             |     |     |     |
+| LOM1                                       | LO-PV<br/> MI (no Castano, Rho e Legnano     | IIS "Enrico Mattei"          | Via Martiri di Cefalonia, 46 | San DonatoMilanese | MI    | Prof. Luca Mazzei              | [lmazzei@libero.it](mailto:lmazzei@libero.it)                                         |     |     |     |
+| LOM2                                       | CO-VA-MI <br/> (solo Castano, Rho e Legnano) | ITC "Enrico Tosi"            | Viale Stelvio, 173           | Busto Arsizio      | VA    | Prof.ssa Silvia Tondo          | [silvia.tondo@itctosi.va.it](mailto:silvia.tondo@itctosi.va.it)                       |     |     |     |
+| LOM3                                       | BG-LC-SO                                     | ITI "P. Paleocapa"           | Via M. Gavazzeni, 29         | Bergamo            | BG    | Prof.ssa Antonella Gualteroni  | [antgua@yahoo.com](mailto:antgua@yahoo.com)                                           |     |     |     |
+| LOM4                                       | BS - CR - MN                                 | ITIS "Benedetto Castelli"    | Via A. Cantore, 9            | Brescia            | BS    | Prof. Alessandro Bugatti       | [alessandro.bugatti@istruzione.it](mailto:alessandro.bugatti@istruzione.it)           |     |     |     |
+| MAR                                        | AN - AP - MC - PU                            | ITI "V. Volterra"            | Via Esino, 36                | Ancona             | AN    | Prof. Bruno Nossa              | [prb.nossa@itis.an.it](mailto:prb.nossa@itis.an.it)                                   |     |     |     |
+| MOL                                        | CB - IS                                      | L.S. "E. Majorana"           | C.so Risorgimento            | Isernia            | IS    | Prof. Stefano Sferra           | [s.sferra@tiscali.it](mailto:s.sferra@tiscali.it)                                     |     |     |     |
+| PIE1                                       | AL-AT-CN-TO                                  | IIS "Baldessano-Roccati"     | Viale Garibaldi, 7           | Carmagnola         | TO    | Prof. Giovanni Spadafora       | [giovanni.spadafora@istruzione.it](mailto:giovanni.spadafora@istruzione.it)           |     |     |     |
+| PIE2                                       | BI-NO-VB-VC                                  | ITIS "Quintino Sella"        | Via Fratelli Rosselli, 2     | Biella             | BI    | Prof. Sandro Landorno          | [slandorno@itis.biella.it](mailto:slandorno@itis.biella.it)                           |     |     |     |
+| PUG1                                       | BA                                           | ITCS "D. Romanazzi"          | Via Celso Ulpiani, 6A        | Bari               | BA    | Prof. Antonio De Carne         | [antonio.decarne@istruzione.it](mailto:antonio.decarne@istruzione.it)                 |     |     |     |
+| PUG2                                       | BR-TA                                        | LS "Oria"                    | Via Ada Negri, 1             | Oria               | BR    | Prof. Carmelo Padula           | [carmepadula@libero.it](mailto:carmepadula@libero.it)                                 |     |     |     |
+| PUG3                                       | FG                                           | ITC "Blaise Pascal"          | Via Napoli Km. 0,7           | Foggia             | FG    | Prof. Lucio Antonio Tortorella | [lucioantonio.tortorella@istruzione.it](mailto:lucioantonio.tortorella@istruzione.it) |     |     |     |
+| PUG4                                       | LE                                           | ITI "Enrico Mattei"          | Via Nicola Ferramosca, 82    | Maglie             | LE    | Prof. Nunzio Galati            | [nunzio.galati@istruzione.it](mailto:nunzio.galati@istruzione.it)                     |     |     |     |
+| SAR                                        | CA - NU - OR - SS                            | ITIS "Michele Giua"          | Via Montecassino             | Cagliari           | CA    | Prof.ssa Grazia Chiuchiolo     | [grazia.chiuchiolo@tiscali.it](mailto:grazia.chiuchiolo@tiscali.it)                   |     |     |     |
+| SIC1                                       | CL-EN-RG-SR                                  | ITI "E. Fermi"               | Via Torino 137               | Siracusa           | SR    | Prof. Luciano Santo            | [sanluciano@tin.it](mailto:sanluciano@tin.it)                                         |     |     |     |
+| SIC2                                       | AG-ME-PA-TP                                  | ITI "Vittorio Emanuele III"  | Via Duca della Verdura, 48   | Palermo            | PA    | Prof. Salvatore Truncali       | [truncali.s@libero.it](mailto:truncali.s@libero.it)                                   |     |     |     |
+| SIC3                                       | CT                                           | ITI "Cannizzaro"             | Via Carlo Pisacane, 1        | Catania            | CT    | Prof.ssa Cettina Allegra       | [cettina.allegra@tin.it](mailto:cettina.allegra@tin.it)                               |     |     |     |
+| TOS1                                       | AR-FI-PO-PT-SI                               | ITI "Antonio Meucci"         | Via del Filarete, 17         | Firenze            | FI    | Prof. Stefano Bernardi         | [s.bernardi@tin.it](mailto:s.bernardi@tin.it)                                         |     |     |     |
+| TOS2                                       | GR-LI-LU-MS-PI                               | ITI "Galileo Galilei"        | Via Galilei, 68              | Livorno            | LI    | Prof. Salvatore Speranza       | [salvatoresperanza@alice.it](mailto:salvatoresperanza@alice.it)                       |     |     |     |
+| TRE                                        | BZ - TN                                      | L.S. "G. Galilei"            | Viale Bolognini, 88          | Trento             | TN    | Prof.ssa Gabriella Armani      | [gabarm57@hotmail.com](mailto:gabarm57@hotmail.com)                                   |     |     |     |
+| UMB                                        | PG - TR                                      | LS "R. Donatelli"            | Via della Vittoria, 35       | Terni              | TR    | Prof.ssa Mara Massarucci       | [maramas@alice.it](mailto:maramas@alice.it)                                           |     |     |     |
+| VEN1                                       | VE                                           | ITI "Carlo Zuccante"         | Via Baglioni, 22             | Venezia            | VE    | Prof. Carlo Salvagno           | [c_salvagno@tin.it](mailto:c_salvagno@tin.it)                                         |     |     |     |
+| VEN2                                       | VR                                           | ITI "Guglielmo Marconi"      | Piazzale R. Guardini, 1      | Verona             | VR    | Prof. Lorenzo De Carli         | [ldecarli@marconivr.it](mailto:ldecarli@marconivr.it)                                 |     |     |     |
+| VEN3                                       | VI                                           | LS "Tron"                    | Via Luzio, 4                 | Schio              | VI    | Prof. Angelo Franco Catena     | [angelo.catena@tron.vi.it](mailto:angelo.catena@tron.vi.it)                           |     |     |     |
+| VEN4                                       | BL-TV                                        | IIS "Luigi Einaudi"          | Via J. Sansovino, 6          | Montebelluna       | TV    | Prof.ssa Monica Bertuola       | [monica.bertuola@istruzione.it](mailto:monica.bertuola@istruzione.it)                 |     |     |     |
+| VEN5                                       | PD-RO                                        | ITIS "Francesco Severi"      | Via Pettinati, 46            | Padova             | PD    | Prof.ssa Maria Meneghini       | [maria.meneghini@istruzione.it](mailto:maria.meneghini@istruzione.it)                 |     |     |     |
 
 ## Atleti ammessi
 
