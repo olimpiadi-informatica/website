@@ -18,8 +18,8 @@ Pubblicata la classifica dei vincitori OII 2016
 
 Le Olimpiadi Italiane 2016 si sono svolte a Catania, presso l'Istituto Archimede dal 15 al 17 Settembre.
 
-| {{ img(src='/images/uploads/Logo_OII2016.JPG', width='300') }} | {{ img(src='/images/uploads/Archimede.png', width='100') }} | {{ img(src='/oldsite/103/Catania-Stemma_1.png', width='100') }} |
-| -------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ |
+{{ img(src='/images/uploads/Logo_OII2016.JPG', width='300', height=100) }}
+{{ img(src='/images/uploads/Archimede.png', width='100', height=100) }}
 
 Come da regolamento sono ammessi alle Olimpiadi Italiane di Informatica 9 atleti, chiamati "probabili olimpici 2016":
 

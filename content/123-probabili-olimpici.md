@@ -15,7 +15,7 @@ L'elenco degli atleti così soprannominati "Probabili Olimpici 2013" è stato de
 
 <br/> Gli studenti vincitori delle medaglie d'oro e d'argento diventano Probabili Olimpici 2013. Risultano inoltre ammessi alla formazione due ragazzi vincitori delle medaglie di bronzo, per un totale di 20 ragazzi.
 
-{{ img(src='/images/uploads/Probabili%20Olimpici%202013.png', width='650', height='290') }}
+{{ img(src='/images/uploads/Probabili Olimpici 2013.png', width='650', height='290') }}
 
 Al gruppo sono rivolte le fasi di formazione e di selezione conclusiva per formare la Squadra Olimpica 2013 (composta da 4 titolari) che parteciperà alle Olimpiadi Internazionali 2013 che si terranno in Australia, dal 6 al 13 luglio.
 

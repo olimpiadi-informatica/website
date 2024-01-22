@@ -37,4 +37,4 @@ Grazie a questa borsa di studio, i vincitori hanno avuto l'opportunità di segui
 
 I ragazzi, insieme al Prof. Alessandro Bugatti dell'Ist. Catelli di Brescia li accompagnerà in qualità di tutor, dal 26 luglio al 9 agosto saranno ospitati presso i laboratori IBM a Winchester.
 
-[{{ img(src='/images/uploads/foto%20winchester.JPG', width='403', height='270') }}](/images/uploads/foto%20winchester.JPG)[{{ img(src='/oldsite/149/winchester%20.JPG', width='181', height='270') }}](/oldsite/149/winchester%20.JPG)
+[{{ img(src='/images/uploads/foto winchester.JPG', width='403', height='270') }}](/images/uploads/foto winchester.JPG)[{{ img(src='/images/uploads/winchester .JPG', width='181', height='270') }}](/images/uploads/winchester .JPG)

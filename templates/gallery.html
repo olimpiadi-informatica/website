@@ -24,10 +24,9 @@
 {% for info in page.extra.gallery %}
   {% set filename = info.filename %}
   {% set filepath = ["images", "gallery", pagename, filename] | join(sep="/") %}
-  {% set scaled = resize_image(path=filepath, width=1000, height=1000, op="fit", format="jpg", quality=90) %}
     <div class="carousel-item {% if loop.index == 1 %}active{% endif %}">
       <a href="/{{filepath}}" class="d-block w-100" target="_blank">
-        <img src="{{scaled.url}}" class="d-block img-fluid mx-auto" loading="lazy" />
+        {{ img_macro::img(path=filepath, width=1000, height=1000, alt="{{ page.title }} ", class="img-fluid mx-auto d-block", lazy=true) }}
       </a>
     </div>
 {% endfor %}

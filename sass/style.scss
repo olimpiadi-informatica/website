@@ -16,7 +16,10 @@ img {
   max-width: 100%;
 }
 
-img.logo {
+.logo img {
+  max-width: 25%;
+  width: auto;
+  height: auto;
   margin-left: 3%;
   margin-right: 3%;
   margin-top: 0;
@@ -65,7 +68,9 @@ img.logo {
 }
 
 .collaborators img {
-  width: 18%;
+  max-width: 18%;
+  width: auto;
+  height: auto;
 }
 
 a {
@@ -101,4 +106,6 @@ a {
 #galleryCarousel img {
   max-height: 50vw;
   max-width: min(75vw, 100%);
+  width: auto;
+  height: auto;
 }

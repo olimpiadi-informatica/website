@@ -1,3 +1,5 @@
+{% import "img_macro.html" as img_macro %}
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -29,9 +31,15 @@
 
 <body>
   <div class="container center">
-    <a href="https://www.istruzione.it"><img class="logo" width="25%" src="/logos/ministero.png" alt="logo MIM" /></a>
-    <a href="/"><img class="logo" width="25%" src="/logos/oii.png" alt="logo Olimpiadi" /></a>
-    <a href="https://www.aicanet.it"><img class="logo" width="25%" src="/logos/aica.png" alt="logo AICA" /></a>
+    <a href="https://www.istruzione.it" class="logo">
+      {{ img_macro::img(path="/logos/ministero.png", alt="logo MIM", width=350, height=140) }}
+    </a>
+    <a href="/" class="logo">
+      {{ img_macro::img(path="/logos/oii.png", alt="logo Olimpiadi", width=350, height=140) }}
+    </a>
+    <a href="https://www.aicanet.it" class="logo">
+      {{ img_macro::img(path="/logos/aica.png", alt="logo AICA", width=350, height=140) }}
+    </a>
   </div>
   {% include "navbar.html" %}
   <div class="p-3"></div>

@@ -29,5 +29,5 @@ Grazie a questa borsa di studio, i vincitori avranno l'opportunità di seguire u
 
 I ragazzi, insieme a Valerio Stancanelli che li ha accompagnati in qualità di tutor, dal 24 luglio al 4 agosto saranno ospitati presso il Centro Ricerca Huawei.
 
-{{ img(src='/images/uploads/Divano_e_logo_Huawei.jpeg', width='90%') }}<br/> da sinistra: Riccardo Caberlin, Samuele Artico, Valerio Stancanelli (tutor), Alessandro Lombardo e Luca Baglietto <br/>![AULA 7](/images/uploads/AULA_7.jpeg)
+{{ img(src='/images/uploads/Divano_e_logo_Huawei.jpeg', width='1000', height='1000') }}<br/> da sinistra: Riccardo Caberlin, Samuele Artico, Valerio Stancanelli (tutor), Alessandro Lombardo e Luca Baglietto <br/>![AULA 7](/images/uploads/AULA_7.jpeg)
 ![MENSA](/images/uploads/MENSA.jpeg)
