@@ -13,12 +13,15 @@ thumbnail = "/images/uploads/7acce66d40ec90c2d61987b409cbf850.jpg"
 override_updated = "2020-03-19T09:39:02"
 +++
 
-La XIX edizione delle Olimpiadi Italiane di Informatica si è svolta dal 17 al 19 settembre 2019 presso l' IIS G.B. Pentasuglia di Matera.
+La XIX edizione delle Olimpiadi Italiane di Informatica si è svolta dal 17 al 19 settembre 2019 presso l'IIS G.B. Pentasuglia di Matera.
 
-{{ img(src='/images/uploads/matera-coi-sassi.jpg', width='400', height='210') }}
+<div style="text-align: center">
 
-| {{ img(src='/images/uploads/reply-1.png') }} | {{ img(src='/images/uploads/rgi-logo.png') }} |
-| -------------------------------------------- | --------------------------------------- |
+{{ img(src='/images/uploads/matera-coi-sassi.jpg', width='600', height='315') }}
+
+{{ img(src='/images/uploads/reply-1.png', width='300', height='94') }} {{ img(src='/images/uploads/rgi-logo.png', width='254', height='205') }}
+
+</div>
 
 Come da regolamento sono stati ammessi alle Olimpiadi Italiane di Informatica 3 atleti, chiamati "probabili olimpici 2019":
 
