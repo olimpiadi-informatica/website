@@ -5,8 +5,8 @@ date = "2015-07-28T22:00:00"
 updated = "2016-10-10T13:49:58"
 
 [taxonomies]
-contest = [ "national",]
-edition = [ "2014-2015",]
+contest = ["national"]
+edition = ["2014-2015"]
 
 [extra]
 thumbnail = "/images/uploads/737344dd8934cc52da9f7f85f2627abb.jpg"
@@ -100,3 +100,10 @@ AICA offre ai medagliati la possibilità di iscriversi gratuitamente all'associa
 |  **BRONZO**  |      32       |   Trentin   |        Matteo         |         L.S.  N. Copernico         |         Bologna          |     V      |
 |  **BRONZO**  |      34       |  Lorenzoni  |         Dario         |         L.S.  R. Donatelli         |          Terni           |     V      |
 |  **BRONZO**  |      35       |   Cosenza   |        Davide         |         L.S.  F. Vercelli          |           Asti           |     IV     |
+
+
+
+
+Vedi qui la classifica completa:
+
+[http://www.olimpiadi-informatica.it/index.php/selezione-nazionale.html](index.php/selezione-nazionale.html)
