@@ -13,7 +13,7 @@ override_updated = "2016-10-20T13:24:01"
 +++
 La selezione territoriale delle Olimpiadi di Informatica si è svolta il 2 aprile 2009. Sono ammessi alla fase successiva 82 studenti provenienti da tutta Italia.
 
-<!—more—>
+<!— more —>
 
 ## Regolamento
 
@@ -28,7 +28,6 @@ La selezione territoriale delle Olimpiadi di Informatica si è svolta il 2 april
 **(IOI 2011)**
 
 </div>
-
 
 ***1. Ammissione alla gara di selezione***
 
