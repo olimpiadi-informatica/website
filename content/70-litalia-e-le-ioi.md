@@ -69,7 +69,7 @@ La squadra che ha difeso il tricolore è composta da:
 
 - Valerio Stancanelli - LS Ulisse Dini - Pisa
 
-{{ img(src='/images/uploads/ioi-team-2021.jpeg', width='563') }}
+{{ img(src='/images/uploads/ioi-team-2021.jpeg', width='563', height=500) }}
 
 Da sinistra: Edoardo Morassutto (deputy leader) - Davide Bartoli - Tommaso Dossi - Filippo Casarin - Valerio Stancanelli - Giorgio Audrito (team leader)
 

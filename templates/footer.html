@@ -25,15 +25,18 @@
       </div>
       <div class="col-lg-6 collaborators">
         <h5>Collaborazioni</h5>
-        {% set size = 150 %}
-        {% set scaled = resize_image(path="/logos/Hackersgen.jpg", width=size, height=size, op="fit") %}
-        <a href="https://www.hackersgen.com/" class="link-light"><img src="{{scaled.url}}" alt="logo Hackersgen" /></a>
-        {% set scaled = resize_image(path="/logos/bending-spoons.png", width=size, height=size, op="fit") %}
-        <a href="https://bendingspoons.com/" class="link-light"><img src="{{scaled.url}}" alt="logo Bending Spoons" /></a>
-        {% set scaled = resize_image(path="/logos/SORINT.png", width=size, height=size, op="fit") %}
-        <a href="https://www.sorint.com/" class="link-light"><img src="{{scaled.url}}" alt="logo Sorint" /></a>
-        {% set scaled = resize_image(path="/logos/Huawei.jpg", width=size, height=size, op="fit") %}
-        <a href="https://www.huawei.com/en/corporate-information" class="link-light"><img src="{{scaled.url}}" alt="logo Huawei" /></a>
+        <a href="https://www.hackersgen.com/" class="link-light">
+          {{ img_macro::img(path="/logos/Hackersgen.jpg", width=100, height=100, alt="logo Hackersgen") }}
+        </a>
+        <a href="https://bendingspoons.com/" class="link-light">
+          {{ img_macro::img(path="/logos/bending-spoons.png", width=100, height=100, alt="logo Bending Spoons") }}
+        </a>
+        <a href="https://www.sorint.com/" class="link-light">
+          {{ img_macro::img(path="/logos/SORINT.png", width=100, height=100, alt="logo Sorint") }}
+        </a>
+        <a href="https://www.huawei.com/en/corporate-information" class="link-light">
+          {{ img_macro::img(path="/logos/Huawei.jpg", width=100, height=100, alt="logo Huawei") }}
+        </a>
       </div>
     </div>
   </div>

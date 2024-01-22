@@ -1,0 +1,24 @@
+{% macro img(path, alt, width, height, class="", lazy=false) %}
+{% set scaled = resize_image(path=path, width=width, height=height, op="fit", quality=92) %}
+{% set srcset = [scaled.url] %}
+
+{% for scale in [1.5, 2, 3] %}
+  {% if scaled.orig_width >= scale * scaled.width %}
+    {% set w = scale * scaled.width | round | int %}
+    {% set h = scale * scaled.height | round | int %}
+    {% set scaled_larger = resize_image(path=path, width=w, height=h, op="fit", quality=92) %}
+    {% set scalestr = [scaled_larger.url, " ", scale | as_str, "x" ] | join %}
+    {% set_global srcset = srcset | concat(with=scalestr) %}
+  {% endif %}
+{% endfor %}
+
+{% set srcset = srcset | join(sep=", ") %}
+<img
+  srcset="{{srcset}}" src="{{scaled.url}}"
+  width="{{scaled.width}}" height="{{scaled.height}}"
+  alt="{{alt}}" class="{{class}}"
+{% if lazy %}
+  loading="lazy"
+{% endif %}
+/>
+{% endmacro img %}

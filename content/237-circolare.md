@@ -138,4 +138,4 @@ Roma, 20 settembre 2023
 
 <br/> Comitato per le Olimpiadi Italiane di Informatica<br/> Il Presidente <br/> Luigi Laura
 
-{{ img(src='https://lh6.googleusercontent.com/xoY0FvlRHlqhhfkAygRZOuovzKuXdvg9SzW-SLg0p9dupAjMma_iLAaAbwG4bu4D5UTrClnFo6FCMYv-6yKh3Rl5hpdfwmsLh0q_qfVynENPcL31wKSvSbwBuM8OmtC_Q9bUmKRL7CbqqXnwNUdVYqlAJeIbux8Qv4fbEEiaoWgqpnNT17PB8hJJH4njLg', width='150', height='62') }}
+{{ img(src='/images/uploads/firma_luigi.png', width='150', height='62') }}

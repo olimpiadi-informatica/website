@@ -35,4 +35,4 @@ I vincitori sono:
 
 Grazie a questa borsa di studio, i vincitori avranno l'opportunità di seguire uno stage di due settimane a settembre, presso i laboratori IBM a Winchester (Inghilterra).
 
-\| [{{ img(src='/images/uploads/5%20ragazzi%201.JPG', width='204', height='153') }}](/images/uploads/5%20ragazzi%201.JPG) | [{{ img(src='/oldsite/113/de%20vita_draghi.JPG', width='204', height='153') }}](/oldsite/113/de%20vita_draghi.JPG) | [{{ img(src='/oldsite/113/SAM_0335.JPG', width='204', height='153') }}](/oldsite/113/SAM_0335.JPG) |
+\| [{{ img(src='/images/uploads/5 ragazzi 1.JPG', width='204', height='153') }}](/images/uploads/5 ragazzi 1.JPG) | [{{ img(src='/oldsite/113/de vita_draghi.JPG', width='204', height='153') }}](/oldsite/113/de vita_draghi.JPG) | [{{ img(src='/oldsite/113/SAM_0335.JPG', width='204', height='153') }}](/oldsite/113/SAM_0335.JPG) |

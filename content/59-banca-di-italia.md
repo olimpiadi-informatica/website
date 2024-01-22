@@ -33,10 +33,7 @@ I ragazzi, insieme all'Ing Giorgio Piccardo (vedi foto: primo a sinistra) che li
 
 <div style="text-align: center;">
 
-</div>
-
-<div style="text-align: center;">
-
-[{{ img(src='/images/uploads/banca1.jpg', width='181', height='200') }}](/images/uploads/banca1.jpg)[{{ img(src='/oldsite/59/banca2.jpg', width='280', height='200') }}](/oldsite/59/banca2.jpg)
+[{{ img(src='/images/uploads/banca1.jpg', width='181', height='200') }}](/images/uploads/banca1.jpg)
+[{{ img(src='/images/uploads/banca2.jpg', width='280', height='200') }}](/images/uploads/banca2.jpg)
 
 </div>

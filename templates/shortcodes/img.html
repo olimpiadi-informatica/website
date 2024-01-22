@@ -1,4 +1,2 @@
-<img src="{{src}}"
-     {% if width %} width="{{width}}" {% endif %}
-     {% if height %} height="{{height}}" {% endif %}
-/>
+{% import "img_macro.html" as img_macro %}
+{{ img_macro::img(path=src, width=width | int, height=height | int, alt=page.title) }}

@@ -10,7 +10,7 @@ edition = ["2019-2020"]
 [extra]
 override_updated = "2019-11-25T14:35:18"
 +++
-{{ img(src='/images/uploads/immagine-4-loghi.png', width='100%', height='NaN') }}
+{{ img(src='/images/uploads/immagine-4-loghi.png', width='1000', height='500') }}
 
 <div style="text-align: right;">
 
