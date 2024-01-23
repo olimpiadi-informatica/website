@@ -5,19 +5,15 @@ date = "2020-11-30T14:21:03"
 updated = "2021-10-08T13:52:15"
 
 [taxonomies]
-edition = [ "2020-2021",]
-contest = [ "regional",]
+edition = ["2020-2021"]
+contest = ["regional"]
 
 [extra]
-thumbnail = "/images/uploads/bc04f87b1442e82a9d7828879f80552b.jpg"
+thumbnail = ""
 override_updated = "2021-10-08T13:52:15"
 +++
-
-#### **RISULTATI SELEZIONE TERRITORIALE:**
-
-La selezione territoriale della XXI edizione si è svolta in modalità online giovedì 20 maggio 2021.
-
-Alla selezione territoriale hanno partecipato 1983 studenti: [vedi classifica generale](/oldsite/187/classifica-generale-selezione-territoriale-maggio-2021.xlsx) con i relativi punteggi.
+**La selezione territoriale della XXI edizione si è svolta in modalità online giovedì 20 maggio 2021. Alla selezione territoriale hanno partecipato 1983 studenti.** <br/><!-- more -->
+[Vedi classifica generale](/oldsite/187/classifica-generale-selezione-territoriale-maggio-2021.xlsx) con i relativi punteggi.
 
 A seguito delle correzioni delle prove da parte dello staff tecnico, vi informiamo che sono state rilevate copiature da parte di 31 studenti provenienti da 13 scuole diverse. Questi atleti sono stati squalificati a delibera del Comitato OII e sono stati eliminati dalla pubblicazione della classifica. Tali scuole e referenti scolastici hanno ricevuto una comunicazione in merito.
 
