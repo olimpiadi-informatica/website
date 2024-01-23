@@ -8,8 +8,6 @@ updated = "2016-10-13T08:35:48"
 override_updated = "2016-10-13T08:35:48"
 +++
 
-#### Edizione 2016
-
 La **28° edizione delle Olimpiadi Internazionali di Informatica** si è svolta in Russia, a Kazan, dal 12 al 19 agosto 2016.
 
 Il sito ufficiale della manifestazione è raggiungibile all’indirizzo:
