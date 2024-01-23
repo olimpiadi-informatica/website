@@ -12,7 +12,9 @@ edition = ["2009-2010"]
 [extra]
 override_updated = "2018-10-24T07:34:58"
 +++
-La selezione scolastica delle Olimpiadi di Informatica ed. 2009-2010 si è svolta il 3 Dicembre 2009.
+**La selezione scolastica delle Olimpiadi di Informatica ed. 2009-2010 si è svolta il 3 Dicembre 2009.**
+<!-- more -->
+
 
 Sono disponibili le prove assegnate ed il [Regolamento](http://www.olimpiadi-informatica.it/files/OII-RegSelScolastica_rev2-10-09.pdf) della Selezione Scolastica.
 
