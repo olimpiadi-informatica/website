@@ -29,3 +29,5 @@ Per l'Italia, un risultato eccellente, ben tre medaglie: Filippo Baroni (a soli 
 
 {{ img(src='/images/uploads/IOI2016.jpg', width='495', height='371') }}
 
+</div>
+
