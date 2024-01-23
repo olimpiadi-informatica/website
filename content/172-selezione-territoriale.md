@@ -5,19 +5,17 @@ date = "2020-10-01T10:27:15"
 updated = "2020-12-03T09:18:54"
 
 [taxonomies]
-contest = [ "regional",]
-edition = [ "2019-2020",]
+contest = ["regional"]
+edition = ["2019-2020"]
 
 [extra]
-thumbnail = "/images/uploads/0d1fd34f22c9730e91eb5170fbddc114.jpg"
+thumbnail = ""
 override_updated = "2020-12-03T09:18:54"
 +++
+**La selezione territoriale della XX edizione si è svolta online il 22 ottobre 2020. Alla selezione territoriale hanno partecipato 890 studenti.** <br/>
+<!-- more -->
 
-#### **RISULTATI SELEZIONE TERRITORIALE:**
-
-La selezione territoriale della XX edizione si è svolta online il 22 ottobre 2020.
-
-Alla selezione territoriale hanno partecipato 890 studenti: [vedi classifica generale](/oldsite/172/classifica-territoriale-2020.xlsx) con i relativi punteggi.
+[Vedi classifica generale](/oldsite/172/classifica-territoriale-2020.xlsx) con i relativi punteggi.
 
 [Qui la classifica](/oldsite/172/classifica-ammessi-territoriale-2020.xlsx) degli studenti ammessi alla gara nazionale che si terrà online mercoledì 25 novembre 2020.
 
