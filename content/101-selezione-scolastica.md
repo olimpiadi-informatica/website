@@ -12,7 +12,9 @@ edition = ["2015-2016"]
 [extra]
 override_updated = "2016-03-08T17:36:21"
 +++
-La selezione scolastica edizione 2015-2016 si è svolta mercoledì 18 novembre 2015.
+**La selezione scolastica edizione 2015-2016 si è svolta mercoledì 18 novembre 2015.**
+<!-- more -->
+
 
 E' stato possibile sostenere la prova sia in modalità cartacea o a pc: [scaricate qui il regolamento](/oldsite/101/OII-Reg_SelScolastica_2015.pdf).
 
