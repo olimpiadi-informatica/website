@@ -1,12 +1,12 @@
 +++
 draft = false
-title = "Risultati stage 2015"
-date = 2014-09-21T11:56:38Z
+title = "Probabili Olimpici 2015"
+date = 2014-09-21T11:56:38.000Z
 updated = "2016-10-14T15:41:50"
 
 [taxonomies]
-contest = [ "stage",]
-edition = [ "2014-2015",]
+contest = ["stage"]
+edition = ["2014-2015"]
 
 [extra]
 override_updated = "2016-10-14T15:41:50"
