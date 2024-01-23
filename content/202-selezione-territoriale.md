@@ -10,13 +10,12 @@ contest = ["regional"]
 
 [extra]
 override_updated = "2022-06-14T15:03:02"
-thumbnail = "/images/uploads/f7f8c4727a011019fe43a7eaa92bf9a5.jpg"
+thumbnail = ""
 +++
-#### **RISULTATI SELEZIONE TERRITORIALE:**
+**La selezione territoriale della XXII edizione si è svolta giovedì 5 maggio 2022. Alla selezione territoriale hanno partecipato 1524 studenti.** <br/>
+<!-- more -->
 
-La selezione territoriale della XXII edizione si è svolta giovedì 5 maggio 2022.
-
-Alla selezione territoriale hanno partecipato 1524 studenti: [vedi classifica generale con i relativi punteggi.](/oldsite/202/classifica-generale-territoriale-2022.xlsx)
+[vedi classifica generale con i relativi punteggi.](/oldsite/202/classifica-generale-territoriale-2022.xlsx)
 
 A seguito delle correzioni delle prove da parte dello staff tecnico, vi informiamo che sono state rilevate copiature da parte di 6 studenti provenienti da 3 scuole diverse. Questi atleti sono stati squalificati a delibera del Comitato OII e sono stati eliminati dalla pubblicazione della classifica. Tali scuole e referenti scolastici hanno ricevuto una comunicazione in merito.
 
