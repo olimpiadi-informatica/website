@@ -11,7 +11,6 @@ edition = ["2004"]
 [extra]
 override_updated = "2016-10-14T13:05:57"
 +++
-## Prove assegnate
 **La gara si è svolta il 20 Novembre 2003. Le prove assegnate alla selezione scolastica sono disponibili in formato pdf.
 **
 <!-- more -->
