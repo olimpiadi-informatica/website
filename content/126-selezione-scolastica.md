@@ -1,19 +1,19 @@
 +++
 draft = false
 title = "Selezione scolastica 2011-2012"
-date = 2011-12-10T12:43:32Z
+date = 2011-12-10T12:43:32.000Z
 updated = "2018-10-24T07:33:33"
 
 [taxonomies]
-contest = [ "school",]
-edition = [ "2011-2012",]
+contest = ["school"]
+edition = ["2011-2012"]
 
 [extra]
 override_updated = "2018-10-24T07:33:33"
 +++
-La selezione scolastica delle Olimpiadi di Informatica ed. 2011-2012 si è svolta venerdì 2 Dicembre 2011.
+**La selezione scolastica delle Olimpiadi di Informatica ed. 2011-2012 si è svolta venerdì 2 Dicembre 2011. 399 Istituti iscritti a questa edizione.**
+<!-- more -->
 
-399 Istituti iscritti a questa edizione.
 
 [Scarica il Regolamento della Selezione Scolastica edizione 2011-2012](<http://www.olimpiadi-informatica.it/files/OII-RegSelScolastica_dic2011(1).pdf>)
 
