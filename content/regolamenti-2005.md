@@ -1,6 +1,6 @@
 +++
 title = "Regolamenti 2005"
-date = 2024-01-23T00:41:14.849Z
+date = 2004-01-01T00:41:14.849Z
 
 [taxonomies]
 edition = ["2005"]
