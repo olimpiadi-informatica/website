@@ -1,11 +1,12 @@
 +++
 draft = false
 title = "Borse di studio - Banca d'Italia 2010"
-date = 2011-06-13T13:15:51Z
+date = 2011-06-13T13:15:51.000Z
 updated = "2016-10-20T12:43:43"
+description = "premi vincitori gara nazionale finale 2009-2010 sirmione"
 
 [taxonomies]
-edition = [ "2009-2010",]
+edition = ["2009-2010"]
 
 [extra]
 override_updated = "2016-10-20T12:43:43"
