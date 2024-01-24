@@ -1,18 +1,18 @@
 +++
 draft = false
 title = "Selezione territoriale 2011-2012"
-date = 2012-03-31T11:50:29Z
+date = 2012-03-31T11:50:29.000Z
 updated = "2016-10-20T12:27:55"
 
 [taxonomies]
-contest = [ "regional",]
-edition = [ "2011-2012",]
+contest = ["regional"]
+edition = ["2011-2012"]
 
 [extra]
 override_updated = "2016-10-20T12:27:55"
 +++
-La selezione territoriale si è svolta giovedì 29 marzo 2012.
-
+La selezione territoriale delle Olimpiadi di Informatica si è svolta giovedì 29 marzo 2012. Sono ammessi alla fase successiva 88 studenti provenienti da tutta Italia.
+<!-- more -->
 ## Atleti ammessi
 
 Vengono ammessi alla Selezione Territoriale 719 atleti:
