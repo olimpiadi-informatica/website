@@ -3,6 +3,7 @@ draft = false
 title = "Regolamenti 2010-2011"
 date = 2010-09-02T11:38:04.000Z
 updated = "2016-10-20T13:29:15"
+description = "regolamento selezione scolastica territoriale regionale gara nazionale finale 2010-2011"
 
 [taxonomies]
 edition = ["2010-2011"]
