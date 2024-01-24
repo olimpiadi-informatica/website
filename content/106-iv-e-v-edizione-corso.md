@@ -3,10 +3,11 @@ draft = false
 title = "Corso On-line per docenti \"Competenze Digitali\" - IV e V Edizione"
 date = "2015-09-08T22:00:00"
 updated = "2017-07-03T16:51:30"
+description = "corso docenti competenze digitali 2015-2016 "
 
 [taxonomies]
-edition = [ "2015-2016",]
-contest = [ "digit", ]
+edition = ["2015-2016"]
+contest = ["digit"]
 
 [extra]
 thumbnail = "/images/uploads/d6e7bc44feb1613d041d5385e5745b10.jpg"
