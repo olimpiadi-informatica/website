@@ -204,42 +204,62 @@ Volterra – SIAF – 15/17 marzo 2010
 
 Programma dei lavori
 
-| **Data** | **Attività** | **Relatori** |
-| -------- | ------------ | ------------ |
 
-\| <br/>**Lunedì 15 marzoOre 9.00\*\*** “9.30**<br/>**“ 10.30\*\*
-
-<br/>**“ 11.00**
-
-**“ 11.15**
-
-<br/>**“ 12.30**<br/><br/>**“ 13.00**<br/><br/>**“ 15.00**<br/><br/><br/><br/>**“ 17.00**<br/><br/>**“ 17.15**<br/><br/>**“ 18.30**<br/><br/>**“ 19.00** | <br/><br/><br/>**Apertura dei lavori e presentazione delle attività**<br/><br/>**Presentazione esiti della selezione scolastica**<br/>**Presentazione Correttore *on line***<br/><br/>**Supporti per la preparazione degli studenti**<br/>**Riflessioni e suggerimenti sulla strategia di gara**<br/><br/>***Coffee break***<br/><br/>**Prova in laboratorio del Correttore *on line***<br/><br/><br/><br/><br/>**Dibattito**<br/><br/>***Pranzo***<br/><br/>**Lectio magistralis**<br/>***Nascere digitali:***<br/>***verso un mutamento antropologico?***<br/><br/>***Coffee break***<br/><br/>**Dibattito**<br/><br/>**Riflessioni conclusive**<br/><br/>***Termine lavori*** | <br/><br/><br/>***Presidente OII***<br/>**Marta Genovié de Vita**<br/>**Prof. Nello Scarabottolo**<br/>***Università di Milano***<br/><br/>**Prof. Giorgio Casadei**<br/>***Università di Bologna***<br/><br/><br/><br/>***Coordinano:***<br/>**Prof. Nello Scarabottolo**<br/>**Prof. Roberto Grossi**<br/>**Tutor**<br/><br/>**Prof. Giorgio Casadei**<br/>***Università di Bologna***<br/><br/><br/><br/>**Prof. Giuseppe O. Longo**<br/>***Università di Trieste*** |
 
 | **Data** | **Attività** | **Relatori** |
 | -------- | ------------ | ------------ |
+|Lunedì 15 marzo|||
+|9.00|Apertura dei lavori e presentazione delle attività|Presidente OII <br> Marta Genovié de Vita|
+|9.30|Presentazione esiti della selezione scolastica <br> Presentazione Correttore on line|Prof. Nello Scarabottolo <br> Università di Milano|
+|10.30|Supporti per la preparazione degli studenti <br> Riflessioni e suggerimenti sulla strategia di gara|Prof. Giorgio Casadei <br> Università di Bologna|
+|11.00|Coffee break||
+|11.15|Prova in laboratorio del Correttore on line|Coordinano: <br> Prof.Nello Scarabottolo <br> Prof. Roberto Grossi <br> Tutor|
+|12.30|Dibattito|Prof. Giorgio Casadei <br> Università di Bologna|
+|13.00|Pranzo||
+|15.00|Lectio magistralis <br> Nascere digitali: <br> verso un mutamento antropologico?|Prof. Giuseppe O. Longo <br> Università di Trieste|
+|17.00|Coffee break||
+|17.15|Dibattito||
+|18.30|Riflessioni conclusive||
+|19.00|Termine lavori||
 
-\| <br/>**Martedì 15 marzoOre 9.00**
-
-**“ 11.00**
-
-**“ 11.15**
-
-**“ 13.00**
-
-**“ 15.00**<br/><br/>**“ 17.00**<br/><br/>**“ 17.15**<br/><br/>**“ 19.00** | <br/><br/><br/>**Approfondimenti disciplinari**<br/>***Sezione di lavoro per gruppi sui seguenti temi***<br/>-**Algoritmica**<br/>-**Programmazione C/C++**<br/>-**Linux**<br/><br/>***Coffee break***<br/><br/> **Approfondimenti disciplinari *(segue)***<br/><br/>***Pranzo***<br/><br/> **Approfondimenti disciplinari *(segue)***<br/><br/>***Coffee break***<br/><br/> **Approfondimenti disciplinari *(segue)***<br/><br/>***Termine lavori*** | <br/><br/><br/>**Prof.  Roberto Grossi**<br/>***Università di  Pisa***<br/><br/>**Prof.  Nicola Galesi**<br/>***Università di  Roma***<br/><br/>***Tutor***<br/><br/><br/><br/> |
+<br>
+<br>
+<br>
+<br>
 
 | **Data** | **Attività** | **Relatori** |
 | -------- | ------------ | ------------ |
+|Martedì 16 marzo|||
+|9.00|Approfondimenti disciplinari <br> Sezione di lavoro per gruppi sui seguenti temi <br> - Algoritmica <br> - Programmazione C/C++ <br> - Linux|Prof.  Roberto Grossi <br> Università di  Pisa <br> <br> Prof.  Nicola Galesi <br> Università di  Roma|
+|11.00|Coffee break|Tutor|
+|11.15|Approfondimenti disciplinari (segue)||
+|13.00|Pranzo||
+|15.00|Approfondimenti disciplinari (segue)||
+|17.00|Coffee break||
+|17.15|Approfondimenti disciplinari (segue)||
+|19.00|Termine lavori||
 
-\| <br/>**Mercoledì 17 marzoOre 9.00**<br/>**“ 11.00\*\***“ 11.15\*\*
+<br>
+<br>
+<br>
+<br>
 
-**“ 12.00**
+| **Data** | **Attività** | **Relatori** |
+| -------- | ------------ | ------------ |
+|Mercoledì 17 marzo|||
+|9.00|Lavori di gruppo: Elaborazione ipotesi di interventi <br> formativi per gli studenti|Coordinano: <br> Prof. Giorgio Casadei <br> Prof. Marta Genovié|<br> Prof.  Nicola Galesi <br> Prof. Nello Scarabottolo|
+|11.00|Coffee break||
+|11.15|Presentazione ipotesi di intervento||
+|12.00|Dibattito||
+|12.30|Conclusioni|Presidente OII <br> Marta Genovié de Vita|
+|13.00|Pranzo||
 
-**“ 12.30**
+<br>
+<br>
+<br>
 
-**“ 13.00** |
 
-<br/>**Lavori di gruppo: *Elaborazione ipotesi di interventi***<br/>***formativi per gli studenti***<br/><br/>***Coffee break***<br/><br/>**Presentazione ipotesi di intervento**<br/><br/>**Dibattito**<br/><br/>**Conclusioni**<br/><br/>***Pranzo***<br/><br/> | <br/><br/><br/>**Coordinano:**<br/>**Prof. Giorgio Casadei**<br/>**Prof. Marta Genovié**<br/>**Prof.  Nicola Galesi**<br/>**Prof. Nello Scarabottolo**<br/><br/><br/><br/><br/>***Presidente OII***<br/>**Marta Genovié de Vita**<br/><br/> |
+
 
 **A questa iniziativa hanno partecipato 29 docenti:**
 
