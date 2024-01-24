@@ -3,6 +3,7 @@ draft = false
 title = "Iniziative organizzate dai Referenti Territoriali"
 date = "2016-03-30T22:00:00"
 updated = "2019-05-29T16:02:16"
+description = "iniziative gare abc allenamenti stage"
 
 [extra]
 override_updated = "2019-05-29T16:02:16"
