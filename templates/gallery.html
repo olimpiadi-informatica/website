@@ -13,7 +13,7 @@
 {% set namepart = numparts - 2 %}
 {% set pagename = pathparts[namepart] %}
 
-<div id="galleryCarousel" class="carousel slide bg-dark">
+<div id="galleryCarousel" class="carousel slide bg-dark carousel-fade">
   <div class="carousel-indicators">
 {% for url in page.extra.gallery %}
     <button type="button" data-bs-target="#galleryCarousel" data-bs-slide-to="{{loop.index-1}}"
