@@ -13,7 +13,7 @@ override_updated = "2018-03-26T15:12:48"
 +++
 La selezione territoriale delle Olimpiadi di Informatica si è svolta martedì 11 aprile 2017. Sono ammessi alla fase successiva 103 studenti provenienti da tutta Italia.
 
-<!--more-->
+<!-- more -->
 
 Vengono ammessi alla Selezione Territoriale che si è tenuta martedì 11 aprile 2017, presso le sedi territoriali [qui pubblicate](/fixed/organizzazione/), i 1731 atleti in possesso di uno dei seguenti requisiti:
 
