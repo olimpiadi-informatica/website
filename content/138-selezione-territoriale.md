@@ -13,7 +13,7 @@ override_updated = "2016-10-14T15:50:12"
 +++
 La selezione territoriale delle Olimpiadi di Informatica si è svolta Martedì 16 aprile nelle 37 sedi regionali con 708 atleti partecipanti. Sono ammessi alla fase successiva 86 studenti provenienti da tutta Italia.
 
-<!--more-->
+<!-- more -->
 
 ## Atleti ammessi
 
