@@ -1,17 +1,19 @@
 +++
 draft = false
 title = "Selezione territoriale 2012-2013"
-date = 2013-04-30T11:50:29Z
+date = 2013-04-30T11:50:29.000Z
 updated = "2016-10-14T15:50:12"
 
 [taxonomies]
-contest = [ "regional",]
-edition = [ "2012-2013",]
+contest = ["regional"]
+edition = ["2012-2013"]
 
 [extra]
 override_updated = "2016-10-14T15:50:12"
 +++
-La selezione territoriale si è svolta Martedì 16 aprile nelle 37 sedi regionali con 708 atleti partecipanti.
+La selezione territoriale delle Olimpiadi di Informatica si è svolta Martedì 16 aprile nelle 37 sedi regionali con 708 atleti partecipanti. Sono ammessi alla fase successiva 86 studenti provenienti da tutta Italia.
+
+<!--more-->
 
 ## Atleti ammessi
 
