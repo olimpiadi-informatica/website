@@ -5,7 +5,7 @@ import lib
 def download_from_known_url(post: lib.Post):
     if 'extra' in post.header and 'gallery' in post.header['extra']:
         for info in post.header['extra']['gallery']:
-            info['url'] = "https://gallery-oii.lucaversari.it/" + \
+            info['url'] = "https://media.olimpiadi-informatica.it/" + \
                 post.name() + "/" + info['filename']
 
 
