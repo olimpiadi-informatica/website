@@ -1,16 +1,20 @@
 +++
 draft = false
 title = "Selezione territoriale 2013-2014"
-date = 2014-03-15T12:50:29Z
+date = 2014-03-15T12:50:29.000Z
 updated = "2016-10-14T15:36:50"
 
 [taxonomies]
-contest = [ "regional",]
-edition = [ "2013-2014",]
+contest = ["regional"]
+edition = ["2013-2014"]
 
 [extra]
 override_updated = "2016-10-14T15:36:50"
 +++
+La selezione territoriale delle Olimpiadi di Informatica si è svolta il 2 aprile 2014. Sono ammessi alla fase successiva 92 studenti provenienti da tutta Italia.
+
+<!-- more -->
+
 Vengono ammessi alla Selezione Territoriale, che si terrà il 2 APRILE 2014, presso le [38 sedi territoriali](/oldsite/143/38_Sedi_Territoriali_2014.xls), 1374 atleti:
 
 [(REGOLAMENTO SELEZIONE TERRITORIALE 2014)](/oldsite/143/OII-RegSelTerritoriale_2014.pdf)
@@ -30,7 +34,7 @@ Vengono ammessi alla Selezione Territoriale, che si terrà il 2 APRILE 2014, pre
 |                    [PUG](files/PUGLIA.pdf)                     |  [SAR](/oldsite/143/SARDEGNA.pdf)  |    [SIC](files/SICILIA.pdf)    | [TOS](files/TOSCANA.pdf)  |
 |          [TRE](/oldsite/143/TRENTINO_ALTO_ADIGE.pdf)           |    [UMB](/oldsite/143/UMBRIA.pdf)     |    [VEN](files/VENETO.pdf)     |             -             |
 
-Vi ricordiamo che, il Comitato ha deliberato l'ammissione di [17 ragazzi](/oldsite/143/Olimpiadi%20Squadre%20ammessi%20terr_17.pdf)che appartengono alle squadre finaliste delle olimpiadi di informatica a squadre ([http://www.olimpiadi-informatica-squadre-italia.it/](http://www.olimpiadi-informatica-squadre-italia.it/)).
+Vi ricordiamo che, il Comitato ha deliberato l'ammissione di [17 ragazzi](/oldsite/143/Olimpiadi%20Squadre%20ammessi%20terr_17.pdf)che appartengono alle squadre finaliste delle olimpiadi di informatica a squadre ([http://oisquadre.it/](http://oisquadre.it/)).
 
 Precisiamo che si tratta di ULTERIORI ammissioni, che pertanto NON ridurranno il numero di ammessi alle territoriali provenienti dal normale percorso OII (ovvero dalle selezioni scolastiche).
 
