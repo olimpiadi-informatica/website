@@ -5,19 +5,23 @@ date = "2018-09-20T07:34:06"
 updated = "2019-08-07T10:27:12"
 
 [taxonomies]
-edition = [ "2018-2019",]
-contest = [ "regional",]
+edition = ["2018-2019"]
+contest = ["regional"]
 
 [extra]
 override_updated = "2019-08-07T10:27:12"
 +++
+La selezione territoriale delle Olimpiadi di Informatica si è svolta il 16 aprile 2019. Sono ammessi alla fase successiva 95 studenti provenienti da tutta Italia.
+
+<!-- more -->
+
 #### **RISULTATI SELEZIONE TERRITORIALE:**
 
-La selezione territoriale della XIX edizione si è svolta il 16 aprile 2019 presso ciascuna sede regionale accreditata. [Vedi qui l'elenco](index.php/oii/organizzazione.html).
+La selezione territoriale della XIX edizione si è svolta il 16 aprile 2019 presso ciascuna sede regionale accreditata. [Vedi qui l'elenco](/fixed/organizzazione/).
 
 Alla selezione territoriale hanno partecipato 1358 studenti: [vedi classifica generale con i relativi punteggi](/oldsite/154/classifica-generale-selezione-territoriale-2019.xlsx)
 
-[Scarica i testi dei problemi assegnati](/oldsite/154/Testi_selezione_territoriale_16_aprile_2019.pdf) e nel portale allenamenti trovi le relative soluzioni: [territoriali.olinfo.it/solutions](http://territoriali.olinfo.it/solutions)
+[Scarica i testi dei problemi assegnati](/oldsite/154/Testi_selezione_territoriale_16_aprile_2019.pdf) e nella [wiki](https://wiki.olinfo.it/it/2019/territoriali) trovi le relative soluzioni. 
 
 Congratulazioni agli studenti ammessi alla gara nazionale che si terrà il 18 settembre presso l' Istituto Pentasuglia di Matera: [OII 2019.](index.php/olimpiadi-italiane-19.html)
 
