@@ -5,13 +5,17 @@ date = "2017-09-20T13:34:15"
 updated = "2019-04-17T15:45:14"
 
 [taxonomies]
-contest = [ "regional",]
-edition = [ "2017-2018",]
+contest = ["regional"]
+edition = ["2017-2018"]
 
 [extra]
 override_updated = "2019-04-17T15:45:14"
 +++
-La selezione territoriale della XVIII edizione si svolgerà il 18 aprile 2018 presso le [sedi territoriali](index.php/oii/organizzazione.html) selezionate per la gara regionale 2018. [<br/>](index.php/oii/organizzazione.html)
+La selezione territoriale delle Olimpiadi di Informatica si è svolta il 18 aprile 2018. Sono ammessi alla fase successiva 90 studenti provenienti da tutta Italia.
+
+<!--more-->
+
+La selezione territoriale della XVIII edizione si svolgerà il 18 aprile 2018 presso le [sedi territoriali](/fixed/organizzazione/) selezionate per la gara regionale 2018. <br>
 
 [Sono ammessi 1697 atleti](/oldsite/139/1697_Atleti_ammessi_Selezione_Territoriale_18_Aprile_2018.xlsx) in possesso di uno dei seguenti requisiti:
 
@@ -34,7 +38,7 @@ Sono inoltre ammessi i seguenti studenti frequentanti **scuole italiane all'este
 
 **Argentina**, città La Plata - Istituto Leonardo Da Vinci: Dioguardi Felipe di classe 4, nato il 17/02/2000 - prima posizione, 17 punti <br/>**Argentina**, città La Plata - Istituto Leonardo Da Vinci: Compagnucci Evaristo Gaston di classe 4, nato il 06/03/2000 - seconda posizione, 14 punti<br/>**Iran**, città Teheran - Scuola Italiana Pietro Della Valle: Samadi Arvin, di classe 3, nato il 09/05/2000 - prima posizione, 5 punti
 
-Inoltre vengono [ammessi 24 studenti](/oldsite/139/Olimpiadi_a_squadre_24_sito.xlsx) provenienti dalla gara finale delle [Olimpiadi a Squadre](http://www.olimpiadi-informatica-squadre-italia.it/) tenutasi a Bologna il 16 febbraio, selezionati come previsto da regolamento. <br/>**Precisiamo che si tratta di ULTERIORI ammissioni che NON ridurranno il numero di ammessi alle territoriali provenienti dal normale percorso OII (ovvero dalle selezioni scolastiche).**
+Inoltre vengono [ammessi 24 studenti](/oldsite/139/Olimpiadi_a_squadre_24_sito.xlsx) provenienti dalla gara finale delle [Olimpiadi a Squadre](http://oisquadre.it/) tenutasi a Bologna il 16 febbraio, selezionati come previsto da regolamento. <br/>**Precisiamo che si tratta di ULTERIORI ammissioni che NON ridurranno il numero di ammessi alle territoriali provenienti dal normale percorso OII (ovvero dalle selezioni scolastiche).**
 
 Sono disponibili la [guida](http://www.imparando.net/sito/olimpiadi_di_informatica.htm) e il [video tutorial](https://www.youtube.com/watch?v=2JbEsQCmkbk)che illustrano la nuova modalità di sottoposizione della Gara Territoriale realizzati dal Prof. Alessandro Bugatti dell' ITI Castelli di Brescia.
 
