@@ -13,7 +13,7 @@ override_updated = "2016-09-22T11:13:27"
 +++
 La selezione territoriale delle Olimpiadi di Informatica si è svolta il 14 aprile 2015. Sono ammessi alla fase successiva 85 studenti provenienti da tutta Italia.
 
-<!--more-->
+<!-- more -->
 
 Vengono ammessi alla Selezione Territoriale, che si è tenuta il 14 APRILE 2015, presso le 39 sedi territoriali, 1288 atleti:
 
