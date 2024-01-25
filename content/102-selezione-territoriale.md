@@ -12,6 +12,10 @@ edition = ["2015-2016"]
 [extra]
 override_updated = "2016-05-04T11:14:25"
 +++
+La selezione territoriale delle Olimpiadi di Informatica si è svolta il 14 aprile 2016. Sono ammessi alla fase successiva 96 studenti provenienti da tutta Italia.
+
+
+
 Vengono ammessi alla Selezione Territoriale, che si è tenuta il 14 APRILE 2016, presso le sedi territoriali qui sotto allegate, i 1403 atleti  in possesso di uno dei seguenti requisiti:
 
 <br/>essere il 1° classificato nella graduatoria d’Istituto, indipendentemente dal punteggio ottenuto;<br/>essere il 2° classificato nella graduatoria d’Istituto, con punteggio maggiore o uguale alla media nazionale (9.22 punti) arrotondata all’intero più vicino (9 punti);<br/>essersi classificato dal 3° all' 8° posto nella graduatoria d’Istituto, con punteggio maggiore o uguale a 23 punti.
@@ -29,7 +33,7 @@ Vengono ammessi alla Selezione Territoriale, che si è tenuta il 14 APRILE 2016,
 |         PUG [🔗](/oldsite/102/PUGLIA.pdf)          |         SAR [🔗](/oldsite/102/SARDEGNA.pdf)          |    SIC [🔗](/oldsite/102/SICILIA.pdf)    | TOS [🔗](/oldsite/102/TOSCANA.pdf)  |
 | TRE [🔗](/oldsite/102/TRENTINO%20ALTO%20ADIGE.pdf) |          UMB [🔗](/oldsite/102/UMBRIA.pdf)           | VAL [🔗](/oldsite/102/VALLE%20AOSTA.pdf) |  VEN [🔗](/oldsite/102/VENETO.pdf)  |
 
-Vi ricordiamo che, il Comitato ha deliberato l'ammissione di [22 ragazzi](/oldsite/102/22_ammessi_OIS.pdf)che appartengono alle squadre finaliste delle olimpiadi di informatica a squadre ([http://www.olimpiadi-informatica-squadre-italia.it/campionati/anno-scolastico-2015-2016/](http://www.olimpiadi-informatica-squadre-italia.it/campionati/anno-scolastico-2015-2016/)).
+Vi ricordiamo che, il Comitato ha deliberato l'ammissione di [22 ragazzi](/oldsite/102/22_ammessi_OIS.pdf)che appartengono alle squadre finaliste delle olimpiadi di informatica a squadre ([http://oisquadre.it/campionati/anno-scolastico-2015-2016/](http://oisquadre.it/campionati/anno-scolastico-2015-2016/)).
 
 **Precisiamo che si tratta di ULTERIORI ammissioni, che pertanto NON ridurranno il numero di ammessi alle territoriali provenienti dal normale percorso OII (ovvero dalle selezioni scolastiche).**
 
