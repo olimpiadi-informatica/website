@@ -5,13 +5,17 @@ date = "2016-11-18T17:06:03"
 updated = "2018-03-26T15:12:48"
 
 [taxonomies]
-contest = [ "regional",]
-edition = [ "2016-2017",]
+contest = ["regional"]
+edition = ["2016-2017"]
 
 [extra]
 override_updated = "2018-03-26T15:12:48"
 +++
-Vengono ammessi alla Selezione Territoriale che si è tenuta martedì 11 aprile 2017, presso le sedi territoriali qui pubblicate: [http://www.olimpiadi-informatica.it/index.php/oii/organizzazione.html](http://www.olimpiadi-informatica.it/index.php/oii/organizzazione.html), i 1731 atleti in possesso di uno dei seguenti requisiti:
+La selezione territoriale delle Olimpiadi di Informatica si è svolta martedì 11 aprile 2017. Sono ammessi alla fase successiva 103 studenti provenienti da tutta Italia.
+
+<!--more-->
+
+Vengono ammessi alla Selezione Territoriale che si è tenuta martedì 11 aprile 2017, presso le sedi territoriali [qui pubblicate](/fixed/organizzazione/), i 1731 atleti in possesso di uno dei seguenti requisiti:
 
 - essere il 1° classificato nella graduatoria d’Istituto, indipendentemente dal punteggio ottenuto;
 - essere il 2° classificato nella graduatoria d’Istituto, con punteggio maggiore o uguale alla media nazionale (8.45 punti) arrotondata all’intero più vicino (8 punti);
@@ -28,6 +32,6 @@ Vengono ammessi alla Selezione Territoriale che si è tenuta martedì 11 aprile 
 |  PUG [🔗](/oldsite/124/puglia2017.pdf)   |  SAR [🔗](/oldsite/124/sardegna2017.pdf)  |   SIC [🔗](/oldsite/124/sicilia2017.pdf)   | TOS [🔗](/oldsite/124/toscana2017.pdf)  |
 | TRE [🔗](/oldsite/124/trentino2017.pdf)  |   UMB [🔗](/oldsite/124/umbria2017.pdf)   | VAL [🔗](/oldsite/124/valle-aosta2017.pdf) |  VEN [🔗](/oldsite/124/veneto2017.pdf)  |
 
-A seguito della gara finale delle [Olimpiadi a Squadre](http://www.olimpiadi-informatica-squadre-italia.it/) tenutasi a Bologna il 20 febbraio vengono ammessi [45 studenti vincitori](/oldsite/124/Olimpiadi_a_squadre_sito.xlsx).<br/>**Precisiamo che si tratta di ULTERIORI ammissioni che NON ridurranno il numero di ammessi alle territoriali provenienti dal normale percorso OII (ovvero dalle selezioni scolastiche).**
+A seguito della gara finale delle [Olimpiadi a Squadre](http://oisquadre.it/) tenutasi a Bologna il 20 febbraio vengono ammessi [45 studenti vincitori](/oldsite/124/Olimpiadi_a_squadre_sito.xlsx).<br/>**Precisiamo che si tratta di ULTERIORI ammissioni che NON ridurranno il numero di ammessi alle territoriali provenienti dal normale percorso OII (ovvero dalle selezioni scolastiche).**
 
 Alla selezione territoriale hanno partecipato 1122 studenti: [vedi classifica con i relativi punteggi](/oldsite/124/Classifica_territoriale_definitiva_aprile_2017.xlsx)
