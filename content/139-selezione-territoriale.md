@@ -13,7 +13,7 @@ override_updated = "2019-04-17T15:45:14"
 +++
 La selezione territoriale delle Olimpiadi di Informatica si è svolta il 18 aprile 2018. Sono ammessi alla fase successiva 90 studenti provenienti da tutta Italia.
 
-<!--more-->
+<!-- more -->
 
 La selezione territoriale della XVIII edizione si svolgerà il 18 aprile 2018 presso le [sedi territoriali](/fixed/organizzazione/) selezionate per la gara regionale 2018. <br>
 
