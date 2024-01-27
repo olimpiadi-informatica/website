@@ -6,7 +6,7 @@ updated = "2016-10-20T13:28:59"
 description = "premi vincitori gara nazionale finale 2008-2009 verona"
 
 [taxonomies]
-edition = ["2008-2009"]
+edizioni = ["2008-2009"]
 
 [extra]
 override_updated = "2016-10-20T13:28:59"

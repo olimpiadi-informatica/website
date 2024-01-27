@@ -6,7 +6,7 @@ updated = "2019-06-27T15:39:20"
 
 [taxonomies]
 gare = [ "nazionali",]
-edition = [ "2017-2018",]
+edizioni = [ "2017-2018",]
 
 [extra]
 thumbnail = "/images/uploads/910084c4eb3461ee8947cd42bdd4b146.jpg"

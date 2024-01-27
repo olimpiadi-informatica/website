@@ -7,7 +7,7 @@ description = "probabili olimpici po volterra stage 2011-2012 sirmione"
 
 [taxonomies]
 gare = ["stage"]
-edition = ["2011-2012"]
+edizioni = ["2011-2012"]
 
 [extra]
 override_updated = "2016-10-20T12:35:40"

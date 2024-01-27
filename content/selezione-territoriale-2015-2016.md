@@ -7,7 +7,7 @@ description = "selezione territoriale regionale 2015-2016 "
 
 [taxonomies]
 gare = ["territoriali"]
-edition = ["2015-2016"]
+edizioni = ["2015-2016"]
 
 [extra]
 override_updated = "2016-05-04T11:14:25"

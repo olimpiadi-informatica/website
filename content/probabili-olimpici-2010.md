@@ -7,7 +7,7 @@ description = "probabili olimpici po 2009-2010 verona volterra"
 
 [taxonomies]
 gare = ["stage"]
-edition = ["2009-2010"]
+edizioni = ["2009-2010"]
 
 [extra]
 override_updated = "2016-10-20T13:05:02"

@@ -7,7 +7,7 @@ description = "gara nazionale finale 2015-2016 catania"
 
 [taxonomies]
 gare = ["nazionali"]
-edition = ["2015-2016"]
+edizioni = ["2015-2016"]
 
 [extra]
 thumbnail = "/images/uploads/aaa036e4cb16038f90e128d8e39c714f.jpg"

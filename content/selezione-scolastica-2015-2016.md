@@ -7,7 +7,7 @@ description = "selezione scolastica 2015-2016"
 
 [taxonomies]
 gare = ["scolastiche"]
-edition = ["2015-2016"]
+edizioni = ["2015-2016"]
 
 [extra]
 override_updated = "2016-03-08T17:36:21"

@@ -6,7 +6,7 @@ updated = "2016-10-20T13:43:00"
 description = "probabili olimpici po stage 2010-2011 sirmione volterra"
 
 [taxonomies]
-edition = ["2010-2011"]
+edizioni = ["2010-2011"]
 gare = ["stage"]
 
 [extra]

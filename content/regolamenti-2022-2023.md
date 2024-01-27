@@ -5,7 +5,7 @@ date = "2022-10-13T08:23:48"
 updated = "2023-07-25T13:43:40"
 
 [taxonomies]
-edition = ["2022-2023"]
+edizioni = ["2022-2023"]
 
 [extra]
 override_updated = "2023-07-25T13:43:40"

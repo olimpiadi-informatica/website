@@ -5,7 +5,7 @@ description = "selezione scolastica 2023 2024"
 
 [taxonomies]
 gare = ["scolastiche"]
-edition = ["2023-2024"]
+edizioni = ["2023-2024"]
 
 [extra]
 override_updated = 2024-01-21T15:25:04.227Z

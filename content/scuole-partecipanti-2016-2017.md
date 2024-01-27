@@ -6,7 +6,7 @@ updated = "2017-11-07T17:08:33"
 description = "scuole partecipanti 2016-2017"
 
 [taxonomies]
-edition = ["2016-2017"]
+edizioni = ["2016-2017"]
 
 [extra]
 override_updated = "2017-11-07T17:08:33"

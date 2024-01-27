@@ -6,7 +6,7 @@
 
 <div class="accordion" id="allEditions">
   {% for edition in editions %}
-  {% set edition_data = get_taxonomy_term(kind="edition", term=edition) %}
+  {% set edition_data = get_taxonomy_term(kind="edizioni", term=edition) %}
   {% set expand = loop.index0 < config.extra.expanded_editions %}
   {% if expand %}
   {% set collapse = "" %}

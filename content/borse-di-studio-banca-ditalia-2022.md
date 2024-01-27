@@ -5,7 +5,7 @@ date = 2023-06-18T14:18:57Z
 updated = "2023-07-27T14:16:47"
 
 [taxonomies]
-edition = [ "2021-2022",]
+edizioni = [ "2021-2022",]
 
 [extra]
 thumbnail = "/images/uploads/e7b279be6a862d254f0e7cc4dde2874e.jpg"

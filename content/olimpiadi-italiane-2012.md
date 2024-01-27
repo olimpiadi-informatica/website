@@ -7,7 +7,7 @@ description = "finale nazionale 2011-2012 sirmione "
 
 [taxonomies]
 gare = ["nazionali"]
-edition = ["2011-2012"]
+edizioni = ["2011-2012"]
 
 [extra]
 override_updated = "2016-10-20T12:29:22"

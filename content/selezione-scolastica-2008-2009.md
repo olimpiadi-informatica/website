@@ -6,7 +6,7 @@ updated = "2017-11-08T17:14:39"
 
 [taxonomies]
 gare = ["scolastiche"]
-edition = ["2008-2009"]
+edizioni = ["2008-2009"]
 
 [extra]
 override_updated = "2017-11-08T17:14:39"

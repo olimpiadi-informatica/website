@@ -7,7 +7,7 @@ description = "gara nazionale olimpiadi 2023"
 
 [taxonomies]
 gare = ["nazionali"]
-edition = ["2022-2023"]
+edizioni = ["2022-2023"]
 
 [extra]
 thumbnail = "/images/uploads/8e5f062e9750688c028aaa3058da9ec4.jpg"

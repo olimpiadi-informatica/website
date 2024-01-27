@@ -7,7 +7,7 @@ description = "finale nazionale 2016-2017 trento"
 
 [taxonomies]
 gare = ["nazionali"]
-edition = ["2016-2017"]
+edizioni = ["2016-2017"]
 
 [extra]
 thumbnail = "/images/uploads/8dc425b2acbf9c68064b8a63eae1ffbc.jpg"

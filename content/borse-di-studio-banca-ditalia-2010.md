@@ -6,7 +6,7 @@ updated = "2016-10-20T12:43:43"
 description = "premi vincitori gara nazionale finale 2009-2010 sirmione"
 
 [taxonomies]
-edition = ["2009-2010"]
+edizioni = ["2009-2010"]
 
 [extra]
 override_updated = "2016-10-20T12:43:43"

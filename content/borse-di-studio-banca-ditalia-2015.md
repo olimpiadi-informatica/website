@@ -5,7 +5,7 @@ date = "2015-06-29T22:00:00"
 updated = "2016-09-29T12:35:04"
 
 [taxonomies]
-edition = [ "2014-2015",]
+edizioni = [ "2014-2015",]
 
 [extra]
 thumbnail = "/images/uploads/339a0e1449b6b4062056bc300d87e893.jpg"

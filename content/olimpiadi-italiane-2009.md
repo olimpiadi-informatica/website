@@ -7,7 +7,7 @@ description = "gara nazionale olimpiadi 2008-2009 verona"
 
 [taxonomies]
 gare = ["nazionali"]
-edition = ["2008-2009"]
+edizioni = ["2008-2009"]
 
 [extra]
 override_updated = "2016-10-20T13:19:54"

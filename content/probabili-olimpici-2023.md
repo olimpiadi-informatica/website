@@ -7,7 +7,7 @@ description = "stage 2023 probabili olimpici po"
 
 [taxonomies]
 gare = ["stage"]
-edition = ["2021-2022"]
+edizioni = ["2021-2022"]
 
 [extra]
 thumbnail = "/images/uploads/7be335477876db854960134c6e137164.jpg"

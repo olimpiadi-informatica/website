@@ -6,7 +6,7 @@ updated = "2016-10-20T13:30:54"
 description = "circolare 2009-2010 selezione scolastica"
 
 [taxonomies]
-edition = ["2009-2010"]
+edizioni = ["2009-2010"]
 
 [extra]
 override_updated = "2016-10-20T13:30:54"

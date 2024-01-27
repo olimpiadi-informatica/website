@@ -6,7 +6,7 @@ updated = "2017-07-03T16:51:30"
 description = "corso docenti competenze digitali 2015-2016 "
 
 [taxonomies]
-edition = ["2015-2016"]
+edizioni = ["2015-2016"]
 gare = ["digit"]
 
 [extra]

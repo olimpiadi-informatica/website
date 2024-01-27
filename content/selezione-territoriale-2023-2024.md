@@ -5,7 +5,7 @@ description = "selezione territoriale terry 2023 2024"
 
 [taxonomies]
 gare = ["territoriali"]
-edition = ["2023-2024"]
+edizioni = ["2023-2024"]
 
 [extra]
 override_updated = 2024-01-21T15:37:13.612Z

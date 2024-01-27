@@ -67,7 +67,7 @@
 <div class="row">
   <h1 id="edition-{{edition}}">Edizione {{edition}}</h1>
 </div>
-{% set edition_data = get_taxonomy_term(kind="edition", term=edition) %}
+{% set edition_data = get_taxonomy_term(kind="edizioni", term=edition) %}
 {% set page_list = edition_data.pages %}
 {% include "post_list.html" %}
 

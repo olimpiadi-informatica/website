@@ -6,7 +6,7 @@ updated = "2020-12-03T09:18:54"
 
 [taxonomies]
 gare = ["territoriali"]
-edition = ["2019-2020"]
+edizioni = ["2019-2020"]
 
 [extra]
 thumbnail = ""

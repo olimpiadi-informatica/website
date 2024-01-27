@@ -6,7 +6,7 @@ updated = "2016-10-20T12:40:07"
 description = "selezione territoriale regionale 2010-2011"
 
 [taxonomies]
-edition = ["2010-2011"]
+edizioni = ["2010-2011"]
 gare = ["territoriali"]
 
 [extra]

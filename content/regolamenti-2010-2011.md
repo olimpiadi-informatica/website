@@ -6,7 +6,7 @@ updated = "2016-10-20T13:29:15"
 description = "regolamento selezione scolastica territoriale regionale gara nazionale finale 2010-2011"
 
 [taxonomies]
-edition = ["2010-2011"]
+edizioni = ["2010-2011"]
 
 [extra]
 override_updated = "2016-10-20T13:29:15"

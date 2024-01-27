@@ -3,7 +3,7 @@ title = "Regolamenti 2006"
 date = 2005-01-01T00:37:45.366Z
 
 [taxonomies]
-edition = ["2006"]
+edizioni = ["2006"]
 
 [extra]
 override_updated = 2024-01-23T00:37:45.376Z

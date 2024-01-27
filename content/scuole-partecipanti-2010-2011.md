@@ -6,7 +6,7 @@ updated = "2016-10-20T12:40:28"
 description = "scuole partecipanti selezione scolastica 2010-2011"
 
 [taxonomies]
-edition = ["2010-2011"]
+edizioni = ["2010-2011"]
 
 [extra]
 override_updated = "2016-10-20T12:40:28"

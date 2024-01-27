@@ -5,7 +5,7 @@ date = 2008-01-01T06:57:10Z
 updated = "2016-10-21T10:01:02"
 
 [taxonomies]
-edition = [ "2008",]
+edizioni = [ "2008",]
 gare = [ "territoriali",]
 
 [extra]
