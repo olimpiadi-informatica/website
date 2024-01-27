@@ -4,6 +4,10 @@ title = "IOI 2016"
 date = "2016-10-13T07:59:29"
 updated = "2016-10-13T08:35:48"
 
+[taxonomies]
+edition = ["2015-2016"]
+contest = ["international"]
+
 [extra]
 override_updated = "2016-10-13T08:35:48"
 +++
