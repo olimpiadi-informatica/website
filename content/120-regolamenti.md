@@ -3,6 +3,7 @@ draft = false
 title = "Regolamenti 2016-2017"
 date = "2016-09-28T12:48:45"
 updated = "2017-05-04T15:36:28"
+description = "regolamenti 2016-2017"
 
 [taxonomies]
 edition = ["2016-2017"]
