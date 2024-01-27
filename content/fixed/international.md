@@ -4,7 +4,7 @@ title = "Gare internazionali"
 updated = 2023-12-20T00:35:56.000
 +++
 Le IOI <a href="https://ioinformatics.org/">International Olympiad in Informatics</a> sono la più imporante gara di competitive programming 
-per studenti del superiori e il nostro paese vi prende parte dal //METTETE L?ANNO//.
+per studenti del superiori e il nostro paese vi prende parte dal 2000.
 
 Le IOI sono nate nel 1989 con l'obiettivo primario di stimolare l'interesse nell'informatica e nella tecnologia dell'informazione.<br/>Un altro obiettivo è raggruppare talenti eccezionali dalle varie nazioni per far loro condividere esperienze scientifiche e culturali.
 
