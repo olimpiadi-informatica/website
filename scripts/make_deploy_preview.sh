@@ -27,8 +27,7 @@ DESTINATION="$BASE_DESTINATION/$SHA"
 
 BASE_URL="https://$SHA.nightly.olimpiadi-informatica.it/"
 
-# There is no Zola packages for Ubuntu, build using the docker image
-docker run -u "$(id -u):$(id -g)" -v "$PWD:/app" --workdir /app ghcr.io/getzola/zola:v0.18.0 build -u $BASE_URL
+zola build -u $BASE_URL
 
 rm -rf "$DESTINATION"
 cp -rl public/ "$DESTINATION"

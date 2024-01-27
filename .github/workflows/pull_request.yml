@@ -15,6 +15,7 @@ jobs:
         with:
           host: unito.olinfo.it
           username: ioi
+          port: 23528
           key: ${{ secrets.SSH_KEY }}
           passphrase: ${{ secrets.SSH_PASSPHRASE }}
           script_stop: true
