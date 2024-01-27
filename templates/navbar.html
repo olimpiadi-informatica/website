@@ -9,22 +9,22 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        {% set active = taxonomy and taxonomy.name == 'contest' %}
+        {% set active = taxonomy and taxonomy.name == 'gare' %}
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle {%if active%}active{%endif%}" href="#"
              role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Gare
           </a>
           <ul class="dropdown-menu">
-            {% set term = get_taxonomy_term(kind="contest", term="school") %}
+            {% set term = get_taxonomy_term(kind="gare", term="scolastiche") %}
             <li><a class="dropdown-item" href="{{term.path}}">Scolastiche</a></li>
-            {% set term = get_taxonomy_term(kind="contest", term="regional") %}
+            {% set term = get_taxonomy_term(kind="gare", term="territoriali") %}
             <li><a class="dropdown-item" href="{{term.path}}">Territoriali</a></li>
-            {% set term = get_taxonomy_term(kind="contest", term="national") %}
+            {% set term = get_taxonomy_term(kind="gare", term="nazionali") %}
             <li><a class="dropdown-item" href="{{term.path}}">Nazionali</a></li>
-            {% set term = get_taxonomy_term(kind="contest", term="stage") %}
+            {% set term = get_taxonomy_term(kind="gare", term="stage") %}
             <li><a class="dropdown-item" href="{{term.path}}">Stage</a></li>
-            {% set term = get_taxonomy_term(kind="contest", term="international") %}
+            {% set term = get_taxonomy_term(kind="gare", term="internazionali") %}
             <li><a class="dropdown-item" href="{{term.path}}">Internazionali</a></li>
           </ul>
         </li>
@@ -60,7 +60,7 @@
 </nav>
 <script type="text/javascript">
   const specialURIs = {};
-  {% set taxonomy = get_taxonomy(kind="contest") %}
+  {% set taxonomy = get_taxonomy(kind="gare") %}
   {% for term in taxonomy.items %}
   {% set path = ["pagine/", term.name, ".md"] | join %}
   {% set page = get_page(path=path) %}

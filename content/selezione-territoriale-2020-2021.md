@@ -6,7 +6,7 @@ updated = "2021-10-08T13:52:15"
 
 [taxonomies]
 edition = ["2020-2021"]
-contest = ["regional"]
+gare = ["territoriali"]
 
 [extra]
 thumbnail = ""

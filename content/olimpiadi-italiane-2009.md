@@ -6,7 +6,7 @@ updated = "2016-10-20T13:19:54"
 description = "gara nazionale olimpiadi 2008-2009 verona"
 
 [taxonomies]
-contest = ["national"]
+gare = ["nazionali"]
 edition = ["2008-2009"]
 
 [extra]

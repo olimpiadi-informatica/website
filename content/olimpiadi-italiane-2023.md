@@ -6,7 +6,7 @@ updated = "2023-10-28T09:28:34"
 description = "gara nazionale olimpiadi 2023"
 
 [taxonomies]
-contest = ["national"]
+gare = ["nazionali"]
 edition = ["2022-2023"]
 
 [extra]

@@ -6,7 +6,7 @@ updated = "2019-05-28T14:26:50"
 
 [taxonomies]
 edition = [ "2018-2019",]
-contest = [ "digit", ]
+gare = [ "digit", ]
 
 [extra]
 thumbnail = "/images/uploads/15d43aef6c8a5134e1fc00a9c98b8ab0.jpg"

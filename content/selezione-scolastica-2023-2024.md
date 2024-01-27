@@ -4,7 +4,7 @@ date = 2023-11-01T15:25:04.211Z
 description = "selezione scolastica 2023 2024"
 
 [taxonomies]
-contest = ["school"]
+gare = ["scolastiche"]
 edition = ["2023-2024"]
 
 [extra]

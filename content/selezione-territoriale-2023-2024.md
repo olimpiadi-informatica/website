@@ -4,7 +4,7 @@ date = 2024-01-21T15:35:16.016Z
 description = "selezione territoriale terry 2023 2024"
 
 [taxonomies]
-contest = ["regional"]
+gare = ["territoriali"]
 edition = ["2023-2024"]
 
 [extra]

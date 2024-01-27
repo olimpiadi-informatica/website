@@ -6,7 +6,7 @@ updated = "2018-02-26T17:02:44"
 description = "gara nazionale finale 2015-2016 catania"
 
 [taxonomies]
-contest = ["national"]
+gare = ["nazionali"]
 edition = ["2015-2016"]
 
 [extra]

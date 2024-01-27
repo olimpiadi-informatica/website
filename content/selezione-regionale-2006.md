@@ -6,7 +6,7 @@ updated = "2016-10-21T10:31:20"
 
 [taxonomies]
 edition = [ "2006",]
-contest = [ "regional",]
+gare = [ "territoriali",]
 
 [extra]
 override_updated = "2016-10-21T10:31:20"

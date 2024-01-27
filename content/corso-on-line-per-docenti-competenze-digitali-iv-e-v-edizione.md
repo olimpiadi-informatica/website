@@ -7,7 +7,7 @@ description = "corso docenti competenze digitali 2015-2016 "
 
 [taxonomies]
 edition = ["2015-2016"]
-contest = ["digit"]
+gare = ["digit"]
 
 [extra]
 thumbnail = "/images/uploads/d6e7bc44feb1613d041d5385e5745b10.jpg"

@@ -5,7 +5,7 @@ date = "2021-10-08T13:52:38"
 updated = "2022-03-02T17:47:50"
 
 [taxonomies]
-contest = ["school"]
+gare = ["scolastiche"]
 edition = ["2021-2022"]
 
 [extra]

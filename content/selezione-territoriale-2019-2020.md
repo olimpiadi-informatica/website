@@ -5,7 +5,7 @@ date = "2020-10-01T10:27:15"
 updated = "2020-12-03T09:18:54"
 
 [taxonomies]
-contest = ["regional"]
+gare = ["territoriali"]
 edition = ["2019-2020"]
 
 [extra]

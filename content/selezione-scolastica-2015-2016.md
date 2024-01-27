@@ -6,7 +6,7 @@ updated = "2016-03-08T17:36:21"
 description = "selezione scolastica 2015-2016"
 
 [taxonomies]
-contest = ["school"]
+gare = ["scolastiche"]
 edition = ["2015-2016"]
 
 [extra]

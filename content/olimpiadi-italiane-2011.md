@@ -6,7 +6,7 @@ updated = "2016-10-20T12:37:43"
 description = "finale nazionale 2010-2011 sirmione "
 
 [taxonomies]
-contest = ["national"]
+gare = ["nazionali"]
 edition = ["2010-2011"]
 
 [extra]

@@ -5,7 +5,7 @@ date = 2018-09-16T11:34:15Z
 updated = "2019-06-27T15:39:20"
 
 [taxonomies]
-contest = [ "national",]
+gare = [ "nazionali",]
 edition = [ "2017-2018",]
 
 [extra]

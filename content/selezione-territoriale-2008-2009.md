@@ -5,7 +5,7 @@ date = 2009-04-14T11:50:29.000Z
 updated = "2016-10-20T13:24:01"
 
 [taxonomies]
-contest = ["regional"]
+gare = ["territoriali"]
 edition = ["2008-2009"]
 
 [extra]

@@ -7,7 +7,7 @@ description = "probabili olimpici po stage 2010-2011 sirmione volterra"
 
 [taxonomies]
 edition = ["2010-2011"]
-contest = ["stage"]
+gare = ["stage"]
 
 [extra]
 override_updated = "2016-10-20T13:43:00"

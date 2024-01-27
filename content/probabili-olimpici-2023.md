@@ -6,7 +6,7 @@ updated = "2023-07-14T10:41:18"
 description = "stage 2023 probabili olimpici po"
 
 [taxonomies]
-contest = ["stage"]
+gare = ["stage"]
 edition = ["2021-2022"]
 
 [extra]
