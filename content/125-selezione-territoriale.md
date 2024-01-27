@@ -3,6 +3,7 @@ draft = false
 title = "Selezione territoriale 2011-2012"
 date = 2012-03-31T11:50:29.000Z
 updated = "2016-10-20T12:27:55"
+description = "selezione territoriale regionale 2011-2012"
 
 [taxonomies]
 contest = ["regional"]
