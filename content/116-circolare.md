@@ -3,6 +3,7 @@ draft = false
 title = "Circolare 2010-2011"
 date = 2010-09-01T11:39:09.000Z
 updated = "2016-10-20T12:41:40"
+description = "circolare 2010-2011 sirmione"
 
 [taxonomies]
 edition = ["2010-2011"]
