@@ -5,7 +5,7 @@ date = "2016-10-13T07:59:29"
 updated = "2016-10-13T08:35:48"
 
 [taxonomies]
-edition = ["2015-2016"]
+edition = ["2014-2015"]
 contest = ["international"]
 
 [extra]
