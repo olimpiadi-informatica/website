@@ -10,7 +10,7 @@ build_search_index = true
 default_language = "it"
 
 taxonomies = [
-  {name = "edition"},
+  {name = "edizioni"},
   {name = "gare"}
 ]
 
