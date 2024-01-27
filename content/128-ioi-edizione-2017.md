@@ -3,10 +3,11 @@ draft = false
 title = "IOI 2017"
 date = "2017-01-16T17:18:34"
 updated = "2018-05-31T09:59:29"
+description = "international olympiad informatics ioi 2017 2015-2016 iran tehran "
 
 [taxonomies]
-edition = [ "2015-2016",]
-contest = [ "international",]
+edition = ["2015-2016"]
+contest = ["international"]
 
 [extra]
 thumbnail = "/images/uploads/f60a47f7792630a3a86bc14c0657e89c.jpg"
