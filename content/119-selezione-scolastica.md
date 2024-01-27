@@ -1,12 +1,13 @@
 +++
 draft = false
 title = "Selezione scolastica 2010-2011"
-date = 2010-12-05T12:43:32Z
+date = 2010-12-05T12:43:32.000Z
 updated = "2018-10-24T07:34:27"
+description = "selezione scolastica 2010-2011"
 
 [taxonomies]
-contest = [ "school",]
-edition = [ "2010-2011",]
+contest = ["school"]
+edition = ["2010-2011"]
 
 [extra]
 override_updated = "2018-10-24T07:34:27"
