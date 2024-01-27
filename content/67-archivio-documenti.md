@@ -4,6 +4,9 @@ title = "Circolare 2005"
 date = "2016-10-13T08:00:13"
 updated = "2016-10-21T11:09:23"
 
+[taxonomies]
+edition = ["2005"]
+
 [extra]
 override_updated = "2016-10-21T11:09:23"
 +++
