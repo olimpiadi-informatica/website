@@ -3,6 +3,7 @@ draft = false
 title = "Scuole partecipanti 2016-2017"
 date = "2016-11-18T16:56:03"
 updated = "2017-11-07T17:08:33"
+description = "scuole partecipanti 2016-2017"
 
 [taxonomies]
 edition = ["2016-2017"]
