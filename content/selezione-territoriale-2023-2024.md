@@ -10,7 +10,7 @@ edition = ["2023-2024"]
 [extra]
 override_updated = 2024-01-21T15:37:13.612Z
 +++
-Sono **1877 gli studenti** ammessi alla Selezione Territoriale del 23 aprile 2024.[Scarica qui](/results/Nazionalisti2023_ammessi_territoriale2024.xlsx) l’elenco.
+Sono **1877 gli studenti** ammessi alla Selezione Territoriale del 23 aprile 2024. [Scarica qui](/results/Nazionalisti2023_ammessi_territoriale2024.xlsx) l’elenco.
 
 <!-- more -->
 
