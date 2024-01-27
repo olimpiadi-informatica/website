@@ -2,6 +2,10 @@
 title = "IOI 2012"
 date = 2024-01-23T19:35:47.766Z
 
+[taxonomies]
+contest = ["international"]
+edition = ["2010-2011"]
+
 [extra]
 override_updated = 2024-01-23T19:35:47.802Z
 +++
