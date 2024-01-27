@@ -62,7 +62,7 @@
   const specialURIs = {};
   {% set taxonomy = get_taxonomy(kind="contest") %}
   {% for term in taxonomy.items %}
-  {% set path = ["fixed/", term.name, ".md"] | join %}
+  {% set path = ["pagine/", term.name, ".md"] | join %}
   {% set page = get_page(path=path) %}
   specialURIs["{{page.permalink | safe}}"] = "{{term.permalink | safe}}";
   {% endfor %}

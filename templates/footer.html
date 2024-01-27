@@ -12,13 +12,13 @@
         </p>
       </div>
       <div class="col-lg-3">
-        {% set page = get_page(path="fixed/stampa.md") %}
+        {% set page = get_page(path="pagine/stampa.md") %}
         <p><a href="{{page.path}}" class="link-light">Rassegna stampa</a></p>
-        {% set page = get_page(path="fixed/storia-oii.md") %}
+        {% set page = get_page(path="pagine/storia-oii.md") %}
         <p><a href="{{page.path}}" class="link-light">Storia delle OII</a></p>
-        {% set page = get_page(path="fixed/organizzazione.md") %}
+        {% set page = get_page(path="pagine/organizzazione.md") %}
         <p><a href="{{page.path}}" class="link-light">Organizzazione</a></p>
-        {% set page = get_page(path="fixed/collaborazioni.md") %}
+        {% set page = get_page(path="pagine/collaborazioni.md") %}
         <p><a href="{{page.path}}" class="link-light">Collaborazioni con università</a></p>
         {% set term = get_taxonomy_term(kind="contest", term="digit") %}
         <p><a href="{{term.path}}" class="link-light">Corso competenze digitali</a></p>

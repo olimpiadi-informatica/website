@@ -1,5 +1,5 @@
 +++
 title = "Contenuto fisso"
-page_template = "fixed.html"
+page_template = "pagine.html"
 +++
 # NON CANCELLARE O MODIFICARE QUESTO FILE
