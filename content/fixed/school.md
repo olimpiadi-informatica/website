@@ -3,9 +3,6 @@ draft = false
 title = "Selezione scolastica"
 updated = 2023-12-20T00:35:56
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Le selezioni scolastiche sono la prima fase del percorso delle olimpiadi di informatica. Si svolgono tipicamente verso fine anno in ognuna delle scuole partecipanti, e consistono di quesiti di carattere logico-matematico, di programmazione e di tipo algoritmico.
+
+Sono aperte a studenti e studentesse di tutte le classi delle scuole superiori, e sono pensate per essere accessibili anche a chi si trova alle prime armi e non conosce la programmazione. Questa conoscenza è infatti richiesta solo dalla fase successiva, le selezioni territoriali, lasciando tempo agli studenti di prepararsi adeguatamente.
