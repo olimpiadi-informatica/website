@@ -12,6 +12,8 @@ override_updated = 2024-01-21T15:25:04.227Z
 +++
 La Selezione Scolastica della XXIV edizione delle OII si è svolta giovedì 14 dicembre 2023.
 
+<!-- more -->
+
 90 minuti il tempo a disposizione.
 
 La prova consiste, come sempre, nella risoluzione di esercizi di carattere logico-matematico, algoritmico e di programmazione. I problemi di programmazione sono proposti in pseudocodice.
