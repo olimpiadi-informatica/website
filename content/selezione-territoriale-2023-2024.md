@@ -1,6 +1,6 @@
 +++
 title = "Selezione territoriale 2023-2024"
-date = 2024-01-27T15:35:16.016Z
+date = 2024-01-21T15:35:16.016Z
 description = "selezione territoriale terry 2023 2024"
 
 [taxonomies]
