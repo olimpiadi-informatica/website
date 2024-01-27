@@ -1,8 +1,11 @@
 +++
 draft = false
-title = "Archivio documenti"
+title = "Circolare 2004"
 date = "2016-10-13T08:00:13"
 updated = "2016-10-13T09:23:00"
+
+[taxonomies]
+edition = ["2004"]
 
 [extra]
 override_updated = "2016-10-13T09:23:00"
