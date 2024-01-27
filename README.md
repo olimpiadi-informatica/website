@@ -1,5 +1,8 @@
 # website
-olimpiadi-informatica.it
+[olimpiadi-informatica.it](https://olimpiadi-informatica.it)
+
+## Contributing
+[edit.olimpiadi-informatica.it](https://edit.olimpiadi-informatica.it)
 
 ## Testing locally
 
