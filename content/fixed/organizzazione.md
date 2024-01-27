@@ -11,7 +11,7 @@ E' composto da rappresentanti del Ministero dell'Istruzione e di AICA (Decreto d
 
 Il Comitato è incaricato di coordinare e gestire le Olimpiadi Italiane di Informatica e la partecipazione dell'Italia alle Olimpiadi Internazionali di Informatica per l'anno scolastico 2019-2020.
 
-Il Comitato Olimpico per le Olimpiadi Italiane di Informatica risuta così composto:
+Il Comitato Olimpico per le Olimpiadi Italiane di Informatica risulta così composto:
 
 - **Luigi Laura - Presidente** (Professore Associato, Uninettuno)
 - **Anna Brancaccio - Vicepresidente** (Dirigente Dir. Gen. Ordinamenti Scolastici - Ministero Istruzione)
