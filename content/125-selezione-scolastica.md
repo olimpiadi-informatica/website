@@ -3,6 +3,7 @@ draft = false
 title = "Selezione scolastica 2016-2017"
 date = "2016-11-18T17:06:03"
 updated = "2017-02-24T16:58:28"
+description = "selezione scolastica 2016-2017"
 
 [taxonomies]
 contest = ["school"]
