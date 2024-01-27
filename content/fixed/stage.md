@@ -3,9 +3,7 @@ draft = false
 title = "Stage di allenamento"
 updated = 2023-12-20T00:35:56
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Il processo di selezione adesso non si ferma più alla gara nazionale, ma continua in un percorso di formazione chiamato 
+PO, probabili olimpici. In basa alla classifica nazionale e all'età ogni anno un gruppo di studenti inizia un percorso di formazione 
+e selezione su più stage per preparare e scegliere i team da mandare alle varie gara internazionali. Il percorso è sicuramente impegnativo,
+ma per chiunque trovi nella programmazione una passione non c'è niente di più bello che condividerla con altri coetanei.

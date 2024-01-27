@@ -3,9 +3,7 @@ draft = false
 title = "Selezione territoriale"
 updated = 2023-12-20T00:35:56
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Le selezioni Territoriali, chiamate Terry, sono la prima fase dove è richiesta la capiacità di scrivere codice. 
+A parteciparvi sono i ragazzi che hanno ottenuto i migliori punteggi alle scolastiche che vengono divisi per sedi.
+Sono spesso un punto di svolta non sono nella competizione, ma anche per gli studenti, che si ritrovano per la prima 
+volta davanti a veri problemi da rislvere attraverso la scrittura di un codice.

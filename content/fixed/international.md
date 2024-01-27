@@ -3,9 +3,10 @@ draft = false
 title = "Gare internazionali"
 updated = 2023-12-20T00:35:56
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Le IOI <a href="https://ioinformatics.org/">International Olympiad in Informatics</a> sono la più imporante gara di competitive programming 
+per studenti del superiori e il nostro paese vi prende parte dal //METTETE L?ANNO//. 
+Ad oggi l'Italia partecipa anche ad altre competizioni internazionali come le BOI, le RMI e le WEOI, oltre alle gare 
+internazionali per la sensibilizzazione in merito alla partecipazione femminile nelle 
+discipline STEM di cui l'informatica fa parte. Ognuna di queste competizioni è ospitata in un paese differente ogni anno, 
+sono quindi non solo l'occasione dei ragazzi di dimostrare quanto valgono, ma gli danno la possibilità di conoscere 
+persone di moltissimi paesi diversi con cui condividono una grande passione.
