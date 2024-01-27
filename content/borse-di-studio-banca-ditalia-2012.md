@@ -27,7 +27,7 @@ I vincitori sono:
 
 Grazie a questa borsa di studio, i vincitori hanno avuto l'opportunità di seguire uno stage di due settimane in Inghilterra.
 
-I ragazzi, insieme all' Ing. Fabio Zanzottera di AICA che li ha accompagnati in qualità di tutor, dal 30 settembre all' 11 ottobre sono stati ospitati presso i laboratori IBM a Winchester. L'esperienza di lavoro, a loro offerta, prevedeva lo sviluppo di un applicativo web basato sulle piu' moderne tecnologie. Grande entusiamo da parte di tutto il team.
+I ragazzi, insieme all' Ing. Fabio Zanzottera di AICA che li ha accompagnati in qualità di tutor, dal 30 settembre all' 11 ottobre sono stati ospitati presso i laboratori IBM a Winchester. L'esperienza di lavoro, a loro offerta, prevedeva lo sviluppo di un applicativo web basato sulle piu' moderne tecnologie. Grande entusiasmo da parte di tutto il team.
 
 Qui sotto in gita a Londra:
 

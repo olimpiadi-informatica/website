@@ -28,7 +28,7 @@ I vincitori sono:
 
 Grazie a questa borsa di studio, i vincitori hanno avuto l'opportunità di seguire uno stage di due settimane in Inghilterra.
 
-I ragazzi, insieme all'Ing. Paolo Fantozzi che li ha accomapgnati in qualità di tutor, dal 2 al 14 luglio sono stati ospitati presso i laboratori IBM a Winchester.
+I ragazzi, insieme all'Ing. Paolo Fantozzi che li ha accompagnati in qualità di tutor, dal 2 al 14 luglio sono stati ospitati presso i laboratori IBM a Winchester.
 
 <div style="text-align: center;">
 

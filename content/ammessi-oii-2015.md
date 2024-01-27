@@ -45,6 +45,6 @@ in quanto partecipanti agli stage di formazione della passata edizione che ancor
 
 \* A parità di punteggio in qualsiasi classifica sono favoriti gli studenti di classe inferiore e, in caso di ulteriore parità, i più giovani.
 
-Classifica generale di tutti gli atleti partcipanti, 936 per l'esattezza, con il dettaglio del punteggio ottenuto per ciascun problema.
+Classifica generale di tutti gli atleti partecipanti, 936 per l'esattezza, con il dettaglio del punteggio ottenuto per ciascun problema.
 
 Verranno inoltre ammessi una decina di studenti provenienti dalle Olimpiadi Italiane di Matematica (medagliati oro e argento), che otterranno ottimi risultati alla gara on line monitorata dal Prof. Luigi Laura, che si terrà nel mese di Luglio, dopo convocazione a Giugno.
