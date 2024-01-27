@@ -1,12 +1,13 @@
 +++
 draft = false
 title = "Probabili Olimpici 2012"
-date = 2011-10-01T11:56:38Z
+date = 2011-10-01T11:56:38.000Z
 updated = "2016-10-20T12:35:40"
+description = "probabili olimpici po volterra stage 2011-2012 sirmione"
 
 [taxonomies]
-contest = [ "stage",]
-edition = [ "2011-2012",]
+contest = ["stage"]
+edition = ["2011-2012"]
 
 [extra]
 override_updated = "2016-10-20T12:35:40"
