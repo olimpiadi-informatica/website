@@ -1,12 +1,13 @@
 +++
 draft = false
 title = "Olimpiadi italiane 2017"
-date = 2017-09-20T15:19:00Z
+date = 2017-09-20T15:19:00.000Z
 updated = "2018-01-26T13:48:00"
+description = "finale nazionale 2016-2017 trento"
 
 [taxonomies]
-contest = [ "national",]
-edition = [ "2016-2017",]
+contest = ["national"]
+edition = ["2016-2017"]
 
 [extra]
 thumbnail = "/images/uploads/8dc425b2acbf9c68064b8a63eae1ffbc.jpg"
