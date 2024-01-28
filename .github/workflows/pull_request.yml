@@ -11,14 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Build and deploy preview 
-        uses: appleboy/ssh-action@1a8b3784eaa665f677fa114edd5683bb6a6bfaa8
-        with:
-          host: unito.olinfo.it
-          username: ioi
-          port: 23528
-          key: ${{ secrets.SSH_KEY }}
-          passphrase: ${{ secrets.SSH_PASSPHRASE }}
-          script_stop: true
-          script: |
-            cd ~/static-websites/nightly.olimpiadi-informatica.it/website
-            ./scripts/make_deploy_preview.sh ${{ github.event.pull_request.head.sha }} ../builds/ ${{ secrets.STATUS_ACCESS_TOKEN }}
+        run: |
+          curl -v -X POST \
+          -H "Content-Type: application/json" \
+          -d '{"secret": "${{ secrets.CD_SECRET}}", "sha": "${{ github.event.pull_request.head.sha }}", "gh_token": "${{ secrets.STATUS_ACCESS_TOKEN }}"}' \
+          unito.olinfo.it:23529/nightly
