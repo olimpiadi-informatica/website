@@ -11,7 +11,7 @@ gare = ["scolastiche"]
 [extra]
 override_updated = "2016-09-22T11:12:24"
 +++
-**La selezione scolastica delle Olimpiadi di Informatica ed. 2014-2015 si è svolta giovedi 13 Novembre 2014.**
+La selezione scolastica delle Olimpiadi di Informatica ed. 2014-2015 si è svolta giovedi 13 Novembre 2014.
 <!-- more -->
 
 

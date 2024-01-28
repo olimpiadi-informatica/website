@@ -12,7 +12,7 @@ edizioni = ["2016-2017"]
 [extra]
 override_updated = "2017-02-24T16:58:28"
 +++
-**La selezione scolastica edizione 2016-2017 si è svolta giovedì 17 novembre 2016.**
+La selezione scolastica edizione 2016-2017 si è svolta giovedì 17 novembre 2016.
 <!-- more -->
 
 Hanno partecipato oltre 14500 atleti: [scarica qui la graduatoria generale di tutti i partecipanti](/oldsite/125/Classifica_generale_scolastica2016_pubblicata.xlsx)

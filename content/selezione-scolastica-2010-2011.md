@@ -12,8 +12,7 @@ edizioni = ["2010-2011"]
 [extra]
 override_updated = "2018-10-24T07:34:27"
 +++
-
-**La selezione scolastica delle Olimpiadi di Informatica ed. 2010-2011 si è svolta il 2 Dicembre 2010. Ben 441 gli Istituti Scolastici iscritti, con un totale di circa 10.000 atleti.**
+La selezione scolastica delle Olimpiadi di Informatica ed. 2010-2011 si è svolta il 2 Dicembre 2010. Ben 441 gli Istituti Scolastici iscritti, con un totale di circa 10.000 atleti.
 
 <!-- more -->
 

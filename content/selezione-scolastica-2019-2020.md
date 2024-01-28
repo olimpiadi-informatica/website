@@ -12,7 +12,7 @@ edizioni = ["2019-2020"]
 [extra]
 override_updated = "2019-12-17T17:25:47"
 +++
-**Mercoledì 20 novembre 2019 si è svolta la gara di Selezione Scolastica della XX edizione in 550 istituti d'Italia.**
+Mercoledì 20 novembre 2019 si è svolta la gara di Selezione Scolastica della XX edizione in 550 istituti d'Italia.
 <!-- more -->
 
 La prova dura 90 minuti e consiste nella soluzione di **20 esercizi a carattere logico-matematico, algoritmico e di programmazione**. I problemi di programmazione sono proposti in pseudocodice e in C.

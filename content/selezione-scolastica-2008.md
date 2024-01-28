@@ -11,7 +11,8 @@ gare = ["scolastiche"]
 [extra]
 override_updated = "2017-11-08T17:11:35"
 +++
-**La selezione scolastica si è svolta il 23 Novembre 2007. Sono disponibili le prove assegnate per la Selezione scolastica ed il relativo correttore. **
+La selezione scolastica si è svolta il 23 Novembre 2007. Sono disponibili le prove assegnate per la Selezione scolastica ed il relativo correttore.
+
 <!-- more -->
 
 [Prove per il linguaggio C](/oldsite/89/Selezione_Scolastica_C.pdf)

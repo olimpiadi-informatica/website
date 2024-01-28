@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Selezione scolastica 2004"
+title = "Selezione scolastica 2003-2004"
 date = 2003-12-01T06:55:42.000Z
 updated = "2016-10-14T13:05:57"
 
@@ -11,15 +11,11 @@ edizioni = ["2004"]
 [extra]
 override_updated = "2016-10-14T13:05:57"
 +++
-**La selezione scolastica 2004 si è svolta il 20 novembre 2003 presso tutti gli Istituti iscritti alle Olimpiadi di Informatica 2004. Le prove assegnate alla selezione scolastica sono disponibili in formato pdf.
-**
+La selezione scolastica 2004 si è svolta il 20 novembre 2003 presso tutti gli Istituti iscritti alle Olimpiadi di Informatica 2004. Le prove assegnate alla selezione scolastica sono disponibili in formato pdf.
+
 <!-- more -->
 
 [Prova C o Pascal](/oldsite/65/prove%20C-Pascal.pdf)
-
-<div style="text-align: center;">
-
-</div>
 
 Il 9 dicembre 2003 il Comitato Olimpico si è riunito per stabilire, sulla base dei punteggi riportati dagli studenti, il criterio di ammissione alla fase di selezione successiva.
 

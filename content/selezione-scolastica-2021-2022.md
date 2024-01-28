@@ -11,7 +11,7 @@ edizioni = ["2021-2022"]
 [extra]
 override_updated = "2022-03-02T17:47:50"
 +++
-**Martedì 8 febbraio 2022 dalle ore 11.00 alle ore 12.30 (durata 90 minuti) si è svolta la gara di Selezione Scolastica della XXII edizione.**
+Martedì 8 febbraio 2022 dalle ore 11.00 alle ore 12.30 (durata 90 minuti) si è svolta la gara di Selezione Scolastica della XXII edizione.
 <!-- more -->
 
 La prova consiste, come sempre, nella risoluzione di esercizi di carattere logico-matematico, algoritmico e di programmazione. I problemi di programmazione sono proposti in pseudocodice.

@@ -12,7 +12,7 @@ edizioni = ["2018-2019"]
 [extra]
 override_updated = "2019-08-07T10:26:38"
 +++
-**Giovedì 15 novembre 2018 si è svolta la gara di Selezione Scolastica della XIX edizione in 548 istituti d'Italia**
+Giovedì 15 novembre 2018 si è svolta la gara di Selezione Scolastica della XIX edizione in 548 istituti d'Italia.
 <!-- more -->
 
 La prova dura 90 minuti e consiste nella soluzione di **20 esercizi a carattere logico-matematico, algoritmico e di programmazione**. I problemi di programmazione sono proposti in pseudo codice.

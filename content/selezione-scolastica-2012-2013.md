@@ -11,7 +11,7 @@ edizioni = ["2012-2013"]
 [extra]
 override_updated = "2018-10-24T07:30:01"
 +++
-**La selezione scolastica delle Olimpiadi di Informatica ed. 2012-2013 si è svolta venerdì 30 Novembre 2012. 395 Istituti iscritti a questa edizione.**
+La selezione scolastica delle Olimpiadi di Informatica ed. 2012-2013 si è svolta venerdì 30 Novembre 2012. 395 Istituti iscritti a questa edizione.
 <!-- more -->
 
 

@@ -11,7 +11,7 @@ edizioni = [ "2013-2014",]
 [extra]
 override_updated = "2017-11-07T15:47:49"
 +++
-**La selezione scolastica delle Olimpiadi di Informatica ed. 2013-2014 si è svolta giovedì 21 Novembre 2013.**
+La selezione scolastica delle Olimpiadi di Informatica ed. 2013-2014 si è svolta giovedì 21 Novembre 2013.
 <!-- more -->
 
 Scarica il [Regolamento della Selezione Scolastica](/oldsite/sc2013/OII-RegSelScolastica.pdf) edizione 2013-2014 e il suo allegato di [istruzioni](/oldsite/sc2013/istruzioni_scolastica%20nov_%202013.pdf).
