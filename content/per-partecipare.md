@@ -29,7 +29,27 @@ Per partecipare lo studente deve essere:
 
 1. **Fasi del processo di selezione e formazione**
 
-- Selezione scolastica: le singole scuole operano una prima selezione con test preparati a livello nazionale dall'organizzazione che li fa pervenire, unitamente alle modalità di correzione, alla persona indicata dalla scuola come referente. I test misurano sia la capacità di individuare gli algoritmi risolutivi di problemi logici sia la conoscenza dei linguaggi Pascal oppure C/C++ (linguaggi ufficialmente consentiti in questa competizione internazionale). Per orientare i ragazzi ad affrontare i test, sono disponibili una guida ed una serie di esempi che si possono liberamente scaricare dal sito.
-- Selezione territoriale: gli studenti selezionati vengono sottoposti a un secondo test a livello territoriale, con prove che richiedono la soluzione di problemi al computer. La selezione porta all'individuazione di circa 80/90 studenti da ammettere alla fase successiva.
-- Olimpiadi Italiane di Informatica: gli studenti selezionati a livello territoriale sono chiamati a sostenere la gara nazionale con problemi di difficoltà simile a quelli delle gare internazionali. La gara, che si svolgerà ogni anno in una diversa regione italiana, designa i vincitori della Olimpiade Italiana e seleziona altresì i Probabili Olimpici (PO). Le sole spese di viaggio sono a carico delle singole scuole.
-- Corsi di formazione ed ulteriori selezioni: i PO sono chiamati a seguire corsi di preparazione a carattere residenziale e telematico tenuti da docenti universitari. Al termine si effettua un'ulteriore selezione che porta alla costituzione della Squadra olimpica internazionale (4 titolari e 2 riserve). Le spese di viaggio e soggiorno sono a carico dell'organizzazione.
+- Selezione scolastica: le singole scuole operano una prima selezione con test
+  preparati a livello nazionale dall'organizzazione che li fa pervenire,
+  unitamente alle modalità di correzione, alla persona indicata dalla scuola
+  come referente. I test misurano sia la capacità di individuare gli algoritmi
+  risolutivi di problemi logici sia la conoscenza dei linguaggi Pascal oppure
+  C/C++ (linguaggi ufficialmente consentiti in questa competizione
+  internazionale). Per orientare i ragazzi ad affrontare i test, sono
+  disponibili una guida ed una serie di esempi che si possono liberamente
+  scaricare dal sito.
+- Selezione territoriale: gli studenti selezionati vengono sottoposti a un
+  secondo test a livello territoriale, con prove che richiedono la soluzione di
+  problemi al computer. La selezione porta all'individuazione di circa 80/90
+  studenti da ammettere alla fase successiva.
+- Olimpiadi Italiane di Informatica: gli studenti selezionati a livello
+  territoriale sono chiamati a sostenere la gara nazionale con problemi di
+  difficoltà simile a quelli delle gare internazionali. La gara, che si
+  svolgerà ogni anno in una diversa regione italiana, designa i vincitori della
+  Olimpiade Italiana e seleziona altresì i Probabili Olimpici (PO). Le sole
+  spese di viaggio sono a carico delle singole scuole.
+- Corsi di formazione ed ulteriori selezioni: i PO sono chiamati a seguire
+  corsi di preparazione a carattere residenziale e telematico tenuti da docenti
+  universitari. Al termine si effettua un'ulteriore selezione che porta alla
+  costituzione della Squadra olimpica internazionale (4 titolari e 2 riserve).
+  Le spese di viaggio e soggiorno sono a carico dell'organizzazione.

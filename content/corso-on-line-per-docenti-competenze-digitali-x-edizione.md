@@ -27,6 +27,6 @@ Al termine del percorso formativo, si è svolta una mini olimpiade da venerdì 1
 
 Per maggiori informazioni clicca [qui](https://www.miur.gov.it/web/guest/-/competenze-digitali-decima-edizione-iscrizione-corso-on-line)
 
-E' possibileconsultare le precedenti edizioni alla pagina: [https://www.olimpiadi-informatica.it/index.php/component/k2/item/122-corso-competenze-digitali.html](index.php/component/k2/item/122-corso-competenze-digitali.html)
+E' possibile consultare [le precedenti edizioni](/gare/digit).
 
 **[Vedi qui l'elenco](/oldsite/180/X%20edizione%20Corso%20Competenze%20Digitali%20docenti%20ammessi_1133.pdf) dei 1134 docenti ammessi alla X edizione.**

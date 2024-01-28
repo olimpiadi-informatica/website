@@ -77,7 +77,7 @@ Per partecipare lo studente deve essere:
 
 **2. Modalità di partecipazione**
 
-- Le scuole che intendono aderire devono iscriversi, registrando i propri dati direttamente sul web. Il link di accesso al sistema di registrazione è raggiungibile dal sito ufficiale della manifestazione: [www.olimpiadi-informatica.it](http://www.olimpiadi-informatica.it).
+- Le scuole che intendono aderire devono iscriversi, registrando i propri dati direttamente sul web. Il link di accesso al sistema di registrazione è raggiungibile dal sito ufficiale della manifestazione: [www.olimpiadi-informatica.it](https://www.olimpiadi-informatica.it).
 - Le istituzioni scolastiche, all’atto dell’iscrizione, devono indicare un docente referente, cioè la persona con cui l’organizzazione olimpica si terrà in contatto per inviare tutte le informazioni e le comunicazioni necessarie. I rapporti si terranno prevalentemente via e-mail. Tali iscrizioni non devono essere effettuate dagli studenti ma bensì dalle scuole interessate.
 - Le varie fasi del processo di selezione si terranno in presenza o online, in funzione delle restrizioni vigenti causa emergenza sanitaria COVID-19.
 
@@ -95,7 +95,7 @@ Per partecipare lo studente deve essere:
 
 Si segnala inoltre che in alcune regioni, grazie a protocolli di intesa stipulati con le locali Università, si svolgeranno attività di formazione per gli studenti e di sostegno per i docenti con riferimento alle varie fasi di selezione. Attualmente sono attive collaborazioni con i Dipartimenti di Informatica delle Università La Sapienza e Luiss di Roma, di Milano, di Bologna, di Trento, dell’Aquila, di Campobasso, di Pisa, di Torino e Catania. Altre potranno avviarsi nei prossimi mesi con l’intento di coprire l'intero territorio nazionale.
 
-Eventuali chiarimenti potranno essere richiesti telefonando al n° 02.76455025 (Segreteria Olimpiadi di Informatica) o scrivendo all'indirizzo [info@olimpiadi-informatica.it](mailto:info@olimpiadi-informatica.it)oppure accedendo al sito [www.olimpiadi-informatica.it](http://www.olimpiadi-informatica.it)dove sono disponibili:
+Eventuali chiarimenti potranno essere richiesti telefonando al n° 02.76455025 (Segreteria Olimpiadi di Informatica) o scrivendo all'indirizzo [info@olimpiadi-informatica.it](mailto:info@olimpiadi-informatica.it)oppure accedendo al sito [www.olimpiadi-informatica.it](https://www.olimpiadi-informatica.it)dove sono disponibili:
 
 - i collegamenti ai siti delle Olimpiadi Internazionali.
 - un'ampia raccolta delle prove assegnate nelle competizioni degli anni scorsi.
@@ -106,13 +106,13 @@ Altri siti con materiali relativi alle Olimpiadi Italiane di Informatica sono di
 
 **A questo link[https://www.olimpiadi-informatica.it/images/Regolamento_Selezione_Scolastica_8febbraio2022.pdf](/oldsite/203/Regolamento_Selezione_Scolastica_8febbraio2022.pdf)è disponibile il Regolamento della Selezione Scolastica, prevista per martedì 8 febbraio 2022.**
 
-Le successive fasi verranno regolamentate con successive disposizioni reperibili sul sito[www.olimpiadi-informatica.it](http://www.olimpiadi-informatica.it/).
+Le successive fasi verranno regolamentate con successive disposizioni reperibili sul sito[www.olimpiadi-informatica.it](https://www.olimpiadi-informatica.it/).
 
 **_Le scuole che intendono aderire potranno iscriversi gratuitamente registrando i propri dati direttamente sul web a partire dal 12 ottobre 2021. Il link di accesso al sistema di registrazione è raggiungibile dal sito ufficiale della manifestazione:_**
 
-# [https://ioicms.olimpiadi-informatica.it/ioiCMS2/welcome_registrazione.xhtml](https://ioicms.olimpiadi-informatica.it/ioiCMS2/welcome_registrazione.xhtml)
+[**www.olimpiadi-informatica.it**](https://www.olimpiadi-informatica.it)
 
-# _Le iscrizioni chiuderanno martedì 25 gennaio 2022._
+_Le iscrizioni chiuderanno martedì 25 gennaio 2022._
 
 Roma, ottobre 2021
 

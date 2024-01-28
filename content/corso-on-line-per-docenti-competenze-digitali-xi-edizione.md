@@ -27,4 +27,4 @@ Al termine del percorso formativo, si è svolta dal 3 al 13 maggio 2022 una mini
 
 Il bando protocollato è pubblicato sul sito del Ministero dell'Istruzione al seguente link:<br/>[https://www.miur.gov.it/web/guest/-/xi-edizione-corso-online-per-potenziare-le-competenza-digitali](https://www.miur.gov.it/web/guest/-/xi-edizione-corso-online-per-potenziare-le-competenza-digitali)
 
-E' possibileconsultare le precedenti edizioni alla pagina: [https://www.olimpiadi-informatica.it/index.php/component/k2/item/122-corso-competenze-digitali.html](index.php/component/k2/item/122-corso-competenze-digitali.html)
+E' possibile consultare [le precedenti edizioni](/gare/digit).

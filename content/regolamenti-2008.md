@@ -10,9 +10,6 @@ override_updated = 2024-01-23T00:30:46.607Z
 +++
 ### REGOLAMENTO PER LA SELEZIONE SCOLASTICA DEL 23 NOVEMBRE 2007
 
-<div style="text-align: center;">
-
-</div>
 Ammissione alla selezione
 
 * Alla gara sono ammessi tutti gli studenti che alla data del 1 luglio 2008 non avranno compiuto 20 anni e che provengono dagli Istituti iscritti alla competizione.

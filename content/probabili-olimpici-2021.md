@@ -15,7 +15,9 @@ override_updated = "2021-06-16T10:13:10"
 
 L'elenco degli atleti così soprannominati "Probabili Olimpici 2021" è stato deliberato alla conclusione della gara nazionale online il 25 novembre 2020.
 
-<br/>Gli studenti vincitori delle medaglie d'oro e d'argento diventano PO 2021. Risultano inoltre ammesse alla formazione due ragazze vincitrici delle medaglie di bronzo, per un totale di 29 studenti:
+Gli studenti vincitori delle medaglie d'oro e d'argento diventano PO 2021.
+Risultano inoltre ammesse alla formazione due ragazze vincitrici delle medaglie
+di bronzo, per un totale di 29 studenti:
 
 | medaglia | posizione | totale |   cognome   |       nome       |            scuola             |               città               | classe |
 | :------: | :-------: | :----: | :---------: | :--------------: | :---------------------------: | :-------------------------------: | :----: |
@@ -129,6 +131,4 @@ Armando Pellegrini
 
 Valerio Stancanelli
 
-A seguito delle ultime gare è stata proclamata la squadra IOI:
-
-[https://olimpiadi-informatica.it/index.php/ioi/edizione-2021.html](https://olimpiadi-informatica.it/index.php/ioi/edizione-2021.html)
+A seguito delle ultime gare è stata proclamata la [squadra IOI](@/ioi-2021.md).

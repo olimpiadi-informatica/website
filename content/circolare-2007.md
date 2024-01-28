@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Circolare 2007"
-date = "2016-10-13T08:00:13"
+date = "2006-01-02T08:00:13"
 updated = "2016-10-21T10:25:24"
 
 [taxonomies]
@@ -11,16 +11,6 @@ edizioni = ["2007"]
 override_updated = "2016-10-21T10:25:24"
 +++
 ## Circolare MPI
-
-<div style="text-align: center;">
-
-</div>
-
-<div style="text-align: right;">
-
-[Versione PDF](oii/vecchie_edizioni/2007/MPI_Olimpiadi%20di%20informatica%202007.pdf)
-
-</div>
 
 <div style="text-align: center;">
 

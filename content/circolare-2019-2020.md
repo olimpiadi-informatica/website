@@ -36,4 +36,6 @@ Nello Scarabottolo
 
 Roma, 30 settembre 2019
 
-Le scuole che intendono aderire potranno iscriversi gratuitamente registrando i propri dati direttamente sul web a partire dal 30 settembre. Il link di accesso al sistema di registrazione è raggiungibile dal sito ufficiale della manifestazione:<br/>[https://www.olimpiadi-informatica.it/index.php/oii/edizione-2019-2020.html](index.php/oii/edizione-2019-2020.html)
+Le scuole che intendono aderire potranno iscriversi gratuitamente registrando i propri dati direttamente sul web a partire dal 30 settembre. Il link di accesso al sistema di registrazione è raggiungibile dal sito ufficiale della manifestazione:
+
+[**www.olimpiadi-informatica.it**](https://www.olimpiadi-informatica.it)

@@ -41,4 +41,6 @@ Nello Scarabottolo<br/>Presidente del Comitato per le Olimpiadi Italiane di Info
 
 Roma, 25 settembre 2015
 
-Le scuole che intendono aderire devono iscriversi registrando i propri dati direttamente sul web a partire dal 25 settembre. Il link di accesso al sistema di registrazione è raggiungibile dal sito ufficiale della manifestazione:<br/>www.olimpiadi-informatica.it
+Le scuole che intendono aderire devono iscriversi registrando i propri dati direttamente sul web a partire dal 25 settembre. Il link di accesso al sistema di registrazione è raggiungibile dal sito ufficiale della manifestazione:
+
+[www.olimpiadi-informatica.it](https://www.olimpiadi-informatica.it)

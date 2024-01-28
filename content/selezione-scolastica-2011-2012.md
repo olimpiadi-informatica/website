@@ -16,14 +16,14 @@ override_updated = "2018-10-24T07:33:33"
 <!-- more -->
 
 
-[Scarica il Regolamento della Selezione Scolastica edizione 2011-2012](<http://www.olimpiadi-informatica.it/files/OII-RegSelScolastica_dic2011(1).pdf>)
+[Scarica il Regolamento della Selezione Scolastica edizione 2011-2012](/oldsite/sc2011/OII-RegSelScolastica_dic2011.pdf)
 
 Prove selezione scolastica:
 
-[Linguaggio Pascal](<http://www.olimpiadi-informatica.it/files/Selez_scol__2011_Pascal(1).pdf>)
+[Linguaggio Pascal](/oldsite/sc2011/Selez_scol__2011_Pascal.pdf)
 
-[Linguaggio C/C++](<http://www.olimpiadi-informatica.it/files/Selez_scol__2011_C(1).pdf>)
+[Linguaggio C/C++](/oldsite/sc2011/Selez_scol__2011_C.pdf)
 
-[Soluzioni](http://www.olimpiadi-informatica.it/files/Selez_scol%20_2011_SOLUZIONI.pdf)
+[Soluzioni](/oldsite/sc2011/Selez_scol%20_2011_SOLUZIONI.pdf)
 
-Analisi al dettaglio dei punteggi riportati dagli studenti durante le selezioni scolastiche dello scorso 1 Dicembre 2011 ([preleva](http://www.olimpiadi-informatica.it/files/Analisi%20risultati%202011.pdf)).
+Analisi al dettaglio dei punteggi riportati dagli studenti durante le selezioni scolastiche dello scorso 1 Dicembre 2011 ([preleva](/oldsite/sc2011/Analisi%20risultati%202011.pdf)).

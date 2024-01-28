@@ -43,7 +43,9 @@ Con l’auspicio che, per il suo tramite, la scuola italiana possa dare il massi
 
 <div style="text-align: right;">
 
-Nello Scarabottolo                            <br/>Presidente del Comitato per le Olimpiadi Italiane di Informatica
+Nello Scarabottolo
+
+Presidente del Comitato per le Olimpiadi Italiane di Informatica
 
 </div>
 
@@ -51,8 +53,4 @@ Roma, 27 settembre 2018
 
 **Le scuole che intendono aderire potranno iscriversi gratuitamente registrando i propri dati direttamente sul web a partire dal 28 settembre. Il link di accesso al sistema di registrazione è raggiungibile dal sito ufficiale della manifestazione:**
 
-<div style="text-align: center;">
-
-[https://www.olimpiadi-informatica.it/index.php/oii/edizione-2018-2019.html](index.php/oii/edizione-2018-2019.html)
-
-</div>
+[**www.olimpiadi-informatica.it**](https://www.olimpiadi-informatica.it)

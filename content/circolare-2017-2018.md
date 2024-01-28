@@ -43,10 +43,14 @@ Con viva cordialità.
 
 <div style="text-align: right;">
 
-Nello Scarabottolo                            <br/>Presidente del Comitato per le Olimpiadi Italiane di Informatica
+Nello Scarabottolo
+
+Presidente del Comitato per le Olimpiadi Italiane di Informatica
 
 </div>
 
 Roma, 22 settembre 2017
 
-**Le scuole che intendono aderire potranno iscriversi gratuitamente registrando i propri dati direttamente sul web a partire da martedì 26 settembre. Il link di accesso al sistema di registrazione è raggiungibile dal sito ufficiale della manifestazione:**<br/>**www.olimpiadi-informatica.it**
+**Le scuole che intendono aderire potranno iscriversi gratuitamente registrando i propri dati direttamente sul web a partire da martedì 26 settembre. Il link di accesso al sistema di registrazione è raggiungibile dal sito ufficiale della manifestazione:**
+
+[**www.olimpiadi-informatica.it**](https://www.olimpiadi-informatica.it)

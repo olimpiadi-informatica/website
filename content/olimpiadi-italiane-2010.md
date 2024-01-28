@@ -20,7 +20,7 @@ Nei 3 giorni precedenti la manifestazione, studenti e docenti hanno frequentato
 
 [Seminario Studenti Sirmione -  Garda Village 11-16 ottobre 2010](/oldsite/104/OII-Progr_Studenti-Sem__Sirmione.doc)
 
-[Seminario Docenti Sirmione - Garda Village 11-16 ottobre 2010](index.php?option=com_content&view=article&id=756%3Aoii-edizione-2009-2010&catid=51%3Agenerale-&Itemid=271&lang=it)
+[Seminario Docenti Sirmione - Garda Village 11-16 ottobre 2010](/oldsite/111/OII-Progr_Docenti-Sem__Sirmione%281%29.doc)
 
 (I materiali di lavoro utilizzati e prodotti nel corso dei seminari si trovano nella sezione "Documentazione")
 
@@ -57,7 +57,7 @@ PO2010
 1. PIE - Giulio Garbi - Giulio Cesare Faccio - Vercelli
 
 | POS. | SEDE |      NOME       |   COGNOME   | DATA NASCITA | CLASSE |                      SCUOLA                      |        COMUNE         | PROVINCIA | REGIONE |
-| :--: | :--: | :-------------: | :---------: | :----------: | :----: | :----------------------------------------------: | :-------------------: | :-------: | :-----: | ------------------------------------------------------------------------------ |
+| :--: | :--: | :-------------: | :---------: | :----------: | :----: | :----------------------------------------------: | :-------------------: | :-------: | :-----: |
 |  1   | VEN4 |     ENRICO      |   POLESEL   |  22/11/1992  |   IV   |                LICEO M. FLAMINIO                 |    VITTORIO VENETO    |    TV     |   VEN   |
 |  2   | LOM2 |    FEDERICO     | REGHENZANI  |  07/06/1992  |   IV   |               STANISLAO CANNIZZARO               |          RHO          |    MI     |   LOM   |
 |  3   | PIE1 |     ANDREA      | STRAGIOTTI  |  07/01/1992  |   IV   |                   G. FERRARIS                    |        TORINO         |    TO     |   PIE   |
@@ -129,7 +129,9 @@ PO2010
 |  69  | FRI  |    RICCARDO     | LESCHIUTTA  |  07/01/1992  |   IV   |                  ITC M.GORTANI                   |       TOLMEZZO        |    UD     |   FRI   |
 |  70  | LOM3 |     LORENZO     |   BERETTA   |  10/04/1992  |   IV   |                ALESSANDRO GREPPI                 |  MONTICELLO BRIANZA   |    LC     |   LOM   |
 |  71  | VEN2 |      LUCA       |  BIANCONI   |  20/07/1992  |   IV   |                     GALILEI                      |        VERONA         |    VR     |   VEN   |
-|  72  | VEN3 |     MICHAEL     |    RAMIN    |  13/05/1992  |   IV   |                  G. CHILESOTTI                   |        THIENE         |    VI     |   VEN   | [Classifica medagliati](/oldsite/104/Medagliati%20OII2010_Sirmione%281%29.pdf) |
+|  72  | VEN3 |     MICHAEL     |    RAMIN    |  13/05/1992  |   IV   |                  G. CHILESOTTI                   |        THIENE         |    VI     |   VEN   |
+
+[Classifica medagliati](/oldsite/104/Medagliati%20OII2010_Sirmione%281%29.pdf)
 
 [Premiazione](/oldsite/104/premiazione-sirmione.pdf)
 

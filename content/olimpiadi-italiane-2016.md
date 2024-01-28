@@ -23,15 +23,15 @@ Le Olimpiadi Italiane 2016 si sono svolte a Catania, presso l'Istituto Archimede
 
 Come da regolamento sono ammessi alle Olimpiadi Italiane di Informatica 9 atleti, chiamati "probabili olimpici 2016":
 
-**Chen Jacopo Guoyi**del L.S. A. Landri. di Velletri (RM)
+**Chen Jacopo Guoyi** del L.S. A. Landri. di Velletri (RM)
 
 **Ciprietti Andrea** del L.S. M. Curie di Giulianova (TE)
 
-**Filini Alekos**dell' ITI Castelli di Brescia
+**Filini Alekos** dell' ITI Castelli di Brescia
 
 **Giusti Alberto** dell' IIS Cambi Serrani di Falconara Marittima (AN)
 
-**Luccioletti Fabio**del L.S. A. di Savoia di Pistoia
+**Luccioletti Fabio** del L.S. A. di Savoia di Pistoia
 
 **Padovano Matilde** dell' IIS  Rambaldi-Valeriani-Alessandro da Imola di Imola (BO)
 
@@ -43,7 +43,7 @@ Come da regolamento sono ammessi alle Olimpiadi Italiane di Informatica 9 atleti
 
 in quanto partecipanti agli stage di formazione della passata edizione che ancora frequentano la scuola e sono nati dopo il 30 giugno 1997.
 
-[82 ATLETI AMMESSI](http://olimpiadi-informatica.it/images/Ammessi_Catania_OII_2016.xlsx) alla selezione nazionale provenienti da tutta Italia:<br/>Sono ammessi:
+[82 ATLETI AMMESSI](/results/Ammessi_Catania_OII_2016.xlsx) alla selezione nazionale provenienti da tutta Italia:
 
 1. il primo\* classificato di ogni Sede Territoriale con punteggio eguale o maggiore al valore medio della classifica nazionale (che è risultata di 12,08 punti);
 
@@ -53,11 +53,28 @@ in quanto partecipanti agli stage di formazione della passata edizione che ancor
 
 In calce, la classifica generale di tutti gli atleti partecipanti, 1099 per l'esattezza, con il dettaglio del punteggio ottenuto per ciascun problema.
 
-Scarica la [classifica generale](http://olimpiadi-informatica.it/images/Risultati_territoriali_2016_classifica_generale.xlsx) degli atleti che hanno partecipato alle selezione territoriale.
+Scarica la [classifica generale](/results/Risultati_territoriali_2016_classifica_generale.xlsx) degli atleti che hanno partecipato alle selezione territoriale.
 
-E' stata inoltre organizzata, come negli ultimi 4 anni in collaborazione con l'**UMI** (Unione Matematica Italiana), una gara online di reclutamento degli studenti medagliati provenienti dalle Olimpiadi Matematica, monitorata dal Prof. Luigi Laura. All'invito hanno aderito 12 ragazzi. Il 5 e il 6 luglio, sul server [http://cms.di.unipi.it/garamat](http://cms.di.unipi.it/garamat)i partecipanti sono stati chiamati a risolvere 3 problemi di natura algoritmica (logica e programmazione) avendo a disposizione 4 ore.<br/>Conclusa la gara e mostrata la classifica, vengono ufficialmente convocati 6 matematici ammessi alle OII 2016 che sono (in ordine di punteggio ottenuto):- **Deniskin Nikita** dell' IISS F. Sbordone di Napoli (vincitore della medaglia d'oro alle Olimpiadi Italiane di Matematica)<br/>- **Interdonato Giovanni** del L.S. Don Bosco di Catania (vincitore della medaglia di bronzo alle Olimpiadi Italiane di Matematica)<br/>- **Trenta Alessandro** dell' IISS Galileo Galilei di Crema (vincitore della medaglia di argento alle Olimpiadi Italiane di Matematica)<br/>- **L'episcopo Alberto** del L.S. Galileo Galilei di Catania (vincitore della medaglia di bronzo alle Olimpiadi Italiane di Matematica)<br/>- **Navone Giorgio** del L.s. Nicolo' Tron di Vicenza (vincitore della medaglia d'oro alle Olimpiadi Italiane di Matematica)<br/>- **Vergamini Marco** del L.S. G. Galilei Castelnuovo di Garfagnana - Lucca (vincitore della medaglia d'oro alle Olimpiadi Italiane di Matematica)
+E' stata inoltre organizzata, come negli ultimi 5 anni in collaborazione con
+l'**UMI** (Unione Matematica Italiana), una gara online di reclutamento degli
+studenti medagliati provenienti dalle Olimpiadi Matematica, monitorata dal
+Prof. Luigi Laura. All'invito hanno aderito 12 ragazzi. Il 5 e il 6 luglio, sul
+server [http://cms.di.unipi.it/garamat](http://cms.di.unipi.it/garamat) i
+partecipanti sono stati chiamati a risolvere 3 problemi di natura algoritmica
+(logica e programmazione) avendo a disposizione 4 ore.
 
-**MEDAGLIATI:**
+Conclusa la gara e mostrata la classifica, vengono ufficialmente convocati 6
+matematici ammessi alle OII 2016, che sono (in ordine di punteggio ottenuto):
+
+- **Deniskin Nikita** dell' IISS F. Sbordone di Napoli (vincitore della medaglia d'oro alle Olimpiadi Italiane di Matematica)
+- **Interdonato Giovanni** del L.S. Don Bosco di Catania (vincitore della medaglia di bronzo alle Olimpiadi Italiane di Matematica)
+- **Trenta Alessandro** dell' IISS Galileo Galilei di Crema (vincitore della medaglia di argento alle Olimpiadi Italiane di Matematica)
+- **L'Episcopo Alberto** del L.S. Galileo Galilei di Catania (vincitore della medaglia di bronzo alle Olimpiadi Italiane di Matematica)
+- **Navone Giorgio** del L.S. Nicolo' Tron di Vicenza (vincitore della medaglia d'oro alle Olimpiadi Italiane di Matematica)
+- **Vergamini Marco** del L.S. G. Galilei Castelnuovo di Garfagnana - Lucca (vincitore della medaglia d'oro alle Olimpiadi Italiane di Matematica)
+
+
+## MEDAGLIATI
 
 Le Olimpiadi Italiane 2016 si sono svolte il giorno 16 settembre 2016 presso l'Istituto Archimede di Catania. Gli studenti vincitori delle medaglie d'oro, d'argento e 4 medaglie di bronzo diventano Probabili Olimpici 2017 e risultano ammessi alla prima fase di allenamento residenziale che si svolgerà ad ottobre p.v. presso il SIAF di Volterra (PI).
 

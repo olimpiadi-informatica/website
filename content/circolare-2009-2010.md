@@ -11,14 +11,6 @@ edizioni = ["2009-2010"]
 [extra]
 override_updated = "2016-10-20T13:30:54"
 +++
-<div style="text-align: right;">
-
-[
-
-](ioi/files/circolare OLIMPIADI MIUR 2010.pdf)
-
-</div>
-
 <div style="text-align: center;">
 
 Ministero dell' Istruzione,

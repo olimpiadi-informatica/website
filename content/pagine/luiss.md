@@ -24,7 +24,16 @@ Luiss<br/>Libera Università Internazionale<br/>degli Studi Sociali Guido Carli
 
 ---
 
-Anche quest’anno organizziamo **LuissMatics**, la gara online di programmazione aperta a tutti, che è stata già annunciata sul sito delle Olimpiadi di Informatica ([https://www.olimpiadi-informatica.it/index.php/oii/edizione-2019-2020.html](index.php/oii/edizione-2019-2020.html)). **La gara sarà attiva per 48 ore dalle 00:01 di sabato 25 aprile alle 23:59 di domenica 26 aprile 2020**: potrai accedere alla gara dal link [https://luissmatics.olinfo.it/](https://luissmatics.olinfo.it/), che sarà attivato poco prima della gara. Se ancora non lo hai fatto, dovrai prima registrarti sul Portale di Allenamento delle Olimpiadi Italiane di Informatica. Se ti stai preparando alle Olimpiadi Italiane di Informatica, LuissMatics ti sarà molto utile come gara di allenamento.
+Anche quest’anno organizziamo **LuissMatics**, la gara online di programmazione
+aperta a tutti, che è stata già annunciata sul sito delle [Olimpiadi di
+Informatica](https://www.olimpiadi-informatica.it). **La gara sarà attiva per
+48 ore dalle 00:01 di sabato 25 aprile alle 23:59 di domenica 26 aprile 2020**:
+potrai accedere alla gara dal
+link [https://luissmatics.olinfo.it/](https://luissmatics.olinfo.it/), che sarà
+attivato poco prima della gara. Se ancora non lo hai fatto, dovrai prima
+registrarti sul Portale di Allenamento delle Olimpiadi Italiane di Informatica.
+Se ti stai preparando alle Olimpiadi Italiane di Informatica, LuissMatics ti
+sarà molto utile come gara di allenamento.
 
 Per chi invece sta frequentando l’ultimo anno della scuola superiore, la partecipazione a LuissMatics offrirà l’opportunità di concorrere per una **borsa di studio**, con esonero totale dal contributo, **per il Corso di Laurea Triennale in Management and Computer Science della Luiss**. Per avere questa opportunità devi registrarti su [https://forms.gle/WXvaZjnpB1GLZUoV8](https://forms.gle/WXvaZjnpB1GLZUoV8) (sempre dopo esserti registrato al Portale di Allenamento delle Olimpiadi Italiane di Informatica). Quindi, passa parola anche ai tuoi amici più grandi!
 

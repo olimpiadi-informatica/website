@@ -26,7 +26,14 @@ Reperimento dei testi degli esercizi
 
 · Il reperimento sarà possibile il giorno 16 novembre a partire dalle ore 9.00. Verranno inviati - per posta elettronica all’indirizzo e-mail del Referente in formato .pdf – due diversi file contenenti esercizi Pascal, esercizi C/C++. Inoltre, i file degli esercizi saranno disponibili nello spazio “Area Comunicazione – Trasferimento file” del Sistema di Gestione del sito web delle Olimpiadi (http://www.olimpiadi-informatica.it) in tre versioni .html, .rtf e .pdf. Al Sistema di Gestione potranno accedere soltanto i Referenti tramite l’inserimento di username e password scelte in fase di registrazione dell’Istituto.
 
-· Sarà organizzato un servizio di recupero attraverso fax oppure e-mail alternativo per quelle scuole che riscontreranno problemi nel reperimento dei file. La segnalazione della eventuale inaccessibilità avverrà attraverso telefono (al numero 081-7683819) o e-mail (olimpiadi@unina.it[). La telefonata dovrà essere fatta personalmente dal Referente, che verrà identificato attraverso username e password.](mailto:olimpiadi@unina.it)
+
+· Sarà organizzato un servizio di recupero attraverso fax oppure e-mail
+alternativo per quelle scuole che riscontreranno problemi nel reperimento dei
+file. La segnalazione della eventuale inaccessibilità avverrà attraverso
+telefono (al numero 081-7683819 oppure 081-7683902) o e-mail
+([olimpiadi@unina.it](mailto:olimpiadi@unina.it)). La telefonata dovrà essere
+fatta personalmente dal Referente, che verrà identificato attraverso le sue
+username e password.
 
 · Lo stesso giorno, a partire dalle ore 18.00, saranno disponibili le risposte esatte ai quesiti proposti, nelle due modalità di reperimento sopra riportate.
 

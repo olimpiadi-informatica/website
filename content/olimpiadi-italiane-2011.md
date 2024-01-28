@@ -30,13 +30,13 @@ _PO2011 ammessi d'ufficio_
 
 1.LIG - Lorenzo La Porta - Cassini - Genova<br/> 2.LOM - Dario Bezzi - G. Natta - Bergamo<br/> 3.LOM - Gabriele Farina - Copernico - Brescia<br/> 4.LOM - Cesare Bernardis - Facchinetti - Castellanza (VA)<br/> 5.VEN - Sebastiano Tronto - G. Galilei - Belluno<br/> 6.FRI - Giuliano Gregori - Oberdan - Trieste
 
-[72 atleti ammessi provenienti da tutta Italia.](http://81.208.32.83:8080/ioi/files/72Ammessi_Nazionali_2011.xls)
+[72 atleti ammessi provenienti da tutta Italia.](/oldsite/oii2011/72Ammessi_Nazionali_2011.xls)
 
 ## Seminario giugno ammessi OII 2011
 
 A settembre 2012 l’Italia ospiterà per la prima volta le Olimpiadi Internazionali di Informatica, manifestazione che vede la partecipazione di squadre di studenti provenienti da oltre 80 nazioni che si sfideranno nella risoluzione di problemi di natura algoritmica. <br/>In vista di questo importante appuntamento, con l’obiettivo di preparare nel miglior modo i rappresentanti italiani, il Comitato Olimpico ha deciso di proporre un corso residenziale di formazione agli studenti selezionati per la fase nazionale 2011 che si svolgerà nel prossimo mese di settembre a Sirmione. Il seminario avrà inizio venerdì 24 giugno alle ore 9 e terminerà martedì 28 giugno 2011 alle ore 14 e si terrà presso il Garda Village, via Coorti Romane 47, Sirmione (BS). Le attività formative saranno svolte da professori universitari assistiti da tutor che hanno maturato lunga esperienza nel campo delle competizioni informatiche nazionali e internazionali. I temi trattati saranno quelli utili per la risoluzione dei problemi che verranno assegnati alle gare (induzione/ricorsione, complessità, programmazione dinamica, ordinamento, strutture dati, algoritmi su alberi e grafi ecc.).
 
-Programma Gara Nazionale  "[Referenti](http://backup.olimpiadi-informatica.it/files/programma_referenti_OII2011.pdf)" e  "[Studenti](http://backup.olimpiadi-informatica.it/files/programma_studenti_OII2011.pdf)"
+Programma Gara Nazionale  "[Referenti](/oldsite/programma_referenti_OII2011.pdf)" e  "[Studenti](/oldsite/programma_studenti_OII2011.pdf)"
 
 ## Medagliati
 
@@ -90,10 +90,10 @@ Menzione speciale per la regione Lombardia che si è distinta per il maggior nu
 
 I testi degli esercizi delle ultime Olimpiadi Italiane di Sirmione
 
-Esercizio 1:  [Espressioni senza operatori (eso)](http://81.208.32.83:8080/ioi/files/eso.pdf)
+Esercizio 1:  [Espressioni senza operatori (eso)](/oldsite/oii2011/eso.pdf)
 
-Esercizio 2:  [Stringhe di Fibonacci (fibstr)](http://81.208.32.83:8080/ioi/files/fibstr.pdf)
+Esercizio 2:  [Stringhe di Fibonacci (fibstr)](/oldsite/oii2011/fibstr.pdf)
 
-Esercizio 3:  [Disegna senza sollevare la matita (matita)](http://81.208.32.83:8080/ioi/files/matita.pdf)
+Esercizio 3:  [Disegna senza sollevare la matita (matita)](/oldsite/oii2011/matita.pdf)
 
-Esercizio 4:  [Salta il coniglietto (salta)](http://81.208.32.83:8080/ioi/files/salta.pdf)
+Esercizio 4:  [Salta il coniglietto (salta)](/oldsite/oii2011/salta.pdf)

@@ -58,7 +58,13 @@ L’evento costituisce occasione per far emergere e valorizzare le eccellenze es
 
 Si auspica pertanto che, dopo le costanti e brillanti affermazioni delle precedenti edizioni, l'Italia possa partecipare alle prossime International Olympiad in Informatics (IOI) con i suoi migliori studenti e che gli stessi docenti traggano dalle OII elementi utili a migliorare le loro tecniche di insegnamento. A livello territoriale, verranno promosse attività di formazione tese a migliorare la preparazione degli studenti in vista delle selezioni territoriali e nazionali.
 
-**La partecipazione è gratuita e aperta alle classi I-IV di tutte le istituzioni scolastiche secondarie di II grado, statali e paritarie, che ritengano di avere studenti con potenziale interesse perl'informatica, soprattutto riguardo gli aspetti logici e algoritmici di tale disciplina. La partecipazione è adatta e consigliata anche a coloro che ancora non hanno studiato informatica a livello curricolare, per consentire agli studenti di interessarsi e avvicinarsi gradualmente alla materia.**
+**La partecipazione è gratuita e aperta alle classi I-IV di tutte le
+istituzioni scolastiche secondarie di II grado, statali e paritarie, che
+ritengano di avere studenti con potenziale interesse per l'informatica,
+soprattutto riguardo gli aspetti logici e algoritmici di tale disciplina. La
+partecipazione è adatta e consigliata anche a coloro che ancora non hanno
+studiato informatica a livello curricolare, per consentire agli studenti di
+interessarsi e avvicinarsi gradualmente alla materia.**
 
 Al fine di agevolare la scelta delle singole istituzioni scolastiche, si fornisce un riassunto indicativo delle modalità di partecipazione all'iniziativa e delle relative fasi del processo di selezione. Per ogni singola fase verrà poi fornito il regolamento ufficiale di riferimento prima dello svolgersi della selezione stessa
 

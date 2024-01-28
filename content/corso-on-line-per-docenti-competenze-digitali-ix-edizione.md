@@ -27,4 +27,4 @@ Facciamo comunque presente che la piattaforma rimarrà ugualmente aperta, come p
 
 Per maggiori informazioni clicca [qui](https://www.miur.gov.it/web/guest/-/avviso-prot-n-22115-del-29-ottobre-2019)
 
-E' possibileconsultare le precedenti edizioni alla pagina: [https://www.olimpiadi-informatica.it/index.php/component/k2/item/122-corso-competenze-digitali.html](index.php/component/k2/item/122-corso-competenze-digitali.html)
+E' possibile consultare [le precedenti edizioni](/gare/digit).

@@ -27,14 +27,18 @@ Vengono ammessi alla Selezione Territoriale, che si terrà il 2 APRILE 2014, pre
 
 **Atleti ammessi per regione:**
 
-|                    [ABR](files/ABRUZZO.pdf)                    | [BAS](/oldsite/143/BASILICATA.pdf) | [CAL](/oldsite/143/CALABRIA.pdf)  | [CAM](files/CAMPANIA.pdf) |
+|||||
 | :------------------------------------------------------------: | :--------------------------------: | :----------------------------: | :-----------------------: |
+|                    [ABR](files/ABRUZZO.pdf)                    | [BAS](/oldsite/143/BASILICATA.pdf) | [CAL](/oldsite/143/CALABRIA.pdf)  | [CAM](files/CAMPANIA.pdf) |
 |             [EMI](/oldsite/143/EMILIA-ROMAGNA.pdf)             |        [FRI](files/FVG.pdf)        |     [LAZ](files/LAZIO.pdf)     | [LIG](files/LIGURIA.pdf)  |
-| [LOM](http://olimpiadi-informatica.it/files/LOMBARDIA2014.pdf) |      [MAR](files/MARCHE.pdf)       | [MOL](/oldsite/143/MOLISE.pdf) | [PIE](files/PIEMONTE.pdf) |
+| [LOM](/oldsite/143/LOMBARDIA2014.pdf)                          |      [MAR](files/MARCHE.pdf)       | [MOL](/oldsite/143/MOLISE.pdf) | [PIE](files/PIEMONTE.pdf) |
 |                    [PUG](files/PUGLIA.pdf)                     |  [SAR](/oldsite/143/SARDEGNA.pdf)  |    [SIC](files/SICILIA.pdf)    | [TOS](files/TOSCANA.pdf)  |
 |          [TRE](/oldsite/143/TRENTINO_ALTO_ADIGE.pdf)           |    [UMB](/oldsite/143/UMBRIA.pdf)     |    [VEN](files/VENETO.pdf)     |             -             |
 
-Vi ricordiamo che, il Comitato ha deliberato l'ammissione di [17 ragazzi](/oldsite/143/Olimpiadi%20Squadre%20ammessi%20terr_17.pdf)che appartengono alle squadre finaliste delle olimpiadi di informatica a squadre ([http://oisquadre.it/](http://oisquadre.it/)).
+Vi ricordiamo che il Comitato ha deliberato l'ammissione di [17
+ragazzi](/oldsite/143/Olimpiadi%20Squadre%20ammessi%20terr_17.pdf) che
+appartengono alle squadre finaliste delle olimpiadi di informatica a squadre
+([http://oisquadre.it/](http://oisquadre.it/)).
 
 Precisiamo che si tratta di ULTERIORI ammissioni, che pertanto NON ridurranno il numero di ammessi alle territoriali provenienti dal normale percorso OII (ovvero dalle selezioni scolastiche).
 

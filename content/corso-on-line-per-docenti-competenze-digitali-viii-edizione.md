@@ -35,4 +35,4 @@ Facciamo comunque presente che la piattaforma rimarrà ugualmente aperta, come p
 
 Per maggiori informazioni clicca [qui](http://www.miur.gov.it/web/guest/-/pubblicazione-bando-viii-edizione-del-corso-on-line-di-competenze-digitali-afferenti-ai-contenuti-delle-olimpiadi-italiane-di-informatica?redirect=http%3A%2F%2Fwww.miur.gov.it%2Fweb%2Fguest%2Fricerca%3Fp_p_id%3D3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_count%3D1%26_3_groupId%3D20182%26_3_keywords%3Dcompetenze%2Bdigitali%26_3_struts_action%3D%252Fsearch%252Fsearch&inheritRedirect=true)
 
-E' possibileconsultare le precedenti edizioni alla pagina: [https://www.olimpiadi-informatica.it/index.php/component/k2/item/122-corso-competenze-digitali.html](index.php/component/k2/item/122-corso-competenze-digitali.html)
+E' possibile consultare [le precedenti edizioni](/gare/digit).

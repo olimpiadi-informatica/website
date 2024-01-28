@@ -26,12 +26,13 @@ Vengono ammessi alla Selezione Territoriale 719 atleti:
 
 Selezione regionale - Atleti ammessi
 
-|  [ABR](http://81.208.32.83:8080/ioi/files/Abruzzo2012.pdf)  | [BAS](http://81.208.32.83:8080/ioi/files/Basilicata2012.pdf) | [CAL](http://81.208.32.83:8080/ioi/files/Calabria2012.pdf) | [CAM](http://81.208.32.83:8080/ioi/files/Campania2012.pdf) |
+| | | | |
 | :---------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------------: | :--------------------------------------------------------: |
-|  [EMI](http://81.208.32.83:8080/ioi/files/Emilia2012.pdf)   |   [FRI](http://81.208.32.83:8080/ioi/files/Friuli2012.pdf)   |  [LAZ](http://81.208.32.83:8080/ioi/files/Lazio2012.pdf)   | [LIG](http://81.208.32.83:8080/ioi/files/Liguria2012.pdf)  |
-| [LOM](http://81.208.32.83:8080/ioi/files/Lombardia2012.pdf) |   [MAR](http://81.208.32.83:8080/ioi/files/Marche2012.pdf)   |  [MOL](http://81.208.32.83:8080/ioi/files/Molise2012.pdf)  | [PIE](http://81.208.32.83:8080/ioi/files/Piemonte2012.pdf) |
-|  [PUG](http://81.208.32.83:8080/ioi/files/Puglia-2012.pdf)  |  [SAR](http://81.208.32.83:8080/ioi/files/Sardegna2012.pdf)  | [SIC](http://81.208.32.83:8080/ioi/files/Sicilia2012.pdf)  | [TOS](http://81.208.32.83:8080/ioi/files/Toscana2012.pdf)  |
-| [TRE](http://81.208.32.83:8080/ioi/files/Trentino2012.pdf)  |   [UMB](http://81.208.32.83:8080/ioi/files/Umbria2012.pdf)   |  [VEN](http://81.208.32.83:8080/ioi/files/Veneto2012.pdf)  |                             -                              |
+|  [ABR](/oldsite/ter12/Abruzzo2012.pdf)  | [BAS](/oldsite/ter12/Basilicata2012.pdf) | [CAL](/oldsite/ter12/Calabria2012.pdf) | [CAM](/oldsite/ter12/Campania2012.pdf) |
+|  [EMI](/oldsite/ter12/Emilia2012.pdf)   |   [FRI](/oldsite/ter12/Friuli2012.pdf)   |  [LAZ](/oldsite/ter12/Lazio2012.pdf)   | [LIG](/oldsite/ter12/Liguria2012.pdf)  |
+| [LOM](/oldsite/ter12/Lombardia2012.pdf) |   [MAR](/oldsite/ter12/Marche2012.pdf)   |  [MOL](/oldsite/ter12/Molise2012.pdf)  | [PIE](/oldsite/ter12/Piemonte2012.pdf) |
+|  [PUG](/oldsite/ter12/Puglia-2012.pdf)  |  [SAR](/oldsite/ter12/Sardegna2012.pdf)  | [SIC](/oldsite/ter12/Sicilia2012.pdf)  | [TOS](/oldsite/ter12/Toscana2012.pdf)  |
+| [TRE](/oldsite/ter12/Trentino2012.pdf)  |   [UMB](/oldsite/ter12/Umbria2012.pdf)   |  [VEN](/oldsite/ter12/Veneto2012.pdf)  |                             -                              |
 
 ## Sedi
 

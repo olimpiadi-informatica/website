@@ -10,10 +10,6 @@ edizioni = ["2008-2009"]
 [extra]
 override_updated = "2016-10-20T13:25:20"
 +++
-<div style="text-align: right;">
-
-</div>
-
 <div style="text-align: center;">
 
 Ministero dell' Istruzione,
