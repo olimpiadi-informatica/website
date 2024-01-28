@@ -23,7 +23,7 @@ Alla selezione territoriale hanno partecipato 1358 studenti: [vedi classifica g
 
 [Scarica i testi dei problemi assegnati](/oldsite/154/Testi_selezione_territoriale_16_aprile_2019.pdf) e nella [wiki](https://wiki.olinfo.it/it/2019/territoriali) trovi le relative soluzioni. 
 
-Congratulazioni agli studenti ammessi alla gara nazionale che si terrà il 18 settembre presso l' Istituto Pentasuglia di Matera: [OII 2019.](index.php/olimpiadi-italiane-19.html)
+Congratulazioni agli studenti ammessi alla gara nazionale che si terrà il 18 settembre presso l' Istituto Pentasuglia di Matera: [OII 2019.](@/olimpiadi-italiane-2019.md)
 
 #### **A seguito della selezione scolastica:**
 
@@ -60,5 +60,3 @@ Sono risultate vincitrici:
 ![arachidi edited](/images/uploads/arachidi_edited.png)
 
 ![3 Sushi Squad 3](/images/uploads/3_Sushi_Squad_3.png)
-
-####

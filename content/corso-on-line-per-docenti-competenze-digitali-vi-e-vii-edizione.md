@@ -12,8 +12,8 @@ gare = [ "digit", ]
 thumbnail = "/images/uploads/ee842e3019fee30e4ca87cc93974d54b.jpg"
 override_updated = "2018-06-22T15:46:44"
 +++
-</div>
-<br/>Si comunica che questa Direzione Generale organizza, con il supporto scientifico del Comitato Olimpico delle Olimpiadi Italiane di Informatica e l’AICA (Associazione Italiana per l’Informatica ed il Calcolo Automatico), la sesta edizione del corso per la formazione di docenti dell’area matematica- scientifica- tecnologica della scuola secondaria di II grado, su tematiche di “Computer Science”, afferenti ai contenuti delle Olimpiadi Italiane di Informatica (OII).
+
+Si comunica che questa Direzione Generale organizza, con il supporto scientifico del Comitato Olimpico delle Olimpiadi Italiane di Informatica e l’AICA (Associazione Italiana per l’Informatica ed il Calcolo Automatico), la sesta edizione del corso per la formazione di docenti dell’area matematica- scientifica- tecnologica della scuola secondaria di II grado, su tematiche di “Computer Science”, afferenti ai contenuti delle Olimpiadi Italiane di Informatica (OII).
 
 A chiusura bando **vengono ammessi alla VI Edizione del corso on line per docenti "Competenze Digitali" i seguenti docenti: [scarica qui l'elenco!](/oldsite/130/VI_edizione_Competenze_Digitali.pdf)**
 
@@ -39,7 +39,7 @@ Siamo lieti di comunicare il successo ottenuto anche per la sesta edizione e ave
 
 Le credenziali di accesso sono state inviate a tutti i docenti ammessi martedì 5 dicembre 2017.
 
-Per maggiori informazioni clicca [qui](index.php/component/k2/item/122-corso-competenze-digitali.html)
+Per maggiori informazioni clicca [qui](/gare/digit)
 
 Il Corso è gratuito per i partecipanti e fruibile da **mercoledì 6 dicembre 2017 a mercoledì 18 aprile 2018.**
 
@@ -48,7 +48,3 @@ Lunedì 23 aprile alle ore 15:00 si è svolta la mini olimpiade che si è conclu
 Al termine del percorso formativo saranno rilasciati dal MIUR gli attestati di partecipazione a seguito della prova finale.
 
 Gli attestati, omologati a 25 ore di formazione, sono stati inviati via email a maggio ai docenti che hanno superato almeno 3 dei 7 problemi proposti.
-
-<div style="text-align: right;">
-
-</div>

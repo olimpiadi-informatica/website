@@ -29,7 +29,7 @@ A parità di punteggio in qualsiasi classifica sono favoriti gli studenti di cla
 
 **Come ulteriore criterio di selezione, il raggiungimento del badge di bronzo sulla piattaforma [AlgoBadge](https://algobadge.olinfo.it), da conseguire entro e non oltre lunedì 4 luglio, ha portato all'ammissione di 94 atleti, accompagnati da 35 referenti.**
 
-Come da regolamento tra i [94 ammessi](/oldsite/201/elenco_94_ammessi_sito.xlsx) figurano anche i 13 atleti chiamati ["Probabili Olimpici 2022"](index.php/component/k2/item/209-probabili-olimpici-22.html) in quanto partecipanti agli stage di formazione della passata edizione che ancora frequentano la scuola e sono nati dopo il 30 giugno 2003.
+Come da regolamento tra i [94 ammessi](/oldsite/201/elenco_94_ammessi_sito.xlsx) figurano anche i 13 atleti chiamati ["Probabili Olimpici 2022"](@/probabili-olimpici-2022.md) in quanto partecipanti agli stage di formazione della passata edizione che ancora frequentano la scuola e sono nati dopo il 30 giugno 2003.
 
 - Artico Samuele - LS G. Galilei Trento (TRA1)
 - Brignoli Francesco -  ITIS P. Paleocapa Bergamo (LOM3)

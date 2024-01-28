@@ -65,7 +65,7 @@ sono ammessi:
 
 #### MEDAGLIATI:
 
-La XX edizione delle Olimpiadi Italiane 2020 si è svolta il 25 novembre 2020 in modalità online. Gli studenti vincitori delle medaglie d'oro, d'argento e 2 medaglie di bronzo diventano [Probabili Olimpici 2021](index.php/component/k2/item/192-probabili-olimpici-21.html) e risultano ammessi alle varie fasi di allenamento.
+La XX edizione delle Olimpiadi Italiane 2020 si è svolta il 25 novembre 2020 in modalità online. Gli studenti vincitori delle medaglie d'oro, d'argento e 2 medaglie di bronzo diventano [Probabili Olimpici 2021](@/probabili-olimpici-2021.md) e risultano ammessi alle varie fasi di allenamento.
 
 | medaglia | posizione | totale |   cognome    |       nome       |               scuola                |               città               | classe |
 | :------: | :-------: | :----: | :----------: | :--------------: | :---------------------------------: | :-------------------------------: | :----: |
