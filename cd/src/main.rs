@@ -1,5 +1,5 @@
 use std::{
-    fs::{self, remove_dir_all},
+    fs::{self, read_link, remove_dir_all},
     path::PathBuf,
     sync::Arc,
 };
@@ -116,19 +116,17 @@ fn build_inner(
     };
 
     if let Some(os) = output_symlink {
-        let current = os.canonicalize().ok();
-        let relative_target =
-            pathdiff::diff_paths(&target, &os.parent().ok_or_eyre("symlink target is root?")?)
-                .ok_or_eyre("could not find relative path from prod symlink to build dir")?;
+        let os_base_dir = os.parent().ok_or_eyre("symlink target is root?")?;
+        let current = read_link(&os).map(|x| os_base_dir.join(x)).ok();
+        let relative_target = pathdiff::diff_paths(&target, &os_base_dir)
+            .ok_or_eyre("could not find relative path from prod symlink to build dir")?;
         atomic_symlink_file(&relative_target, &os)?;
         if let Some(current) = current {
-            if current != target {
-                if let Err(e) = remove_dir_all(&current) {
-                    warn!(
-                        "Error removing old directory {}: {e}",
-                        current.to_string_lossy()
-                    );
-                }
+            if let Err(e) = remove_dir_all(&current) {
+                warn!(
+                    "Error removing old directory {}: {e}",
+                    current.to_string_lossy()
+                );
             }
         }
     };
