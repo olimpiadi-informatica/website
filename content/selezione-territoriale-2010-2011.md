@@ -28,8 +28,9 @@ Vengono ammessi alla Selezione Territoriale ben 894 atleti:
 
 Selezione regionale - Atleti ammessi
 
-| [ABR](/oldsite/ter11/abruzzo_ammessi.pdf)            | [BAS](/oldsite/ter11/basilicata%20ammessi.pdf) | [CAL](/oldsite/ter11/calabria%20ammessi.pdf) | [CAM](/oldsite/ter11/campania%20ammessi.pdf) |
+|||||
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [ABR](/oldsite/ter11/abruzzo_ammessi.pdf)            | [BAS](/oldsite/ter11/basilicata%20ammessi.pdf) | [CAL](/oldsite/ter11/calabria%20ammessi.pdf) | [CAM](/oldsite/ter11/campania%20ammessi.pdf) |
 | [EMI](/oldsite/ter11/emilia%20romagna%20ammessi.pdf) | [FRI](/oldsite/ter11/friuli%20ammessi.pdf)     | [LAZ](/oldsite/ter11/lazio%20ammessi.pdf)    | [LIG](/oldsite/ter11/liguria%20ammessi.pdf)  |
 | [LOM](/oldsite/ter11/lombardia%20ammessi.pdf)        | [MAR](/oldsite/ter11/marche%20ammessi.pdf)     | [MOL](/oldsite/ter11/molise%20ammessi.pdf)   | [PIE](/oldsite/ter11/piemonte%20ammessi.pdf) |
 | [PUG](/oldsite/ter11/puglia%20ammessi.pdf)           | [SAR](/oldsite/ter11/sardegna%20ammessi.pdf)   | [SIC](/oldsite/ter11/sicilia%20ammessi.pdf)  | [TOS](/oldsite/ter11/toscana%20ammessi.pdf)  |

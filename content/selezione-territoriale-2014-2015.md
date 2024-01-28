@@ -25,8 +25,9 @@ Vengono ammessi alla Selezione Territoriale, che si è tenuta il 14 APRILE 2015,
 
 **Classifica definitiva** (dopo la presa visione di tutti i referenti scolastici)
 
-| ABR [🔗](/oldsite/82/abr2015.pdf)  | BAS [🔗](/oldsite/82/bas2015.pdf)  | CAL [🔗](/oldsite/82/cal2015.pdf)  | CAM [🔗](/oldsite/82/cam_2015.pdf) |
+|||||
 | :--------------------------------: | :------------------------------: | :------------------------------: | :------------------------------: |
+| ABR [🔗](/oldsite/82/abr2015.pdf)  | BAS [🔗](/oldsite/82/bas2015.pdf)  | CAL [🔗](/oldsite/82/cal2015.pdf)  | CAM [🔗](/oldsite/82/cam_2015.pdf) |
 | EMI [🔗](/oldsite/82/emi_2015.pdf) | FRI [🔗](/oldsite/82/fvg_2015.pdf) | LAZ [🔗](/oldsite/82/laz2015.pdf)  | LIG [🔗](/oldsite/82/lig2015.pdf)  |
 | LOM [🔗](/oldsite/82/lom_2015.pdf) | MAR [🔗](/oldsite/82/mar2015.pdf)  | MOL [🔗](/oldsite/82/mol2015.pdf)  | PIE [🔗](/oldsite/82/pie_2015.pdf) |
 | PUG [🔗](/oldsite/82/pug2015.pdf)  | SAR [🔗](/oldsite/82/sar2015.pdf)  | SIC [🔗](/oldsite/82/sic_2015.pdf) | TOS [🔗](/oldsite/82/tos_2015.pdf) |

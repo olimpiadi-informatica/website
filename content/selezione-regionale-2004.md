@@ -25,7 +25,11 @@ Obiettivo della prova è quello di verificare le capacità dei partecipanti nell
 
 1. Coerentemente con gli obiettivi illustrati, ogni esercizio è caratterizzato dalle seguenti informazioni:
 
-a. nome breve che individua l'esercizio (NOMEBREVE, cfr. § 3.10 per il suo<br/> uso);<br/> b. descrizione del problema e specifica dei file di input e output;<br/> c. esemplificazione attraverso uno o due casi di prova;<br/> d. limiti e/o condizioni che riducono l’insieme dei possibili dati di ingresso<br/> (ad esempio, N<100, A>B);<br/> e. coefficiente di difficoltà dell’esercizio D (crescente con la difficoltà). Si<br/> veda il successivo § 4 per l'uso di tale coefficiente.
+    1. nome breve che individua l'esercizio (NOMEBREVE, cfr. § 3.10 per il suo uso);
+    2. descrizione del problema e specifica dei file di input e output;
+    3. esemplificazione attraverso uno o due casi di prova;
+    4. limiti e/o condizioni che riducono l’insieme dei possibili dati di ingresso (ad esempio, N<100, A>B);
+    5. coefficiente di difficoltà dell’esercizio D (crescente con la difficoltà). Si veda il successivo § 4 per l'uso di tale coefficiente.
 
 2. L’esercizio assegnato deve essere programmato in uno dei linguaggi C/C++ o Pascal e dovrebbe funzionare correttamente con qualsiasi input che rispecchi i limiti assegnati nel testo (punto 1d).
 
@@ -39,7 +43,7 @@ a. nome breve che individua l'esercizio (NOMEBREVE, cfr. § 3.10 per il suo<br/>
 
 **3. Modalità di esecuzione della prova**
 
-1. Per Sede Regionale s’intende la scuola ove si effettua la prova di<br/> selezione. In funzione del numero dei partecipanti, alcune regioni hanno<br/> più sedi ed altre sono accorpate in un’unica sede.
+1. Per Sede Regionale s’intende la scuola ove si effettua la prova di selezione. In funzione del numero dei partecipanti, alcune regioni hanno più sedi ed altre sono accorpate in un’unica sede.
 
 2. La selezione ha inizio per tutte le Sedi Regionali alle ore 13.30.
 
@@ -49,7 +53,9 @@ a. nome breve che individua l'esercizio (NOMEBREVE, cfr. § 3.10 per il suo<br/>
 
 5. Scaduto tale tempo ai partecipanti viene consegnato il seguente materiale
 
-a. il testo dei problemi assegnati stampati su carta<br/> b. la password personale per “proteggere” l’elaborato<br/> c. un dischetto formattato con etichetta di carta personalizzata con i dati del <br/> partecipante.
+    1. il testo dei problemi assegnati stampati su carta
+    2. la password personale per “proteggere” l’elaborato
+    3. un dischetto formattato con etichetta di carta personalizzata con i dati del partecipante.
 
 6. La durata della prova è di 3 ore dal momento della consegna dei problemi. Nessun concorrente può lasciare l’aula prima di un’ora e mezza dall’inizio della prova. Il testo può essere portato fuori dall’aula solo dopo le 3 ore della prova.
 
@@ -67,15 +73,16 @@ a. il testo dei problemi assegnati stampati su carta<br/> b. la password persona
 
 2. Per la valutazione della prova il programma viene eseguito su 10 casi di test ed è valutato il numero di casi q per i quali fornisce il risultato atteso. L’esercizio quindi guadagna q\*D punti.
 
-3. A ciascun esercizio compilato (per il quale cioè esista un file eseguibile) viene inoltre assegnato il punteggio 2*D, sicché il punteggio assegnato per un esercizio è 0 (se non compilato), 2*D (se soltanto compilato e non funzionante su alcun caso di prova), fino ad un massimo di 12\*D se funzionante su tutti i 10 casi di prova.
+3. A ciascun esercizio compilato (per il quale cioè esista un file eseguibile) viene inoltre assegnato il punteggio 2\*D, sicché il punteggio assegnato per un esercizio è 0 (se non compilato), 2\*D (se soltanto compilato e non funzionante su alcun caso di prova), fino ad un massimo di 12\*D se funzionante su tutti i 10 casi di prova.
 
 4. Nessun effetto sulla valutazione ha lo stile di programmazione.
 
 5. Classifiche ed ammissione alle Olimpiadi Italiane di Informatica
 
-Sono previste le seguenti classifiche:<br/> a) **Classifica di Sede Regionale:** viene stilata in funzione del punteggio<br/> guadagnato dai singoli partecipanti.
+Sono previste le seguenti classifiche:
 
-b) **Classifica Nazionale:** viene stilata fondendo ed ordinando le classifiche di tutte<br/> le Sedi Regionali.
+1. **Classifica di Sede Regionale:** viene stilata in funzione del punteggio guadagnato dai singoli partecipanti.
+2.  **Classifica Nazionale:** viene stilata fondendo ed ordinando le classifiche di tutte le Sedi Regionali.
 
 A parità di punteggio in qualsiasi classifica sono favoriti gli studenti di classe inferiore e, in caso di ulteriore parità, i più giovani.
 
@@ -124,8 +131,9 @@ IL COMITATO OLIMPICO
 
 Selezione regionale - Atleti ammessi
 
-|  [ABR](/oldsite/64/ABR.pdf)  |            BAS             |                  [CAL1](/oldsite/64/CAL.pdf)                   |            CAL2            |  [CAM](/oldsite/64/CAM.pdf)  |
+||||||
 | :--------------------------: | :------------------------: | :----------------------------------------------------------: | :------------------------: | :------------------------: |
+|  [ABR](/oldsite/64/ABR.pdf)  |            BAS             |                  [CAL1](/oldsite/64/CAL.pdf)                   |            CAL2            |  [CAM](/oldsite/64/CAM.pdf)  |
 |  [EMI](/oldsite/64/EMI.pdf)  |  [FRI](/oldsite/64/FRI.pdf)  |                   [LAZ](/oldsite/64/LAZ.pdf)                   |  [LIG](/oldsite/64/LIG.pdf)  | [LOM1](/oldsite/64/LOM1.pdf) |
 | [LOM2](/oldsite/64/LOM2.pdf) |  [MAR](/oldsite/64/MAR.pdf)  | [MOL](documents/edition/2004/atletiAmmessiRegionali/MOL.pdf) | [PIE1](/oldsite/64/PIE1.pdf) | [PIE2](/oldsite/64/PIE2.pdf) |
 | [PUG1](/oldsite/64/PUG1.pdf) | [PUG2](/oldsite/64/PUG2.pdf) |                   [SAR](/oldsite/64/SAR.pdf)                   | [SIC1](/oldsite/64/SIC1.pdf) | [SIC2](/oldsite/64/SIC2.pdf) |

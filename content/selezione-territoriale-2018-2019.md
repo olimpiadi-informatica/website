@@ -29,7 +29,9 @@ Congratulazioni agli studenti ammessi alla gara nazionale che si terrà il 18 se
 
 [Sono ammessi 1798 atleti](/oldsite/154/1798ammessi_gara_regionale_16aprile.xlsx) in possesso di uno dei seguenti requisiti:
 
-essere il 1° classificato nella graduatoria d’Istituto, indipendentemente dal punteggio ottenuto;<br/>essere il 2° classificato nella graduatoria d’Istituto, con punteggio maggiore o uguale alla media nazionale (10.9 punti) arrotondata all’intero più vicino (11 punti);<br/>essersi classificato dal 3° all' 10° posto nella graduatoria d’Istituto, con punteggio maggiore o uguale a 21 punti.
+- essere il 1° classificato nella graduatoria d’Istituto, indipendentemente dal punteggio ottenuto;
+- essere il 2° classificato nella graduatoria d’Istituto, con punteggio maggiore o uguale alla media nazionale (10.9 punti) arrotondata all’intero più vicino (11 punti);
+- essersi classificato dal 3° all' 10° posto nella graduatoria d’Istituto, con punteggio maggiore o uguale a 21 punti.
 
 Per consultare la classifica generale dei 13625 partecipanti [clicca qui](/oldsite/154/classifica-generale-scolastica-2018-definitiva.xlsx).
 
@@ -39,8 +41,9 @@ Sono disponibili la [guida](http://www.imparando.net/sito/olimpiadi_di_informat
 
 **Classifica definitiva** (dopo la presa visione di tutti i referenti scolastici)
 
-|  ABR [🔗](/oldsite/154/abruzzo2019.pdf)  | BAS [🔗](/oldsite/154/basilicata2019.pdf) |  CAL [🔗](/oldsite/154/calabria2019.pdf)   | CAM [🔗](/oldsite/154/campania2019.pdf) |
+|||||
 | :--------------------------------------: | :------------------------------------: | :-------------------------------------: | :----------------------------------: |
+|  ABR [🔗](/oldsite/154/abruzzo2019.pdf)  | BAS [🔗](/oldsite/154/basilicata2019.pdf) |  CAL [🔗](/oldsite/154/calabria2019.pdf)   | CAM [🔗](/oldsite/154/campania2019.pdf) |
 |  EMI [🔗](/oldsite/154/emilia2019.pdf)   |   FRI [🔗](/oldsite/154/friuli2019.pdf)   |    LAZ [🔗](/oldsite/154/lazio2019.pdf)    | LIG [🔗](/oldsite/154/liguria2019.pdf)  |
 | LOM [🔗](/oldsite/154/lombardia2019.pdf) |   MAR [🔗](/oldsite/154/marche2019.pdf)   |   MOL [🔗](/oldsite/154/molise2019.pdf)    | PIE [🔗](/oldsite/154/piemonte2019.pdf) |
 |  PUG [🔗](/oldsite/154/puglia2019.pdf)   |  SAR [🔗](/oldsite/154/sardegna2019.pdf)  |   SIC [🔗](/oldsite/154/sicilia2019.pdf)   | TOS [🔗](/oldsite/154/toscana2019.pdf)  |

@@ -79,7 +79,7 @@ c. un dischetto formattato con etichetta di carta personalizzata con i dati del 
 
 2. Per la valutazione della prova il programma viene eseguito su 10 casi di test ed è valutato il numero di casi q per i quali fornisce il risultato atteso. L’esercizio quindi guadagna q\*D punti.
 
-3. A ciascun esercizio compilato (per il quale cioè esista un file eseguibile) viene inoltre assegnato il punteggio 2*D, sicché il punteggio assegnato per un esercizio è 0 (se non compilato), 2*D (se soltanto compilato e non funzionante su alcun caso di prova), fino ad un massimo di 12\*D se funzionante su tutti i 10 casi di prova.
+3. A ciascun esercizio compilato (per il quale cioè esista un file eseguibile) viene inoltre assegnato il punteggio 2\*D, sicché il punteggio assegnato per un esercizio è 0 (se non compilato), 2\*D (se soltanto compilato e non funzionante su alcun caso di prova), fino ad un massimo di 12\*D se funzionante su tutti i 10 casi di prova.
 
 4. Nessun effetto sulla valutazione ha lo stile di programmazione.
 
@@ -135,8 +135,9 @@ IL COMITATO OLIMPICO
 
 Selezione regionale - Atleti ammessi
 
-|  [ABR](/oldsite/70/ABR.pdf)  | [BAS](documents/edition/2005/atletiAmmessiRegionali/BAS.pdf) |                  [CAL1](/oldsite/70/CAL1.pdf)                  |                   [CAL2](/oldsite/70/CAL2.pdf)                   |  [CAM](/oldsite/70/CAM.pdf)  |
+||||||
 | :--------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------------------------------: | :------------------------: |
+|  [ABR](/oldsite/70/ABR.pdf)  | [BAS](documents/edition/2005/atletiAmmessiRegionali/BAS.pdf) |                  [CAL1](/oldsite/70/CAL1.pdf)                  |                   [CAL2](/oldsite/70/CAL2.pdf)                   |  [CAM](/oldsite/70/CAM.pdf)  |
 |  [EMI](/oldsite/70/EMI.pdf)  |                   [FRI](/oldsite/70/FRI.pdf)                   |                   [LAZ](/oldsite/70/LAZ.pdf)                   |                    [LIG](/oldsite/70/LIG.pdf)                    | [LOM1](/oldsite/70/LOM1.pdf) |
 | [LOM2](/oldsite/70/LOM2.pdf) |                   [MAR](/oldsite/70/MAR.pdf)                   | [MOL](documents/edition/2005/atletiAmmessiRegionali/MOL.pdf) |                   [PIE1](/oldsite/70/PIE1.pdf)                   | [PIE2](/oldsite/70/PIE2.pdf) |
 | [PUG1](/oldsite/70/PUG1.pdf) |                  [PUG2](/oldsite/70/PUG2.pdf)                  |                   [SAR](/oldsite/70/SAR.pdf)                   | [SIC1](documents/edition/2005/atletiAmmessiRegionali/SIC1.pdf) | [SIC2](/oldsite/70/SIC2.pdf) |

@@ -145,8 +145,9 @@ IL COMITATO OLIMPICO
 
 Selezione regionale - Atleti ammessi
 
-|  [ABR](/oldsite/88/ABR.pdf)  |  [BAS](/oldsite/88/BAS.pdf)  |                   [CAL](/oldsite/88/CAL.pdf)                   |  [CAM](/oldsite/88/CAM.pdf)  | [EMI1](/oldsite/88/EMI1.pdf) |
+||||||
 | :--------------------------: | :------------------------: | :----------------------------------------------------------: | :------------------------: | :------------------------: |
+|  [ABR](/oldsite/88/ABR.pdf)  |  [BAS](/oldsite/88/BAS.pdf)  |                   [CAL](/oldsite/88/CAL.pdf)                   |  [CAM](/oldsite/88/CAM.pdf)  | [EMI1](/oldsite/88/EMI1.pdf) |
 | [EMI2](/oldsite/88/EMI2.pdf) |  [FRI](/oldsite/88/FRI.pdf)  | [LAZ](documents/edition/2008/atletiAmmessiRegionali/EMI.pdf) |  [LIG](/oldsite/88/LIG.pdf)  | [LOM1](/oldsite/88/LOM1.pdf) |
 | [LOM2](/oldsite/88/LOM2.pdf) |  [MAR](/oldsite/88/MAR.pdf)  |                   [MOL](/oldsite/88/MOL.pdf)                   | [PIE1](/oldsite/88/PIE1.pdf) | [PIE2](/oldsite/88/PIE2.pdf) |
 | [PUG1](/oldsite/88/PUG1.pdf) | [PUG2](/oldsite/88/PUG2.pdf) |                   [SAR](/oldsite/88/SAR.pdf)                   | [SIC1](/oldsite/88/SIC1.pdf) | [SIC2](/oldsite/88/SIC2.pdf) |
@@ -156,8 +157,8 @@ Selezione regionale - Atleti ammessi
 
 Le prove assegnate alla Selezione Regionale 2008 sono disponibili in formato pdf dai collegamenti seguenti:
 
-<br/>[Mappa antica<br/>](/oldsite/88/Mappa.pdf)
+[Mappa antica](/oldsite/88/Mappa.pdf)
 
-[Missioni segrete<br/>](/oldsite/88/Missioni.pdf)
+[Missioni segrete](/oldsite/88/Missioni.pdf)
 
 [Codici e Pizzini](/oldsite/88/Pizzini.pdf)

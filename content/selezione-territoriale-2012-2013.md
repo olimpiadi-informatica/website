@@ -35,8 +35,9 @@ B. gli atleti che erano stati selezionati dai referenti scolastici e che avevano
 
 **Atleti ammessi per regione:**
 
-|            [ABR](files/Abruzzo.pdf)             | [BAS](/oldsite/138/Basilicata%282%29.pdf)  |  [CAL](files/Calabria.pdf)  | [CAM](/oldsite/138/Campania.pdf) |
+|||||
 | :---------------------------------------------: | :----------------------------------------: | :-------------------------: | :---------------------------: |
+|            [ABR](files/Abruzzo.pdf)             | [BAS](/oldsite/138/Basilicata%282%29.pdf)  |  [CAL](files/Calabria.pdf)  | [CAM](/oldsite/138/Campania.pdf) |
 |     [EMI](/oldsite/138/Emilia_romagna.pdf)      | [FRI](/oldsite/138/Friuli_venezia_giulia.pdf) | [LAZ](/oldsite/138/Lazio.pdf)  | [LIG](/oldsite/138/Liguria.pdf)  |
 |           [LOM](files/Lombardia.pdf)            |       [MAR](/oldsite/138/Marche.pdf)       |   [MOL](files/Molise.pdf)   | [PIE](/oldsite/138/Piemonte.pdf) |
 |         [PUG](/oldsite/138/Puglia.pdf)          |         [SAR](files/Sardegna.pdf)          |  [SIC](files/Sicilia.pdf)   | [TOS](/oldsite/138/Toscana.pdf)  |

@@ -12,10 +12,10 @@ gare = ["territoriali"]
 override_updated = "2022-06-14T15:03:02"
 thumbnail = ""
 +++
-**La selezione territoriale della XXII edizione si è svolta giovedì 5 maggio 2022. Alla selezione territoriale hanno partecipato 1524 studenti.** <br/>
+La selezione territoriale della XXII edizione si è svolta giovedì 5 maggio 2022. Alla selezione territoriale hanno partecipato 1524 studenti.
 <!-- more -->
 
-[vedi classifica generale con i relativi punteggi.](/oldsite/202/classifica-generale-territoriale-2022.xlsx)
+[Vedi classifica generale con i relativi punteggi.](/oldsite/202/classifica-generale-territoriale-2022.xlsx)
 
 A seguito delle correzioni delle prove da parte dello staff tecnico, vi informiamo che sono state rilevate copiature da parte di 6 studenti provenienti da 3 scuole diverse. Questi atleti sono stati squalificati a delibera del Comitato OII e sono stati eliminati dalla pubblicazione della classifica. Tali scuole e referenti scolastici hanno ricevuto una comunicazione in merito.
 
@@ -49,8 +49,9 @@ Sono disponibili la [guida](http://www.imparando.net/sito/olimpiadi_di_informati
 
 **Atleti ammessi per sedi territoriali:**<br/>**Classifica definitiva** (dopo la presa visione di tutti i referenti scolastici)
 
-|  ABR [🔗](/oldsite/202/ABR_2022.xlsx)  |  BAS [🔗](/oldsite/202/BAS_2022.xlsx)  |  CAL [🔗](/oldsite/202/CAL_2022.xlsx)  | CAM1 [🔗](/oldsite/202/CAM1_2022.xlsx) | CAM2 [🔗](/oldsite/202/CAM2_2022.xlsx) | CAM3 [🔗](/oldsite/202/CAM3_2022.xlsx) |
+|||||||
 | :------------------------------------: | :---------------------------------: | :---------------------------------: | :---------------------------------: | :---------------------------------: | :---------------------------------: |
+|  ABR [🔗](/oldsite/202/ABR_2022.xlsx)  |  BAS [🔗](/oldsite/202/BAS_2022.xlsx)  |  CAL [🔗](/oldsite/202/CAL_2022.xlsx)  | CAM1 [🔗](/oldsite/202/CAM1_2022.xlsx) | CAM2 [🔗](/oldsite/202/CAM2_2022.xlsx) | CAM3 [🔗](/oldsite/202/CAM3_2022.xlsx) |
 | EMI1 [🔗](/oldsite/202/EMI1_2022.xlsx) | EMI2 [🔗](/oldsite/202/EMI2_2022.xlsx) | EMI3 [🔗](/oldsite/202/EMI3_2022.xlsx) |  FRI [🔗](/oldsite/202/FRI_2022.xlsx)  | LAZ1 [🔗](/oldsite/202/LAZ1_2022.xlsx) | LAZ2 [🔗](/oldsite/202/LAZ2_2022.xlsx) |
 |  LIG [🔗](/oldsite/202/LIG_2022.xlsx)  | LOM1 [🔗](/oldsite/202/LOM1_2022.xlsx) | LOM2 [🔗](/oldsite/202/LOM2_2022.xlsx) | LOM3 [🔗](/oldsite/202/LOM3_2022.xlsx) | LOM4 [🔗](/oldsite/202/LOM4_2022.xlsx) | LOM5 [🔗](/oldsite/202/LOM5_2022.xlsx) |
 | LOM6 [🔗](/oldsite/202/LOM6_2022.xlsx) |  MAR [🔗](/oldsite/202/MAR_2022.xlsx)  |  MOL [🔗](/oldsite/202/MOL_2022.xlsx)  | PIE1 [🔗](/oldsite/202/PIE1_2022.xlsx) | PIE2 [🔗](/oldsite/202/PIE2_2022.xlsx) | PIE3 [🔗](/oldsite/202/PIE3_2022.xlsx) |

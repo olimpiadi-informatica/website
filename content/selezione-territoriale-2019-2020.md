@@ -12,7 +12,7 @@ edizioni = ["2019-2020"]
 thumbnail = ""
 override_updated = "2020-12-03T09:18:54"
 +++
-**La selezione territoriale della XX edizione si è svolta online il 22 ottobre 2020. Alla selezione territoriale hanno partecipato 890 studenti.** <br/>
+La selezione territoriale della XX edizione si è svolta online il 22 ottobre 2020. Alla selezione territoriale hanno partecipato 890 studenti.
 <!-- more -->
 
 [Vedi classifica generale](/oldsite/172/classifica-territoriale-2020.xlsx) con i relativi punteggi.
@@ -29,8 +29,9 @@ Sono disponibili la [guida](http://www.imparando.net/sito/olimpiadi_di_informati
 
 **Atleti ammessi per regione:**<br/>**Classifica definitiva** (dopo la presa visione di tutti i referenti scolastici)
 
-|  ABR [🔗](/oldsite/172/abruzzo2020.pdf)  | BAS [🔗](/oldsite/172/basilicata2020.pdf) |  CAL [🔗](/oldsite/172/calabria2020.pdf)   | CAM [🔗](/oldsite/172/campania2020.pdf) |
+|||||
 | :--------------------------------------: | :------------------------------------: | :-------------------------------------: | :----------------------------------: |
+|  ABR [🔗](/oldsite/172/abruzzo2020.pdf)  | BAS [🔗](/oldsite/172/basilicata2020.pdf) |  CAL [🔗](/oldsite/172/calabria2020.pdf)   | CAM [🔗](/oldsite/172/campania2020.pdf) |
 |  EMI [🔗](/oldsite/172/emilia2020.pdf)   |   FRI [🔗](/oldsite/172/friuli2020.pdf)   |    LAZ [🔗](/oldsite/172/lazio2020.pdf)    | LIG [🔗](/oldsite/172/liguria2020.pdf)  |
 | LOM [🔗](/oldsite/172/lombardia2020.pdf) |   MAR [🔗](/oldsite/172/marche2020.pdf)   |   MOL [🔗](/oldsite/172/molise2020.pdf)    | PIE [🔗](/oldsite/172/piemonte2020.pdf) |
 |  PUG [🔗](/oldsite/172/puglia2020.pdf)   |  SAR [🔗](/oldsite/172/sardegna2020.pdf)  |   SIC [🔗](/oldsite/172/sicilia2020.pdf)   | TOS [🔗](/oldsite/172/toscana2020.pdf)  |

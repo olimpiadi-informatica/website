@@ -28,8 +28,9 @@ i 1731 atleti in possesso di uno dei seguenti requisiti:
 
 **Classifica definitiva** (dopo la presa visione di tutti i referenti scolastici)
 
-|  ABR [🔗](/oldsite/124/abruzzo2017.pdf)  | BAS [🔗](/oldsite/124/basilicata2017.pdf) |  CAL [🔗](/oldsite/124/calabria2017.pdf)   | CAM [🔗](/oldsite/124/campania2017.pdf) |
+|||||
 | :--------------------------------------: | :------------------------------------: | :-------------------------------------: | :----------------------------------: |
+|  ABR [🔗](/oldsite/124/abruzzo2017.pdf)  | BAS [🔗](/oldsite/124/basilicata2017.pdf) |  CAL [🔗](/oldsite/124/calabria2017.pdf)   | CAM [🔗](/oldsite/124/campania2017.pdf) |
 |  EMI [🔗](/oldsite/124/emilia2017.pdf)   |   FRI [🔗](/oldsite/124/friuli2017.pdf)   |    LAZ [🔗](/oldsite/124/lazio2017.pdf)    | LIG [🔗](/oldsite/124/liguria2017.pdf)  |
 | LOM [🔗](/oldsite/124/lombardia2017.pdf) |   MAR [🔗](/oldsite/124/marche2017.pdf)   |   MOL [🔗](/oldsite/124/molise2017.pdf)    | PIE [🔗](/oldsite/124/piemonte2017.pdf) |
 |  PUG [🔗](/oldsite/124/puglia2017.pdf)   |  SAR [🔗](/oldsite/124/sardegna2017.pdf)  |   SIC [🔗](/oldsite/124/sicilia2017.pdf)   | TOS [🔗](/oldsite/124/toscana2017.pdf)  |

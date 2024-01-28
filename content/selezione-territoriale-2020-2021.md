@@ -12,7 +12,10 @@ gare = ["territoriali"]
 thumbnail = ""
 override_updated = "2021-10-08T13:52:15"
 +++
-**La selezione territoriale della XXI edizione si è svolta in modalità online giovedì 20 maggio 2021. Alla selezione territoriale hanno partecipato 1983 studenti.** <br/><!-- more -->
+La selezione territoriale della XXI edizione si è svolta in modalità online giovedì 20 maggio 2021. Alla selezione territoriale hanno partecipato 1983 studenti.
+
+<!-- more -->
+
 [Vedi classifica generale](/oldsite/187/classifica-generale-selezione-territoriale-maggio-2021.xlsx) con i relativi punteggi.
 
 A seguito delle correzioni delle prove da parte dello staff tecnico, vi informiamo che sono state rilevate copiature da parte di 31 studenti provenienti da 13 scuole diverse. Questi atleti sono stati squalificati a delibera del Comitato OII e sono stati eliminati dalla pubblicazione della classifica. Tali scuole e referenti scolastici hanno ricevuto una comunicazione in merito.
@@ -31,7 +34,10 @@ In considerazione del fatto che la finale nazionale si svolgerà online, il Comi
 
 **Testi selezione territoriale**
 
-- Impila le scatole: [https://territoriali.olinfo.it/task/pile](https://territoriali.olinfo.it/task/pile)<br/>- Collezionismo di robot: [https://territoriali.olinfo.it/task/collezionismo](https://territoriali.olinfo.it/task/collezionismo)<br/>- Corsa ad ostacoli: [https://territoriali.olinfo.it/task/ostacoli](https://territoriali.olinfo.it/task/ostacoli)<br/>- Percorso palindromo: [https://territoriali.olinfo.it/task/palindromo](https://territoriali.olinfo.it/task/palindromo)
+- Impila le scatole: [https://territoriali.olinfo.it/task/pile](https://territoriali.olinfo.it/task/pile)
+- Collezionismo di robot: [https://territoriali.olinfo.it/task/collezionismo](https://territoriali.olinfo.it/task/collezionismo)
+- Corsa ad ostacoli: [https://territoriali.olinfo.it/task/ostacoli](https://territoriali.olinfo.it/task/ostacoli)
+- Percorso palindromo: [https://territoriali.olinfo.it/task/palindromo](https://territoriali.olinfo.it/task/palindromo)
 
 (per scaricare i problemi è necessaria la registrazione al sito delle olimpiadi territoriali)
 
@@ -43,8 +49,9 @@ Sono disponibili la [guida](http://www.imparando.net/sito/olimpiadi_di_informati
 
 **Atleti ammessi per sedi territoriali:**<br/>**Classifica definitiva** (dopo la presa visione di tutti i referenti scolastici)
 
-|  ABR [🔗](/oldsite/187/ABR_2021.xlsx)  |  BAS [🔗](/oldsite/187/BAS_2021.xlsx)  | CAL1 [🔗](/oldsite/187/CAL1_2021.xlsx) | CAL2 [🔗](/oldsite/187/CAL2_2021.xlsx) | CAM1 [🔗](/oldsite/187/CAM1_2021.xlsx) | CAM2 [🔗](/oldsite/187/CAM2_2021.xlsx) |
+|||||||
 | :------------------------------------: | :---------------------------------: | :---------------------------------: | :---------------------------------: | :---------------------------------: | :---------------------------------: |
+|  ABR [🔗](/oldsite/187/ABR_2021.xlsx)  |  BAS [🔗](/oldsite/187/BAS_2021.xlsx)  | CAL1 [🔗](/oldsite/187/CAL1_2021.xlsx) | CAL2 [🔗](/oldsite/187/CAL2_2021.xlsx) | CAM1 [🔗](/oldsite/187/CAM1_2021.xlsx) | CAM2 [🔗](/oldsite/187/CAM2_2021.xlsx) |
 | CAM3 [🔗](/oldsite/187/CAM3_2021.xlsx) | CAM4 [🔗](/oldsite/187/CAM4_2021.xlsx) | EMI1 [🔗](/oldsite/187/EMI1_2021.xlsx) | EMI2 [🔗](/oldsite/187/EMI2_2021.xlsx) | EMI3 [🔗](/oldsite/187/EMI3_2021.xlsx) | EMI4 [🔗](/oldsite/187/EMI4_2021.xlsx) |
 |  FRI [🔗](/oldsite/187/FRI_2021.xlsx)  | LAZ1 [🔗](/oldsite/187/LAZ1_2021.xlsx) | LAZ2 [🔗](/oldsite/187/LAZ2_2021.xlsx) |  LIG [🔗](/oldsite/187/LIG_2021.xlsx)  | LOM1 [🔗](/oldsite/187/LOM1_2021.xlsx) | LOM2 [🔗](/oldsite/187/LOM2_2021.xlsx) |
 | LOM3 [🔗](/oldsite/187/LOM3_2021.xlsx) | LOM4 [🔗](/oldsite/187/LOM4_2021.xlsx) | LOM5 [🔗](/oldsite/187/LOM5_2021.xlsx) | LOM6 [🔗](/oldsite/187/LOM6_2021.xlsx) | MAR1 [🔗](/oldsite/187/MAR1_2021.xlsx) | MAR2 [🔗](/oldsite/187/MAR2_2021.xlsx) |

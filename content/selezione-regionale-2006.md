@@ -77,7 +77,7 @@ Obiettivo della prova è quello di verificare le capacità dei partecipanti nell
 
 1. Per la valutazione della prova il programma viene eseguito su 10 casi di test ed è valutato il numero di casi q per i quali fornisce il risultato atteso. L’esercizio quindi guadagna q\*D punti.
 
-1. A ciascun esercizio compilato (per il quale cioè esista un file eseguibile) viene inoltre assegnato il punteggio 2*D, sicché il punteggio assegnato per un esercizio è 0 (se non compilato), 2*D (se soltanto compilato e non funzionante su alcun caso di prova), fino ad un massimo di 12\*D se funzionante su tutti i 10 casi di prova.
+1. A ciascun esercizio compilato (per il quale cioè esista un file eseguibile) viene inoltre assegnato il punteggio 2\*D, sicché il punteggio assegnato per un esercizio è 0 (se non compilato), 2\*D (se soltanto compilato e non funzionante su alcun caso di prova), fino ad un massimo di 12\*D se funzionante su tutti i 10 casi di prova.
 
 1. Nessun effetto sulla valutazione ha lo stile di programmazione.
 
@@ -85,7 +85,7 @@ Obiettivo della prova è quello di verificare le capacità dei partecipanti nell
 
 Sono previste le seguenti classifiche: a) Classifica di Sede Regionale: viene stilata in funzione del punteggio guadagnato dai singoli partecipanti. b) Classifica Nazionale: viene stilata fondendo ed ordinando le classifiche di tutte le Sedi Regionali.
 
-A parità di punteggio in qualsiasi classifica sono favoriti gli studenti di classe inferiore e, in<br/> caso di ulteriore parità, i più giovani.<br/> Vengono ammessi alle Olimpiadi Italiane di Informatica:
+A parità di punteggio in qualsiasi classifica sono favoriti gli studenti di classe inferiore e, in  caso di ulteriore parità, i più giovani.  Vengono ammessi alle Olimpiadi Italiane di Informatica:
 
 1. I partecipanti agli stage di formazione nel corso della passata edizione che ancora frequentano la scuola ed hanno meno di 20 anni. Per quest’anno detti studenti sono in numero di 6.
 
@@ -130,8 +130,9 @@ Elenco delle Sedi Regionali e rispettivi Referenti.
 
 Selezione regionale - Atleti ammessi
 
-|  [ABR](/oldsite/76/ABR.pdf)  | [BAS](documents/edition/2006/atletiAmmessiRegionali/BAS.pdf) | [CAL1](/oldsite/76/CAL1.pdf) | [CAL2](/oldsite/76/CAL2.pdf) |  [CAM](/oldsite/76/CAM.pdf)  |
+||||||
 | :--------------------------: | :----------------------------------------------------------: | :------------------------: | :------------------------: | :------------------------: |
+|  [ABR](/oldsite/76/ABR.pdf)  | [BAS](documents/edition/2006/atletiAmmessiRegionali/BAS.pdf) | [CAL1](/oldsite/76/CAL1.pdf) | [CAL2](/oldsite/76/CAL2.pdf) |  [CAM](/oldsite/76/CAM.pdf)  |
 |  [EMI](/oldsite/76/EMI.pdf)  |                   [FRI](/oldsite/76/FRI.pdf)                   |  [LAZ](/oldsite/76/LAZ.pdf)  |  [LIG](/oldsite/76/LIG.pdf)  | [LOM1](/oldsite/76/LOM1.pdf) |
 | [LOM2](/oldsite/76/LOM2.pdf) |                   [MAR](/oldsite/76/MAR.pdf)                   |  [MOL](/oldsite/76/MOL.pdf)  | [PIE1](/oldsite/76/PIE1.pdf) | [PIE2](/oldsite/76/PIE2.pdf) |
 | [PUG1](/oldsite/76/PUG1.pdf) |                  [PUG2](/oldsite/76/PUG2.pdf)                  |  [SAR](/oldsite/76/SAR.pdf)  | [SIC1](/oldsite/76/SIC1.pdf) | [SIC2](/oldsite/76/SIC2.pdf) |
@@ -143,7 +144,7 @@ Prove assegnate
 
 Le prove assegnate alla selezione regionale sono disponibili in formato pdf dai collegamenti seguenti:
 
-<br/>[bilancino](/oldsite/76/bilancino.pdf)
+[bilancino](/oldsite/76/bilancino.pdf)
 
 [brambillia](/oldsite/76/brambillia.pdf)
 
