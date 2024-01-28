@@ -16,6 +16,8 @@ La Selezione Scolastica della XXIV edizione delle OII si è svolta giovedì 14 d
 
 90 minuti il tempo a disposizione.
 
+blablabla
+
 La prova consiste, come sempre, nella risoluzione di esercizi di carattere logico-matematico, algoritmico e di programmazione. I problemi di programmazione sono proposti in pseudocodice.
 
 Hanno partecipato alla gara 12079 atleti, di cui 562 di prima, 1157 di seconda, 5518 di terza e 4841 di quarta. Il punteggio medio è stato di 19.02, e il punteggio massimo ottenuto è stato di 86/95; [scarica qui](/results/Classifica_generale_selezione_scolastica_14dicembre2023.xlsx) l’elenco dei partecipanti con i relativi punteggi.
