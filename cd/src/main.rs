@@ -8,7 +8,11 @@ use atomic_file_install::atomic_symlink_file;
 use axum::{extract::State, http::StatusCode, routing::post, Json, Router};
 use clap::Parser;
 use cmd_lib::{run_cmd, spawn_with_output};
+<<<<<<< HEAD
 use color_eyre::eyre::{OptionExt, Result};
+=======
+use color_eyre::eyre::{ContextCompat, OptionExt, Result};
+>>>>>>> 69c634a (Fix relative paths)
 use reqwest::{header, Client};
 use serde::Deserialize;
 use tokio::sync::Mutex;
@@ -117,8 +121,9 @@ fn build_inner(
 
     if let Some(os) = output_symlink {
         let current = os.canonicalize().ok();
-        let relative_target = pathdiff::diff_paths(&target, &os)
-            .ok_or_eyre("could not find relative path from prod symlink to build dir")?;
+        let relative_target =
+            pathdiff::diff_paths(&target, &os.parent().context("symlink target is root?")?)
+                .ok_or_eyre("could not find relative path from prod symlink to build dir")?;
         atomic_symlink_file(&relative_target, &os)?;
         if let Some(current) = current {
             if current != target {
@@ -189,7 +194,11 @@ async fn build(
     report_status(
         &sha,
         &gh_token,
+<<<<<<< HEAD
         "{{\"state\":\"pending\",\"description\":\"building...\",\"context\":\"deploy\"}}".to_string(),
+=======
+        format!("{{\"state\":\"pending\",\"description\":\"building...\",\"context\":\"deploy\"}}"),
+>>>>>>> 69c634a (Fix relative paths)
     )
     .await;
     let result = {
@@ -198,7 +207,11 @@ async fn build(
     };
     match result {
         Err(e) => {
+<<<<<<< HEAD
             report_status(&sha, &gh_token, "{{\"state\":\"failure\",\"description\":\"The build failed!\",\"context\":\"deploy\"}}".to_string()).await;
+=======
+            report_status(&sha, &gh_token, format!("{{\"state\":\"failure\",\"description\":\"The build failed!\",\"context\":\"deploy\"}}")).await;
+>>>>>>> 69c634a (Fix relative paths)
             Err(e)
         }
         Ok(url) => {
