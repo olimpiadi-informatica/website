@@ -1,11 +1,11 @@
 +++
 draft = false
 title = "Borse di studio - Banca d'Italia 2022"
-date = 2023-06-18T14:18:57Z
+date = 2023-06-18T14:18:57.000Z
 updated = "2023-07-27T14:16:47"
 
 [taxonomies]
-edizioni = [ "2021-2022",]
+edizioni = ["2021-2022"]
 
 [extra]
 thumbnail = "/images/uploads/e7b279be6a862d254f0e7cc4dde2874e.jpg"
@@ -31,3 +31,5 @@ I ragazzi, insieme a Valerio Stancanelli che li ha accompagnati in qualità di t
 
 {{ img(src='/images/uploads/Divano_e_logo_Huawei.jpeg', width='1000', height='1000') }}<br/> da sinistra: Riccardo Caberlin, Samuele Artico, Valerio Stancanelli (tutor), Alessandro Lombardo e Luca Baglietto <br/>![AULA 7](/images/uploads/AULA_7.jpeg)
 ![MENSA](/images/uploads/MENSA.jpeg)
+
+lalala
