@@ -189,7 +189,7 @@ async fn build(
     report_status(
         &sha,
         &gh_token,
-        format!("{{\"state\":\"pending\",\"description\":\"building...\",\"context\":\"deploy\"}}"),
+        "{{\"state\":\"pending\",\"description\":\"building...\",\"context\":\"deploy\"}}".to_string(),
     )
     .await;
     let result = {
