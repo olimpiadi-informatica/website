@@ -198,7 +198,7 @@ async fn build(
     };
     match result {
         Err(e) => {
-            report_status(&sha, &gh_token, format!("{{\"state\":\"failure\",\"description\":\"The build failed!\",\"context\":\"deploy\"}}")).await;
+            report_status(&sha, &gh_token, "{{\"state\":\"failure\",\"description\":\"The build failed!\",\"context\":\"deploy\"}}".to_string()).await;
             Err(e)
         }
         Ok(url) => {
