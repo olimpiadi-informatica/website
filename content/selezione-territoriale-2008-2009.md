@@ -3,6 +3,7 @@ draft = false
 title = "Selezione territoriale 2008-2009"
 date = 2009-04-14T11:50:29.000Z
 updated = "2016-10-20T13:24:01"
+description = "selezione territoriale regionale 2008-2009"
 
 [taxonomies]
 gare = ["territoriali"]
@@ -225,5 +226,5 @@ Prove assegnate alla Selezione Territoriale del 02.04.2009
 
 In questa pagina sono segnalate le iniziative di formazione organizzate a livello territoriale.
 
-* 22 maggio 2010 - ITIS B. Castelli, Brescia:  [Algoritmi in Festa](http://81.208.32.83:8080/ioi/files/algoritmi%20in%20festa.pdf) ([Locandina](http://81.208.32.83:8080/ioi/files/Locandina_bugatti.pdf))
-* 22 maggio 2010 - Liceo Scient. E. Fermi, Bologna:  [Olimpiadi di Informatica a Squadre 2010/2011 - I Edizione](http://81.208.32.83:8080/ioi/files/Rel__Prof__Carletto-Gare_reg_Emilia.pdf)
+* 22 maggio 2010 - ITIS B. Castelli, Brescia:  [Algoritmi in Festa](/oldsite/ter09/algoritmi%20in%20festa.pdf) ([Locandina](/oldsite/ter09/Locandina_bugatti.pdf))
+* 22 maggio 2010 - Liceo Scient. E. Fermi, Bologna:  [Olimpiadi di Informatica a Squadre 2010/2011 - I Edizione](/oldsite/ter09/Rel__Prof__Carletto-Gare_reg_Emilia.pdf)

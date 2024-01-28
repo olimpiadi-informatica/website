@@ -28,12 +28,12 @@ Vengono ammessi alla Selezione Territoriale ben 894 atleti:
 
 Selezione regionale - Atleti ammessi
 
-| [ABR](http://81.208.32.83:8080/ioi/files/abruzzo_ammessi.pdf)            | [BAS](http://81.208.32.83:8080/ioi/files/basilicata%20ammessi.pdf) | [CAL](http://81.208.32.83:8080/ioi/files/calabria%20ammessi.pdf) | [CAM](http://81.208.32.83:8080/ioi/files/campania%20ammessi.pdf) |
+| [ABR](/oldsite/ter11/abruzzo_ammessi.pdf)            | [BAS](/oldsite/ter11/basilicata%20ammessi.pdf) | [CAL](/oldsite/ter11/calabria%20ammessi.pdf) | [CAM](/oldsite/ter11/campania%20ammessi.pdf) |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------- |
-| [EMI](http://81.208.32.83:8080/ioi/files/emilia%20romagna%20ammessi.pdf) | [FRI](http://81.208.32.83:8080/ioi/files/friuli%20ammessi.pdf)     | [LAZ](http://81.208.32.83:8080/ioi/files/lazio%20ammessi.pdf)    | [LIG](http://81.208.32.83:8080/ioi/files/liguria%20ammessi.pdf)  |
-| [LOM](http://81.208.32.83:8080/ioi/files/lombardia%20ammessi.pdf)        | [MAR](http://81.208.32.83:8080/ioi/files/marche%20ammessi.pdf)     | [MOL](http://81.208.32.83:8080/ioi/files/molise%20ammessi.pdf)   | [PIE](http://81.208.32.83:8080/ioi/files/piemonte%20ammessi.pdf) |
-| [PUG](http://81.208.32.83:8080/ioi/files/puglia%20ammessi.pdf)           | [SAR](http://81.208.32.83:8080/ioi/files/sardegna%20ammessi.pdf)   | [SIC](http://81.208.32.83:8080/ioi/files/sicilia%20ammessi.pdf)  | [TOS](http://81.208.32.83:8080/ioi/files/toscana%20ammessi.pdf)  |
-| [TRE](http://81.208.32.83:8080/ioi/files/trentino%20ammessi.pdf)         | [UMB](http://81.208.32.83:8080/ioi/files/umbria_ammessi.pdf)       | [VEN](http://81.208.32.83:8080/ioi/files/veneto_ammessi.pdf)     | \-                                                               |
+| [EMI](/oldsite/ter11/emilia%20romagna%20ammessi.pdf) | [FRI](/oldsite/ter11/friuli%20ammessi.pdf)     | [LAZ](/oldsite/ter11/lazio%20ammessi.pdf)    | [LIG](/oldsite/ter11/liguria%20ammessi.pdf)  |
+| [LOM](/oldsite/ter11/lombardia%20ammessi.pdf)        | [MAR](/oldsite/ter11/marche%20ammessi.pdf)     | [MOL](/oldsite/ter11/molise%20ammessi.pdf)   | [PIE](/oldsite/ter11/piemonte%20ammessi.pdf) |
+| [PUG](/oldsite/ter11/puglia%20ammessi.pdf)           | [SAR](/oldsite/ter11/sardegna%20ammessi.pdf)   | [SIC](/oldsite/ter11/sicilia%20ammessi.pdf)  | [TOS](/oldsite/ter11/toscana%20ammessi.pdf)  |
+| [TRE](/oldsite/ter11/trentino%20ammessi.pdf)         | [UMB](/oldsite/ter11/umbria_ammessi.pdf)       | [VEN](/oldsite/ter11/veneto_ammessi.pdf)     | \-                                                               |
 
 ## Sedi
 
@@ -93,4 +93,4 @@ Sono disponibili le prove assegnate alla Selezione Territoriale del 14 Aprile 20
 
 Il seminario, tenutosi presso il Garda Village di Sirmione, ha avuto lo scopo non solo di fornire un sistematico quadro degli strumenti messi a disposizione per supportare la preparazione degli studenti nelle varie fasi di selezione, ma anche di costituire un’occasione di aggiornamento professionale e di riflessione comune sui cambiamenti indotti nei processi di apprendimento dal diffuso utilizzo di tecnologie dell’informazione e della comunicazione.
 
-[Programma seminario](http://81.208.32.83:8080/ioi/files/OII-Progr__Docenti-Sem__Sirmione_apr_2011.doc)
+[Programma seminario](/oldsite/ter11/OII-Progr__Docenti-Sem__Sirmione_apr_2011.doc)

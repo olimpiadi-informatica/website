@@ -321,5 +321,5 @@ Sono disponibili le prove assegnate alla Selezione Territoriale del 14 Aprile 20
 
 In questa pagina sono segnalate le iniziative di formazione organizzate a livello territoriale.
 
-* 22 maggio 2010 - ITIS B. Castelli, Brescia:  [Algoritmi in Festa](http://81.208.32.83:8080/ioi/files/algoritmi%20in%20festa.pdf) ([Locandina](http://81.208.32.83:8080/ioi/files/Locandina_bugatti.pdf))
-* 22 maggio 2010 - Liceo Scient. E. Fermi, Bologna:  [Olimpiadi di Informatica a Squadre 2010/2011 - I Edizione](http://81.208.32.83:8080/ioi/files/Rel__Prof__Carletto-Gare_reg_Emilia.pdf)
+* 22 maggio 2010 - ITIS B. Castelli, Brescia:  [Algoritmi in Festa](/oldsite/ter10/algoritmi%20in%20festa.pdf) ([Locandina](/oldsite/ter10/Locandina_bugatti.pdf))
+* 22 maggio 2010 - Liceo Scient. E. Fermi, Bologna:  [Olimpiadi di Informatica a Squadre 2010/2011 - I Edizione](/oldsite/ter10/Rel__Prof__Carletto-Gare_reg_Emilia.pdf)
