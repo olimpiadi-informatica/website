@@ -13,11 +13,11 @@ override_updated = "2016-10-21T09:56:06"
 +++
 **AMMESSI ALLENAMENTI PER LA FORMAZIONE SQUADRA OLIMPIADI INTERNAZIONALI 2009**
 
-<br/>Come da regolamento (cfr par. VII.2 del Regolamento Selezioni Territoriali) sono ammessi agli allenamenti per la formazione della Squadra per le Olimpiadi internazionali di Informatica del 2009:
+Come da regolamento (cfr par. VII.2 del Regolamento Selezioni Territoriali) sono ammessi agli allenamenti per la formazione della Squadra per le Olimpiadi internazionali di Informatica del 2009:
 
 1. i nove Probabili Olimpici ammessi all’ultima settimana di allenamento nell’anno 2008 che ancora risultano in possesso dei requisiti previsti dal Regolamento Olimpico
 
-| **Nome** | **Cognome** | **Istituto** | **Comune**            | **classe**              |     |
+| Nome | Cognome | Istituto | Comune            | classe              |     |
 | -------- | ----------- | ------------ | --------------------- | ----------------------- | --- |
 | 1        | MAXIMILIAN  | ALBER        | ITI MAX VALIER        | BOLZANO                 | IV  |
 | 2        | MASSIMO     | CAIRO        | L.S. MARCONI          | MILANO                  | IV  |
@@ -29,9 +29,12 @@ override_updated = "2016-10-21T09:56:06"
 | 8        | DANIELE     | SCHIRRU      | ITI GIUA              | CAGLIARI                | V   |
 | 9        | MAURIZIO    | ZUCCHELLI    | L.S. LEONARDO         | BRESCIA                 | V   |
 
-1. altri studenti che abbiano ottenuto punteggi particolarmente elevati alla presente Selezione Territoriale, fino ad un massimo di 20 partecipanti complessivi. Il Comitato Olimpico ha deliberato di ammettere gli undici atleti che hanno conseguito un punteggio uguale o superiore a 40 punti.
+2. altri studenti che abbiano ottenuto punteggi particolarmente elevati alla
+   presente Selezione Territoriale, fino ad un massimo di 20 partecipanti
+   complessivi. Il Comitato Olimpico ha deliberato di ammettere gli undici
+   atleti che hanno conseguito un punteggio uguale o superiore a 40 punti.
 
-| **Nome** | **Cognome** | **Istituto** | **Comune**            | **classe** |     |
+| Nome | Cognome | Istituto | Comune            | classe |     |
 | -------- | ----------- | ------------ | --------------------- | ---------- | --- |
 | 10       | Andrea      | Fogari       | ISIS                  | Gorizia    | IV  |
 | 11       | Paolo       | Inaudi       | ITC Bonelli           | Cuneo      | IV  |
@@ -45,13 +48,13 @@ override_updated = "2016-10-21T09:56:06"
 | 19       | Riccardo    | Schirone     | ITI P. Hensemberger   | Monza (MI) | IV  |
 | 20       | Federico    | Soave        | ITI Guglielmo Marconi | Verona     | IV  |
 
-<br/>Ai 20 Probabili Olimpici 2009 sono rivolte le fasi di formazione e di selezione conclusiva per formare la Squadra Olimpica 2009 (4 titolari e 2 riserve) che parteciperà alle Olimpiadi Internazionali 2009 che si terranno a Plovdiv, in Bulgaria, dall’ 8 al 15 agosto ([www.ioi2009.org](http://www.ioi2009.org/)).
+Ai 20 Probabili Olimpici 2009 sono rivolte le fasi di formazione e di selezione conclusiva per formare la Squadra Olimpica 2009 (4 titolari e 2 riserve) che parteciperà alle Olimpiadi Internazionali 2009 che si terranno a Plovdiv, in Bulgaria, dall’ 8 al 15 agosto ([www.ioi2009.org](http://www.ioi2009.org/)).
 
 **ALLENAMENTO RESIDENZIALE E SELEZIONE (prima fase)**
 
 Volterra, 23 aprile – 3 maggio 2009<br/>Scuola Italiana Alta Formazione ([www.siafovolterra.eu](http://www.siafovolterra.eu/))<br/>A cura del prof. Roberto Grossi dell’Università di Pisa<br/>Sono risultati ammessi alla seconda fase i seguenti PO2009:
 
-|     | **Nome**   | **Cognome** | **Istituto**        | **Comune**      | **classe** |
+|     | Nome   | Cognome | Istituto        | Comune      | classe |
 | --- | ---------- | ----------- | ------------------- | --------------- | ---------- |
 | 1   | Maximilian | Alber       | ITI Max Valier      | Bolzano         | IV         |
 | 2   | Massimo    | Cairo       | LS Marconi          | Milano          | IV         |
@@ -79,7 +82,9 @@ I quattro titolari che compongono la Squadra Olimpica 2009 sono
 
 Le due riserve sono
 
-| **Nome** | **Cognome** | **Istituto**   | **Comune** | **classe** |                                                                                                     |
-| -------- | ----------- | -------------- | ---------- | ---------- | --------------------------------------------------------------------------------------------------- |
-| Andrea   | Fogari      | ISIS           | Gorizia    | IV         |                                                                                                     |
-| Matteo   | Nardi       | LS Alberghetti | Imola (BO) | IV         | [Allenamenti PO 2009](http://81.208.32.83:8080/ioi/files/programma%20allenamenti%20PO-IOI_2009.pdf) |
+| **Nome** | **Cognome** | **Istituto**   | **Comune** | **classe** |
+| -------- | ----------- | -------------- | ---------- | ---------- |
+| Andrea   | Fogari      | ISIS           | Gorizia    | IV         |
+| Matteo   | Nardi       | LS Alberghetti | Imola (BO) | IV         |
+
+[Allenamenti PO 2009](/oldsite/po09/programma%20allenamenti%20PO-IOI_2009.pdf)

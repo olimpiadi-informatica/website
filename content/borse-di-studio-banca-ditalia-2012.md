@@ -31,4 +31,4 @@ I ragazzi, insieme all' Ing. Fabio Zanzottera di AICA che li ha accompagnati in 
 
 Qui sotto in gita a Londra:
 
-[{{ img(src='/images/uploads/DSC02515.JPG', width='200', height='150') }}](http://81.208.32.83:8080/ioi/images/stories/DSC02515.JPG)[{{ img(src='/images/uploads/IMG-20131010-WA0002.jpg', width='267', height='150') }}](http://81.208.32.83:8080/ioi/images/stories/IMG-20131010-WA0002.jpg)
+[{{ img(src='/images/uploads/DSC02515.JPG', width='200', height='150') }}](/images/uploads/DSC02515.JPG)[{{ img(src='/images/uploads/IMG-20131010-WA0002.jpg', width='267', height='150') }}](/images/uploads/IMG-20131010-WA0002.jpg)
