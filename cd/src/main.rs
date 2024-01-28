@@ -122,11 +122,13 @@ fn build_inner(
             .ok_or_eyre("could not find relative path from prod symlink to build dir")?;
         atomic_symlink_file(&relative_target, &os)?;
         if let Some(current) = current {
-            if let Err(e) = remove_dir_all(&current) {
-                warn!(
-                    "Error removing old directory {}: {e}",
-                    current.to_string_lossy()
-                );
+            if current != target {
+                if let Err(e) = remove_dir_all(&current) {
+                    warn!(
+                        "Error removing old directory {}: {e}",
+                        current.to_string_lossy()
+                    );
+                }
             }
         }
     };
