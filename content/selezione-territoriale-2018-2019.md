@@ -17,7 +17,7 @@ La selezione territoriale delle Olimpiadi di Informatica si è svolta il 16 apri
 
 #### **RISULTATI SELEZIONE TERRITORIALE:**
 
-La selezione territoriale della XIX edizione si è svolta il 16 aprile 2019 presso ciascuna sede regionale accreditata. [Vedi qui l'elenco](/pagine/organizzazione/).
+La selezione territoriale della XIX edizione si è svolta il 16 aprile 2019 presso ciascuna sede regionale accreditata. [Vedi qui l'elenco](@/pagine/organizzazione.md).
 
 Alla selezione territoriale hanno partecipato 1358 studenti: [vedi classifica generale con i relativi punteggi](/oldsite/154/classifica-generale-selezione-territoriale-2019.xlsx)
 

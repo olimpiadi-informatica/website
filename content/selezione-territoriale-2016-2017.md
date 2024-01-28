@@ -16,7 +16,9 @@ La selezione territoriale delle Olimpiadi di Informatica si è svolta martedì 1
 
 <!-- more -->
 
-Vengono ammessi alla Selezione Territoriale che si è tenuta martedì 11 aprile 2017, presso le sedi territoriali [qui pubblicate](/pagine/organizzazione/), i 1731 atleti in possesso di uno dei seguenti requisiti:
+Vengono ammessi alla Selezione Territoriale che si è tenuta martedì 11 aprile
+2017, presso le sedi territoriali [qui pubblicate](@/pagine/organizzazione.md),
+i 1731 atleti in possesso di uno dei seguenti requisiti:
 
 - essere il 1° classificato nella graduatoria d’Istituto, indipendentemente dal punteggio ottenuto;
 - essere il 2° classificato nella graduatoria d’Istituto, con punteggio maggiore o uguale alla media nazionale (8.45 punti) arrotondata all’intero più vicino (8 punti);
