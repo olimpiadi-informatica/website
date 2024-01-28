@@ -5,3 +5,5 @@ static/processed_images/
 *.swp
 *.pyc
 .vscode/
+cd/target
+builds/
