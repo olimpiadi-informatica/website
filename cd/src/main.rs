@@ -1,7 +1,7 @@
 use std::{
     fs::{self, read_link, remove_dir_all},
     path::PathBuf,
-    sync::Arc,
+    sync::{Arc, OnceLock},
 };
 
 use atomic_file_install::atomic_symlink_file;
@@ -11,6 +11,7 @@ use cmd_lib::{run_cmd, spawn_with_output};
 use color_eyre::eyre::{OptionExt, Result};
 use reqwest::{header, Client};
 use serde::Deserialize;
+use tempfile::TempDir;
 use tokio::sync::Mutex;
 use tracing::{info, warn};
 
@@ -101,10 +102,34 @@ fn build_inner(
         fs::create_dir_all(&build_base_path)?;
         let target = build_base_path.join(sha);
         if !target.exists() {
+            static SCRIPT_DIR: OnceLock<TempDir> = OnceLock::new();
+            let script_dir = SCRIPT_DIR
+                .get_or_init(|| {
+                    const LIB_PY: &[u8] = include_bytes!("../../scripts/lib.py");
+                    const UPDATED_FROM_GIT_PY: &[u8] =
+                        include_bytes!("../../scripts/updated_from_git.py");
+                    const DOWNLOAD_GALLERY_IMAGES_PY: &[u8] =
+                        include_bytes!("../../scripts/download_gallery_images.py");
+                    let scripts = TempDir::new().unwrap();
+                    fs::write(scripts.path().join("lib.py"), LIB_PY).unwrap();
+                    fs::write(
+                        scripts.path().join("updated_from_git.py"),
+                        UPDATED_FROM_GIT_PY,
+                    )
+                    .unwrap();
+                    fs::write(
+                        scripts.path().join("download_gallery_images.py"),
+                        DOWNLOAD_GALLERY_IMAGES_PY,
+                    )
+                    .unwrap();
+                    scripts
+                })
+                .path()
+                .to_owned();
             run_cmd!(git -C $repo_path submodule init)?;
             run_cmd!(git -C $repo_path submodule update --recursive)?;
-            run_cmd!(cd $repo_path; ./scripts/updated_from_git.py)?;
-            run_cmd!(cd $repo_path; ./scripts/download_gallery_images.py)?;
+            run_cmd!(cd $repo_path; /usr/bin/env python3 $script_dir/updated_from_git.py)?;
+            run_cmd!(cd $repo_path; /usr/bin/env python3 $script_dir/download_gallery_images.py)?;
             if let Some(base_url) = &base_url {
                 run_cmd!(cd $repo_path; zola build -u $base_url)?;
             } else {
@@ -190,7 +215,7 @@ async fn build(
     report_status(
         &sha,
         &gh_token,
-        "{{\"state\":\"pending\",\"description\":\"building...\",\"context\":\"deploy\"}}"
+        "{\"state\":\"pending\",\"description\":\"building...\",\"context\":\"deploy\"}"
             .to_string(),
     )
     .await;
@@ -200,7 +225,7 @@ async fn build(
     };
     match result {
         Err(e) => {
-            report_status(&sha, &gh_token, "{{\"state\":\"failure\",\"description\":\"The build failed!\",\"context\":\"deploy\"}}".to_string()).await;
+            report_status(&sha, &gh_token, "{\"state\":\"failure\",\"description\":\"The build failed!\",\"context\":\"deploy\"}".to_string()).await;
             Err(e)
         }
         Ok(url) => {
