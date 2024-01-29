@@ -1738,6 +1738,7 @@ dependencies = [
  "pathdiff",
  "reqwest",
  "serde",
+ "tempfile",
  "tokio",
  "tracing",
  "tracing-error",
