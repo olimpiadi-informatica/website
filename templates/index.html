@@ -1,20 +1,24 @@
 {% extends "base.html" %}
 
 {% block content %}
-<div class="row text-center">
-  <h1 class="display-3 center">Le Olimpiadi di Informatica</h1>
-</div>
-<div class="row">
-  <div class="col-xl-4">
-    <img src="/logos/oii.png" alt="logo Olimpiadi"/>
+<div class="row text-center pb-4">
+  <div>
+    {{ img_macro::img(path="/logos/oii.png", alt="logo Olimpiadi", width=700, height=300, class="biglogo") }}
   </div>
-  <div class="col-xl-8 lead">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-    veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-    commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-    non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</div>
+<div class="row align-items-center">
+  <div class="lead">
+    Le Olimpiadi italiane di informatica sono una competizione volta ad
+    introdurre i ragazzi delle superiori al mondo del problem solving.
+    Attraverso tre selezioni &mdash; scolastica, territoriale e nazionale
+    &mdash; verranno scelti i rapresentanti italiani alle gare internazionali.
+    A differenza di altre simili competizioni nazionali, qui l'attenzione è
+    posta sul carattere algoritmico, richiedendo la capacità di tradurre un
+    ragionamento in codice comprensibile anche da un computer. La
+    programmazione gioca un ruolo fondamentale in questa competizione, ma la
+    rende anche l'occasione perfetta per scoprire un mondo magari solo
+    accennato sui banchi di scuola. Pronti a scoprire cosa è la programmazione
+    competitiva?
   </div>
 </div>
 <div class="p-3"></div>
