@@ -28,6 +28,18 @@
             <li><a class="dropdown-item" href="{{term.path}}">Internazionali</a></li>
           </ul>
         </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle {%if active%}active{%endif%}" href="#"
+             role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Allenamenti
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="https://algobadge.olinfo.it/">Algobadge</a></li>
+            <li><a class="dropdown-item" href="https://scolastiche.olinfo.it/">Scolastiche</a></li>
+            <li><a class="dropdown-item" href="https://territoriali.olinfo.it/">Territoriali</a></li>
+            <li><a class="dropdown-item" href="https://training.olinfo.it">Nazionali e internazionali</a></li>
+          </ul>
+        </li>
         <li class="nav-item">
           <a class="nav-link" aria-current="page" href="/#edition-{{config.extra.current_edition}}">Edizione corrente</a>
         </li>
@@ -42,11 +54,6 @@
           {% set active_p = page and page.path is starting_with("/gallery/") %}
           {% set active = active_p or active_s %}
           <a class="nav-link {%if active%}active{%endif%}" aria-current="page" href="{{gallery_s.path}}">Gallery</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="https://algobadge.olinfo.it/">
-            Algobadge
-          </a>
         </li>
       </ul>
       <form class="d-flex" role="search" onsubmit="search(); return false;" style="position: relative;">
