@@ -22,6 +22,10 @@ img {
   height: auto;
 }
 
+.navbar-dark, .navbar[data-bs-theme=dark] {
+  --bs-navbar-color: rgba(255, 255, 255, 0.7) !important;
+}
+
 .logo img {
   max-width: 25%;
   width: auto;
