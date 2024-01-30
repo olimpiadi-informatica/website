@@ -69,7 +69,7 @@ Volterra, 23 aprile – 3 maggio 2009<br/>Scuola Italiana Alta Formazione ([www.
 
 **ALLENAMENTO RESIDENZIALE E SELEZIONE CONCLUSIVA (seconda fase)**
 
-Volterra, 29 maggio – 2 giugno 2009<br/>Scuola Italiana Alta Formazione ([www.siafovolterra.eu](http://www.siafovolterra.eu/))<br/>A cura del prof. Roberto Grossi dell’Università di Pisa<br/>Al termine della seconda fase di allenamento residenziale, è stata designata la Squadra che rappresenterà gli studenti italiani alle Olimpiadi Internazionali di Informatica 2009, in programma per il prossimo agosto in Bulgaria.
+Volterra, 29 maggio – 2 giugno 2009<br/>Scuola Italiana Alta Formazione ([www.siafvolterra.eu](http://www.siafvolterra.eu/))<br/>A cura del prof. Roberto Grossi dell’Università di Pisa<br/>Al termine della seconda fase di allenamento residenziale, è stata designata la Squadra che rappresenterà gli studenti italiani alle Olimpiadi Internazionali di Informatica 2009, in programma per il prossimo agosto in Bulgaria.
 
 I quattro titolari che compongono la Squadra Olimpica 2009 sono
 
