@@ -1,12 +1,12 @@
 +++
 draft = false
 title = "Probabili Olimpici 2009"
-date = 2008-12-01T12:15:26Z
+date = 2008-12-01T12:15:26.000Z
 updated = "2016-10-21T09:56:06"
 
 [taxonomies]
-gare = [ "stage",]
-edizioni = [ "2008-2009",]
+gare = ["stage"]
+edizioni = ["2008-2009"]
 
 [extra]
 override_updated = "2016-10-21T09:56:06"
@@ -17,7 +17,7 @@ Come da regolamento (cfr par. VII.2 del Regolamento Selezioni Territoriali) sono
 
 1. i nove Probabili Olimpici ammessi all’ultima settimana di allenamento nell’anno 2008 che ancora risultano in possesso dei requisiti previsti dal Regolamento Olimpico
 
-| Nome | Cognome | Istituto | Comune            | classe              |     |
+| | Nome | Cognome | Istituto | Comune            | classe              |
 | -------- | ----------- | ------------ | --------------------- | ----------------------- | --- |
 | 1        | MAXIMILIAN  | ALBER        | ITI MAX VALIER        | BOLZANO                 | IV  |
 | 2        | MASSIMO     | CAIRO        | L.S. MARCONI          | MILANO                  | IV  |
@@ -34,7 +34,7 @@ Come da regolamento (cfr par. VII.2 del Regolamento Selezioni Territoriali) sono
    complessivi. Il Comitato Olimpico ha deliberato di ammettere gli undici
    atleti che hanno conseguito un punteggio uguale o superiore a 40 punti.
 
-| Nome | Cognome | Istituto | Comune            | classe |     |
+| | Nome | Cognome | Istituto | Comune            | classe |
 | -------- | ----------- | ------------ | --------------------- | ---------- | --- |
 | 10       | Andrea      | Fogari       | ISIS                  | Gorizia    | IV  |
 | 11       | Paolo       | Inaudi       | ITC Bonelli           | Cuneo      | IV  |
