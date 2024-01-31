@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Circolare 2004"
-date = "2016-10-13T08:00:13"
+date = "2004-09-13T08:00:13"
 updated = "2016-10-13T09:23:00"
 
 [taxonomies]

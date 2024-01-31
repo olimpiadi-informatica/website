@@ -6,7 +6,7 @@ updated = "2022-07-25T11:04:04"
 
 [taxonomies]
 gare = [ "stage",]
-edizioni = [ "2021-2022",]
+edizioni = [ "2020-2021",]
 
 [extra]
 thumbnail = "/images/uploads/e02fde07d49ee258cc3f6d1b19207757.jpg"

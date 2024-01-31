@@ -1,12 +1,12 @@
 +++
 draft = false
 title = "Probabili Olimpici 2011"
-date = 2010-10-17T11:56:38.000Z
+date = 2010-10-21T11:56:38.000Z
 updated = "2016-10-20T13:43:00"
 description = "probabili olimpici po stage 2010-2011 sirmione volterra"
 
 [taxonomies]
-edizioni = ["2010-2011"]
+edizioni = ["2009-2010"]
 gare = ["stage"]
 
 [extra]

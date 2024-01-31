@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Selezione regionale 2004"
-date = 2004-01-01T06:57:10Z
+date = 2004-10-01T06:57:10Z
 updated = "2016-10-14T13:15:49"
 
 [taxonomies]
