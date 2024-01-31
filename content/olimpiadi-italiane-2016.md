@@ -14,9 +14,9 @@ thumbnail = "/images/uploads/aaa036e4cb16038f90e128d8e39c714f.jpg"
 override_updated = "2018-02-26T17:02:44"
 +++
 
-Pubblicata la classifica dei vincitori OII 2016
-
 Le Olimpiadi Italiane 2016 si sono svolte a Catania, presso l'Istituto Archimede dal 15 al 17 Settembre.
+
+<!-- more -->
 
 {{ img(src='/images/uploads/Logo_OII2016.JPG', width='300', height=100) }}
 {{ img(src='/images/uploads/Archimede.png', width='100', height=100) }}

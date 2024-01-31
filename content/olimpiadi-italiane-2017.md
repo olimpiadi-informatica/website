@@ -16,6 +16,8 @@ override_updated = "2018-01-26T13:48:00"
 
 La XVII edizione delle Olimpiadi Italiane si è svolta a Trento dal 14 al 16 Settembre 2017.
 
+<!-- more -->
+
 - Cerimonia di apertura e gara presso l'Università degli Studi - Polo Ferrari
 - Cerimonia di chiusura e premiazione presso il Liceo Scientifico G. Galieli
 

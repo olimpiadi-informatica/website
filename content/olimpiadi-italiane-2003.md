@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Programma OII 2003"
+title = "Olimpiadi italiane 2003"
 date = 2003-03-01T06:58:31Z
 updated = "2016-10-21T11:10:57"
 
@@ -11,6 +11,12 @@ gare = [ "nazionali",]
 [extra]
 override_updated = "2016-10-21T11:10:57"
 +++
+
+Le Olimpiadi Italiane 2004 si sono tenute nei giorni 3, 4 e 5 marzo presso il
+Liceo Scientifico Galileo Galilei di Trento.
+
+<!-- more -->
+
 ## Regolamento
 
 Regolamento
@@ -182,7 +188,10 @@ Altri studenti ammessi
 
 ## Risultati
 
-Le Olimpiadi Italiane 2004 si sono tenute nei giorni 3, 4 e 5 marzo presso il Liceo Scientifico Galileo Galilei di Trento. Gli studenti vincitori delle medaglie d'oro e d'argento diventano **Probabili Olimpionici 2004**e risultano ammessi alla fase di allenamento
+Le Olimpiadi Italiane 2004 si sono tenute nei giorni 3, 4 e 5 marzo presso il
+Liceo Scientifico Galileo Galilei di Trento. Gli studenti vincitori delle
+medaglie d'oro e d'argento diventano **Probabili Olimpionici 2004** e risultano
+ammessi alla fase di allenamento
 
 |         |     |             |               |                                              |                         |
 | :-----: | :-: | :---------: | :-----------: | :------------------------------------------: | :---------------------: |

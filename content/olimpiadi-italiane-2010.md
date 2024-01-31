@@ -12,7 +12,10 @@ edizioni = ["2009-2010"]
 [extra]
 override_updated = "2017-01-09T09:35:56"
 +++
+
 Le Olimpiadi Italiane 2010 si sono svolte in Lombardia, a Sirmione dal 14 al 16 ottobre.
+
+<!-- more -->
 
 79 gli atleti ammessi provenienti da tutta Italia.
 

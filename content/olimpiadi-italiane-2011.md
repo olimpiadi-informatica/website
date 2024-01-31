@@ -14,6 +14,8 @@ override_updated = "2016-10-20T12:37:43"
 +++
 Le Olimpiadi Italiane 2011 si sono svolte in Lombardia, a Sirmione dal 29/09 al 1/10.
 
+<!-- more -->
+
 [Galleria fotografica della manifestazione e della cerimonia di premiazione](https://picasaweb.google.com/usrlombardia/OIISirmione2011?authkey=Gv1sRgCLP00cDxgOCvzQE)
 
 ## Atleti ammessi

@@ -15,6 +15,8 @@ override_updated = "2023-07-14T10:13:01"
 
 La XXII edizione delle Olimpiadi Italiane di Informatica si è svolta a Biella presso l'ITIS Q. Sella dal 22 al 24 settembre 2022.
 
+<!-- more -->
+
 [103 ATLETI](/oldsite/201/ammessi-nazionale2022.xlsx)provenienti da tutta Italia.
 
 **Criteri di ammissione:**

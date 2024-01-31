@@ -15,6 +15,8 @@ override_updated = "2016-10-10T13:49:58"
 
 Le Olimpiadi Italiane 2015 si sono svolte a Castiglione dei Pepoli (BO), presso l'Istituto "Caduti Direttissima" dal 17 al 19 Settembre.
 
+<!-- more -->
+
 Come da regolamento sono ammessi alle Olimpiadi Italiane di Informatica 10 atleti, chiamati "probabili olimpici 2015":
 
 **Baroni Filippo** del L.S. Gandini di Lodi

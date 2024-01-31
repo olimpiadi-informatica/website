@@ -11,9 +11,16 @@ edizioni = [ "2020-2021",]
 [extra]
 override_updated = "2022-02-15T17:43:35"
 +++
-**Martedì 23 novembre 2021, a questo link**
 
-**[https://www.youtube.com/watch?v=1D1JKF7fF2A](https://www.youtube.com/watch?v=1D1JKF7fF2A)**<br/>**sul canale YouTube di AICA alle ore 15:30, è stata trasmessa la Cerimonia di Premiazione delle Olimpiadi Italiane di Informatica 2021. Il video, per la durata di circa mezz'ora, ha rivelato i vincitori e i Probabili Olimpici della XXI edizione.<br/>**
+Martedì 23 novembre 2021, al [seguente
+link](https://www.youtube.com/watch?v=1D1JKF7fF2A), sul canale YouTube di AICA
+alle ore 15:30, è stata trasmessa la Cerimonia di Premiazione delle Olimpiadi
+Italiane di Informatica 2021.
+
+<!-- more -->
+
+Il video, per la durata di circa mezz'ora, ha rivelato i vincitori e i
+Probabili Olimpici della XXI edizione.
 
 Come da [regolamento nazionale 2021](/oldsite/186/Regolamento_Selezione_Nazionale_16novembre2021.pdf) sono ammessi alle Olimpiadi Italiane di Informatica 10 atleti, chiamati "probabili olimpici 2021":
 

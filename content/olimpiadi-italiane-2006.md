@@ -11,6 +11,11 @@ gare = [ "nazionali",]
 [extra]
 override_updated = "2016-10-21T10:32:25"
 +++
+
+Le Olimpiadi Italiane 2006 si sono tenute nei giorni 9-11 marzo presso il Politecnico di Milano.
+
+<!-- more -->
+
 ## Regolamento
 
 Regolamento

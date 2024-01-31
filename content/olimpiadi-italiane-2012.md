@@ -14,6 +14,8 @@ override_updated = "2016-10-20T12:29:22"
 +++
 Le Olimpiadi Italiane 2012 si sono svolte in Lombardia, a Sirmione presso il Garda Village dall' 11/10 al 13/10.
 
+<!-- more -->
+
 ## Atleti ammessi
 
 Come da regolamento sono ammessi alle Olimpiadi Italiane di Informatica:

@@ -12,8 +12,9 @@ edizioni = [ "2018-2019",]
 thumbnail = "/images/uploads/7acce66d40ec90c2d61987b409cbf850.jpg"
 override_updated = "2020-03-19T09:39:02"
 +++
-
 La XIX edizione delle Olimpiadi Italiane di Informatica si è svolta dal 17 al 19 settembre 2019 presso l'IIS G.B. Pentasuglia di Matera.
+
+<!-- more -->
 
 <div style="text-align: center">
 

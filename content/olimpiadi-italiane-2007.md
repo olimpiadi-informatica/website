@@ -11,6 +11,11 @@ edizioni = [ "2007",]
 [extra]
 override_updated = "2016-10-21T10:10:18"
 +++
+
+Le Olimpiadi Italiane 2007 si sono tenute nei giorni 8-10 marzo a Bari.
+
+<!-- more -->
+
 ## Regolamento
 
 <div style="text-align: center;">
@@ -226,7 +231,11 @@ Visti i risultati della selezione regionale e indipendentemente dall'errore nell
 
 ## Risultati
 
-Le Olimpiadi Italiane 2007 si sono tenute nei giorni 8-10 marzo a Bari. Gli studenti vincitori delle medaglie d'oro e d'argento diventano Probabili Olimpionici 2007 e risultano ammessi alla fase di allenamento.<br/>Risultano inoltre ammessi alla formazione anche i vincitori delle medaglie di bronzo che frequentano le classi inferiori alla quinta superiore.
+Le Olimpiadi Italiane 2007 si sono tenute nei giorni 8-10 marzo a Bari. Gli
+studenti vincitori delle medaglie d'oro e d'argento diventano Probabili
+Olimpionici 2007 e risultano ammessi alla fase di allenamento.<br/>Risultano
+inoltre ammessi alla formazione anche i vincitori delle medaglie di bronzo che
+frequentano le classi inferiori alla quinta superiore.
 
 |         |     |            |              |                                           |                   |
 | :-----: | :-: | :--------: | :----------: | :---------------------------------------: | :---------------: |

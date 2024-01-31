@@ -12,8 +12,9 @@ edizioni = [ "2017-2018",]
 thumbnail = "/images/uploads/910084c4eb3461ee8947cd42bdd4b146.jpg"
 override_updated = "2019-06-27T15:39:20"
 +++
+La XVIII edizione delle Olimpiadi Italiane di Informatica si è svolta presso l' ITI G. Marconi di Campobasso dal 13 al 15/09/2018.
 
-<br/> La XVIII edizione delle Olimpiadi Italiane di Informatica si è svolta presso l' ITI G. Marconi di Campobasso dal 13 al 15/09/2018.
+<!-- more -->
 
 Come da regolamento sono stati ammessi alle Olimpiadi Italiane di Informatica 6 atleti, chiamati "probabili olimpici 2018":
 

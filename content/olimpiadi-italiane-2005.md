@@ -11,6 +11,11 @@ edizioni = [ "2005",]
 [extra]
 override_updated = "2016-10-21T11:07:27"
 +++
+
+Le Olimpiadi Italiane di Informatica 2005 sono tenute nei giorni 3, 4 e 5 marzo presso l'ITCT "Salvatore Pugliatti" di Taormina.
+
+<!-- more -->
+
 ## Regolamento
 
 <div style="text-align: center;">

@@ -15,6 +15,8 @@ override_updated = "2021-04-27T15:56:16"
 
 La XX edizione delle Olimpiadi Italiane di Informatica si è svolta in modalità online mercoledì 25 novembre 2020.
 
+<!-- more -->
+
 A seguito della gara nazionale OII 2020 la cerimonia di premiazione è stata trasmessa trasmessa martedì 1° dicembre alle ore 15:00 [sul canale youtube di AICA](https://www.youtube.com/watch?v=7Rlkm-x_asQ).
 
 Come da regolamento sono stati ammessi alle Olimpiadi Italiane di Informatica 15 atleti, chiamati "probabili olimpici 2020":

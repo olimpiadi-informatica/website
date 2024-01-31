@@ -11,7 +11,12 @@ edizioni = [ "2013-2014",]
 [extra]
 override_updated = "2018-01-26T15:12:41"
 +++
-Le Olimpiadi Italiane 2014 si sono svolte presso il Dipartimento di Studi e Ricerche Aziendali - Management ed Information Technology dell'Ateneo Salernitano ubicato nel Campus di Fisciano (SA) dal 18 al 20 Settembre. ([http://www.oii.unisa.it/](http://www.oii.unisa.it/))
+Le Olimpiadi Italiane 2014 si sono svolte presso il Dipartimento di Studi e
+Ricerche Aziendali - Management ed Information Technology dell'Ateneo
+Salernitano ubicato nel Campus di Fisciano (SA) dal 18 al 20 Settembre.
+([http://www.oii.unisa.it/](http://www.oii.unisa.it/))
+
+<!-- more -->
 
 [VAI AL VIDEO](https://www.youtube.com/watch?v=THyTqDB2r7Y)
 

@@ -12,9 +12,12 @@ edizioni = ["2008-2009"]
 [extra]
 override_updated = "2016-10-20T13:19:54"
 +++
-Le Olimpiadi Italiane 2009 si sono svolte a Verona dal 22 al 24 ottobre 2009. Ulteriori informazioni sono disponibili sul sito degli organizzatori locali
 
-[http://www.carloanti.net](http://www.carloanti.net/)
+Le Olimpiadi Italiane 2009 si sono svolte a Verona dal 22 al 24 ottobre 2009.
+Ulteriori informazioni sono disponibili sul sito degli organizzatori locali:
+[http://www.carloanti.net](http://www.carloanti.net/).
+
+<!-- more -->
 
 ## Atleti ammessi
 

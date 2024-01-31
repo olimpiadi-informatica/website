@@ -11,6 +11,11 @@ edizioni = [ "2008",]
 [extra]
 override_updated = "2016-10-21T10:05:36"
 +++
+
+Le Olimpiadi Italiane 2008 si sono tenute nei giorni 3-5 aprile a Pesaro/Fano.
+
+<!-- more -->
+
 ## Regolamento
 
 ## INTERNATIONAL OLYMPIAD IN INFORMATICS- IOI 2008
@@ -242,7 +247,9 @@ Come da regolamento sono ammessi alle Olimpiadi Italiane di Informatica:
 
 ## Risultati
 
-Le Olimpiadi Italiane 2008 si sono tenute nei giorni 3-5 aprile a Pesaro/Fano. Gli studenti vincitori delle medaglie d'oro e d'argento diventano Probabili Olimpici 2008 e risultano ammessi alla fase di allenamento.
+Le Olimpiadi Italiane 2008 si sono tenute nei giorni 3-5 aprile a Pesaro/Fano.
+Gli studenti vincitori delle medaglie d'oro e d'argento diventano Probabili
+Olimpici 2008 e risultano ammessi alla fase di allenamento.
 
 Risultano inoltre ammessi alla formazione cinque vincitori di medaglie di bronzo scelti fra i più giovani.
 

@@ -11,7 +11,11 @@ gare = [ "nazionali",]
 [extra]
 override_updated = "2016-10-14T15:59:20"
 +++
-Le Olimpiadi Italiane 2013 si sono svolte presso il Dipartimento di Studi e Ricerche Aziendali - Management ed Information Technology dell'Ateneo Salernitano ubicato nel Campus di Fisciano (SA) dal 12 al 14 Settembre.
+Le Olimpiadi Italiane 2013 si sono svolte presso il Dipartimento di Studi e
+Ricerche Aziendali - Management ed Information Technology dell'Ateneo
+Salernitano ubicato nel Campus di Fisciano (SA) dal 12 al 14 Settembre.
+
+<!-- more -->
 
 Come da [regolamento](/oldsite/139/OII-Reg_%20Sel_%20Naz_%202013.pdf) sono ammessi alle Olimpiadi Italiane di Informatica gli atleti, chiamati "probabili olimpici 2013":
 
