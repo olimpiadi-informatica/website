@@ -20,6 +20,8 @@
         <p><a href="{{page.path}}" class="link-light">Organizzazione</a></p>
         {% set page = get_page(path="pagine/collaborazioni.md") %}
         <p><a href="{{page.path}}" class="link-light">Collaborazioni con università</a></p>
+        {% set page = get_page(path="pagine/iniziative-organizzate-dai-referenti-territoriali.md") %}
+        <p><a href="{{page.path}}" class="link-light">Iniziative dei referenti territoriali</a></p>
         {% set term = get_taxonomy_term(kind="gare", term="digit") %}
         <p><a href="{{term.path}}" class="link-light">Corso competenze digitali</a></p>
       </div>

@@ -14,15 +14,18 @@
   {% set collapse = "collapsed" %}
   {% endif %}
   <div class="accordion-item">
+    {% set path = ["pagine/edizione-", edition, ".md"] | join %}
+    {% set page = get_page(path=path) %}
     <h2 class="accordion-header">
       <button class="accordion-button {{collapse}}" type="button"
               data-bs-toggle="collapse" data-bs-target="#collapse{{edition}}"
               aria-expanded="{{expand}}" aria-controls="collapse{{edition}}">
-        Edizione {{edition}}
+        {{ page.title }}
       </button>
     </h2>
     <div id="collapse{{edition}}" class="accordion-collapse collapse {%if expand%}show{%endif%}">
       <div class="accordion-body row">
+        <a href="{{ edition_data.permalink }}">Visita la pagina di quest'edizione</a>
         <div class="list-group">
         {% for page in edition_data.pages %}
           <a href="{{ page.permalink | safe }}" class="list-group-item list-group-item-action" >{{ page.title }}</a>

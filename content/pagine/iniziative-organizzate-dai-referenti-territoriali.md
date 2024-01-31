@@ -9,7 +9,7 @@ description = "iniziative gare abc allenamenti stage"
 override_updated = "2019-05-29T16:02:16"
 +++
 - 1 giugno 2019 - Gara "ABC" (settima edizione) organizzato dall' Itis. P. Paleocapa di Bergamo: [Gara ABC Informatica a squadre](https://abc.chiodini.org/)
-- 11-16 Giugno 2018 -Stage intensivo organizzato dall'IIS Aldini Valeriani di Bologna: [https://sites.google.com/aldini.istruzioneer.it/olimpiadi-informatica-squadre/iniziative-ois?authuser=0](https://sites.google.com/aldini.istruzioneer.it/olimpiadi-informatica-squadre/iniziative-ois?authuser=0)
+- 11-16 Giugno 2018 - Stage intensivo organizzato dall'IIS Aldini Valeriani di Bologna: [https://sites.google.com/aldini.istruzioneer.it/olimpiadi-informatica-squadre/iniziative-ois?authuser=0](https://sites.google.com/aldini.istruzioneer.it/olimpiadi-informatica-squadre/iniziative-ois?authuser=0)
 - 26 maggio 2018 - Gara "ABC" (sesta edizione) organizzato dall' Itis. P. Paleocapa di Bergamo: [Gara ABC Informatica a squadre](http://www.itispaleocapa.it/gara-abc-informatica/)
 - 23-25 marzo 2018 - Stage di formazione organizzato dalla prof.ssa Gabriella Armani del L.S. G. Galilei di Trento: c/o il Centro Formativo AERAT Candriai Monte Bondone ([Iniziativa](https://www.lsgalilei.org/index.php/docenti-studenti-genitori/studenti/progetti-didattici/olimpiadi/141-informatica/olimpiadi-di-informatica-individuali/1311-stage-di-informatica-2018))
 - 19-24 giugno 2017 - Stage intensivo organizzato dall'IIS Aldini Valeriani di Bologna: [http://www.olimpiadi-informatica-squadre-italia.it/campionati/anno-scolastico-2017-2018/](http://www.olimpiadi-informatica-squadre-italia.it/campionati/anno-scolastico-2017-2018/)
