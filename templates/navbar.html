@@ -73,6 +73,12 @@
   {% set page = get_page(path=path) %}
   specialURIs["{{page.permalink | safe}}"] = "{{term.permalink | safe}}";
   {% endfor %}
+  {% set taxonomy = get_taxonomy(kind="edizioni") %}
+  {% for term in taxonomy.items %}
+  {% set path = ["pagine/edizione-", term.name, ".md"] | join %}
+  {% set page = get_page(path=path) %}
+  specialURIs["{{page.permalink | safe}}"] = "{{term.permalink | safe}}";
+  {% endfor %}
   {% set js = load_data(path="templates/search.js") %}
   {{ js | safe }}
 </script>

@@ -1,6 +1,11 @@
 {% extends "base.html" %}
 
 {% block content %}
+
+{% set edition = page.taxonomies.edizioni[0] %}
+{% set term = get_taxonomy_term(kind="edizioni", term=edition) %}
+<h6><a href="{{ term.permalink }}">Torna all'edizione {{ edition }}</a></h6>
+
 <h1 class="title">
   {{ page.title }}
 </h1>

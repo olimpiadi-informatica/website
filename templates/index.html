@@ -53,11 +53,7 @@
 </div>
 
 {% set edition = config.extra.current_edition %}
-<div class="row">
-  <h1 id="edition-{{edition}}">Edizione {{edition}}</h1>
-</div>
-{% set edition_data = get_taxonomy_term(kind="edizioni", term=edition) %}
-{% set page_list = edition_data.pages %}
-{% include "post_list.html" %}
+{% set term = get_taxonomy_term(kind="edizioni", term=edition) %}
+{% include "edition.html" %}
 
 {% endblock content %}
