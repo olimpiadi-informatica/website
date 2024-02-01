@@ -1,7 +1,7 @@
 {% macro img(path, alt, width, height, class="", lazy=false, fraction_xl=100, fraction_md=100, fraction_sm=100, fraction_xs=100) %}
 {% set base_image = resize_image(path=path, width=width, height=height, op="fit", quality=92) %}
 
-{% set available_scales = [0.5, 0.75, 1.0, 1.5, 2.0, 3.0] %}
+{% set available_scales = [0.5, 0.75, 1.0, 1.5, 2.0] %}
 {% set all_scaled = [] %}
 {% set target_width = [] %}
 {% for scale in available_scales %}
