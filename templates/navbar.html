@@ -57,6 +57,9 @@
           {% set active = active_p or active_s %}
           <a class="nav-link {%if active%}active{%endif%}" aria-current="page" href="{{gallery_s.path}}">Gallery</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://forum.olinfo.it/">Forum</a>
+        </li>
       </ul>
       <form class="d-flex" role="search" onsubmit="search(); return false;" style="position: relative;">
         <input class="form-control me-2" type="search" placeholder="Cerca" id="searchbar" aria-label="Search">
