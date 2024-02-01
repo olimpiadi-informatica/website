@@ -18,11 +18,9 @@
   {% endif %}
   >
   <title>Olimpiadi Italiane di Informatica</title>
-  {% set bootstrap = load_data(path="static/bootstrap.min.css", format="plain") %}
-  {% set custom = load_data(path="public/style.css", format="plain") %}
-  <style>{{ bootstrap | safe }} {{ custom | safe }}</style>
-  {% set bootstrapjs = load_data(path="static/bootstrap.bundle.min.js", format="plain") %}
-  <script>{{ bootstrapjs | safe }}</script>
+  <link rel="stylesheet" href="/bootstrap.min.css" />
+  <link rel="stylesheet" href="/style.css" />
+  <script src="/bootstrap.bundle.min.js"></script>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-6V23LS02FL"></script>
   <script>
