@@ -1,5 +1,5 @@
 <a href="{{ page.permalink | safe }}" class="link-secondary link-underline-opacity-0 post-preview">
-  <div class="thumbnail align-items-center my-1">
+  <div class="thumbnail align-items-center justify-content-center d-flex my-1">
     {% if page.extra.thumbnail %}
     {{ img_macro::img(path=page.extra.thumbnail, width=500, height=350, alt=["thumbnail ", page.title] | join, class="img-thumbnail mx-auto d-block", fraction_xl=25, fraction_md=33, fraction_sm=50, fraction_xs=100) }}
     {% else %}
