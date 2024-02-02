@@ -26,7 +26,7 @@ async function search() {
   }
   const val = document.getElementById("searchbar").value;
   if (val === "") return;
-  const queryNumbers = val.split(" ").filter((x) => x.match(/^\d+$/) && x != "");
+  const queryNumbers = val.replaceAll('-', ' ').split(" ").filter((x) => x.match(/^\d+$/) && x != "");
   const results = index.search(val, {fields: {title: {boost: 3}, body: {boost: 1}, description: {boost: 2}}});
   for (const result of results) {
     result.score += result.doc.title.replaceAll('-', ' ').split(" ").some((x) => queryNumbers.some((y) => x == y)) ? 6 : 0;
