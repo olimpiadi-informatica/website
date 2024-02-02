@@ -26,9 +26,15 @@ async function search() {
   }
   const val = document.getElementById("searchbar").value;
   if (val === "") return;
+  const queryNumbers = val.split(" ").filter((x) => x.match(/^\d+$/) && x != "");
   const results = index.search(val, {fields: {title: {boost: 3}, body: {boost: 1}, description: {boost: 2}}});
+  for (const result of results) {
+    result.score += result.doc.title.replaceAll('-', ' ').split(" ").some((x) => queryNumbers.some((y) => x == y)) ? 6 : 0;
+    result.score += result.doc.description.replaceAll('-', ' ').split(" ").some((x) => queryNumbers.some((y) => x == y)) ? 4 : 0;
+    result.score += result.doc.body.replaceAll('-', ' ').split(" ").some((x) => queryNumbers.some((y) => x == y)) ? 2 : 0;
+  }
+  results.sort((a, b) => b.score - a.score);
   searchResults.style.display = "block";
-  console.log(results);
   searchResults.innerHTML = "";
   if (results.length === 0) {
     const div = document.createElement("div");
