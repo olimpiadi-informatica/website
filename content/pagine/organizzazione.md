@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Organizzazione"
-updated = 2023-12-20T00:35:56
+updated = 2023-12-20T00:35:56.000
 +++
 Per coordinare e organizzare le OII e la partecipazione italiana alle IOI è stata definita una apposita struttura composta dai seguenti organi:
 
@@ -105,7 +105,7 @@ Provvedono inoltre a organizzare con il supporto delle locali Università e degl
 - sede regionale **LOM3** - prov: BG - **ITI Paleocapa di Bergamo** - Ref. Adriano Rampoldi
 - sede regionale **LOM4** - prov: BS-MN - **ITI Castelli di Brescia** - Ref. Alessandro Bugatti
 - sede regionale **LOM5** - prov: CR-LO-PV - **IIS G. Galilei di Crema** - Ref. Nadia Manclossi
-- sede regionale **LOM6**- prov: LC-CO-SO - **IIS A. Badoni di Lecco** - Ref. Sara Giorgi
+- sede regionale **LOM6** - prov: LC-CO-SO - **IIS A. Badoni di Lecco** - Ref. Sara Giorgi
 - sede regionale **MAR** - prov: AN-AP-FM-MC-PU - **IIS Volterra Elia di Ancona** - Ref. Giuseppe Corinaldesi
 - sede regionale **MOL** - prov: CB-IS - **IT G. Marconi di Campobasso**- Ref. Madalina Ciobanu
 - sede regionale **PIE1** - prov: AL-AT-TO – **ITT Pininfarina di Moncalieri (TO)** - Ref. Rocco Catalano
@@ -113,7 +113,7 @@ Provvedono inoltre a organizzare con il supporto delle locali Università e degl
 - sede regionale **PIE3** - prov: CN - **ITIS M. Delpozzo di Cuneo** - Ref. Claudio Borgogno
 - sede regionale **PUG1** - prov: Bari città-Altamura-Castellana Grotte-Gioia del Colle-Mola di Bari-Monopoli-Putignano-Rutigliano-Santeramo in Colle-Triggiano – **ITI Marconi di Bari** - Ref. Nicola Di Nanna
 - sede regionale **PUG2** - prov: BR-TA - **IISS Majorana di Brindisi** - Ref. Giuseppe Cavallo
-- sede regionale **PUG3** - prov: Bitetto-Bitonto-Molfetta-Terlizzi-BT-FG – **IISS Ferraris di Molfetta (BA)**- Ref. Mario Quarto
+- sede regionale **PUG3** - prov: Bitetto-Bitonto-Molfetta-Terlizzi-BT-FG – **IISS Ferraris di Molfetta (BA)** - Ref. Mario Quarto
 - sede regionale **PUG4** - prov: LE - **IISS Mattei di Maglie(LE)**- Ref. Nunzio Galati
 - sede regionale **SAR** - prov: CA-OR-SU-SS - **IT Giua di Cagliari** - Ref. Grazia Chiuchiolo
 - sede regionale **SIC1** - prov: CT-EN-CL-SR-RG - **IT Archimede di Catania** - Ref. Andrea Mola
@@ -121,13 +121,13 @@ Provvedono inoltre a organizzare con il supporto delle locali Università e degl
 - sede regionale **TOS1** - prov: FI-PO-PT-AR-SI - **IT T. Buzzi di Prato** - Ref. Anna Maria Pedelini
 - sede regionale **TOS2** - prov: LI-PI-GR-LU-MS - **IT Galilei di Livorno** - Ref. Salvatore Speranza
 - sede regionale **TRA1** - prov: TN - **LS Galilei di Trento** - Ref. Gloria Zen
-- sede regionale **TRA2**- prov: BZ - **IT Max Valier di Bolzano** - Ref. Karl Lunger
+- sede regionale **TRA2** - prov: BZ - **IT Max Valier di Bolzano** - Ref. Karl Lunger
 - sede regionale **UMB** - prov: TR-PG - **LS R. Donatelli di Terni** - Ref. Anna Ceravolo
 - sede regionale **VAL** - prov: AO - **ISILTEP di Verrès (AO)**- Ref. Laura Frasson
 - sede regionale **VEN1** - prov: VE-PD-RO - **ITI C. Zuccante di Venezia** - Ref. Daniele Cappellazzo
 - sede regionale **VEN2** - prov: VR - **ITI G. Marconi di Verona** - Ref. Lorenzo De Carli
 - sede regionale **VEN3** - prov: VI - **IISTron-Zanella di Schio (VI)** - Ref. Anna Morelli
 - sede regionale **VEN4** - prov: BL-TV - **IT M. Planck di Villorba (TV)** - Ref. Magda Milvia Mongelli
-- sede regionale **EST- Paese estero Etiopia - IISO G. Galilei** - Ref. Adriano Terzoli
+- sede regionale **EST** - Paese estero Etiopia - **IISO G. Galilei** - Ref. Adriano Terzoli
 
 ##
