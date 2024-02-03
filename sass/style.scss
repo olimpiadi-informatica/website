@@ -1,3 +1,61 @@
+@import "../bootstrap/scss/mixins/banner";
+@include bsBanner("");
+
+// Configuration
+@import "../bootstrap/scss/functions";
+@import "../bootstrap/scss/variables";
+@import "../bootstrap/scss/variables-dark";
+
+@import "../bootstrap/scss/maps";
+@import "../bootstrap/scss/mixins";
+@import "../bootstrap/scss/utilities";
+
+$enable-gradients: false;
+$enable-rfs: false;
+$enable-negative-margins: false;
+$enable-important-utilities: false;
+$rfs-breakpoint: 0;
+
+// Layout & components
+@import "../bootstrap/scss/root";
+@import "../bootstrap/scss/reboot";
+@import "../bootstrap/scss/type";
+@import "../bootstrap/scss/images";
+@import "../bootstrap/scss/transitions";
+@import "../bootstrap/scss/containers";
+@import "../bootstrap/scss/grid";
+@import "../bootstrap/scss/forms/form-control";
+@import "../bootstrap/scss/buttons";
+@import "../bootstrap/scss/dropdown";
+@import "../bootstrap/scss/nav";
+@import "../bootstrap/scss/navbar";
+@import "../bootstrap/scss/alert";
+@import "../bootstrap/scss/carousel";
+
+@import "../bootstrap/scss/helpers/position";
+@import "../bootstrap/scss/helpers/colored-links";
+
+// Utilities
+$utilities: (
+  "display": map-merge(
+      map-get($utilities, "display"),
+      (print: false),
+  ),
+  "align-items": map-get($utilities, "align-items"),
+  "padding": map-get($utilities, "padding"),
+  "padding-bottom": map-get($utilities, "padding-bottom"),
+  "justify-content": map-get($utilities, "justify-content"),
+  "color": map-get($utilities, "color"),
+  "background-color": map-get($utilities, "background-color"),
+  "margin-end": map-get($utilities, "margin-end"),
+  "margin-begin": map-get($utilities, "margin-begin"),
+  "text-align": map-get($utilities, "text-align"),
+  "link-underline-opacity": map-get($utilities, "link-underline-opacity"),
+  "margin-x": map-get($utilities, "margin-x"),
+);
+
+@import "../bootstrap/scss/utilities/api";
+
 $base-color: var(--bs-body-color);
 $faint-color: var(--bs-border-color);
 
