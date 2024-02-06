@@ -12,6 +12,6 @@ jobs:
     steps:
       - name: Start update
         run: |
-          curl -v -X POST \
+          curl --fail -v -X POST \
           -H "Content-Type: application/json" \
           -d '{"secret": "${{ secrets.CD_SECRET}}"}' unito.olinfo.it:23529/main
