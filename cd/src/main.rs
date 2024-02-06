@@ -1,5 +1,5 @@
 use std::{
-    fs::{self, read_link, remove_dir_all},
+    fs::{self, create_dir_all, read_link, remove_dir_all},
     path::PathBuf,
     sync::Arc,
 };
@@ -14,6 +14,7 @@ use serde::Deserialize;
 use tempfile::TempDir;
 use tokio::sync::Mutex;
 use tracing::{info, warn};
+use walkdir::WalkDir;
 
 #[derive(Parser, Clone, Debug)]
 #[command(author, version, about, long_about = None)]
@@ -83,6 +84,7 @@ fn build_inner(
     sha: Option<String>,
     build_base_path: PathBuf,
     repo_path: PathBuf,
+    storage_path: PathBuf,
     output_symlink: Option<PathBuf>,
 ) -> Result<String> {
     let base_url = sha
@@ -129,6 +131,23 @@ fn build_inner(
                 run_cmd!(cd $repo_path; unshare -nU zola build)?;
             }
             run_cmd!(cd $repo_path; cp -rl public/ $target)?;
+            for entry in WalkDir::new(&target) {
+                let entry = entry?;
+                if entry.file_type().is_file() {
+                    let path = entry.path();
+                    let contents = fs::read(path)?;
+                    let hash = blake3::hash(&contents).to_hex().to_string();
+                    let storage_file_path =
+                        storage_path.join(&hash[0..2]).join(&hash[2..4]).join(hash);
+                    if !storage_file_path.exists() {
+                        create_dir_all(storage_file_path.parent().unwrap())?;
+                        fs::rename(path, &storage_file_path)?;
+                    } else {
+                        fs::remove_file(path)?;
+                    }
+                    fs::hard_link(&storage_file_path, path)?;
+                }
+            }
         }
         target
     };
@@ -201,6 +220,7 @@ async fn build(
     sha: Option<String>,
     build_base_path: PathBuf,
     repo_path: PathBuf,
+    storage_path: PathBuf,
     output_symlink: Option<PathBuf>,
     gh_token: Option<String>,
     mutex: &Mutex<()>,
@@ -214,7 +234,13 @@ async fn build(
     .await;
     let result = {
         let _g = mutex.lock().await;
-        build_inner(sha.clone(), build_base_path, repo_path, output_symlink)
+        build_inner(
+            sha.clone(),
+            build_base_path,
+            repo_path,
+            storage_path,
+            output_symlink,
+        )
     };
     match result {
         Err(e) => {
@@ -242,6 +268,7 @@ async fn run_main(State(state): State<AppState>, mut params: Json<Params>) -> St
         return StatusCode::UNAUTHORIZED;
     }
     let build_base_path = state.config.main_path.join("builds");
+    let storage_path = state.config.nightly_path.join("all_files");
     let repo_path = state.config.main_path.clone();
     let output_symlink = state.config.main_path.join("public-prod");
 
@@ -249,6 +276,7 @@ async fn run_main(State(state): State<AppState>, mut params: Json<Params>) -> St
         None,
         build_base_path,
         repo_path,
+        storage_path,
         Some(output_symlink),
         params.gh_token.take(),
         &state.main_mutex,
@@ -267,12 +295,14 @@ async fn run_nightly(State(state): State<AppState>, mut params: Json<Params>) ->
         return StatusCode::UNAUTHORIZED;
     }
     let build_base_path = state.config.nightly_path.join("builds");
+    let storage_path = state.config.nightly_path.join("all_files");
     let repo_path = state.config.nightly_path.join("website");
 
     if let Err(_) = build(
         params.sha.take(),
         build_base_path,
         repo_path,
+        storage_path,
         None,
         params.gh_token.take(),
         &state.nightly_mutex,
