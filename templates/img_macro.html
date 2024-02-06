@@ -19,16 +19,6 @@
 {% set fractions = [fraction_xl, fraction_xl, fraction_md, fraction_md, fraction_sm, fraction_xs] %}
 {% set max_size = [1320, 1140, 960, 720, 540, 540] %}
 
-<picture>
-{% for breakpoint in breakpoints %}
-  {% set max_width = max_size | nth(n=loop.index0) %}
-  {% set fraction = fractions | nth(n=loop.index0) %}
-  {% for scale in [3, 2, 1.5, 1.0] %}
-    {% set w = base_image.width %}
-    {% set mw = max_width * fraction / 100 %}
-    {% if mw <= w %}
-      {% set w = mw %}
-    {% endif %}
     {% set width = scale * w | round | int %}
     {% for scaled in all_scaled %}
       {% set tw = target_width | nth(n=loop.index0) %}
