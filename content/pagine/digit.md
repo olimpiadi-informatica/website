@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Corso online competenze digitali"
-updated = 2023-12-20T00:35:56
+updated = 2023-12-20T00:35:56.000
 +++
 
 La Direzione Generale per gli Ordinamenti Scolastici e l'Autonomia Scolastica
@@ -32,10 +32,4 @@ scuola che partecipano alla selezione territoriale delle OII.
 |           X EDIZIONE CORSO ON LINE DOCENTI COMPETENZE DIGITALI           |  da giovedì 16 luglio 2020 a lunedì 16 novembre 2020  |
 |          IX EDIZIONE CORSO ON LINE DOCENTI COMPETENZE DIGITALI           |   da lunedì 9 dicembre 2019 a giovedì 9 aprile 2020   |
 |         VIII EDIZIONE CORSO ON LINE DOCENTI COMPETENZE DIGITALI          |        dal 25 ottobre 2018 al 25 febbraio 2019        |
-| VI-VII EDIZIONE CORSO ON LINE DOCENTI COMPETENZE DIGITALI  (Unico Bando) |         dal 20 giugno 2017 al 18 aprile 2018          |
-| IV-V EDIZIONE CORSO ON LINE DOCENTI COMPETENZE DIGITALI    (Unico Bando) |       dal 18 ottobre 2015 al 21 settembre 2016        |
-|          III EDIZIONE CORSO ON LINE DOCENTI COMPETENZE DIGITALI          |         dal 17 novembre 2014 al 17 marzo 2015         |
-|          II EDIZIONE CORSO ON LINE DOCENTI COMPETENZE DIGITALI           |              concluso il 3 ottobre 2014               |
-|           I EDIZIONE CORSO ON LINE DOCENTI COMPETENZE DIGITALI           |               concluso il 28 marzo 2014               |
 
-\*\*\* La referente del corso per conto del MIUR - Direzione Generale Ordinamenti Scolastici è la Dirigente Anna Brancaccio ([anna.brancaccio@istruzione.it](mailto:anna.brancaccio@istruzione.it) - tel. 06 58492746),  per problemi logistici invece scrivere a Monica Gati ([info@olimpiadi-informatica.it](mailto:info@olimpiadi-informatica.it) - tel. 02 76455025)
