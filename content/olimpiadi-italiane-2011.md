@@ -48,45 +48,46 @@ Premio Fadini al più giovane partecipante, il toscano Enrico Faralli, classifi
 
 Menzione speciale per la regione Lombardia che si è distinta per il maggior numero di medagliati (otto), seguita dalla regione Veneto (sette) e dalla regione Emilia Romagna (cinque).
 
-| **Medaglia** |   **Posizione**   |  **Nome**   | **Cognome** |     **Tipo scuola**      |     **Scuola**     | **Città** | **Classe** |
-| :----------: | :---------------: | :---------: | :---------: | :----------------------: | :----------------: | :-------: | :--------: |
-|     ORO      |         1         |   Davide    |  Pallotti   |            LS            | NICOLO' COPERNICO  |  Bologna  |     IV     |
-|      2       |      William      |  Di Luigi   |     ITI     |     E. ALESSANDRINI      |    Montesilvano    |     V     |
-|      3       |     Giuliano      |   Gregori   |     L.S     |     L.S. G. OBERDAN      |      Trieste       |     V     |
-|      4       |      Lorenzo      |    Gatto    |     ITI     | IST. D'ISTRUZ. SUPERIORE |      Recanati      |     V     |
-|      5       |      Matteo       |   Almanza   |     LS      |         LABRIOLA         |        Roma        |    IV     |
-|   ARGENTO    |         6         |   Andrea    | Battistello |           ITI            |    GIULIO NATTA    |  Bergamo  |     IV     |
-|      7       |      Matteo       |  Grossele   |     ITI     |         E. FERMI         | Bassano Del Grappa |     V     |
-|      8       |      Daniele      | Del Giudice |     ITI     |         GALILEI          |      Livorno       |    IV     |
-|      9       |      Fabian       |    Ebner    |     ITI     |        MAX VALIER        |      Bolzano       |    IV     |
-|      9       |     Gabriele      |   Farina    |    L.S.     |        COPERNICO         |      Brescia       |    IV     |
-|      9       |       Marco       |   Natuzzi   |     LS      |        E. MATTEI         |       Vasto        |     V     |
-|      9       |       Raoul       |  Nicolodi   |     ITI     |        MAX VALIER        |      Bolzano       |    IV     |
-|      9       |    Sebastiano     |   Tronto    |     LS      |    GALILEI – TIZIANO     |      Belluno       |    IV     |
-|      14      |      Enrico       |   Faralli   |     LS      |         F. REDI          |       Arezzo       |    IV     |
-|      14      |      Mattia       |  Mantovani  |     LS      | IIS – LICEO SCIENTIFICO  |   Badia Polesine   |     V     |
-|      14      |      Lorenzo      |  Niccolai   |     ITI     |           FEDI           |      Pistoia       |     V     |
-|    BRONZO    |        17         |    Carlo    |   Cannas    |            LS            |     PACINOTTI      | Cagliari  |     IV     |
-|      17      |       Amos        |  Paribocci  |     ITI     |    LEONARDO DA VINCI     |      Foligno       |     V     |
-|      19      |      Cesare       |  Bernardis  |     ITI     |      C. FACCHINETTI      |    Castellanza     |     V     |
-|      20      |       Mario       |   Baroni    |     LS      |         F. CORNI         |       Modena       |     V     |
-|      21      |      Michele      |  Cipriano   |     ITI     |    LEONARDO DA VINCI     |       Parma        |    IV     |
-|      21      |       Luca        |  Morreale   |     ITI     |      S. CANNIZZARO       |        Rho         |     V     |
-|      23      |      Lorenzo      |  La Porta   |    L.S.     |         CASSINI          |       Genova       |     V     |
-|      24      |   Alberto Maria   |   Metelli   |     ITI     |         MAJORANA         |      Seriate       |     V     |
-|      24      |     Salvatore     |  Perrotta   |     LS      |    ENRICO BOGGIO LERA    |      Catania       |     V     |
-|      26      |      Andrea       |    Tonon    |     ITI     |      CARLO ZUCCANTE      |      Venezia       |     V     |
-|      27      |      Davide       | Bazzanella  |     LS      |    LICEO SCIENTIFICO     |       Trento       |     V     |
-|      28      |       Dario       |    Bezzi    |     ITI     |       GIULIO NATTA       |      Bergamo       |     V     |
-|      28      |     Cristiano     |  Sgaravato  |     LS      |   GIROLAMO FRACASTORO    |       Verona       |     V     |
-|      28      | Giancarlo Abraham |   Xompero   |     ITI     |      V. E. MARZOTTO      |      Valdagno      |     V     |
-|      31      |     Riccardo      |  Buscaroli  |     LS      |       ALBERGHETTI        |       Imola        |    IV     |
-|      31      |     Riccardo      |    Mori     |     LS      |   GIROLAMO FRACASTORO    |       Verona       |    IV     |
-|      31      |      Mattia       |   Panzeri   |     ITI     |       P. PALEOCAPA       |      Bergamo       |     V     |
-|      31      |    Christopher    |    Viola    |     ITI     |     GALILEO GALILEI      |       Arezzo       |     V     |
-|      35      |    Alessandro     |  Battisti   |    ALTRO    |         MARCONI          |      Rovereto      |    IV     |
-|      35      |     Federico      |   Bertoni   |     LS      |       ENRICO FERMI       |      Bologna       |    IV     |
-|      35      |      Donato       |  Giacinto   |     ITI     |    GUGLIELMO MARCONI     |      Dalmine       |     V     |
+
+| **Medaglia** | **Posizione** | **Nome**          | **Cognome** | **Tipo scuola** | **Scuola**               | **Città**          | **Classe** |
+|-:-:----------|-:-:-----------|-:-:---------------|-:-:---------|-:-:-------------|-:-:----------------------|-:-:----------------|-:-:--------|
+| ORO          | 1             | Davide            | Pallotti    | LS              | NICOLO' COPERNICO        | Bologna            | IV         |
+|              | 2             | William           | Di Luigi    | ITI             | E. ALESSANDRINI          | Montesilvano       | V          |
+|              | 3             | Giuliano          | Gregori     | L.S             | L.S. G. OBERDAN          | Trieste            | V          |
+|              | 4             | Lorenzo           | Gatto       | ITI             | IST. D'ISTRUZ. SUPERIORE | Recanati           | V          |
+|              | 5             | Matteo            | Almanza     | LS              | LABRIOLA                 | Roma               | IV         |
+| ARGENTO      | 6             | Andrea            | Battistello | ITI             | GIULIO NATTA             | Bergamo            | IV         |
+|              | 7             | Matteo            | Grossele    | ITI             | E. FERMI                 | Bassano Del Grappa | V          |
+|              | 8             | Daniele           | Del Giudice | ITI             | GALILEI                  | Livorno            | IV         |
+|              | 9             | Fabian            | Ebner       | ITI             | MAX VALIER               | Bolzano            | IV         |
+|              | 9             | Gabriele          | Farina      | L.S.            | COPERNICO                | Brescia            | IV         |
+|              | 9             | Marco             | Natuzzi     | LS              | E. MATTEI                | Vasto              | V          |
+|              | 9             | Raoul             | Nicolodi    | ITI             | MAX VALIER               | Bolzano            | IV         |
+|              | 9             | Sebastiano        | Tronto      | LS              | GALILEI – TIZIANO        | Belluno            | IV         |
+|              | 14            | Enrico            | Faralli     | LS              | F. REDI                  | Arezzo             | IV         |
+|              | 14            | Mattia            | Mantovani   | LS              | IIS – LICEO SCIENTIFICO  | Badia Polesine     | V          |
+|              | 14            | Lorenzo           | Niccolai    | ITI             | FEDI                     | Pistoia            | V          |
+| BRONZO       | 17            | Carlo             | Cannas      | LS              | PACINOTTI                | Cagliari           | IV         |
+|              | 17            | Amos              | Paribocci   | ITI             | LEONARDO DA VINCI        | Foligno            | V          |
+|              | 19            | Cesare            | Bernardis   | ITI             | C. FACCHINETTI           | Castellanza        | V          |
+|              | 20            | Mario             | Baroni      | LS              | F. CORNI                 | Modena             | V          |
+|              | 21            | Michele           | Cipriano    | ITI             | LEONARDO DA VINCI        | Parma              | IV         |
+|              | 21            | Luca              | Morreale    | ITI             | S. CANNIZZARO            | Rho                | V          |
+|              | 23            | Lorenzo           | La Porta    | L.S.            | CASSINI                  | Genova             | V          |
+|              | 24            | Alberto Maria     | Metelli     | ITI             | MAJORANA                 | Seriate            | V          |
+|              | 24            | Salvatore         | Perrotta    | LS              | ENRICO BOGGIO LERA       | Catania            | V          |
+|              | 26            | Andrea            | Tonon       | ITI             | CARLO ZUCCANTE           | Venezia            | V          |
+|              | 27            | Davide            | Bazzanella  | LS              | LICEO SCIENTIFICO        | Trento             | V          |
+|              | 28            | Dario             | Bezzi       | ITI             | GIULIO NATTA             | Bergamo            | V          |
+|              | 28            | Cristiano         | Sgaravato   | LS              | GIROLAMO FRACASTORO      | Verona             | V          |
+|              | 28            | Giancarlo Abraham | Xompero     | ITI             | V. E. MARZOTTO           | Valdagno           | V          |
+|              | 31            | Riccardo          | Buscaroli   | LS              | ALBERGHETTI              | Imola              | IV         |
+|              | 31            | Riccardo          | Mori        | LS              | GIROLAMO FRACASTORO      | Verona             | IV         |
+|              | 31            | Mattia            | Panzeri     | ITI             | P. PALEOCAPA             | Bergamo            | V          |
+|              | 31            | Christopher       | Viola       | ITI             | GALILEO GALILEI          | Arezzo             | V          |
+|              | 35            | Alessandro        | Battisti    | ALTRO           | MARCONI                  | Rovereto           | IV         |
+|              | 35            | Federico          | Bertoni     | LS              | ENRICO FERMI             | Bologna            | IV         |
+|              | 35            | Donato            | Giacinto    | ITI             | GUGLIELMO MARCONI        | Dalmine            | V          |
 
 ## Testi delle prove nazionali
 
