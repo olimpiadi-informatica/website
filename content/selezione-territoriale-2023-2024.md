@@ -10,7 +10,7 @@ edizioni = ["2023-2024"]
 [extra]
 override_updated = 2024-01-21T15:37:13.612Z
 +++
-Sono **1976 gli studenti** totali ammessi alla Selezione Territoriale del 23 aprile 2024, di cui di cui 75 di prima, 328 di seconda, 674 di terza e 899 di quarta.[](/results/Ammessi_Selezione_Territoriale_2024.xlsx)
+Sono **1976 gli studenti** totali ammessi alla Selezione Territoriale del 23 aprile 2024, di cui di cui 75 di prima, 328 di seconda, 674 di terza e 899 di quarta.
 
 <!-- more -->
 
