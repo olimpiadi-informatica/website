@@ -10,10 +10,21 @@ edizioni = ["2023-2024"]
 [extra]
 override_updated = 2024-01-21T15:37:13.612Z
 +++
-Sono **1877 gli studenti** ammessi alla Selezione Territoriale del 23 aprile 2024. [Scarica qui](/results/Ammessi_Selezione_Territoriale_2024.xlsx) l’elenco.
+Sono **1976 gli studenti** totali ammessi alla Selezione Territoriale del 23 aprile 2024, di cui di cui 75 di prima, 328 di seconda, 674 di terza e 899 di quarta.[](/results/Ammessi_Selezione_Territoriale_2024.xlsx)
 
 <!-- more -->
 
-A questi si aggiungono i [47 studenti](/results/Nazionalisti2023_ammessi_territoriale2024.xlsx) che sono ammessi di diritto alle prossime selezioni territoriali in quanto partecipanti delle scorse selezioni nazionali, per un totale di 1924 studenti ammessi. Ricordiamo che da questo conteggio sono esclusi i 13 PO che sono invece già qualificati per le prossime selezioni nazionali.
+* **1867** selezionati sulla base dei risultati ottenuti alla selezione scolastica del 14 dicembre 2023;
+* **44** studenti ammessi in seguito alla gara di ripescaggio del 13 marzo (pre-territoriale);
+* **19** studenti finalisti delle Olimpiadi a Squadre (OIS);
+* **46** studenti ammessi di diritto in quanto partecipanti delle scorse selezioni nazionali e ancora in possesso dei requisiti di ammissibilità. Ricordiamo che da questo conteggio sono esclusi i 14 PO che sono invece già qualificati per le prossime selezioni nazionali.
 
-Anche quest’anno abbiamo previsto un allenamento “**pre-territoriale**” che per quanti non ancora ammessi avrà valore di gara di ripescaggio. La pre-territoriale sarà disponibile on-line dal 13 al 17 marzo 2024 e si configura **come un allenamento** per i 1877 studenti che, in seguito alla selezione scolastica, sono già stati selezionati per la fase territoriale; quanti non selezionati potranno invece essere ripescati e diventare quindi ammessi se, a insindacabile giudizio del Comitato Olimpiaco, ottengono un punteggio sufficientemente alto durante la prova e a patto che svolgano la prova **necessariamente il 13 marzo**. Inoltre, come da regolamento, il **migliore studente partecipante di ogni istituto senza già altri studenti ammessi alla territoriale** verrà ammesso di diritto al ripescaggio, indipendentemente dal punteggio ottenuto purché maggiore di zero. Per i possibili ammessi verrà svolto un accurato controllo copiature; si raccomanda pertanto di svolgere la prova in autonomia e senza alcun genere di supporto.
+[Scarica qui](/results/Ammessi_Selezione_Territoriale_2024.xlsx) l’elenco. 
+
+Mancano all'appello degli ammessi alla territoriale i finalisti delle Olimpiadi di Matematica che manifesteranno il loro interesse a partecipare alle nostre territoriali entro il giorno 4 aprile 2024.
+
+Anche quest’anno abbiamo previsto un allenamento “pre-territoriale” che per quanti non ancora ammessi ha avuto valore di gara di ripescaggio. La pre-territoriale è rimasta disponibile on-line dal 13 al 17 marzo 2024 e si è configurata come un allenamento per coloro che in seguito alla selezione scolastica erano già stati selezionati per la fase territoriale; quanti non selezionati hanno invece avuto la possibilità (limitatamente al 13 marzo) di essere ripescati e diventare quindi ammessi. Dopo un accurato controllo copiature, sono stati ammessi 44 studenti secondo questi criteri:
+
+* il migliore studente partecipante di ogni istituto senza già altri studenti ammessi alla territoriale indipendentemente dal punteggio ottenuto purché maggiore di zero;
+* gli studenti con punteggio di almeno 130 punti;
+* gli studenti del biennio con un punteggio di almeno 100 punti.
