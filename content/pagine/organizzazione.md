@@ -67,26 +67,16 @@ Costituito da docenti universitari e ricercatori individuati dal Comitato Olimpi
   * Andrea Ciprietti (Google)
   * Carlo Collodel (Politecnico di Milano)
   * William Di Luigi (Google)
-
-o	Tommaso Dossi (Scuola Normale Pisa)
-
-o	Lorenzo Ferrari (Scuola Normale di Pisa)
-
-o	Noemi Gambirasio (Università di Milano)
-
-o	Francesco Lugli (Sant’Anna di Pisa)
-
-o	Edoardo Morassutto (Uni Torino)
-
-o	Dario Ostuni (Uni Verona)
-
-o	Daria Psqualetti (Scuola Normale di Pisa)
-
-o	Dario Petrillo (Sapienza)
-
-o	Valerio Stancanelli (Scuola Normale Pisa)
-
-o	Luca Versari (Google)
+  * Tommaso Dossi (Scuola Normale Pisa)
+  * Lorenzo Ferrari (Scuola Normale di Pisa)
+  * Noemi Gambirasio (Università di Milano)
+  * Francesco Lugli (Sant’Anna di Pisa)
+  * Edoardo Morassutto (Uni Torino)
+  * Dario Ostuni (Uni Verona)
+  * Daria Psqualetti (Scuola Normale di Pisa)
+  * Dario Petrillo (Sapienza)
+  * Valerio Stancanelli (Scuola Normale Pisa)
+  * Luca Versari (Google)
 
 
 
