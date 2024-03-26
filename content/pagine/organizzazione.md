@@ -127,13 +127,13 @@ Oltre a presidiare tutte le fasi della selezione territoriale, i referenti terri
 * sede territoriale **PIE1** - prov: AL-AT-TO – **ITT Pininfarina di Moncalieri (TO)** - Ref. Rocco Catalano
 * sede territoriale **PIE2** - prov: BI-NO-VB-VC - **ITI Q. Sella di Biella** - Ref. Mattia Marcolin
 * sede territoriale **PIE3** - prov: CN - **da confermare**
-* sede regionale **PUG1** - prov: Bari città-Altamura-Castellana Grotte-Gioia del Colle-Mola di Bari-Monopoli-Putignano-Rutigliano-Santeramo in Colle-Triggiano – **ITI Marconi di Bari** - Ref. Nicola Di Nanna
-* sede regionale **PUG2** - prov: BR-TA - **IISS Majorana di Brindisi** - Ref. Giuseppe Cavallo
-* sede regionale **PUG3** - prov: Bitetto-Bitonto-Molfetta-Terlizzi-BT-FG – **IISS Ferraris di Molfetta (BA)** - Ref. Mario Quarto
-* sede regionale **PUG4** - prov: LE - **IISS Mattei di Maglie(LE)**- Ref. Nunzio Galati
-* sede regionale **SAR** - prov: CA-OR-SU-SS - **IT Giua di Cagliari** - Ref. Grazia Chiuchiolo
-* sede regionale **SIC1** - prov: CT-EN-CL-SR-RG - **IT Archimede di Catania** - Ref. Andrea Mola
-* sede regionale **SIC2** - prov: PA-AG-TP-ME -**IT V. Emanuele III di Palermo** - Ref. Salvatore Truncali
+* sede territoriale **PUG1** - prov: Bari città-Altamura-Castellana Grotte-Gioia del Colle-Mola di Bari-Monopoli-Putignano-Rutigliano-Santeramo in Colle-Triggiano – **ITI Marconi di Bari** - Ref. Nicola Di Nanna
+* sede territoriale **PUG2** - prov: BR-TA - **IISS Majorana di Brindisi** - Ref. Giuseppe Cavallo
+* sede territoriale **PUG3** - prov: Bitetto-Bitonto-Molfetta-Terlizzi-BT-FG – **IISS Ferraris di Molfetta (BA)** - Ref. Mario Quarto
+* sede territoriale **PUG4** - prov: LE - **IISS Mattei di Maglie(LE)**- Ref. Nunzio Galati
+* sede territoriale **SAR** - prov: CA-OR-SU-SS - **IT Giua di Cagliari** - Ref. Grazia Chiuchiolo
+* sede territoriale **SIC1** - prov: CT-EN-CL-SR-RG - **IT Archimede di Catania** - Ref. Andrea Mola
+* sede territoriale **SIC2** - prov: PA-AG-TP-ME -**IT V. Emanuele III di Palermo** - Ref. Salvatore Truncali
 * sede regionale **TOS1** - prov: FI-PO-PT-AR-SI - **IT T. Buzzi di Prato** - Ref. Anna Maria Pedelini
 * sede regionale **TOS2** - prov: LI-PI-GR-LU-MS - **IT Galilei di Livorno** - Ref. Salvatore Speranza
 * sede regionale **TRA1** - prov: TN - **LS Galilei di Trento** - Ref. Gloria Zen
