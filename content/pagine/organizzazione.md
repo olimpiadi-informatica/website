@@ -137,11 +137,10 @@ Oltre a presidiare tutte le fasi della selezione territoriale, i referenti terri
 * sede territoriale **TOS1** - prov: FI-PO-PT-AR-SI - **IT T. Buzzi di Prato** - Ref. Giorgio Mariotti
 * sede territoriale **TOS2** - prov: LI-PI-GR-LU-MS - **LS U. Dini di Pisa** - Ref. Davide G. M. Salvetti
 * sede territoriale **TRA1** - prov: TN - **LS L. Da Vinci di Trento** - Ref. Giulia Peserico
-* sede regionale **TRA2** - prov: BZ - **IT Max Valier di Bolzano** - Ref. Karl Lunger
-* sede regionale **UMB** - prov: TR-PG - **LS R. Donatelli di Terni** - Ref. Anna Ceravolo
-* sede regionale **VAL** - prov: AO - **ISILTEP di Verrès (AO)**- Ref. Laura Frasson
-* sede regionale **VEN1** - prov: VE-PD-RO - **ITI C. Zuccante di Venezia** - Ref. Daniele Cappellazzo
-* sede regionale **VEN2** - prov: VR - **ITI G. Marconi di Verona** - Ref. Lorenzo De Carli
-* sede regionale **VEN3** - prov: VI - **IISTron-Zanella di Schio (VI)** - Ref. Anna Morelli
-* sede regionale **VEN4** - prov: BL-TV - **IT M. Planck di Villorba (TV)** - Ref. Magda Milvia Mongelli
-* sede regionale **EST** - Paese estero Etiopia - **IISO G. Galilei** - Ref. Adriano Terzoli
+* sede territoriale **TRA2** - prov: BZ - **IT Max Valier di Bolzano** - Ref. Karl Lunger
+* sede territoriale **UMB** - prov: TR-PG - **LS R. Donatelli di Terni** - Ref. Beatrice Priante
+* sede territoriale **VAL** - prov: AO - **ISILTEP di Verrès (AO)**- Ref. Laura Frasson
+* sede territoriale **VEN1** - prov: VE-PD-RO - **ITI C. Zuccante di Venezia** - Ref. Daniele Cappellazzo
+* sede territoriale **VEN2** - prov: VR - **ITI G. Marconi di Verona** - Ref. Lorenzo De Carli
+* sede territoriale **VEN3** - prov: VI - **IISTron-Zanella di Schio (VI)** - Ref. Paolo Ciscato
+* sede territoriale **VEN4** - prov: BL-TV - **IT M. Planck di Villorba (TV)** - Ref. Magda Milvia Mongelli
