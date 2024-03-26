@@ -6,9 +6,6 @@ description = "selezione scolastica 2023 2024"
 [taxonomies]
 gare = ["scolastiche"]
 edizioni = ["2023-2024"]
-
-[extra]
-override_updated = 2024-01-21T15:25:04.227Z
 +++
 La Selezione Scolastica della XXIV edizione delle OII si è svolta giovedì 14 dicembre 2023.
 
@@ -27,10 +24,20 @@ Hanno partecipato alla gara 12079 atleti, di cui 562 di prima, 1157 di seconda, 
 * dal **terzo classificato** di ciascuna scuola con punteggio di almeno **33 punti**
 * Per incentivare la partecipazione delle prime classi alla competizione, e in linea con la fast track per studenti del biennio già in vigore da qualche anno per le selezioni nazionali, il Comitato Olimpico ha stabilito di ammettere alla Selezione Territoriale anche gli **studenti/studentesse del biennio** che hanno totalizzato almeno **25 punti**.
 
-Secondo questi criteri, vengono ammessi alla **Selezione Territoriale 1877 studenti** di cui 77 di prima, 319 di seconda, 639 di terza e 842 di quarta: [scarica qui](/results/Ammessi_Selezione_Territoriale_2024.xlsx) l’elenco.
+Secondo questi criteri e ultimato il completamento dei dati, vengono ammessi alla **Selezione Territoriale 1867 studenti** a cui si aggiungono:
 
-A questi si aggiungono i [47 studenti](/results/Nazionalisti2023_ammessi_territoriale2024.xlsx) che sono ammessi di diritto alle prossime selezioni territoriali in quanto partecipanti delle scorse selezioni nazionali, per un totale di 1924 studenti ammessi. Ricordiamo che da questo conteggio sono esclusi i 13 PO che sono invece già qualificati per le prossime selezioni nazionali.
+* **44** studenti ammessi in seguito alla gara di ripescaggio del 13 marzo (pre-territoriale);
+* **19** studenti finalisti delle Olimpiadi a Squadre (OIS);
+* **46** studenti ammessi di diritto in quanto partecipanti delle scorse selezioni nazionali e ancora in possesso dei requisiti di ammissibilità. Ricordiamo che da questo conteggio sono esclusi i 14 PO che sono invece già qualificati per le prossime selezioni nazionali.
 
-Anche quest’anno abbiamo previsto un allenamento “**pre-territoriale**” che per quanti non ancora ammessi avrà valore di gara di ripescaggio. La pre-territoriale sarà disponibile on-line dal 13 al 17 marzo 2024 e si configura **come un allenamento** per i 1877 studenti che, in seguito alla selezione scolastica, sono già stati selezionati per la fase territoriale; quanti non selezionati potranno invece essere ripescati e diventare quindi ammessi se, a insindacabile giudizio del Comitato Olimpiaco, ottengono un punteggio sufficientemente alto durante la prova e a patto che svolgano la prova **necessariamente il 13 marzo**. Inoltre, come da regolamento, il **migliore studente partecipante di ogni istituto senza già altri studenti ammessi alla territoriale** verrà ammesso di diritto al ripescaggio, indipendentemente dal punteggio ottenuto purché maggiore di zero. Per i possibili ammessi verrà svolto un accurato controllo copiature; si raccomanda pertanto di svolgere la prova in autonomia e senza alcun genere di supporto.
+Risultano quindi ammessi un totale di **1976 studenti**,  di cui 75 di prima, 328 di seconda, 674 di terza e 899 di quarta: [scarica qui](/results/Ammessi_Selezione_Territoriale_2024.xlsx) l’elenco.
 
-É possibile consultare i quesiti e le soluzioni di gara al link <https://scolastiche.olinfo.it>
+Anche quest’anno abbiamo previsto un allenamento “**pre-territoriale**” che per quanti non ancora ammessi ha avuto valore di gara di ripescaggio. La pre-territoriale è rimasta disponibile on-line dal 13 al 17 marzo 2024 e si è configurata **come un allenamento** per coloro che in seguito alla selezione scolastica erano già stati selezionati per la fase territoriale; quanti non selezionati hanno invece avuto la possibilità (limitatamente al 13 marzo) di essere ripescati e diventare quindi ammessi. Dopo un accurato controllo copiature, sono stati ammessi 44 studenti secondo questi criteri:
+
+* il **migliore studente partecipante di ogni istituto senza già altri studenti ammessi alla territoriale** indipendentemente dal punteggio ottenuto purché maggiore di zero;
+* gli studenti con punteggio di almeno **130** punti;
+* gli studenti del **biennio** con un punteggio di almeno **100** punti.
+
+Mancano all'appello degli ammessi alla territoriale i finalisti delle Olimpiadi di Matematica che manifesteranno il loro interesse a partecipare alle nostre territoriali entro il giorno 4 aprile 2024.
+
+É possibile consultare i quesiti e le soluzioni della gara scolastica al link <https://scolastiche.olinfo.it>
