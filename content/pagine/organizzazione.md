@@ -22,17 +22,13 @@ Il Comitato Olimpico per le Olimpiadi Italiane di Informatica risulta così comp
 * **Nicoletta Negrello** (Docente, ISIS Malignani di Udine)
 * **Roberto Grossi** (Professore Ordinario, Università di Pisa)
 
-
-
 ## Segreteria organizzativa (AICA)
 
-* **Laura Silva** 02 76455042 - [info@olimpiadi-informatica.it](mailto:info@olimpiadi-informatica.it)
+* **Laura Silva** - 02 76455042 - [info@olimpiadi-informatica.it](mailto:info@olimpiadi-informatica.it)
 
 ## Comunicazione
 
-* **Elisabetta Benetti** (AICA)
-
-02 76455094<br/>[elisabetta.benetti@aicanet.it](mailto:info@olimpiadi-informatica.it)
+* **Michele Da Col** -Studio Sandrinelli Srl - 340 3356400 - [dacol@studiosandrinelli.com ](mailto:info@olimpiadi-informatica.it)[](mailto:info@olimpiadi-informatica.it)[](mailto:info@olimpiadi-informatica.it)
 
 ## Gruppo di Ricerca nazionale Olimpiadi di Informatica (GROI)
 
