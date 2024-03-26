@@ -60,18 +60,41 @@ Costituito da docenti universitari e ricercatori individuati dal Comitato Olimpi
   * Giorgio Audrito (Uni Torino)
 * Come tutor:
 
-  * Davide Bartoli (Uni Bologna)
-  * Alessandro Bortolin (Università di Milano)
-  * Massimo Cairo (Uni Verona)
-  * Filippo Casarin (Scuola Normale Pisa)
-  * Andrea Ciprietti (Google)
-  * William Di Luigi (Google)
-  * Tommaso Dossi (Scuola Normale Pisa)
-  * Edoardo Morassutto (Bending Spoons)
-  * Dario Ostuni (Uni Verona)
-  * Dario Petrillo (Sapienza)
-  * Valerio Stancanelli (Scuola Normale Pisa)
-  * Luca Versari (Google)
+  * o	Davide Bartoli (Uni Bologna)
+
+    o	Alessandro Bortolin (Università di Milano)
+
+    o	Massimo Cairo (Uni Verona)
+
+    o	Filippo Casarin (Scuola Normale Pisa)
+
+    o	Andrea Ciprietti (Google)
+
+    o	Carlo Collodel (Politecnico di Milano)
+
+    o	William Di Luigi (Google)
+
+    o	Tommaso Dossi (Scuola Normale Pisa)
+
+    o	Lorenzo Ferrari (Scuola Normale di Pisa)
+
+    o	Noemi Gambirasio (Università di Milano)
+
+    o	Francesco Lugli (Sant’Anna di Pisa)
+
+    o	Edoardo Morassutto (Uni Torino)
+
+    o	Dario Ostuni (Uni Verona)
+
+    o	Daria Psqualetti (Scuola Normale di Pisa)
+
+    o	Dario Petrillo (Sapienza)
+
+    o	Valerio Stancanelli (Scuola Normale Pisa)
+
+    o	Luca Versari (Google)
+
+
 
 ## Referenti Territoriali
 
