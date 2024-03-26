@@ -142,5 +142,5 @@ Oltre a presidiare tutte le fasi della selezione territoriale, i referenti terri
 * sede territoriale **VAL** - prov: AO - **ISILTEP di Verrès (AO)**- Ref. Laura Frasson
 * sede territoriale **VEN1** - prov: VE-PD-RO - **ITI C. Zuccante di Venezia** - Ref. Daniele Cappellazzo
 * sede territoriale **VEN2** - prov: VR - **ITI G. Marconi di Verona** - Ref. Lorenzo De Carli
-* sede territoriale **VEN3** - prov: VI - **IISTron-Zanella di Schio (VI)** - Ref. Paolo Ciscato
+* sede territoriale **VEN3** - prov: VI - **ITCG L. e V. Pasini di Schio (VI)** - Ref. Paolo Ciscato
 * sede territoriale **VEN4** - prov: BL-TV - **IT M. Planck di Villorba (TV)** - Ref. Magda Milvia Mongelli
