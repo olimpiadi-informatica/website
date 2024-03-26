@@ -98,23 +98,23 @@ Costituito da docenti universitari e ricercatori individuati dal Comitato Olimpi
 
 ## Referenti Territoriali
 
-Sono i docenti responsabili del coordinamento territoriale delle OII. Il loro ruolo è indispensabile per il buon esito dell'iniziativa: sono a loro cura, tra i vari compiti, l'allestimento degli ambienti di gara, la preparazione delle postazioni per gli atleti, l'aggiornamento della macchina virtuale del server di gara e la gestione dell'infrastruttura nonchè la raccolta e l'elaborazione delle singole prove in collaborazione con il Comitato Olimpico.
+Sono i docenti responsabili del coordinamento della fase territoriale delle OII. Il loro ruolo è indispensabile per il buon esito dell'iniziativa: sono a loro cura, tra i vari compiti, il coordinamento delle scuole del territorio afferenti alla sede, l'allestimento della sede di gara territoriale, l'organizzazione dell'evento di selezione e formazione della gara territoriale.
 
-Oltre a presidiare tutte le fasi delle selezioni territoriali, vengono convocati dal MIUR per accompagnare gli studenti ammessi alle Olimpiadi Italiane: la loro presenza in occasione della fase finale è fondamentale per partecipare direttamente agli incontri formativi organizzati nei giorni della fase nazionale. Inoltre è un'ottima occasione per valorizzare l'Istituto di provenienza, in quanto Sede ufficiale della fase Regionale delle OII.
+Possono provvedere inoltre a organizzare con il supporto delle locali Università e degli Uffici Scolastici Regionali, percorsi formativi ad hoc per rafforzare la preparazione degli studenti.
 
-Provvedono inoltre a organizzare con il supporto delle locali Università e degli Uffici Scolastici Regionali, percorsi formativi ad hoc per rafforzare la preparazione degli studenti.
+Oltre a presidiare tutte le fasi della selezione territoriale, i referenti territoriali vengono convocati dal MIM per accompagnare gli studenti ammessi alle Olimpiadi Italiane: questo consente loro di partecipare agli incontri formativi organizzati nei giorni della fase nazionale. Inoltre è un'ottima occasione per valorizzare l'Istituto di provenienza, in quanto Sede ufficiale della fase Territoriale delle OII.
 
-* sede regionale **ABR** - prov: AQ-CH-PE-TE - **IIS Volta di Pescara** - Ref. Annalisa Di Bartolomeo
-* sede regionale **BAS** - prov: MT-PZ - **LS Pasolini di Potenza** - Ref. Maria Grazia Coviello
-* sede regionale **CAL** - prov: CS-KR-RC-CZ - **ITI Monaco di Cosenza** - Ref. Francesco Rende
-* sede regionale **CAM1** - prov: BN-CE-NA - **ITI Giordani di Napoli**- Ref. Maria Teresa De Giovanni
-* sede regionale **CAM2** - prov: AV-SA - **IIS B. Focaccia di Salerno** - Ref. Michele De Concilio
-* sede regionale **EMI1** - prov: BO-FE-MO - **IIS Aldini - Valeriani di Bologna** - Ref. Nadia Amaroli
-* sede regionale **EMI2** - prov: FC-RA-RN - **IS Pascal Comandini di Cesena** - Ref. Matteo Lucchi
-* sede regionale **EMI3** - prov: RE-PC-PR - **IIS B. Pascal di Reggio Emilia** - Ref. Giulio Angiani
-* sede regionale **FRI** - prov: TS-PN-GO-UD - **IT A. Malignani di Udine** - Ref. Nicoletta Negrello
-* sede regionale **LAZ1** - prov: Roma città - **IIS F. Caffè di Roma** - Ref. Francesca Bussotti
-* sede regionale **LAZ2** - prov: Ciampino-Colleferro-Frascati-Genzano di Roma-Tivoli-Velletri-RI-VT-FR-LT - **UNI La Sapienza Dip. Inf. di Roma** - Ref. Annalisa Massini
+* sede territoriale **ABR** - prov: AQ-CH-PE-TE - **IIS Volta di Pescara** - Ref. Annalisa Di Bartolomeo
+* sede territoriale **BAS** - prov: MT-PZ - **LS Pasolini di Potenza** - Ref. Maria Grazia Coviello
+* sede territoriale **CAL** - prov: CS-KR-RC-CZ-VV - ITI Monaco di Cosenza - Ref. Francesco Rende
+* sede territoriale **CAM1** - prov: BN-CE-NA - ITI Giordani di Napoli - Ref. Salvatore Imparato
+* sede territoriale **CAM2** - prov: AV-SA - IIS B. Focaccia di Salerno - Ref. Michele De Concilio
+* sede territoriale **EMI1** - prov: BO-FE-MO - **IIS Aldini - Valeriani di Bologna** - Ref. Nadia Amaroli
+* sede territoriale **EMI2** - prov: FC-RA-RN - **IS Pascal Comandini di Cesena** - Ref. Matteo Lucchi
+* sede territoriale **EMI3** - prov: RE-PC-PR - **IIS B. Pascal di Reggio Emilia** - Ref. Giulio Angiani
+* sede territoriale **FRI** - prov: TS-PN-GO-UD - **IT A. Malignani di Udine** - Ref. Nicoletta Negrello
+* sede territoriale **LAZ1** - prov: Roma città - **IIS F. Caffè di Roma** - Ref. Francesca Bussotti
+* sede territoriale **LAZ2** - prov: tutti i comuni della provincia di Roma + RI-VT-FR-LT - **UNI La Sapienza Dip. Inf. di Roma** - Ref. Annalisa Massini
 * sede regionale **LIG** - prov: GE-IM-SP-SV - **IISS Majorana Giorgi di Genova** - Ref. Alessandro Pavoncelli
 * sede regionale **LOM1** - prov: MI - **ITT Molinari di Milano** - Ref. Luca Mazzei
 * sede regionale **LOM2** - prov: MB-VA - **ITE E. Tosi di Busto Arsizio (VA)** - Ref. Silvia Tondo
