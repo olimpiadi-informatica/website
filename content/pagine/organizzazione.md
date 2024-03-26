@@ -7,32 +7,30 @@ Per coordinare e organizzare le OII e la partecipazione italiana alle IOI è sta
 
 ## Comitato Olimpico
 
-E' composto da rappresentanti del Ministero dell'Istruzione e di AICA (Decreto dipartimentale AOODGOSV 3/03/2020).
+E' composto da rappresentanti del Ministero dell'Istruzione e di AICA (art. 2 Decreto direttoriale prot. 322 del 19-02-2024).
 
-Il Comitato è incaricato di coordinare e gestire le Olimpiadi Italiane di Informatica e la partecipazione dell'Italia alle Olimpiadi Internazionali di Informatica per l'anno scolastico 2019-2020.
+Il Comitato è incaricato di coordinare e gestire le Olimpiadi Italiane di Informatica e la partecipazione dell'Italia alle Olimpiadi Internazionali di Informatica.
 
 Il Comitato Olimpico per le Olimpiadi Italiane di Informatica risulta così composto:
 
 * **Luigi Laura - Presidente** (Professore Associato, Uninettuno)
 * **Anna Brancaccio - Vicepresidente** (Dirigente Dir. Gen. Ordinamenti Scolastici - Ministero Istruzione)
-* **Nello Scarabottolo** - **AICA** (Professore Ordinario, Università di Milano)
+* **Giorgio Audrito - Responsabile Tecnico Scientifico** (Ricercatore, Università di Torino)
+* **Antonio Piva - AICA** (Presidente AICA)
 * **Amanda Ferrario** (Dirigente Scolastico, ITE E. Tosi di Busto Arsizio)
-* **Adelaide Villa** (Dirigente Scolastico, ITST Marconi di Campobasso)
+* **Imerio Chiappa** (Dirigente Scolastico, ITI Paleocapa di Bergamo)
 * **Nicoletta Negrello** (Docente, ISIS Malignani di Udine)
 * **Roberto Grossi** (Professore Ordinario, Università di Pisa)
-* **Giorgio Audrito** (Ricercatore, Università di Torino)
-* **Elisabetta Benetti - AICA** (Comunicazione)
-* **Monica Gati - AICA** (Segreteria)
+
+
 
 ## Segreteria organizzativa (AICA)
 
-**Laura Silva** 02 76455042
-
-[info@olimpiadi-informatica.it](mailto:info@olimpiadi-informatica.it)
+* **Laura Silva** 02 76455042 - [info@olimpiadi-informatica.it](mailto:info@olimpiadi-informatica.it)
 
 ## Comunicazione
 
-**Elisabetta Benetti** (AICA)
+* **Elisabetta Benetti** (AICA)
 
 02 76455094<br/>[elisabetta.benetti@aicanet.it](mailto:info@olimpiadi-informatica.it)
 
