@@ -23,7 +23,7 @@ Il Comitato Olimpico per le Olimpiadi Italiane di Informatica risulta così comp
 * **Roberto Grossi** (Professore Ordinario, Università di Pisa)
 
   * Laura Silva - AICA (Segreteria Organizzativa)
-  *
+  * Sara Calabrò (Comunicazione)
 
 
 
