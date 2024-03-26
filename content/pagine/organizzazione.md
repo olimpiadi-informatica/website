@@ -125,8 +125,8 @@ Oltre a presidiare tutte le fasi della selezione territoriale, i referenti terri
 * sede territoriale **MAR** - prov: AN-AP-FM-MC-PU - **IIS Volterra Elia di Ancona** - Ref. Giuseppe Corinaldesi
 * sede territoriale **MOL** - prov: CB-IS - **IT G. Marconi di Campobasso**- Ref. Madalina Ciobanu
 * sede territoriale **PIE1** - prov: AL-AT-TO – **ITT Pininfarina di Moncalieri (TO)** - Ref. Rocco Catalano
-* sede regionale **PIE2** - prov: BI-NO-VB-VC - **ITI Q. Sella di Biella** - Ref. Sandro Landorno
-* sede regionale **PIE3** - prov: CN - **ITIS M. Delpozzo di Cuneo** - Ref. Claudio Borgogno
+* sede territoriale **PIE2** - prov: BI-NO-VB-VC - **ITI Q. Sella di Biella** - Ref. Mattia Marcolin
+* sede territoriale **PIE3** - prov: CN - **da confermare**
 * sede regionale **PUG1** - prov: Bari città-Altamura-Castellana Grotte-Gioia del Colle-Mola di Bari-Monopoli-Putignano-Rutigliano-Santeramo in Colle-Triggiano – **ITI Marconi di Bari** - Ref. Nicola Di Nanna
 * sede regionale **PUG2** - prov: BR-TA - **IISS Majorana di Brindisi** - Ref. Giuseppe Cavallo
 * sede regionale **PUG3** - prov: Bitetto-Bitonto-Molfetta-Terlizzi-BT-FG – **IISS Ferraris di Molfetta (BA)** - Ref. Mario Quarto
