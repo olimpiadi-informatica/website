@@ -106,9 +106,9 @@ Oltre a presidiare tutte le fasi della selezione territoriale, i referenti terri
 
 * sede territoriale **ABR** - prov: AQ-CH-PE-TE - **IIS Volta di Pescara** - Ref. Annalisa Di Bartolomeo
 * sede territoriale **BAS** - prov: MT-PZ - **LS Pasolini di Potenza** - Ref. Maria Grazia Coviello
-* sede territoriale **CAL** - prov: CS-KR-RC-CZ-VV - ITI Monaco di Cosenza - Ref. Francesco Rende
-* sede territoriale **CAM1** - prov: BN-CE-NA - ITI Giordani di Napoli - Ref. Salvatore Imparato
-* sede territoriale **CAM2** - prov: AV-SA - IIS B. Focaccia di Salerno - Ref. Michele De Concilio
+* sede territoriale **CAL** - prov: CS-KR-RC-CZ-VV - **ITI Monaco di Cosenza** - Ref. Francesco Rende
+* sede territoriale **CAM1** - prov: BN-CE-NA - **ITI Giordani di Napoli** - Ref. Salvatore Imparato
+* sede territoriale **CAM2** - prov: AV-SA - **IIS B. Focaccia di Salerno** - Ref. Michele De Concilio
 * sede territoriale **EMI1** - prov: BO-FE-MO - **IIS Aldini - Valeriani di Bologna** - Ref. Nadia Amaroli
 * sede territoriale **EMI2** - prov: FC-RA-RN - **IS Pascal Comandini di Cesena** - Ref. Matteo Lucchi
 * sede territoriale **EMI3** - prov: RE-PC-PR - **IIS B. Pascal di Reggio Emilia** - Ref. Giulio Angiani
@@ -123,8 +123,8 @@ Oltre a presidiare tutte le fasi della selezione territoriale, i referenti terri
 * sede territoriale **LOM5** - prov: CR-LO-PV - **IIS G. Galilei di Crema** - Ref. Nadia Manclossi
 * sede territoriale **LOM6** - prov: LC-CO-SO - **IIS A. Badoni di Lecco** - Ref. Sara Giorgi
 * sede territoriale **MAR** - prov: AN-AP-FM-MC-PU - **IIS Volterra Elia di Ancona** - Ref. Giuseppe Corinaldesi
-* sede regionale **MOL** - prov: CB-IS - **IT G. Marconi di Campobasso**- Ref. Madalina Ciobanu
-* sede regionale **PIE1** - prov: AL-AT-TO – **ITT Pininfarina di Moncalieri (TO)** - Ref. Rocco Catalano
+* sede territoriale **MOL** - prov: CB-IS - **IT G. Marconi di Campobasso**- Ref. Madalina Ciobanu
+* sede territoriale **PIE1** - prov: AL-AT-TO – **ITT Pininfarina di Moncalieri (TO)** - Ref. Rocco Catalano
 * sede regionale **PIE2** - prov: BI-NO-VB-VC - **ITI Q. Sella di Biella** - Ref. Sandro Landorno
 * sede regionale **PIE3** - prov: CN - **ITIS M. Delpozzo di Cuneo** - Ref. Claudio Borgogno
 * sede regionale **PUG1** - prov: Bari città-Altamura-Castellana Grotte-Gioia del Colle-Mola di Bari-Monopoli-Putignano-Rutigliano-Santeramo in Colle-Triggiano – **ITI Marconi di Bari** - Ref. Nicola Di Nanna
