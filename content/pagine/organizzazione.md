@@ -134,8 +134,8 @@ Oltre a presidiare tutte le fasi della selezione territoriale, i referenti terri
 * sede territoriale **SAR** - prov: CA-OR-SU-SS - **IT Giua di Cagliari** - Ref. Grazia Chiuchiolo
 * sede territoriale **SIC1** - prov: CT-EN-CL-SR-RG - **IT Archimede di Catania** - Ref. Andrea Mola
 * sede territoriale **SIC2** - prov: PA-AG-TP-ME -**IT V. Emanuele III di Palermo** - Ref. Salvatore Truncali
-* sede regionale **TOS1** - prov: FI-PO-PT-AR-SI - **IT T. Buzzi di Prato** - Ref. Anna Maria Pedelini
-* sede regionale **TOS2** - prov: LI-PI-GR-LU-MS - **IT Galilei di Livorno** - Ref. Salvatore Speranza
+* sede territoriale **TOS1** - prov: FI-PO-PT-AR-SI - **IT T. Buzzi di Prato** - Ref. Anna Maria Pedelini
+* sede territoriale **TOS2** - prov: LI-PI-GR-LU-MS - **IT Galilei di Livorno** - Ref. Salvatore Speranza
 * sede regionale **TRA1** - prov: TN - **LS Galilei di Trento** - Ref. Gloria Zen
 * sede regionale **TRA2** - prov: BZ - **IT Max Valier di Bolzano** - Ref. Karl Lunger
 * sede regionale **UMB** - prov: TR-PG - **LS R. Donatelli di Terni** - Ref. Anna Ceravolo
