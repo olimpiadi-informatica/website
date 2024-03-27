@@ -7,7 +7,7 @@ Per coordinare e organizzare le OII e la partecipazione italiana alle IOI è sta
 
 ## Comitato Olimpico
 
-E' composto da rappresentanti del Ministero dell'Istruzione e di AICA (art. 2 Decreto direttoriale prot. 322 del 19-02-2024).
+E' composto da rappresentanti del Ministero dell'Istruzione e di AICA (art. 2 Decreto direttoriale prot. 322 del 19-02-2024). 
 
 Il Comitato è incaricato di coordinare e gestire le Olimpiadi Italiane di Informatica e la partecipazione dell'Italia alle Olimpiadi Internazionali di Informatica.
 
@@ -24,8 +24,6 @@ Il Comitato Olimpico per le Olimpiadi Italiane di Informatica risulta così comp
 
   * **Laura Silva** - AICA (Segreteria Organizzativa)
   * **Sara Calabrò**, già conosciuta come Viola Cadice, AICA (Comunicazione)
-
-
 
 ## Segreteria organizzativa (AICA)
 
@@ -82,8 +80,6 @@ Costituito da docenti universitari e ricercatori individuati dal Comitato Olimpi
   * Dario Petrillo (Sapienza)
   * Valerio Stancanelli (Scuola Normale Pisa)
   * Luca Versari (Google)
-
-
 
 ## Referenti Territoriali
 
