@@ -90,7 +90,7 @@ Possono provvedere inoltre a organizzare con il supporto delle locali Universit�
 Oltre a presidiare tutte le fasi della selezione territoriale, i referenti territoriali vengono convocati dal MIM per accompagnare gli studenti ammessi alle Olimpiadi Italiane: questo consente loro di partecipare agli incontri formativi organizzati nei giorni della fase nazionale. Inoltre è un'ottima occasione per valorizzare l'Istituto di provenienza, in quanto Sede ufficiale della fase Territoriale delle OII.
 
 * sede territoriale **ABR** - prov: AQ-CH-PE-TE - **IIS Volta di Pescara** - Ref. Annalisa Di Bartolomeo
-* sede territoriale **BAS** - prov: MT-PZ - **LS Pasolini di Potenza** - Ref. Maria Grazia Coviello
+* sede territoriale **BAS** - prov: MT-PZ - **IIS Einstein-De Lorenzo di Potenza** - Ref. Giuseppina Pugliese
 * sede territoriale **CAL** - prov: CS-KR-RC-CZ-VV - **ITI Monaco di Cosenza** - Ref. Francesco Rende
 * sede territoriale **CAM1** - prov: BN-CE-NA - **ITI Giordani di Napoli** - Ref. Salvatore Imparato
 * sede territoriale **CAM2** - prov: AV-SA - **IIS B. Focaccia di Salerno** - Ref. Michele De Concilio
