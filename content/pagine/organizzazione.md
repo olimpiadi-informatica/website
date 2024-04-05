@@ -111,7 +111,7 @@ Oltre a presidiare tutte le fasi della selezione territoriale, i referenti terri
 * sede territoriale **MOL** - prov: CB-IS - **IT G. Marconi di Campobasso**- Ref. Madalina Ciobanu
 * sede territoriale **PIE1** - prov: AL-AT-TO – **ITT Pininfarina di Moncalieri (TO)** - Ref. Rocco Catalano
 * sede territoriale **PIE2** - prov: BI-NO-VB-VC - **ITI Q. Sella di Biella** - Ref. Mattia Marcolin
-* sede territoriale **PIE3** - prov: CN - **da confermare**
+* sede territoriale **PIE3** - prov: CN - **IIS G. Vallauri di Fossano (CN)** - Ref. Luca Necchi
 * sede territoriale **PUG1** - prov: Bari città-Altamura-Castellana Grotte-Gioia del Colle-Mola di Bari-Monopoli-Putignano-Rutigliano-Santeramo in Colle-Triggiano – **ITI Marconi di Bari** - Ref. Nicola Di Nanna
 * sede territoriale **PUG2** - prov: BR-TA - **IISS Majorana di Brindisi** - Ref. Giuseppe Cavallo
 * sede territoriale **PUG3** - prov: Bitetto-Bitonto-Molfetta-Terlizzi-BT-FG – **IISS Ferraris di Molfetta (BA)** - Ref. Mario Quarto
