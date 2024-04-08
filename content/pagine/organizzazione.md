@@ -99,7 +99,7 @@ Oltre a presidiare tutte le fasi della selezione territoriale, i referenti terri
 * sede territoriale **EMI3** - prov: RE-PC-PR - **IIS B. Pascal di Reggio Emilia** - Ref. Giulio Angiani
 * sede territoriale **FRI** - prov: TS-PN-GO-UD - **IT A. Malignani di Udine** - Ref. Nicoletta Negrello
 * sede territoriale **LAZ1** - prov: Roma città - **IIS F. Caffè di Roma** - Ref. Francesca Bussotti
-* sede territoriale **LAZ2** - prov: tutti i comuni della provincia di Roma + RI-VT-FR-LT - **UNI La Sapienza Dip. Inf. di Roma** - Ref. Annalisa Massini
+* sede territoriale **LAZ2** - prov: RI-VT-FR-LT + tutti i comuni della provincia di Roma  - **UNI La Sapienza Dip. Inf. di Roma** - Ref. Annalisa Massini
 * sede territoriale **LIG** - prov: GE-IM-SP-SV - **IISS Majorana Giorgi di Genova** - Ref. Alessandro Pavoncelli
 * sede territoriale **LOM1** - prov: MI (escluso il comune di Legnano) - **ITT Molinari di Milano** - Ref. Luca Mazzei
 * sede territoriale **LOM2** - prov: MB-VA + il comune di Legnano - **ITE E. Tosi di Busto Arsizio (VA)** - Ref. Silvia Tondo
@@ -112,9 +112,9 @@ Oltre a presidiare tutte le fasi della selezione territoriale, i referenti terri
 * sede territoriale **PIE1** - prov: AL-AT-TO – **ITT Pininfarina di Moncalieri (TO)** - Ref. Rocco Catalano
 * sede territoriale **PIE2** - prov: BI-NO-VB-VC - **ITI Q. Sella di Biella** - Ref. Mattia Marcolin
 * sede territoriale **PIE3** - prov: CN - **IIS G. Vallauri di Fossano (CN)** - Ref. Luca Necchi
-* sede territoriale **PUG1** - prov: Bari città-Altamura-Castellana Grotte-Gioia del Colle-Mola di Bari-Monopoli-Putignano-Rutigliano-Santeramo in Colle-Triggiano – **ITI Marconi di Bari** - Ref. Nicola Di Nanna
+* sede territoriale **PUG1** - prov: Bari città + comuni di Altamura-Castellana Grotte-Gioia del Colle-Mola di Bari-Monopoli-Putignano-Rutigliano-Santeramo in Colle-Triggiano – **ITI Marconi di Bari** - Ref. Nicola Di Nanna
 * sede territoriale **PUG2** - prov: BR-TA - **IISS Majorana di Brindisi** - Ref. Giuseppe Cavallo
-* sede territoriale **PUG3** - prov: Bitetto-Bitonto-Molfetta-Terlizzi-BT-FG – **IISS Ferraris di Molfetta (BA)** - Ref. Mario Quarto
+* sede territoriale **PUG3** - BT-FG + comuni di: Bitetto-Bitonto-Corato-Molfetta-Ruvo di Puglia-Terlizzi – **IISS Ferraris di Molfetta (BA)** - Ref. Mario Quarto
 * sede territoriale **PUG4** - prov: LE - **IISS Mattei di Maglie(LE)**- Ref. Nunzio Galati
 * sede territoriale **SAR** - prov: CA-OR-SU-SS - **IT Giua di Cagliari** - Ref. Grazia Chiuchiolo
 * sede territoriale **SIC1** - prov: CT-EN-CL-SR-RG - **IT Archimede di Catania** - Ref. Andrea Mola
