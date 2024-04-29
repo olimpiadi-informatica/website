@@ -17,15 +17,15 @@ punteggi](/results/classifica_terry_2024.xlsx). La classifica
 selezione AlgoBadge.
 
 L’ultima colonna a destra evidenzia l’ammissione alla fase AlgoBadge: risultano
-ammessi i 574 studenti che hanno ottenuto un punteggio superiore alla media
-nazionale di 69,5 punti. Tutti gli studenti ammessi riceveranno una email con
+ammessi gli 803 studenti che hanno ottenuto un punteggio superiore alla media
+nazionale di 51,9 punti. Tutti gli studenti ammessi riceveranno una email con
 le istruzioni per l’accesso alla prova, al termine della quale verrà definita
 dal Comitato Olimpico la classifica definitiva degli studenti ammessi alla gara
 nazionale che si terrà il prossimo autunno. La classifica definitiva sarà
-composta selezionando i 100 partecipanti della nazionale tra coloro che avranno
-superato AlgoBadge senza irregolarità, sulla base di punteggio e fast track,
-secondo i criteri indicati nel regolamento. L’elenco definitivo verrà quindi
-pubblicato entro la prima settimana di luglio 2024.
+composta selezionando indicativamente 100 partecipanti della nazionale tra
+coloro che avranno superato AlgoBadge senza irregolarità, sulla base di
+punteggio e fast track, secondo i criteri indicati nel regolamento. L’elenco
+definitivo verrà quindi pubblicato entro la prima settimana di luglio 2024.
 
 Gli studenti ammessi erano **1976**, di cui 75 di prima, 328 di seconda,
 674 di terza e 899 di quarta.
