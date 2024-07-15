@@ -12,7 +12,7 @@ edizioni = ["2022-2023"]
 [extra]
 thumbnail = "/images/uploads/8e5f062e9750688c028aaa3058da9ec4.jpg"
 override_updated = "2023-10-28T09:28:34"
-highlighted = true
+highlighted = false
 +++
 La XXIII edizione delle Olimpiadi Italiane di Informatica si è svolta dal 12 al 14 ottobre presso l’ITI Paleocapa di Bergamo, città che divide con Brescia il titolo di Capitale della Cultura 2023.
 <!-- more -->
