@@ -7,7 +7,6 @@ gare = ["nazionali"]
 edizioni = ["2023-2024"]
 
 [extra]
-override_updated = ""
 highlighted = true
 +++
 Sarà l'IIS Blaise Pascal di Reggio Emilia ad ospitare dal 26 al 28 settembre
