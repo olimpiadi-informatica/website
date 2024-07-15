@@ -5,7 +5,7 @@ description = "weoi diario 2024 internazionale western europe "
 
 [taxonomies]
 gare = ["blog"]
-edizioni = ["2023-2024"]
+edizioni = ["2022-2023"]
 
 [extra]
 override_updated = 2024-07-15T21:13:17.665Z
