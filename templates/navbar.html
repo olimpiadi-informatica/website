@@ -9,7 +9,8 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        {% set active = taxonomy and taxonomy.name == 'gare' %}
+        {% set blogactive = term and term.name == "blog" %}
+        {% set active = taxonomy and taxonomy.name == 'gare' and not blogactive %}
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle {%if active%}active{%endif%}" href="#"
              role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -56,6 +57,10 @@
           {% set active_p = page and page.path is starting_with("/gallery/") %}
           {% set active = active_p or active_s %}
           <a class="nav-link {%if active%}active{%endif%}" aria-current="page" href="{{gallery_s.path}}">Gallery</a>
+        </li>
+        <li class="nav-item">
+          {% set gterm = get_taxonomy_term(kind="gare", term="blog") %}
+          <a class="nav-link {%if blogactive%}active{%endif%}" href="{{gterm.path}}">Blog</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://forum.olinfo.it/">Forum</a>
