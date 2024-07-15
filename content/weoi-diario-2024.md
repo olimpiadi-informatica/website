@@ -11,6 +11,9 @@ edizioni = ["2022-2023"]
 override_updated = 2024-07-15T21:13:17.665Z
 +++
 Dopo le disavventure dell'anno precedente, la seconda edizione delle WEOI comincia con le migliori aspettative.
+A comporre la squadra di quest'anno sono ben otto contestant, quattro dei quali alla prima gara internazionale. Non sanno cosa li aspetta...
+
+<!-- more -->
 
 ## 28 giugno
 
@@ -24,7 +27,7 @@ Dopo aver lasciato gli zaini in hotel il team decide di spendere il resto della 
 
 ![](/images/uploads/towe.jpg)
 
-*No, non si è alzato :frowning:*
+*No, non si è alzato :(*
 
 Complice l’abbondante pasto dal kebabbaro londinese e l’orario della partenza, subito dopo pranzo il team si ritira nelle stanze per il campionato nazionale di riposini, che per motivi organizzativi siamo stati costretti ad interrompere dopo sole quattro ore di sonno.
 
