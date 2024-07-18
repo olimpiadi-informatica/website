@@ -76,7 +76,7 @@ Il mal di testa costringe ita5 a ritirarsi in hotel a dormire, mentre il resto d
 
 ![](/images/uploads/poker.jpg)
 
-Purtroppo alle 21 gli uffici di *Jane Street* vengono chiusi, ma ita[-1;5)$\small\mod 8$ decidono che la serata è solamente iniziata e imbarcano in un viaggio attraverso la labirintica metropolitana londinese.
+Purtroppo alle 21 gli uffici di *Jane Street* vengono chiusi, ma ita[-1;5) mod 8 decidono che la serata è solamente iniziata e imbarcano in un viaggio attraverso la labirintica metropolitana londinese.
 
 Giunti a destinazione risalgono in superficie per trovarsi travolti da un pride percorrente la via nel senso opposto. Segue una passeggiata di svariati chilometri, tutt'altro che lineare, la cui unica meta è fare ritorno su uno dei tipici *double-decker* rossi.
 
@@ -88,7 +88,7 @@ Lasciato l’hotel si fa ritorno agli uffici di *Jane Street* per la cerimonia d
 
 Con grande gioia scopriamo che l’intero team è medagliato e che quindi l’Italia si porta a casa 6 bronzi e 2 argenti. ***NO WAY!!***
 
-Aspettate, ho forse detto bronzi e argenti? Intendevo dire *TROPHIES*, ovvero cubetti in legno per i bronzi e… $\large \textsf{cubetti in legno più grandi}$ per gli argenti. È chiaro che il metallo è sopravvalutato e che legno incollato male e plexiglass siano di gran lunga migliori.
+Aspettate, ho forse detto bronzi e argenti? Intendevo dire *TROPHIES*, ovvero cubetti in legno per i bronzi e… <big>cubetti in legno più grandi</big> per gli argenti. È chiaro che il metallo è sopravvalutato e che legno incollato male e plexiglass siano di gran lunga migliori.
 
 ![](/images/uploads/trofei.jpg)
 
