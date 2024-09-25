@@ -11,7 +11,7 @@ highlighted = true
 +++
 Sarà l'IIS Blaise Pascal di Reggio Emilia ad ospitare dal 26 al 28 settembre
 2024 la finale nazionale della XXIV edizione delle Olimpiadi Italiane di
-Informatica. 
+Informatica. Scarica qui il [programma](/documents/programma_oii2024.pdf) dell'evento.
 
 A seguito della selezione territoriale del 23 aprile 2024, della selezione
 AlgoBadge conclusasi il 1 luglio 2024 e dei successivi controlli copiature, sono
