@@ -119,7 +119,7 @@ Per essere ammissibile ai corsi di formazione 2025/2026 uno studente dovrà risp
  
 Durante questi corsi verranno effettuate ulteriori selezioni di natura eliminatoria, che porteranno alla formazione delle squadre olimpiche internazionali che verranno inviate alle IOI e ad altre competizioni internazionali. Le eventuali spese di viaggio e soggiorno saranno a carico dell’organizzazione.
 
-** Similmente, per essere ammissibile ai corsi di formazione che si svolgeranno nell’anno 2024/2025 uno studente dovrà aver completato il percorso AlgoBadge al livello Diamante entro il 30 novembre 2024 alle 23:59, e rispettare i requisiti richiesti per rappresentare l’Italia alle IOI 2025 (vedi [regolamento](https://ioinformatics.org/files/regulations21.pdf)). I PO individuati nella gara nazionale 2023/2024, se ammissibili, saranno invitati a seguire i corsi residenziali; mentre altri studenti ammissibili e non invitati potranno fare richiesta di partecipazione ai corsi di formazione in modalità online nel form accessibile a:**
+**Similmente, per essere ammissibile ai corsi di formazione che si svolgeranno nell’anno 2024/2025 uno studente dovrà aver completato il percorso AlgoBadge al livello Diamante entro il 30 novembre 2024 alle 23:59, e rispettare i requisiti richiesti per rappresentare l’Italia alle IOI 2025 (vedi [regolamento](https://ioinformatics.org/files/regulations21.pdf)). I PO individuati nella gara nazionale 2023/2024, se ammissibili, saranno invitati a seguire i corsi residenziali; mentre altri studenti ammissibili e non invitati potranno fare richiesta di partecipazione ai corsi di formazione in modalità online nel form accessibile a:**
 
 **[https://forms.gle/bZ2D7Terfx3fpyZV8](https://forms.gle/bZ2D7Terfx3fpyZV8).**
 
