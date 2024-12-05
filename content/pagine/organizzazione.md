@@ -27,11 +27,30 @@ Il Comitato Olimpico per le Olimpiadi Italiane di Informatica risulta così comp
 
 ## Segreteria organizzativa (AICA)
 
-* **Laura Silva** - 02 76455042 - [info@olimpiadi-informatica.it](mailto:info@olimpiadi-informatica.it)
+* **Monica Gati** - 02 76455025 - [info@olimpiadi-informatica.it](mailto:info@olimpiadi-informatica.it)
 
 ## Comunicazione
 
 * **Michele Da Col** -Studio Sandrinelli Srl - 340 3356400 - [dacol@studiosandrinelli.com ](mailto:info@olimpiadi-informatica.it)[](mailto:info@olimpiadi-informatica.it)[](mailto:info@olimpiadi-informatica.it)
+
+## Responsabili di area
+
+In ambito scientifico e didattico:
+
+* **Responsabile per le gare scolastiche**: Giorgio Audrito, Noemi Gambirasio
+* **Responsabile per le gare territoriali**: Noemi Gambirasio, Francesco Vercellesi
+* **Responsabile per le gare nazionali**: Tommaso Dossi, Valerio Stancanelli
+* **Responsabile del percorso AlgoBadge**: James Bamber, Francesco Vercellesi
+* **Responsabile delle gare agli stage**: James Bamber, Valerio Stancanelli
+* **Responsabile per le lezioni agli stage**: Lorenzo Ferrari, Francesco Vercellesi
+
+In ambito tecnico e di sviluppo software:
+
+* **Responsabile tecnico delle OII**: Luca Versari
+* **Responsabile tecnico delle OIS**: Filippo Casarin, Carlo Collodel
+* **Responsabile del software QuizMS**: Alessandro Bortolin, Francesco Lugli
+* **Responsabile del software Terry**: Luca Versari
+* **Responsabile del software Olimanager**: Francesco Lugli, Elia Soldati
 
 ## Gruppo di Ricerca nazionale Olimpiadi di Informatica (GROI)
 
@@ -53,32 +72,34 @@ Il gruppo di ricerca nazionale su Olimpiadi di Informatica è un gruppo di ricer
 
 ## Gruppo Selezionatori e Allenatori
 
-Costituito da docenti universitari e ricercatori individuati dal Comitato Olimpico è coordinato dal prof. Luigi Laura<br/>(Università di Roma), responsabile Tecnico-Scientifico delle Olimpiadi, e coadiuvato dalla componente scientifica del comitato stesso. Il Gruppo è responsabile della preparazione delle prove di gara, dei materiali didattici di supporto, delle selezioni nazionali, dell’allenamento dei Probabili Olimpici e di conseguenza della squadra internazionale. Negli ultimi anni ne hanno fatto parte:
+Costituito da docenti universitari e ricercatori individuati dal Comitato Olimpico è coordinato dal prof. Luigi Laura<br/>(Università di Roma), presidente delle Olimpiadi, e coadiuvato dalla componente scientifica del comitato stesso. Il Gruppo è responsabile della preparazione delle prove di gara, dei materiali didattici di supporto, delle selezioni nazionali, dell’allenamento dei Probabili Olimpici e di conseguenza della squadra internazionale. Negli ultimi anni ne hanno fatto parte:
 
 * Come allenatori:
 
-  * Luigi Laura (Uninettuno)
-  * Roberto Grossi (Università di Pisa)
-  * Romeo Rizzi (Università di Verona)
   * Giorgio Audrito (Uni Torino)
+  * Roberto Grossi (Università di Pisa)
+  * Luigi Laura (Uninettuno)
+  * Romeo Rizzi (Università di Verona)
 * Come tutor:
 
-  * Davide Bartoli (Uni Bologna)
+  * James Bamber (Sant’Anna di Pisa)
+  * Davide Bartoli (Università di Bologna)
   * Alessandro Bortolin (Università di Milano)
-  * Massimo Cairo (Uni Verona)
+  * Massimo Cairo (Università di Verona)
   * Filippo Casarin (Sant’Anna di Pisa)
   * Andrea Ciprietti (Google)
   * Carlo Collodel (Politecnico di Milano)
   * William Di Luigi (Google)
-  * Tommaso Dossi (Uni Pisa)
+  * Tommaso Dossi (Università di Pisa)
   * Lorenzo Ferrari (Scuola Normale di Pisa)
   * Noemi Gambirasio (Università di Milano)
+  * Fabio Gulmini (Sant’Anna di Pisa)
   * Francesco Lugli (Sant’Anna di Pisa)
-  * Edoardo Morassutto (Uni Torino)
-  * Dario Ostuni (Uni Verona)
-  * Daria Pasqualetti (Scuola Normale di Pisa)
+  * Dario Ostuni (Università di Verona)
   * Dario Petrillo (Sapienza)
+  * Elia Soldati (Università di Bologna)
   * Valerio Stancanelli (Scuola Normale di Pisa)
+  * Francesco Vercellesi (Scuola Normale di Pisa)
   * Luca Versari (Google)
 
 ## Referenti Territoriali
