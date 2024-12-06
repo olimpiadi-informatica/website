@@ -52,21 +52,23 @@ In ambito tecnico e di sviluppo software:
 
 ## Gruppo di Ricerca nazionale Olimpiadi di Informatica (GROI)
 
-Il gruppo di ricerca nazionale su Olimpiadi di Informatica è un gruppo di ricerca, coordinato dal Responsabile Prof. Luigi Laura, che si occupa di ricerca su tematiche attinenti le Olimpiadi di Informatica, nazionali e internazionale, e le gare di programmazione in generale. Gli afferenti al gruppo sono:
+Il gruppo di ricerca nazionale sulle Olimpiadi di Informatica è un gruppo di ricerca, coordinato dal Responsabile Prof. Giorgio Audrito, che si occupa di ricerca su tematiche attinenti le Olimpiadi di Informatica, nazionali e internazionale, e le gare di programmazione in generale. Gli afferenti al gruppo sono:
 
-* **Luigi Laura** (Uninettuno, responsabile del gruppo)
-* **Giorgio Audrito** (Uni Torino)
-* **Massimo Cairo** (Uni Verona)
+* **Giorgio Audrito** (Università di Torino, responsabile del gruppo)
+* **Madalina Ciobanu** (Università di Salerno)
 * **William Di Luigi** (Google)
-* **Tania Di Mascio** (Uni degli Studi dell'Aquila)
-* **Paolo Fantozzi** (Uni LUMSA)
-* **Roberto Grossi** (Uni Pisa)
+* **Tania Di Mascio** (Università degli Studi dell'Aquila)
+* **Paolo Fantozzi** (Università LUMSA)
+* **Noemi Gambirasio** (Università di Milano)
+* **Roberto Grossi** (Università di Pisa)
+* **Luigi Laura** (Uninettuno)
 * **Edoardo Morassutto** (Bending Spoons)
-* **Umberto Nanni** (Uni Sapienza)
-* **Dario Ostuni** (Uni Verona)
-* **Romeo Rizzi** (Uni Verona)
-* **Marco Temperini** (Uni Sapienza)
+* **Umberto Nanni** (La Sapienza)
+* **Dario Ostuni** (Università di Milano)
+* **Romeo Rizzi** (Università di Verona)
+* **Marco Temperini** (La Sapienza)
 * **Luca Versari** (Google)
+
 
 ## Gruppo Selezionatori e Allenatori
 
