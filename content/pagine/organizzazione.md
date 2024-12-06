@@ -22,8 +22,6 @@ Il Comitato Olimpico per le Olimpiadi Italiane di Informatica risulta così comp
 * **Nicoletta Negrello** (Docente, ISIS Malignani di Udine)
 * **Roberto Grossi** (Professore Ordinario, Università di Pisa)
 
-  * **Laura Silva** - AICA (Segreteria Organizzativa)
-  * **Sara Calabrò**, già conosciuta come Viola Cadice, AICA (Comunicazione)
 
 ## Segreteria organizzativa (AICA)
 
