@@ -38,6 +38,7 @@ In ambito scientifico e didattico:
 * **Responsabile per le gare scolastiche**: Giorgio Audrito, Noemi Gambirasio
 * **Responsabile per le gare territoriali**: Noemi Gambirasio, Francesco Vercellesi
 * **Responsabile per le gare nazionali**: Tommaso Dossi, Valerio Stancanelli
+* **Responsabile per le gare a squadre**: Davide Bartoli, Tommaso Dossi
 * **Responsabile del percorso AlgoBadge**: James Bamber, Francesco Vercellesi
 * **Responsabile delle gare agli stage**: James Bamber, Valerio Stancanelli
 * **Responsabile per le lezioni agli stage**: Lorenzo Ferrari, Francesco Vercellesi
