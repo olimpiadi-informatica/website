@@ -22,7 +22,7 @@ Hanno partecipato alla gara 13845 atleti, di cui 904 di prima, 1575 di seconda, 
 
 **Criteri di ammissione alla Selezione Territoriale** in programma mercoledì 16 aprile 2025:
 
-* **essere tra i primi studenti fino alla quota della propria scuola, se ha almeno 11 punti;**
+* **essere tra i primi studenti fino alla quota della propria scuola e avere almeno 11 punti;**
 * **essere del biennio e avere almeno 32 punti;**
 * **essere del triennio e avere almeno 42 punti.**
 
