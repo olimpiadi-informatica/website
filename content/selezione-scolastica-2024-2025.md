@@ -30,6 +30,6 @@ Secondo questi criteri e ultimato il completamento dei dati, vengono ammessi all
 
 * **33** studenti ammessi di diritto in quanto partecipanti delle scorse selezioni nazionali e ancora in possesso dei requisiti di ammissibilità. Ricordiamo che da questo conteggio sono esclusi i 13 PO che sono invece già qualificati per le prossime selezioni nazionali.
 
-Anche quest’anno abbiamo previsto un allenamento “**pre-territoriale**” che per quanti non ancora ammessi avrà valore come gara di ripescaggio. La pre-territoriale sarà disponibile on-line dal 13 al 16 febbraio 2025 e siarà configurata **come un allenamento** per coloro che in seguito alla selezione scolastica sono stati selezionati per la fase territoriale; quanti non selezionati avranno invece la possibilità (limitatamente al 13 febbraio) di essere ripescati e diventare quindi ammessi. 
+Anche quest’anno abbiamo previsto un allenamento “**pre-territoriale**” che per quanti non ancora ammessi avrà valore come gara di ripescaggio. La pre-territoriale sarà disponibile on-line dal 13 al 16 febbraio 2025 e sarà configurata **come un allenamento** per coloro che in seguito alla selezione scolastica sono stati selezionati per la fase territoriale; quanti non selezionati avranno invece la possibilità (limitatamente al 13 febbraio) di essere ripescati e diventare quindi ammessi. 
 
 É possibile consultare i quesiti e le soluzioni della gara scolastica al link <https://scolastiche.olinfo.it>
