@@ -1,7 +1,7 @@
 +++
 title = "Regolamenti 2024-2025"
 date = 2024-11-18T10:27:58.026Z
-uploaded_files = ["/static/files/scolastica-2024-25.pdf"]
+uploaded_files = ""
 
 [taxonomies]
 edizioni = ["2024-2025"]
