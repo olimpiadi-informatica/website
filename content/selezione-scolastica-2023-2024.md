@@ -1,11 +1,14 @@
 +++
-title = "Selezione Scolastica 2023-2024"
+title = "Selezione scolastica 2023-2024"
 date = 2023-11-01T15:25:04.211Z
 description = "selezione scolastica 2023 2024"
 
 [taxonomies]
 gare = ["scolastiche"]
 edizioni = ["2023-2024"]
+
+[extra]
+override_updated = 2025-03-07T17:56:06.065Z
 +++
 La Selezione Scolastica della XXIV edizione delle OII si è svolta giovedì 14 dicembre 2023.
 
