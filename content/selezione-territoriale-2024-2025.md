@@ -13,10 +13,10 @@ La gara di selezione territoriale si svolgerà mercoledì 16 aprile 2025 dalle
 14:00 alle 17:00.
 <!-- more -->
 
-Gli studenti ammessi sono **1092**, di cui 43 di prima, 115 di seconda,
-392 di terza e 542 di quarta.
+Gli studenti ammessi sono **1065**, di cui 42 di prima, 111 di seconda,
+379 di terza e 533 di quarta.
 
-* **1068** selezionati sulla base dei risultati ottenuti alla selezione
+* **1041** selezionati sulla base dei risultati ottenuti alla selezione
   scolastica del 12 dicembre 2024;
 * **12** studenti ammessi in seguito alla gara di ripescaggio del 13 marzo
   (pre-territoriale);
