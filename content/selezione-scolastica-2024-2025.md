@@ -37,14 +37,14 @@ qui](/results/Ammessi_Selezione_Territoriale_2025.xlsx) l'elenco) a cui si
 aggiungono:
 
 * **12** studenti ammessi in seguito alla gara di ripescaggio del 13 febbraio (pre-territoriale);
-* studenti finalisti delle Olimpiadi a Squadre (OIS), ancora da definire;
+* **5** studenti finalisti delle Olimpiadi a Squadre (OIS);
 * **12** studenti ammessi di diritto in quanto partecipanti delle scorse selezioni nazionali e ancora in possesso dei requisiti di ammissibilità (esclusi i [14 PO](/results/PO_Selezione_Territoriale_2025.xlsx) che sono invece già qualificati per le prossime selezioni nazionali, e coloro che erano già ammessi per via dei risultati nella selezione scolastica).
 
-Il totale di studenti ammissibili risulta quindi pari a **2540** ([scarica qui](/results/Ripescaggi_Selezione_Territoriale_2025.xlsx) l'elenco).
+Il totale di studenti ammissibili risulta quindi pari a **2545** ([scarica qui](/results/Ripescaggi_Selezione_Territoriale_2025.xlsx) l'elenco).
 
 Anche quest’anno si è svolto un allenamento “**pre-territoriale**” che per quanti non ancora ammessi ha avuto valore di gara di ripescaggio. La pre-territoriale è rimasta disponibile on-line dal 13 al 16 febbraio 2025 e si è configurata come un allenamento per coloro che in seguito alla selezione scolastica erano già stati selezionati per la fase territoriale; quanti non selezionati hanno invece avuto la possibilità (limitatamente al 13 febbraio) di essere ripescati e diventare quindi ammessi. Dopo un accurato controllo copiature, sono stati ammessi i 12 studenti con un punteggio di almeno 100 punti.
 
 **Ricordiamo che, da quest'anno, per essere ammessi alla gara territoriale era inoltre necessario raggiungere la menzione d'onore su [AlgoBadge](https://training.olinfo.it/algobadge).**
-Degli studenti ammissibili, hanno raggiunto il badge in **1061** studenti ([scarica qui](/results/Finale_Selezione_Territoriale_2025.xlsx) l'elenco).
+Degli studenti ammissibili, hanno raggiunto il badge in **1066** studenti ([scarica qui](/results/Finale_Selezione_Territoriale_2025.xlsx) l'elenco).
 
 É possibile consultare i quesiti e le soluzioni della gara scolastica al link <https://scolastiche.olinfo.it>
