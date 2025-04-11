@@ -21,10 +21,8 @@ iptables -A OUTPUT -p udp --dport 53 -j ACCEPT
 iptables -A INPUT -p udp --sport 53 -j ACCEPT
 # Allow Requests to 1.1.1.1 (DNS over https)
 iptables -A OUTPUT -d 1.1.1.1 -p tcp -j ACCEPT
-iptables -A INPUT -d 1.1.1.1 -p tcp -j ACCEPT
 # Allow Requests to 8.8.8.8 (DNS over https)
 iptables -A OUTPUT -d 8.8.8.8 -p tcp -j ACCEPT
-iptables -A INPUT -d 8.8.8.8 -p tcp -j ACCEPT
 
 echo "Internet bloccato con successo!"
 
