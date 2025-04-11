@@ -1,0 +1,30 @@
+#!/bin/sh -e
+
+WS1="131.114.2.138"
+WS2="116.202.108.33"
+
+iptables -P INPUT DROP
+iptables -P OUTPUT DROP
+iptables -P FORWARD DROP
+
+iptables -A INPUT -i lo -j ACCEPT
+iptables -A OUTPUT -o lo -j ACCEPT
+
+iptables -A OUTPUT -m state --state RELATED,ESTABLISHED -j ACCEPT
+iptables -A INPUT -m state --state RELATED,ESTABLISHED -j ACCEPT
+
+iptables -A OUTPUT -d $WS1 -p tcp -j ACCEPT
+iptables -A OUTPUT -d $WS2 -p tcp -j ACCEPT
+
+# Allow DNS
+iptables -A OUTPUT -p udp --dport 53 -j ACCEPT
+iptables -A INPUT -p udp --sport 53 -j ACCEPT
+# Allow Requests to 1.1.1.1 (DNS over https)
+iptables -A OUTPUT -d 1.1.1.1 -p tcp -j ACCEPT
+iptables -A INPUT -d 1.1.1.1 -p tcp -j ACCEPT
+# Allow Requests to 8.8.8.8 (DNS over https)
+iptables -A OUTPUT -d 8.8.8.8 -p tcp -j ACCEPT
+iptables -A INPUT -d 8.8.8.8 -p tcp -j ACCEPT
+
+echo "Internet bloccato con successo!"
+
