@@ -6,5 +6,11 @@ iptables -P OUTPUT ACCEPT
 iptables -F
 iptables -X
 
+ip6tables -P INPUT ACCEPT
+ip6tables -P FORWARD ACCEPT
+ip6tables -P OUTPUT ACCEPT
+ip6tables -F
+ip6tables -X
+
 echo "Internet sbloccato con successo!"
 

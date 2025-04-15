@@ -24,5 +24,12 @@ iptables -A OUTPUT -d 1.1.1.1 -p tcp -j ACCEPT
 # Allow Requests to 8.8.8.8 (DNS over https)
 iptables -A OUTPUT -d 8.8.8.8 -p tcp -j ACCEPT
 
+# Also lock IPv6
+ip6tables -P INPUT DROP
+ip6tables -P OUTPUT DROP
+ip6tables -P FORWARD DROP
+ip6tables -A INPUT -i lo -j ACCEPT
+ip6tables -A OUTPUT -o lo -j ACCEPT
+
 echo "Internet bloccato con successo!"
 
