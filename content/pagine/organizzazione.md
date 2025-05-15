@@ -117,7 +117,7 @@ Oltre a presidiare tutte le fasi della selezione territoriale, i referenti terri
 * sede territoriale **EMI1** - prov: BO-FE-MO - **IIS Aldini - Valeriani di Bologna** - Ref. Nadia Amaroli
 * sede territoriale **EMI2** - prov: FC-RA-RN - **IS Pascal Comandini di Cesena** - Ref. Matteo Lucchi
 * sede territoriale **EMI3** - prov: RE-PC-PR - **IIS B. Pascal di Reggio Emilia** - Ref. Giulio Angiani
-* sede territoriale **FRI** - prov: PN-GO-UD - **IT A. Malignani di Udine** - Ref. Nicoletta Negrello
+* sede territoriale **FRI** - prov: PN-GO-UD - **IT A. Malignani di Udine** - Ref. Giuseppe Rossitto
 * sede territoriale **LAZ1** - prov: Roma città - **IIS F. Caffè di Roma** - Ref. Francesca Bussotti
 * sede territoriale **LAZ2** - prov: FR-LT-VT - **UNI La Sapienza Dip. Inf. di Roma** - Ref. Annalisa Massini
 * sede territoriale **LIG** - prov: GE-IM-SP-SV - **IISS Majorana Giorgi di Genova** - Ref. Alessandro Pavoncelli
