@@ -8,7 +8,6 @@ edizioni = ["2024-2025"]
 
 [extra]
 highlighted = true
-override_updated = ""
 +++
 La finale nazionale della XXV edizione delle Olimpiadi Italiane di Informatica
 si svolgerà dal 23 al 25 settembre 2025 presso l'Istituto Malignani di Udine.
@@ -29,7 +28,7 @@ Territoriali.
 
 <!-- more -->
 
-Come da [regolamento](/regulations/RegolamentoNazionali2024.pdf) (in via di definizione) saranno ammessi:
+Come da regolamento (in via di definizione) saranno ammessi:
 
 1. I 13 PO (Probabili Olimpici) della passata edizione ancora in possesso dei requisiti di ammissibilità;
 2. in via di definizione
