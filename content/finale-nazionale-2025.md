@@ -8,29 +8,29 @@ edizioni = ["2024-2025"]
 
 [extra]
 highlighted = true
+override_updated = 2025-06-26T15:52:11.413Z
 +++
 La finale nazionale della XXV edizione delle Olimpiadi Italiane di Informatica
 si svolgerà dal 23 al 25 settembre 2025 presso l'Istituto Malignani di Udine.
-Alleghiamo una bozza del
+Scarica qui una bozza del
 [programma](/documents/Programma%2023-30%20settembre%20OII.pdf) dell'evento. Si
 annuncia che in occasione delle OII 2025, come si evince dal programma,
-seguiranno dal 26 al 1 ottobre le Olimpiadi internazionale
-[BOI.](https://boi2025.anpc.it/)
+seguiranno dal 26 al 1 ottobre le Balkan Olympiad in Informatics
+[(BOI).](https://boi2025.anpc.it/)
 
-A seguito della selezione territoriale del 16 aprile 2025, verranno ammessi alla
-finale nazionale solo gli studenti che otterranno la menzione di bronzo nel
-portale AlgoBadge entro il 16 giugno 2025.  Dopo i controlli copiature verranno
-pubblicati gli studenti definitivi ammessi alla selezione nazionale. A questi si
-aggiungeranno 5 giovanissimi promessi vincitori dei Giochi di Fibonacci, la
+A seguito della selezione territoriale del 16 aprile 2025, della selezione AlgoBadge conclusasi il 16 giugno 2025 e dei successivi controlli copiature, sono ammessi alla
+finale nazionale [100 atleti](/results/Ammessi_OII_2025.xlsx) provenienti da tutta Italia. A questi si
+aggiungeranno 5 giovanissimi vincitori dei Giochi di Fibonacci, la
 competizione rivolta agli studenti della scuola primaria e secondaria di I
 grado. Tutti i partecipanti saranno accompagnati a Udine dai Referenti
 Territoriali.
 
 <!-- more -->
 
-Come da regolamento (in via di definizione) saranno ammessi:
+Come da [regolamento](/regulations/Regolamento_Nazionale_2025.pdf) sono stati ammessi:
 
-1. I 13 PO (Probabili Olimpici) della passata edizione ancora in possesso dei requisiti di ammissibilità;
-2. in via di definizione
-3. in via di definizione
-4. in via di definizione
+1. I 14 PO (Probabili Olimpici) della passata edizione ancora in possesso dei requisiti di ammissibilità;
+2. Il miglior studente di ogni regione italiana;
+3. I migliori 20 studenti del biennio;
+4. Le migliori 10 ragazze;
+5. I migliori della classifica nazionale con almeno 140 punti.
