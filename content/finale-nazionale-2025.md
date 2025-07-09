@@ -15,7 +15,7 @@ si svolgerà dal 23 al 25 settembre 2025 presso l'Istituto Malignani di Udine.
 Scarica qui una bozza del
 [programma](/documents/Programma%2023-30%20settembre%20OII.pdf) dell'evento. Si
 annuncia che in occasione delle OII 2025, come si evince dal programma,
-seguiranno dal 26 al 1 ottobre le Balkan Olympiad in Informatics
+seguiranno dal 25 al 1 ottobre le Balkan Olympiad in Informatics
 [(BOI).](https://boi2025.anpc.it/)
 
 A seguito della selezione territoriale del 16 aprile 2025, della selezione AlgoBadge conclusasi il 16 giugno 2025 e dei successivi controlli copiature, sono ammessi alla
