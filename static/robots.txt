@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /oldsite/130/VI_edizione_Competenze_Digitali.pdf
