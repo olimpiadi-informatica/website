@@ -13,9 +13,9 @@ thumbnail = "/images/uploads/photo_2025-07-23_17-43-38.jpg"
 +++
 La finale nazionale della XXV edizione delle Olimpiadi Italiane di Informatica
 si svolgerà dal 23 al 25 settembre 2025 presso l'Istituto Malignani di Udine.
-Scarica qui una bozza del
+Scarica qui il 
 [programma](/documents/Programma%2023-30%20settembre%20OII.pdf) dell'evento. Si
-annuncia che in occasione delle OII 2025, come si evince dal programma,
+annuncia che in occasione delle OII 2025,
 seguiranno dal 25 al 1 ottobre le Balkan Olympiad in Informatics
 [(BOI).](https://boi2025.anpc.it/)
 
