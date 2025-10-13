@@ -9,7 +9,7 @@ edizioni = ["2024-2025"]
 [extra]
 highlighted = true
 override_updated = 2025-06-26T15:52:11.413Z
-thumbnail = "/images/uploads/photo_2025-07-23_17-43-38.jpg"
+thumbnail = "/images/uploads/piccola-malignani.jpg"
 +++
 La finale nazionale della XXV edizione delle Olimpiadi Italiane di Informatica
 si è svolta dal 23 al 25 settembre 2025 presso l'Istituto Malignani di Udine.
