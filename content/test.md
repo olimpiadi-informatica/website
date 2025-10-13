@@ -5,6 +5,6 @@ uploaded_files = ["/static/files/ds-persistenti.pdf"]
 
 [taxonomies]
 gare = ["scolastiche"]
-edizioni = ["2025-2026"]
+edizioni = ["2024-2025"]
 +++
 See [this file](/files/ds-persistenti.pdf)
