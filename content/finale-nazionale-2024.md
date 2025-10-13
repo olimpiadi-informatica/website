@@ -7,7 +7,7 @@ gare = ["nazionali"]
 edizioni = ["2023-2024"]
 
 [extra]
-highlighted = true
+highlighted = false
 override_updated = 2024-10-09T08:02:39.074Z
 +++
 La finale nazionale della XXIV edizione delle Olimpiadi Italiane di Informatica si è svolta dal 26 al 28 settembre 2024 presso l'IIS Blaise Pascal di Reggio Emilia.  Scarica qui il [programma](/documents/programma_oii2024.pdf) dell'evento.
