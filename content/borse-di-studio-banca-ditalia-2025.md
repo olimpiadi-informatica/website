@@ -8,13 +8,11 @@ updated = "2023-07-27T14:16:47"
 edizioni = ["2024-2025"]
 
 [extra]
-thumbnail = "/images/uploads/e7b279be6a862d254f0e7cc4dde2874e.jpg"
+thumbnail = "/images/uploads/stage-google1.jpg"
 +++
-Venerdì 13 giugno si è svolta la cerimonia di assegnazione delle Borse di Studio offerte dalla Banca d’Italia.
+Venerdì 13 giugno 2025 si è svolta la cerimonia di assegnazione delle Borse di Studio offerte dalla Banca d’Italia presso il Palazzo Koch a Roma.
 
 Le borse di studio sono state assegnate alle medaglie d'oro delle Olimpiadi Italiane di Informatica svoltesi dal 26 al 28 settembre 2024 presso l'IIS Blaise Pascal di Reggio Emilia.
-
-La cerimonia si è tenuta presso il Palazzo Koch a Roma.
 
 I vincitori sono:
 
@@ -24,13 +22,14 @@ I vincitori sono:
 * **Alessandro Farcas - IT G. B. Pininfarina di Moncalieri (TO)**
 * **Alessandro Damiani - LS Righi di Cesena**
 
-Grazie a questa borsa di studio, i vincitori avranno l'opportunità di seguire
-uno stage di due settimane presso Google di Zurigo.
+Grazie a questa borsa di studio, i vincitori hanno avuto l'opportunità di seguire
+uno stage di due settimane presso Google di Zurigo dall'11 al 22 agosto 2025.
 
-I ragazzi, insieme a Noemi Gambirasio che li accompagnerà in qualità di tutor
-dal 11 al 22 agosto 2025.
+I ragazzi sono stati accompagnati da Noemi Gambirasio in qualità di tutor.
 
 [18ª EDIZIONE consegna borse di studio banca d'Italia.pdf](/documents/18ª_EDIZIONE%20consegna%20borse%20di%20studio%20banca%20d'italia.pdf)
+
+
 
 ![](/images/uploads/foto-di-gruppo-autorità-banca-d-italia.jpg)
 
