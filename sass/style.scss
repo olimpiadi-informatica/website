@@ -87,14 +87,18 @@ img, picture {
   --bs-navbar-color: rgba(255, 255, 255, 0.7) !important;
 }
 
+.logo {
+  vertical-align: middle;
+}
+
 .logo img {
-  max-width: 25%;
+  max-width: 24%;
   width: auto;
   height: auto;
-  margin-left: 3%;
-  margin-right: 3%;
-  margin-top: 0;
-  margin-bottom: 1vw;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 0vh;
+  margin-bottom: 0vh;
   vertical-align: middle;
 }
 
