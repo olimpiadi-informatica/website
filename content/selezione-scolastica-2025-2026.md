@@ -1,6 +1,6 @@
 +++
 title = "Selezione scolastica 2025-2026"
-date = "{{now}}"
+date = "2025-12-17"
 description = "selezione scolastica 2025 2026"
 
 [taxonomies]
