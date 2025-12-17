@@ -15,7 +15,7 @@ La Selezione Scolastica della XXVI edizione delle OII si è svolta nei giorni 10
 
 La prova consiste, come sempre, nella risoluzione di esercizi di carattere logico-algoritmico e di programmazione. I problemi di programmazione sono proposti in pseudocodice e, per la prima volta, anche come programmi a blocchi.
 
-Hanno partecipato alla gara 18825 studenti, di cui 1517 di prima, 2937 di seconda, 7386 di terza e 6934 di quarta. I punteggi medi e mediani sono stati di 42.8 e 42, e ci sono stati 4 punteggi massimi 100/100. Ulteriori statistiche sono disponibili [
+Hanno partecipato alla gara 18786 studenti, di cui 1511 di prima, 2933 di seconda, 7365 di terza e 6926 di quarta. I punteggi medi e mediani sono stati di 42.9 e 42, e ci sono stati 4 punteggi massimi 100/100. Ulteriori statistiche sono disponibili [
 qui](/results/2026_statistiche_scolastica.pdf). L'elenco dei partecipanti e dei loro punteggi ancora non è pubblico, in attesa che si concluda l'iscrizione degli studenti su [olimpiadi-scientifiche.it](https://olimpiadi-scientifiche.it).
 
 
