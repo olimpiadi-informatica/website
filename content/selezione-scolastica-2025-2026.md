@@ -30,8 +30,8 @@ Sono inoltre ammessi di diritto alle prossime selezioni territoriali i 37 partec
 - iscriversi su [olimpiadi-scientifiche](https://olimpiadi-scientifiche.it), associando il suo risultato correttamente;
 - fare l'allenamento pre-territoriale, ottenendo un minimo di **50 punti**.
 
-L'allenamento pre-territoriale sarà disponibile on-line dal 15 gennaio al 23 febbraio 2025 e si configura come un allenamento per coloro che risultano ammissibili alla gara territoriale per i criteri sopracitati.
+L'allenamento pre-territoriale sarà disponibile on-line dal 15 gennaio al 23 febbraio 2026 e si configura come un allenamento per coloro che risultano ammissibili alla gara territoriale per i criteri sopracitati.
 
-**Se avete dubbi sui criteri di selezione per la gara territoriale, una versione in codice dei criteri (quindi non ambigua) è disponibile [qui](/results/ammissione_territoriali.html).**
+**Se avete dubbi sui criteri di selezione per la gara territoriale, una versione in codice dei criteri (quindi non ambigua) è disponibile [qui](/regulations/ammissione_territoriali.html).**
 
 È possibile consultare i quesiti e le soluzioni della gara scolastica al link <https://scolastiche.olinfo.it>.
