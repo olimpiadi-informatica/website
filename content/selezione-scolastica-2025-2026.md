@@ -28,7 +28,7 @@ Saranno ammessi di diritto alle prossime selezioni territoriali i 21 studenti ch
 
 Sono state inoltre definite le seguenti soglie di punteggio per essere ammessi alle selezioni territoriali. Saranno ammessi:
 
-- i primi studenti eleggibili della scuola fino al raggiungimento della quota della scuola, se hanno ottenuto almeno **21 punti** (più della prova in bianco), esclusi gli studenti già ammessi di diritto a fasi successive;
+- i primi studenti eleggibili della scuola fino al raggiungimento della quota della scuola, se hanno ottenuto almeno **21 punti** (più della prova in bianco), non contando in elenco gli studenti già ammessi di diritto a fasi successive;
 - gli **altri** studenti eleggibili del biennio se hanno ottenuto almeno **55 punti**;
 - **tutti gli altri** studenti eleggibili se hanno ottenuto almeno **65 punti**.
 
