@@ -19,7 +19,7 @@ Hanno partecipato alla gara 18786 studenti, di cui 1511 di prima, 2933 di second
 qui](/results/2026_statistiche_scolastica.pdf). L'elenco dei partecipanti e dei loro punteggi ancora non è pubblico, in attesa che si concluda l'iscrizione degli studenti su [olimpiadi-scientifiche.it](https://olimpiadi-scientifiche.it).
 
 
-**Criteri di ammissione alla Selezione Territoriale** in programma giovedì 9 aprile 2025:
+**Criteri di ammissione alla Selezione Territoriale** in programma giovedì 9 aprile 2026:
 
 * **essere tra i primi studenti fino alla quota della propria scuola e avere almeno 21 punti;**
 * **essere del biennio e avere almeno 55 punti;**
