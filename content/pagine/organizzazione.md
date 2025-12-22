@@ -132,10 +132,10 @@ Oltre a presidiare tutte le fasi della selezione territoriale, i referenti terri
 * sede territoriale **PIE1** - prov: TO – **ITT Pininfarina di Moncalieri (TO)** - Ref. Rocco Catalano
 * sede territoriale **PIE2** - prov: BI-NO-VB-VC - **ITI Q. Sella di Biella** - Ref. Mattia Marcolin
 * sede territoriale **PIE3** - prov: AL-AT-CN - **IIS G. Vallauri di Fossano (CN)** - Ref. Alessandro Sanino
-* sede territoriale **PUG1** - prov: Bari città + comuni di Acquaviva delle Fonti-Bitonto-Castellana Grotte-Monopoli-Putignano-Santeramo in Colle – **ITI Marconi di Bari** - Ref. Nicola Di Nanna
-* sede territoriale **PUG2** - prov: BR-TA - **IISS Majorana di Brindisi** - Ref. Giuseppe Cavallo
+* sede territoriale **PUG1** - prov: Bari città + comuni di Acquaviva delle Fonti-Bitonto-Castellana Grotte-Monopoli-Putignano-Santeramo in Colle – **ITI Marconi di Bari** - Ref. Nicola Vacca
+* sede territoriale **PUG2** - prov: BR-TA - **IISS Majorana di Brindisi** - Ref. Pietro Mazzotta
 * sede territoriale **PUG3** - BT-FG + comuni di Molfetta-Ruvo di Puglia-Terlizzi – **IISS Ferraris di Molfetta (BA)** - Ref. Mario Quarto
-* sede territoriale **PUG4** - prov: LE - **IISS Mattei di Maglie (LE)**- Ref. Nunzio Galati
+* sede territoriale **PUG4** - prov: LE - **IISS Mattei di Maglie (LE)**- Ref. Francesco Geusa
 * sede territoriale **SAR** - prov: CA-NU-OR-SS - **IT Giua di Cagliari** - Ref. Grazia Chiuchiolo
 * sede territoriale **SIC1** - prov: CT-CL-SR - **IT Archimede di Catania** - Ref. Andrea Mola
 * sede territoriale **SIC2** - prov: PA-TP-ME - **IT V. Emanuele III di Palermo** - Ref. Salvatore Truncali
