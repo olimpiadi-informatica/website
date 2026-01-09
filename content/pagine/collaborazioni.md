@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Collaborazioni con Università"
-updated = 2023-12-20T00:35:56
+updated = 2023-12-20T00:35:56.000
 +++
 
 |                                                                    Università                                                                    |                                   link                                   |
@@ -18,3 +18,4 @@ updated = 2023-12-20T00:35:56
 |                                                Convenzione con l'Università degli Studi di Milano                                                |           [🔗](/oldsite/76/unimi%20protocollo%20olimpiadi.PDF)           |
 |                                               Convenzione con l'Università degli Studi dell'Aquila                                               |          [🔗](/oldsite/76/Convenzione%20Univ_%20L%27Aquila.pdf)          |
 |                        Convenzione tra l'Università degli studi del Molise e il Liceo Scientifico E. Majorana di Isernia                         | [🔗](/oldsite/76/CONVENZIONE%20Liceo%20Isernia%20e%20Univ_%20Molise.pdf) |
+| Convenzione con il Dipartimento di Matematica e Informatica dell'Università degli studi di Perugia | [🔗](/static/Finale_convenzione_DMI_OLIMPIADIINF_2025_FIRM_signed_UNIPerugia.pdf)
