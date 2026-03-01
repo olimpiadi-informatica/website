@@ -109,36 +109,36 @@ Possono provvedere inoltre a organizzare con il supporto delle locali Universit�
 
 Oltre a presidiare tutte le fasi della selezione territoriale, i referenti territoriali vengono convocati dal MIM per accompagnare gli studenti ammessi alle Olimpiadi Italiane: questo consente loro di partecipare agli incontri formativi organizzati nei giorni della fase nazionale. Inoltre è un'ottima occasione per valorizzare l'Istituto di provenienza, in quanto Sede ufficiale della fase Territoriale delle OII.
 
-* sede territoriale **ABR** - prov: AQ-PE-TE - **IIS Volta di Pescara** - Ref. Annalisa Di Bartolomeo
+* sede territoriale **ABR** - prov: AQ-CH-PE-TE - **IIS Volta di Pescara** - Ref. Annalisa Di Bartolomeo
 * sede territoriale **BAS** - prov: MT-PZ - **LS Pier Paolo Pasolini di Potenza** - Ref. Maria Grazia Coviello
 * sede territoriale **CAL** - prov: CS-CZ-KR-RC-VV - **ITI Monaco di Cosenza** - Ref. Gianluca Palmieri
 * sede territoriale **CAM1** - prov: BN-CE-NA - **ITI Giordani di Napoli** - Ref. Salvatore Imparato
-* sede territoriale **CAM2** - prov: SA - **IIS B. Focaccia di Salerno** - Ref. Michele De Concilio
+* sede territoriale **CAM2** - prov: AV-SA - **IIS B. Focaccia di Salerno** - Ref. Michele De Concilio
 * sede territoriale **EMI1** - prov: BO-FE-MO - **IIS Aldini - Valeriani di Bologna** - Ref. Nadia Amaroli
 * sede territoriale **EMI2** - prov: FC-RA-RN - **IS Pascal Comandini di Cesena** - Ref. Matteo Lucchi
 * sede territoriale **EMI3** - prov: RE-PC-PR - **IIS B. Pascal di Reggio Emilia** - Ref. Giulio Angiani
-* sede territoriale **FRI** - prov: PN-GO-UD - **IT A. Malignani di Udine** - Ref. Giuseppe Rossitto
-* sede territoriale **LAZ1** - prov: Roma città - **IIS F. Caffè di Roma** - Ref. Francesca Bussotti
-* sede territoriale **LAZ2** - prov: FR-LT-VT - **UNI La Sapienza Dip. Inf. di Roma** - Ref. Annalisa Massini
+* sede territoriale **FRI** - prov: PN-GO-TS-UD - **IT A. Malignani di Udine** - Ref. Giuseppe Rossitto
+* sede territoriale **LAZ1** - prov: Roma - **IIS F. Caffè di Roma** - Ref. Francesca Bussotti
+* sede territoriale **LAZ2** - prov: FR-LT-RI-VT - **UNI La Sapienza Dip. Inf. di Roma** - Ref. Annalisa Massini
 * sede territoriale **LIG** - prov: GE-IM-SP-SV - **IISS Majorana Giorgi di Genova** - Ref. Alessandro Pavoncelli
-* sede territoriale **LOM1** - prov: MI (escluso il comune di Legnano) - **ITT Molinari di Milano** - Ref. Luca Mazzei
-* sede territoriale **LOM2** - prov: MB-VA + Legnano (MI) - **ITE E. Tosi di Busto Arsizio (VA)** - Ref. Silvia Tondo
+* sede territoriale **LOM1** - prov: MI tranne Legnano - **ITT Molinari di Milano** - Ref. Luca Mazzei
+* sede territoriale **LOM2** - prov: MB-VA e Legnano (MI) - **ITE E. Tosi di Busto Arsizio (VA)** - Ref. Silvia Tondo
 * sede territoriale **LOM3** - prov: BG - **ITI Paleocapa di Bergamo** - Ref. Adriano Rampoldi
 * sede territoriale **LOM4** - prov: BS-MN - **ITI Castelli di Brescia** - Ref. Alessandro Bugatti
 * sede territoriale **LOM5** - prov: CR-LO-PV - **IIS G. Galilei di Crema** - Ref. Nadia Manclossi
-* sede territoriale **LOM6** - prov: LC-CO - **IIS A. Badoni di Lecco** - Ref. Sara Giorgi
+* sede territoriale **LOM6** - prov: CO-LC-SO - **IIS A. Badoni di Lecco** - Ref. Sara Giorgi
 * sede territoriale **MAR** - prov: AN-AP-FM-MC-PU - **IIS Volterra Elia di Ancona** - Ref. Giuseppe Corinaldesi
 * sede territoriale **MOL** - prov: CB-IS - **LS A. Romita di Campobasso** - Ref. Roberto Valente
 * sede territoriale **PIE1** - prov: TO – **ITT Pininfarina di Moncalieri (TO)** - Ref. Rocco Catalano
 * sede territoriale **PIE2** - prov: BI-NO-VB-VC - **ITI Q. Sella di Biella** - Ref. Mattia Marcolin
 * sede territoriale **PIE3** - prov: AL-AT-CN - **IIS G. Vallauri di Fossano (CN)** - Ref. Alessandro Sanino
-* sede territoriale **PUG1** - prov: Bari città + comuni di Acquaviva delle Fonti-Bitonto-Castellana Grotte-Monopoli-Putignano-Santeramo in Colle – **ITI Marconi di Bari** - Ref. Nicola Vacca
+* sede territoriale **PUG1** - prov: BA tranne Corato-Molfetta-Ruvo di Puglia-Terlizzi  – **ITI Marconi di Bari** - Ref. Nicola Vacca
 * sede territoriale **PUG2** - prov: BR-TA - **IISS Majorana di Brindisi** - Ref. Pietro Mazzotta
-* sede territoriale **PUG3** - BT-FG + comuni di Molfetta-Ruvo di Puglia-Terlizzi – **IISS Ferraris di Molfetta (BA)** - Ref. Mario Quarto
+* sede territoriale **PUG3** - BT-FG e Corato-Molfetta-Ruvo di Puglia-Terlizzi – **IISS Ferraris di Molfetta (BA)** - Ref. Mario Quarto
 * sede territoriale **PUG4** - prov: LE - **IISS Mattei di Maglie (LE)**- Ref. Francesco Geusa
-* sede territoriale **SAR** - prov: CA-NU-OR-SS - **IT Giua di Cagliari** - Ref. Grazia Chiuchiolo
-* sede territoriale **SIC1** - prov: CT-CL-SR - **IT Archimede di Catania** - Ref. Andrea Mola
-* sede territoriale **SIC2** - prov: PA-TP-ME - **IT V. Emanuele III di Palermo** - Ref. Salvatore Truncali
+* sede territoriale **SAR** - prov: CA-NU-OR-SS-SU - **IT Giua di Cagliari** - Ref. Grazia Chiuchiolo
+* sede territoriale **SIC1** - prov: CT-CL-EN-RG-SR - **IT Archimede di Catania** - Ref. Andrea Mola
+* sede territoriale **SIC2** - prov: AG-ME-PA-TP - **IT V. Emanuele III di Palermo** - Ref. Salvatore Truncali
 * sede territoriale **TOS1** - prov: FI-PO-PT-AR-SI - **IT T. Buzzi di Prato** - Ref. Anna Maria Pedelini
 * sede territoriale **TOS2** - prov: LI-LU-MS-PI - **LS U. Dini di Pisa** - Ref. Davide G. Salvetti
 * sede territoriale **TRA1** - prov: TN - **LS L. Da Vinci di Trento** - Ref. Elvis Daprai
