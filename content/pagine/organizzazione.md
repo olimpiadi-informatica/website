@@ -120,7 +120,7 @@ Oltre a presidiare tutte le fasi della selezione territoriale, i referenti terri
 * sede territoriale **FRI** - prov: PN-GO-TS-UD - **IT A. Malignani di Udine** - Ref. Giuseppe Rossitto
 * sede territoriale **LAZ1** - prov: Roma - **IIS F. Caffè di Roma** - Ref. Francesca Bussotti
 * sede territoriale **LAZ2** - prov: FR-LT-RI-VT - **UNI La Sapienza Dip. Inf. di Roma** - Ref. Annalisa Massini
-* sede territoriale **LIG** - prov: GE-IM-SP-SV - **IISS Majorana Giorgi di Genova** - Ref. Alessandro Pavoncelli
+* sede territoriale **LIG** - prov: GE-IM-SP-SV - **IIS Gastaldi/Abba di Genova** - Ref. Alessandro Pavoncelli
 * sede territoriale **LOM1** - prov: MI tranne Legnano - **ITT Molinari di Milano** - Ref. Luca Mazzei
 * sede territoriale **LOM2** - prov: MB-VA e Legnano (MI) - **ITE E. Tosi di Busto Arsizio (VA)** - Ref. Silvia Tondo
 * sede territoriale **LOM3** - prov: BG - **ITI Paleocapa di Bergamo** - Ref. Adriano Rampoldi
