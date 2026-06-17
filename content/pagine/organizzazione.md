@@ -48,7 +48,7 @@ In ambito tecnico e di sviluppo software:
 * **Responsabile tecnico delle OIS**: Filippo Casarin, Carlo Collodel
 * **Responsabile del software QuizMS**: Alessandro Bortolin, Francesco Lugli
 * **Responsabile del software Terry**: Luca Versari
-* **Responsabile del software Olimanager**: Francesco Lugli, Elia Soldati
+* **Responsabile del software Olimanager**: Luca Baglietto, Elia Soldati
 
 ## Gruppo di Ricerca nazionale Olimpiadi di Informatica (GROI)
 
