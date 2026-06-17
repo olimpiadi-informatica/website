@@ -81,6 +81,7 @@ Costituito da docenti universitari e ricercatori individuati dal Comitato Olimpi
   * Romeo Rizzi (Università di Verona)
 * Come tutor:
 
+  * Luca Baglietto (Scuola Normale di Pisa)
   * James Bamber (Sant’Anna di Pisa)
   * Davide Bartoli (Università di Bologna)
   * Alessandro Bortolin (Università di Milano)
