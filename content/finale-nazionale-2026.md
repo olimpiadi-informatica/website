@@ -7,7 +7,7 @@ gare = ["nazionali"]
 edizioni = ["2025-2026"]
 +++
 La finale nazionale della XXVI edizione delle Olimpiadi Italiane di Informatica
-si svolgerà dal 24 al 26 settembre 2026 presso il Liceo Romita di Campobasso. Scarica qui il [programma](/documents/Programma%2023-30%20settembre%20OII.pdf) dell'evento. 
+si svolgerà dal 24 al 26 settembre 2026 presso il Liceo Romita di Campobasso. Scarica qui il [programma](/documents/programma_oii2026.pdf) dell'evento. 
 
 A seguito della selezione territoriale del 9 aprile 2026, della selezione AlgoBadge conclusasi il 28 giugno 2026 e dei successivi controlli copiature, sono ammessi alla finale nazionale in presenza [109 atleti](/results/2026_nazionali_ammessi.xlsx) provenienti da tutta Italia. A questi si aggiungeranno fino a 5 giovanissimi vincitori dei Giochi di Fibonacci, la competizione rivolta agli studenti della scuola primaria e secondaria di I grado. Tutti i partecipanti saranno accompagnati a Campobasso dai Referenti Territoriali.
 
