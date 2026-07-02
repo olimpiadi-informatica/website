@@ -1,6 +1,6 @@
 +++
 title = "Finale nazionale 2026"
-date = "{{now}}"
+date = "2026-07-02T09:29:02.074Z"
 
 [taxonomies]
 gare = ["nazionali"]
