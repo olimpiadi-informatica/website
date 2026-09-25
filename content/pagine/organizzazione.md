@@ -52,10 +52,10 @@ In ambito tecnico e di sviluppo software:
 
 ## Gruppo di Ricerca nazionale Olimpiadi di Informatica (GROI)
 
-Il gruppo di ricerca nazionale sulle Olimpiadi di Informatica è un gruppo di ricerca, coordinato dal Responsabile Prof. Giorgio Audrito, che si occupa di ricerca su tematiche attinenti le Olimpiadi di Informatica, nazionali e internazionale, e le gare di programmazione in generale. Gli afferenti al gruppo sono:
+Il gruppo di ricerca nazionale sulle Olimpiadi di Informatica è un gruppo di ricerca, coordinato dalla Responsabile Madalina G. Ciobanu, che si occupa di ricerca su tematiche attinenti le Olimpiadi di Informatica, nazionali e internazionale, e le gare di programmazione in generale. Gli afferenti al gruppo sono:
 
-* **Giorgio Audrito** (Università di Torino, responsabile del gruppo)
-* **Madalina Ciobanu** (Università di Salerno)
+* **Madalina G. Ciobanu** (Libera Università di Bolzano, responsabile del gruppo)
+* **Giorgio Audrito** (Università di Torino
 * **William Di Luigi** (Google)
 * **Tania Di Mascio** (Università degli Studi dell'Aquila)
 * **Paolo Fantozzi** (Università LUMSA)
