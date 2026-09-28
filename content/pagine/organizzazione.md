@@ -55,7 +55,7 @@ In ambito tecnico e di sviluppo software:
 Il gruppo di ricerca nazionale sulle Olimpiadi di Informatica è un gruppo di ricerca, coordinato dalla Responsabile Madalina G. Ciobanu, che si occupa di ricerca su tematiche attinenti le Olimpiadi di Informatica, nazionali e internazionale, e le gare di programmazione in generale. Gli afferenti al gruppo sono:
 
 * **Madalina G. Ciobanu** (Libera Università di Bolzano, responsabile del gruppo)
-* **Giorgio Audrito** (Università di Torino
+* **Giorgio Audrito** (Università di Torino)
 * **William Di Luigi** (Google)
 * **Tania Di Mascio** (Università degli Studi dell'Aquila)
 * **Paolo Fantozzi** (Università LUMSA)
