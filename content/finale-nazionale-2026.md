@@ -1,6 +1,7 @@
 +++
 title = "Finale nazionale 2026"
 date = "2026-07-02T09:29:02.074Z"
+uploaded_files = ""
 
 [taxonomies]
 gare = ["nazionali"]
@@ -21,4 +22,6 @@ Come da [regolamento](/regulations/Regolamento_2025-26.pdf) sono stati ammessi i
 4. Le migliori 8 ragazze;
 5. I migliori della classifica nazionale con almeno 150 punti.
 
-Ulteriori studenti saranno ammessi a partecipare online.
+Ulteriori studenti sono stati ammessi a partecipare online.
+
+Scarica qui la [classifica generale](results/2026_nazionali_classifica.xlsx), con indicati anche i medagliati e i PO 2027.
