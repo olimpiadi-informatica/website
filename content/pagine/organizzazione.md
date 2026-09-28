@@ -52,10 +52,10 @@ In ambito tecnico e di sviluppo software:
 
 ## Gruppo di Ricerca nazionale Olimpiadi di Informatica (GROI)
 
-Il gruppo di ricerca nazionale sulle Olimpiadi di Informatica è un gruppo di ricerca, coordinato dal Responsabile Prof. Giorgio Audrito, che si occupa di ricerca su tematiche attinenti le Olimpiadi di Informatica, nazionali e internazionale, e le gare di programmazione in generale. Gli afferenti al gruppo sono:
+Il gruppo di ricerca nazionale sulle Olimpiadi di Informatica è un gruppo di ricerca, coordinato dalla Responsabile Madalina G. Ciobanu, che si occupa di ricerca su tematiche attinenti le Olimpiadi di Informatica, nazionali e internazionale, e le gare di programmazione in generale. Gli afferenti al gruppo sono:
 
-* **Giorgio Audrito** (Università di Torino, responsabile del gruppo)
-* **Madalina Ciobanu** (Università di Salerno)
+* **Madalina G. Ciobanu** (Libera Università di Bolzano, responsabile del gruppo)
+* **Giorgio Audrito** (Università di Torino
 * **William Di Luigi** (Google)
 * **Tania Di Mascio** (Università degli Studi dell'Aquila)
 * **Paolo Fantozzi** (Università LUMSA)
@@ -140,7 +140,7 @@ Oltre a presidiare tutte le fasi della selezione territoriale, i referenti terri
 * sede territoriale **SAR** - prov: CA-NU-OR-SS-SU - **IT Giua di Cagliari** - Ref. Grazia Chiuchiolo
 * sede territoriale **SIC1** - prov: CT-CL-EN-RG-SR - **IT Archimede di Catania** - Ref. Andrea Mola
 * sede territoriale **SIC2** - prov: AG-ME-PA-TP - **IT V. Emanuele III di Palermo** - Ref. Salvatore Truncali
-* sede territoriale **TOS1** - prov: FI-PO-PT-AR-SI - **IT T. Buzzi di Prato** - Ref. Anna Maria Pedelini
+* sede territoriale **TOS1** - prov: FI-PO-PT-AR-SI - **IT T. Buzzi di Prato** - Ref. Elena  Brunori
 * sede territoriale **TOS2** - prov: LI-LU-MS-PI - **LS U. Dini di Pisa** - Ref. Davide G. Salvetti
 * sede territoriale **TRA1** - prov: TN - **LS L. Da Vinci di Trento** - Ref. Elvis Daprai
 * sede territoriale **TRA2** - prov: BZ - **IT Max Valier di Bolzano** - Ref. Karl Lunger
