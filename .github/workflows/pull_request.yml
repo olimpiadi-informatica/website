@@ -1,18 +1,50 @@
-name: Deployment previews
+name: Build PR Preview
 
 on:
-  pull_request_target:
+  pull_request:
     branches:
-    - main
+      - main
+
+env:
+  ZOLA_VERSION: "0.22.1"
 
 jobs:
-  buildSite:
-    name: Deployment preview 
-    runs-on: ubuntu-latest
+  build:
+    name: Build Preview Site
+    runs-on: ubuntu-26.04
     steps:
-      - name: Build and deploy preview 
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          submodules: true
+
+      - name: Install Python Dependencies
+        run: pip install --break-system-packages toml urllib3
+
+      - name: Cache Raw and Processed Images
+        uses: actions/cache@v4
+        with:
+          path: |
+            static/images/gallery
+            static/processed_images
+          key: images-${{ hashFiles('content/gallery/**', 'static/logos/**', 'templates/img_macro.html') }}
+          restore-keys: |
+            images-
+
+      - name: Install Zola
         run: |
-          curl --fail -v -X POST \
-          -H "Content-Type: application/json" \
-          -d '{"secret": "${{ secrets.CD_SECRET}}", "sha": "${{ github.event.pull_request.head.sha }}", "gh_token": "${{ secrets.STATUS_ACCESS_TOKEN }}"}' \
-          unito.olinfo.it:23529/nightly
+          curl -sSL "https://github.com/getzola/zola/releases/download/v${ZOLA_VERSION}/zola-v${ZOLA_VERSION}-x86_64-unknown-linux-gnu.tar.gz" \
+            | tar -xz -C /usr/local/bin
+
+      - name: Build Site
+        run: |
+          python3 scripts/updated_from_git.py
+          python3 scripts/download_gallery_images.py
+          zola build -u "https://${{ github.event.pull_request.head.sha }}.nightly.olimpiadi-informatica.it/"
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pr-site
+          path: public/
+          retention-days: 1
