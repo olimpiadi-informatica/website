@@ -18,7 +18,7 @@ La prova consiste, come sempre, nella risoluzione di esercizi di carattere logic
 Hanno partecipato alla gara 18763 studenti, di cui 1510 di prima, 2929 di seconda, 7356 di terza e 6917 di quarta. I punteggi medi e mediani sono stati di 42.9 e 42, e ci sono stati 4 punteggi massimi 100/100. Ulteriori statistiche sono disponibili [
 qui](/results/2026_statistiche_scolastica.pdf). L'elenco dei partecipanti e dei loro punteggi è disponibile [qui](/results/2026_scolastica_risultati.xlsx).
 
-È possibile consultare i quesiti e le soluzioni della gara scolastica al link [https://training.olinfo.it/scolastiche](https://scolastiche.olinfo.it).
+È possibile consultare i quesiti e le soluzioni della gara scolastica al link <https://training.olinfo.it/scolastiche>.
 
 ### Criteri di ammissione alla Selezione Territoriale in programma giovedì 9 aprile 2026
 
