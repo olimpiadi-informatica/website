@@ -7,7 +7,7 @@ gare = ["nazionali"]
 edizioni = ["2024-2025"]
 
 [extra]
-highlighted = true
+highlighted = false
 override_updated = 2025-06-26T15:52:11.413Z
 thumbnail = "/images/uploads/piccola-malignani.jpg"
 +++
