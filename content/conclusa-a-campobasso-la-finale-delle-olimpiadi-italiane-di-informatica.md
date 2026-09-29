@@ -3,6 +3,10 @@ title = "Conclusa a Campobasso la Finale delle Olimpiadi Italiane di Informatica
 date = 2026-09-29T20:54:58.880Z
 uploaded_files = ["/static/files/dsc_1096.jpg"]
 
+[taxonomies]
+gare = ["nazionali"]
+edizioni = ["2025-2026"]
+
 [extra]
 thumbnail = "/images/uploads/screenshot-2026-09-29-at-11.48.36.png"
 highlighted = true
