@@ -36,7 +36,7 @@ jobs:
           chmod 600 ~/.ssh/id_ed25519
           ssh-keygen -l -f ~/.ssh/id_ed25519
           ssh-keyscan -H unito.olinfo.it >> ~/.ssh/known_hosts
-          rsync -avz --delete \
+          rsync -av --no-times --checksum --delete \
             --link-dest=/home/ioi/website/public-prod/ \
             public/ ioi@unito.olinfo.it:/home/ioi/static-websites/nightly.olimpiadi-informatica.it/builds/${SHA}/
 

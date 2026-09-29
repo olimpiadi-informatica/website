@@ -59,5 +59,7 @@ jobs:
       - name: Rsync to Production
         run: |
           BUILD_NAME="build-$(date +%s)"
-          rsync -avz --delete public/ ioi@unito.olinfo.it:/home/ioi/website/builds/${BUILD_NAME}/
+          rsync -av --no-times --checksum --delete \
+            --link-dest=/home/ioi/website/public-prod/ \
+            public/ ioi@unito.olinfo.it:/home/ioi/website/builds/${BUILD_NAME}/
           ssh ioi@unito.olinfo.it "ln -sfn builds/${BUILD_NAME} /home/ioi/website/public-prod"
