@@ -1,6 +1,6 @@
 +++
 title = "Conclusa a Campobasso la Finale delle Olimpiadi Italiane di Informatica"
-date = "{{now}}"
+date = 2026-09-29T20:54:58.880Z
 uploaded_files = ["/static/files/dsc_1096.jpg"]
 
 [extra]
