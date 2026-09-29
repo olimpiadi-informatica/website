@@ -10,4 +10,4 @@ edizioni = [ "2008-2009",]
 [extra]
 override_updated = "2016-10-13T13:39:49"
 +++
-{{ img(src='/images/uploads/poster2009.jpg', width='650', height='919') }}
+{{ <img src="/images/uploads/poster2009.jpg" width={650} height={919} alt={page.title} /> }}

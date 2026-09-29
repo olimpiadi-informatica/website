@@ -73,7 +73,7 @@ Inoltre, menzione speciale ai due istituti con piu' partecipanti:
 
 Viene consegnata una targa alle 5 ragazze presenti alla competizione: "Dedicato a Marta Genoviè de Vita"
 
-{{ img(src='/images/uploads/medagliati.png', width='650', height='1177') }}
+{{ <img src="/images/uploads/medagliati.png" width={650} height={1177} alt={page.title} /> }}
 
 Testi delle prove nazionali:
 

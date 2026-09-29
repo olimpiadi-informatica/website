@@ -140,7 +140,7 @@ IL COMITATO OLIMPICO
 
 <div style="text-align: center;">
 
-{{ img(src='/images/uploads/programma2005.jpg', width='874', height='633') }}
+{{ <img src="/images/uploads/programma2005.jpg" width={874} height={633} alt={page.title} /> }}
 
 </div>
 

@@ -54,7 +54,7 @@
         <li class="nav-item">
           {% set gallery_s = get_section(path="gallery/_index.md", metadata_only=true) %}
           {% set active_s = section and section.title == 'Gallery' %}
-          {% set active_p = page and page.path is starting_with("/gallery/") %}
+          {% set active_p = page and page.path is starting_with(pat="/gallery/") %}
           {% set active = active_p or active_s %}
           <a class="nav-link {%if active%}active{%endif%}" aria-current="page" href="{{gallery_s.path}}">Gallery</a>
         </li>

@@ -18,8 +18,8 @@ Le Olimpiadi Italiane 2016 si sono svolte a Catania, presso l'Istituto Archimede
 
 <!-- more -->
 
-{{ img(src='/images/uploads/Logo_OII2016.JPG', width='300', height=100) }}
-{{ img(src='/images/uploads/Archimede.png', width='100', height=100) }}
+{{ <img src="/images/uploads/Logo_OII2016.JPG" width={300} height={100} alt={page.title} /> }}
+{{ <img src="/images/uploads/Archimede.png" width={100} height={100} alt={page.title} /> }}
 
 Come da regolamento sono ammessi alle Olimpiadi Italiane di Informatica 9 atleti, chiamati "probabili olimpici 2016":
 

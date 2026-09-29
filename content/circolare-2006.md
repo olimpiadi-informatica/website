@@ -18,6 +18,6 @@ Circolare MPI
 
 <div style="text-align: center;">
 
-{{ img(src='/images/uploads/poster2006.jpg', width='800', height='1108') }}
+{{ <img src="/images/uploads/poster2006.jpg" width={800} height={1108} alt={page.title} /> }}
 
 </div>

@@ -20,7 +20,7 @@ La cerimonia si è tenuta a Palazzo Koch a Roma alla presenza del Governatore.
 
 Nella foto qui accanto, i vincitori, a partire da destra, sono
 
-**[{{ img(src='/images/uploads/IBM.jpg', width='321', height='181') }}](/images/uploads/IBM.jpg)** - **Morasutto Edoardo -  ITI J.F. Kennedy - Pordenone**
+**[{{ <img src="/images/uploads/IBM.jpg" width={321} height={181} alt={page.title} /> }}](/images/uploads/IBM.jpg)** - **Morasutto Edoardo -  ITI J.F. Kennedy - Pordenone**
 
 - **Mazzuccato Nicolo' - ITI C. Zuccante - Venezia**
 - **Ciprietti Andrea - L.S. M. Curie - Giulianova (TE)**
@@ -33,7 +33,7 @@ I ragazzi, insieme all'Ing Giorgio Piccardo (vedi foto: primo a sinistra) che li
 
 <div style="text-align: center;">
 
-[{{ img(src='/images/uploads/banca1.jpg', width='181', height='200') }}](/images/uploads/banca1.jpg)
-[{{ img(src='/images/uploads/banca2.jpg', width='280', height='200') }}](/images/uploads/banca2.jpg)
+[{{ <img src="/images/uploads/banca1.jpg" width={181} height={200} alt={page.title} /> }}](/images/uploads/banca1.jpg)
+[{{ <img src="/images/uploads/banca2.jpg" width={280} height={200} alt={page.title} /> }}](/images/uploads/banca2.jpg)
 
 </div>

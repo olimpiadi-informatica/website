@@ -24,7 +24,7 @@ Regolamento
 
 <div style="text-align: center;">
 
-{{ img(src='/images/uploads/programmaOII2006.jpg', width='800', height='564') }}
+{{ <img src="/images/uploads/programmaOII2006.jpg" width={800} height={564} alt={page.title} /> }}
 
 </div>
 

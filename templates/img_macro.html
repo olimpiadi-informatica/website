@@ -1,17 +1,21 @@
-{% macro img(path, alt, width, height, class="", lazy=false, fraction_xl=100, fraction_md=100, fraction_sm=100, fraction_xs=100) %}
-{% set base_image = resize_image(path=path, width=width, height=height, op="fit", quality=92) %}
+{% component img(path="", src="", alt="", width=0, height=0, class="", lazy=false, fraction_xl=100, fraction_md=100, fraction_sm=100, fraction_xs=100) %}
+{% set img_path = path if path != "" else src %}
+{% set img_alt = alt %}
+{% set img_width = width | int %}
+{% set img_height = height | int %}
+{% set base_image = resize_image(path=img_path, width=img_width, height=img_height, op="fit", quality=92) %}
 
 {% set available_scales = [0.5, 0.75, 1.0, 1.5, 2.0] %}
 {% set all_scaled = [] %}
 {% set target_width = [] %}
 {% for scale in available_scales %}
-  {% set tw = scale * base_image.width | round | int %}
+  {% set tw = ((scale * base_image.width) | round) | int %}
   {% if base_image.orig_width >= tw %}
     {% set w = tw %}
-    {% set h = scale * base_image.height | round | int %}
-    {% set rescaled = resize_image(path=path, width=w, height=h, op="fit", quality=92) %}
-    {% set_global all_scaled = all_scaled | concat(with=rescaled) %}
-    {% set_global target_width = target_width | concat(with=tw) %}
+    {% set h = ((scale * base_image.height) | round) | int %}
+    {% set rescaled = resize_image(path=img_path, width=w, height=h, op="fit", quality=92) %}
+    {% set_global all_scaled = [...all_scaled, rescaled] %}
+    {% set_global target_width = [...target_width, tw] %}
   {% endif %}
 {% endfor %}
 
@@ -21,17 +25,17 @@
 
 <picture>
 {% for breakpoint in breakpoints %}
-  {% set max_width = max_size | nth(n=loop.index0) %}
-  {% set fraction = fractions | nth(n=loop.index0) %}
+  {% set max_width = max_size[loop.index0] %}
+  {% set fraction = fractions[loop.index0] %}
   {% for scale in [3, 2, 1.5, 1.0] %}
     {% set w = base_image.width %}
     {% set mw = max_width * fraction / 100 %}
     {% if mw <= w %}
       {% set w = mw %}
     {% endif %}
-    {% set width = scale * w | round | int %}
+    {% set width = ((scale * w) | round) | int %}
     {% for scaled in all_scaled %}
-      {% set tw = target_width | nth(n=loop.index0) %}
+      {% set tw = target_width[loop.index0] %}
       {% if tw >= width %}
         <source media="(min-resolution: {{ scale * 96 }}dpi) and (min-width: {{breakpoint}}px)" srcset="{{scaled.url}}">
         {% break %}
@@ -39,15 +43,6 @@
     {% endfor %}
   {% endfor %}
 {% endfor %}
-
-<img
-  src="{{base_image.url}}"
-  width="{{base_image.width}}" height="{{base_image.height}}"
-  alt="{{alt}}" class="{{class}}"
-{% if lazy %}
-  loading="lazy"
-{% endif %}
-/>
-
+<img src="{{base_image.url}}" width="{{base_image.width}}" height="{{base_image.height}}" alt="{{img_alt}}" class="{{class}}"{% if lazy %} loading="lazy"{% endif %}>
 </picture>
-{% endmacro img %}
+{% endcomponent img %}
