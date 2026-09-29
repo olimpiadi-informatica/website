@@ -24,4 +24,4 @@ Come da [regolamento](/regulations/Regolamento_2025-26.pdf) sono stati ammessi i
 
 Ulteriori studenti sono stati ammessi a partecipare online.
 
-Scarica qui la [classifica generale](https://www.olimpiadi-informatica.it/results/2026_nazionali_classifica.xlsx), con indicati anche i medagliati e i PO 2027.
+Scarica qui la [classifica generale](/results/2026_nazionali_classifica.xlsx), con indicati anche i medagliati e i PO 2027.
