@@ -41,7 +41,7 @@
       {% endif %}
     {% endif %}
     {% if page.taxonomies?.gare %}
-      <span class="badge-category ms-auto">{{ page.taxonomies.gare[0] }}</span>
+      <span class="badge-category ms-auto">{{ page.taxonomies.gare[0] | capitalize }}</span>
     {% endif %}
   </div>
 </div>
