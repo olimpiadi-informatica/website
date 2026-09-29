@@ -3,15 +3,54 @@ name: Continuous Deployment
 on:
   push:
     branches:
-    - main
+      - main
+
+env:
+  ZOLA_VERSION: "0.22.1"
 
 jobs:
-  buildSite:
-    name: Update website
-    runs-on: ubuntu-latest
+  deploy-production:
+    name: Build & Deploy Production
+    runs-on: ubuntu-26.04
     steps:
-      - name: Start update
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          submodules: true
+
+      - name: Install Python Dependencies
+        run: pip install --break-system-packages toml urllib3
+
+      - name: Cache Raw and Processed Images
+        uses: actions/cache@v4
+        with:
+          path: |
+            static/images/gallery
+            static/processed_images
+          key: images-${{ hashFiles('content/gallery/**', 'static/logos/**', 'templates/img_macro.html') }}
+          restore-keys: |
+            images-
+
+      - name: Install Zola
         run: |
-          curl --fail -v -X POST \
-          -H "Content-Type: application/json" \
-          -d '{"secret": "${{ secrets.CD_SECRET}}"}' unito.olinfo.it:23529/main
+          curl -sSL "https://github.com/getzola/zola/releases/download/v${ZOLA_VERSION}/zola-v${ZOLA_VERSION}-x86_64-unknown-linux-gnu.tar.gz" \
+            | tar -xz -C /usr/local/bin
+
+      - name: Build Site
+        run: |
+          python3 scripts/updated_from_git.py
+          python3 scripts/download_gallery_images.py
+          zola build
+
+      - name: Setup SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -H unito.olinfo.it >> ~/.ssh/known_hosts
+
+      - name: Rsync to Production
+        run: |
+          BUILD_NAME="build-$(date +%s)"
+          rsync -avz --delete public/ ioi@unito.olinfo.it:/home/ioi/website/builds/${BUILD_NAME}/
+          ssh ioi@unito.olinfo.it "ln -sfn builds/${BUILD_NAME} /home/ioi/website/public-prod"

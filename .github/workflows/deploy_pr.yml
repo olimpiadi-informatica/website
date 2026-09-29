@@ -1,0 +1,50 @@
+name: Deploy PR Preview
+
+on:
+  workflow_run:
+    workflows: ["Build PR Preview"]
+    types:
+      - completed
+
+jobs:
+  deploy:
+    name: Sync Preview to Server
+    runs-on: ubuntu-26.04
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    permissions:
+      statuses: write
+    steps:
+      - name: Download Site Artifact
+        uses: actions/download-artifact@v4
+        with:
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          name: pr-site
+          path: public/
+
+      - name: Rsync to Server
+        env:
+          SSH_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          SHA: ${{ github.event.workflow_run.head_sha }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -H unito.olinfo.it >> ~/.ssh/known_hosts
+          rsync -avz --delete \
+            --link-dest=/home/ioi/website/public-prod/ \
+            public/ ioi@unito.olinfo.it:/home/ioi/static-websites/nightly.olimpiadi-informatica.it/builds/${SHA}/
+
+      - name: Report Status for Decap CMS
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.repos.createCommitStatus({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              sha: '${{ github.event.workflow_run.head_sha }}',
+              state: 'success',
+              target_url: 'https://${{ github.event.workflow_run.head_sha }}.nightly.olimpiadi-informatica.it/',
+              description: 'The build succeeded!',
+              context: 'deploy'
+            });
