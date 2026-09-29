@@ -2,7 +2,7 @@
 
 {% block content %}
 
-{% set editions = terms | map(attribute="name") | sort | reverse %}
+{% set editions = [term.name for term in terms] | sort | reverse %}
 
 <div class="accordion" id="allEditions">
   {% for edition in editions %}

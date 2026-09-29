@@ -18,9 +18,9 @@ La XIX edizione delle Olimpiadi Italiane di Informatica si è svolta dal 17 al 1
 
 <div style="text-align: center">
 
-{{ img(src='/images/uploads/matera-coi-sassi.jpg', width='600', height='315') }}
+{{ <img src="/images/uploads/matera-coi-sassi.jpg" width={600} height={315} alt={page.title} /> }}
 
-{{ img(src='/images/uploads/reply-1.png', width='300', height='94') }} {{ img(src='/images/uploads/rgi-logo.png', width='254', height='205') }}
+{{ <img src="/images/uploads/reply-1.png" width={300} height={94} alt={page.title} /> }} {{ <img src="/images/uploads/rgi-logo.png" width={254} height={205} alt={page.title} /> }}
 
 </div>
 

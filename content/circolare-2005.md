@@ -92,6 +92,6 @@ Nel sottolineare l’importanza dell’iniziativa, si ringrazia per la collabora
 
 <div style="text-align: center;">
 
-{{ img(src='/images/uploads/poster2005.jpg', width='770', height='1089') }}
+{{ <img src="/images/uploads/poster2005.jpg" width={770} height={1089} alt={page.title} /> }}
 
 </div>

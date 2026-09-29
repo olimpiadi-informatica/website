@@ -3,7 +3,7 @@
 {% block content %}
 <div class="row text-center pb-4">
   <div>
-    {{ img_macro::img(path="/logos/oii.png", alt="logo Olimpiadi", width=700, height=300, class="biglogo") }}
+    {{ <img path="/logos/oii.png" alt="logo Olimpiadi" width={700} height={300} class="biglogo" /> }}
   </div>
 </div>
 <div class="row align-items-center">
@@ -47,7 +47,7 @@
 <div class="row">
   {% set highlight_counter = 0 %}
   {% for page in section.pages %}
-    {% if not page.extra.highlighted %}{% continue %}{% endif %}
+    {% if not page.extra?.highlighted %}{% continue %}{% endif %}
     {% set highlight_counter = highlight_counter + 1 %}
     {% if highlight_counter > 4 %}{% break %}{% endif %}
     <div class="col-xl-3 col-md-4 col-sm-6 highlight">

@@ -10,7 +10,7 @@ edizioni = ["2020-2021"]
 [extra]
 override_updated = "2021-02-10T17:53:01"
 +++
-{{ img(src='/images/uploads/OII__4_loghi_2020.png', width=1000, height=500) }}
+{{ <img src="/images/uploads/OII__4_loghi_2020.png" width={1000} height={500} alt={page.title} /> }}
 
 <div style="text-align: right;">
 

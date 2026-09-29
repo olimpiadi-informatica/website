@@ -32,7 +32,7 @@ I ragazzi, insieme all'Ing. Paolo Fantozzi che li ha accompagnati in qualità di
 
 <div style="text-align: center;">
 
-{{ img(src='/images/uploads/IBM_2018-ConvertImage.jpg', width='460', height='217') }}
+{{ <img src="/images/uploads/IBM_2018-ConvertImage.jpg" width={460} height={217} alt={page.title} /> }}
 
 </div>
 da sinistra: Alessandro Piccaro, Gabriele Corso, Luca Cavalleri, Michael Chelli e Paolo Battellani.

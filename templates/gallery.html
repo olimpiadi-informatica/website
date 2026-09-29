@@ -4,7 +4,7 @@
 <h1 class="title">
   {{ page.title }}
 </h1>
-{% if page.extra.subtitle %}
+{% if page.extra?.subtitle %}
 <h3 class="subtitle">{{ page.extra.subtitle }}</h3>
 {% endif %}
 
@@ -15,18 +15,18 @@
 
 <div id="galleryCarousel" class="carousel slide bg-dark carousel-fade">
   <div class="carousel-indicators">
-{% for url in page.extra.gallery %}
+{% for url in page.extra?.gallery %}
     <button type="button" data-bs-target="#galleryCarousel" data-bs-slide-to="{{loop.index-1}}"
             {% if loop.index == 1 %} class="active" aria-current="true" {% endif %}></button>
 {% endfor %}
   </div>
   <div class="carousel-inner">
-{% for info in page.extra.gallery %}
+{% for info in page.extra?.gallery %}
   {% set filename = info.filename %}
   {% set filepath = ["images", "gallery", pagename, filename] | join(sep="/") %}
     <div class="carousel-item {% if loop.index == 1 %}active{% endif %}">
       <a href="/{{filepath}}" class="d-block w-100" target="_blank">
-        {{ img_macro::img(path=filepath, width=1000, height=1000, alt="{{ page.title }} ", class="img-fluid mx-auto d-block", lazy=true) }}
+        {{ <img path={filepath} width={1000} height={1000} alt={page.title ~ " "} class="img-fluid mx-auto d-block" lazy={true} /> }}
       </a>
     </div>
 {% endfor %}

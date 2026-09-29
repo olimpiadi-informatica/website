@@ -98,6 +98,6 @@ Silvio Criscuoli
 
 <div style="text-align: center;">
 
-{{ img(src='/images/uploads/poster_2007.jpg', width='859', height='1208') }}
+{{ <img src="/images/uploads/poster_2007.jpg" width={859} height={1208} alt={page.title} /> }}
 
 </div>
