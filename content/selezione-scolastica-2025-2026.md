@@ -18,7 +18,7 @@ La prova consiste, come sempre, nella risoluzione di esercizi di carattere logic
 Hanno partecipato alla gara 18763 studenti, di cui 1510 di prima, 2929 di seconda, 7356 di terza e 6917 di quarta. I punteggi medi e mediani sono stati di 42.9 e 42, e ci sono stati 4 punteggi massimi 100/100. Ulteriori statistiche sono disponibili [
 qui](/results/2026_statistiche_scolastica.pdf). L'elenco dei partecipanti e dei loro punteggi è disponibile [qui](/results/2026_scolastica_risultati.xlsx).
 
-È possibile consultare i quesiti e le soluzioni della gara scolastica al link <https://scolastiche.olinfo.it>.
+È possibile consultare i quesiti e le soluzioni della gara scolastica al link <https://training.olinfo.it/scolastiche>.
 
 ### Criteri di ammissione alla Selezione Territoriale in programma giovedì 9 aprile 2026
 
@@ -26,9 +26,9 @@ Secondo il regolamento, sono eleggibili a partecipare gli studenti in classi dal
 
 Sono state inoltre definite le seguenti soglie di punteggio per essere ammessi alle selezioni territoriali dalle selezioni scolastiche. Saranno ammessi:
 
-- i primi studenti eleggibili della scuola fino al raggiungimento della quota della scuola, se hanno ottenuto almeno **21 punti** (più della prova in bianco), non contando in elenco gli studenti già ammessi di diritto a fasi successive per i loro risultati alle OII 2024/25;
-- gli **altri** studenti eleggibili del biennio se hanno ottenuto almeno **55 punti**;
-- **tutti gli altri** studenti eleggibili se hanno ottenuto almeno **65 punti**.
+* i primi studenti eleggibili della scuola fino al raggiungimento della quota della scuola, se hanno ottenuto almeno **21 punti** (più della prova in bianco), non contando in elenco gli studenti già ammessi di diritto a fasi successive per i loro risultati alle OII 2024/25;
+* gli **altri** studenti eleggibili del biennio se hanno ottenuto almeno **55 punti**;
+* **tutti gli altri** studenti eleggibili se hanno ottenuto almeno **65 punti**.
 
 La quota è stata calcolata come pari a 1 posizione per ogni 20 studenti (anche non eleggibili) che hanno partecipato alla selezione scolastica, arrotondato all'intero più vicino. Inoltre, è stata fissata una soglia di **massimo 25 studenti** ammessi da una singola scuola.
 
