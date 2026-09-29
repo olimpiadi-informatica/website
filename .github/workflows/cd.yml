@@ -44,8 +44,12 @@ jobs:
 
       - name: Setup SSH
         env:
-          SSH_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          SSH_KEY: ${{ secrets.SSH_DEPLOY_KEY || secrets.SSH_PRIVATE_KEY }}
         run: |
+          if [ -z "$SSH_KEY" ]; then
+            echo "Error: SSH key secret is empty! Ensure SSH_DEPLOY_KEY is set in GitHub Secrets." >&2
+            exit 1
+          fi
           mkdir -p ~/.ssh
           printf "%s\n" "$SSH_KEY" | tr -d '\r' > ~/.ssh/id_ed25519
           chmod 600 ~/.ssh/id_ed25519
