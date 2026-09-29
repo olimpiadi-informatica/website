@@ -1,67 +1,162 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1 class="title">
-  {{ page.title }}
-</h1>
-{% if page.extra?.subtitle %}
-<h3 class="subtitle">{{ page.extra.subtitle }}</h3>
-{% endif %}
-
 {% set pathparts = page.path | split(pat="/") %}
 {% set numparts = pathparts | length %}
 {% set namepart = numparts - 2 %}
 {% set pagename = pathparts[namepart] %}
+{% set photos = page.extra?.gallery or [] %}
+{% set photo_count = photos | length %}
 
-<div id="galleryCarousel" class="carousel slide bg-dark carousel-fade">
-  <div class="carousel-indicators">
-{% for url in page.extra?.gallery %}
-    <button type="button" data-bs-target="#galleryCarousel" data-bs-slide-to="{{loop.index-1}}"
-            {% if loop.index == 1 %} class="active" aria-current="true" {% endif %}></button>
-{% endfor %}
-  </div>
-  <div class="carousel-inner">
-{% for info in page.extra?.gallery %}
-  {% set filename = info.filename %}
-  {% set filepath = ["images", "gallery", pagename, filename] | join(sep="/") %}
-    <div class="carousel-item {% if loop.index == 1 %}active{% endif %}">
-      <a href="/{{filepath}}" class="d-block w-100" target="_blank">
-        {{ <img path={filepath} width={1000} height={1000} alt={page.title ~ " "} class="img-fluid mx-auto d-block" lazy={true} /> }}
-      </a>
+<div class="gallery-header pt-3 mb-4">
+  <div class="d-flex flex-wrap align-items-center justify-content-between gap-3 pb-3 border-bottom">
+    <div>
+      <div class="mb-3">
+        <a href="/gallery/" class="btn btn-sm btn-outline-secondary d-inline-flex align-items-center gap-1">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+          Tutte le gallerie
+        </a>
+      </div>
+      <h1 class="fw-bold mb-1">{{ page.title }}</h1>
+      {% if page.extra?.subtitle %}
+        <p class="lead text-secondary mb-0">{{ page.extra.subtitle }}</p>
+      {% endif %}
     </div>
-{% endfor %}
+    <div class="d-flex align-items-center">
+      <span class="badge text-bg-secondary px-3 py-2 fs-6">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="me-1 align-text-bottom"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg>
+        {{ photo_count }} Foto
+      </span>
+    </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#galleryCarousel" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Indietro</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#galleryCarousel" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Avanti</span>
-  </button>
 </div>
+
+<!-- Photo Grid -->
+<div class="row g-3 gallery-grid mb-5 pb-5" id="galleryGrid">
+  {% for info in photos %}
+    {% set filename = info.filename %}
+    {% set filepath = ["images", "gallery", pagename, filename] | join(sep="/") %}
+    <div class="col-6 col-md-4 col-lg-3">
+      <div class="gallery-card" onclick="openLightbox({{loop.index0}})" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' ')openLightbox({{loop.index0}})" aria-label="Visualizza foto {{loop.index}}">
+        <div class="gallery-card-img-wrapper">
+          {{ <img path={filepath} width={1000} height={1000} alt={page.title ~ " - Foto " ~ loop.index} class="gallery-card-img" lazy={true} fraction_xl={25} fraction_md={33} fraction_sm={50} fraction_xs={50} /> }}
+          <div class="gallery-card-overlay">
+            <span class="gallery-card-icon">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                <line x1="11" y1="8" x2="11" y2="14"></line>
+                <line x1="8" y1="11" x2="14" y2="11"></line>
+              </svg>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<!-- Fullscreen Lightbox Modal -->
+<div id="galleryLightbox" class="gallery-lightbox" style="display: none;" role="dialog" aria-modal="true" aria-label="Visualizzatore galleria">
+  <div class="lightbox-backdrop" onclick="closeLightbox()"></div>
+
+  <!-- Lightbox Header / Controls -->
+  <div class="lightbox-header">
+    <div class="lightbox-info d-flex align-items-center gap-3">
+      <span class="lightbox-title">{{ page.title }}</span>
+      <span id="lightboxCounter" class="badge bg-secondary px-3 py-1">1 / {{ photo_count }}</span>
+    </div>
+    <div class="lightbox-actions d-flex align-items-center">
+      <a id="lightboxOrigLink" href="#" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-light me-3" title="Apri foto originale ad alta risoluzione">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="me-1 align-text-bottom"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        Originale
+      </a>
+      <button type="button" class="btn-close btn-close-white" aria-label="Chiudi visualizzatore" onclick="closeLightbox()"></button>
+    </div>
+  </div>
+
+  <!-- Lightbox Stage -->
+  <div class="lightbox-stage">
+    <button type="button" class="lightbox-nav-btn lightbox-prev" onclick="prevPhoto()" aria-label="Foto precedente">&#10094;</button>
+    <div class="lightbox-media-wrapper" id="lightboxMediaWrapper">
+      <img id="lightboxImg" src="" alt="" class="lightbox-media" />
+    </div>
+    <button type="button" class="lightbox-nav-btn lightbox-next" onclick="nextPhoto()" aria-label="Foto successiva">&#10095;</button>
+  </div>
+
+</div>
+
 <script type="text/javascript">
-const elem = document.querySelector('#galleryCarousel')
+  const galleryPhotos = [
+    {% for info in photos %}
+      {% set filename = info.filename %}
+      {% set filepath = ["images", "gallery", pagename, filename] | join(sep="/") %}
+      {
+        src: "/{{ filepath }}",
+        orig: "{{ info.url }}",
+        title: "{{ page.title }} - Foto {{ loop.index }}"
+      }{% if not loop.last %},{% endif %}
+    {% endfor %}
+  ];
 
-function ensureLoaded(element) {
-  if (!element) return;
-  element.children[0].children[0].loading = "eager";
-  
-}
+  let currentIndex = 0;
+  const lightbox = document.getElementById('galleryLightbox');
+  const lightboxImg = document.getElementById('lightboxImg');
+  const lightboxCounter = document.getElementById('lightboxCounter');
+  const lightboxOrigLink = document.getElementById('lightboxOrigLink');
 
-function slideTo(element) {
-  ensureLoaded(element);
-  ensureLoaded(element.nextElementSibling);
-  ensureLoaded(element.prevElementSibling);
-}
+  function openLightbox(index) {
+    if (!galleryPhotos.length) return;
+    currentIndex = index;
+    lightbox.style.display = 'flex';
+    document.body.style.overflow = 'hidden';
+    showPhoto(currentIndex);
+  }
 
-new bootstrap.Carousel(elem, {});
-elem.addEventListener('slide.bs.carousel', event => {
-  slideTo(event.relatedTarget);
-});
+  function closeLightbox() {
+    lightbox.style.display = 'none';
+    document.body.style.overflow = '';
+  }
 
-slideTo(document.getElementsByClassName("carousel-inner")[0].children[0])
+  function showPhoto(index) {
+    if (index < 0) index = galleryPhotos.length - 1;
+    if (index >= galleryPhotos.length) index = 0;
+    currentIndex = index;
 
+    const photo = galleryPhotos[currentIndex];
+    lightboxImg.src = photo.src;
+    lightboxImg.alt = photo.title;
+
+    lightboxCounter.textContent = (currentIndex + 1) + " / " + galleryPhotos.length;
+    lightboxOrigLink.href = photo.orig || photo.src;
+
+    // Preload next and previous images only
+    const nextIdx = (currentIndex + 1) % galleryPhotos.length;
+    const prevIdx = (currentIndex - 1 + galleryPhotos.length) % galleryPhotos.length;
+    new Image().src = galleryPhotos[nextIdx].src;
+    new Image().src = galleryPhotos[prevIdx].src;
+  }
+
+  function nextPhoto() { showPhoto(currentIndex + 1); }
+  function prevPhoto() { showPhoto(currentIndex - 1); }
+
+  window.addEventListener('keydown', (e) => {
+    if (lightbox.style.display !== 'flex') return;
+    if (e.key === 'ArrowRight' || e.key === 'd' || e.key === 'D') nextPhoto();
+    else if (e.key === 'ArrowLeft' || e.key === 'a' || e.key === 'A') prevPhoto();
+    else if (e.key === 'Escape') closeLightbox();
+  });
+
+  let touchStartX = 0;
+  let touchEndX = 0;
+  lightbox.addEventListener('touchstart', (e) => {
+    touchStartX = e.changedTouches[0].screenX;
+  }, { passive: true });
+  lightbox.addEventListener('touchend', (e) => {
+    touchEndX = e.changedTouches[0].screenX;
+    if (touchStartX - touchEndX > 50) nextPhoto();
+    else if (touchEndX - touchStartX > 50) prevPhoto();
+  }, { passive: true });
 </script>
 
 {% endblock content %}

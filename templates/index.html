@@ -1,63 +1,111 @@
 {% extends "base.html" %}
 
 {% block content %}
-<div class="row text-center pb-4">
-  <div>
+<div class="homepage-content">
+  <div class="text-center pb-3 my-2">
     {{ <img path="/logos/oii.png" alt="logo Olimpiadi" width={700} height={300} class="biglogo" /> }}
   </div>
-</div>
-<div class="row align-items-center">
-  <div>
-    Le Olimpiadi Italiane di Informatica (OII) sono rivolte agli studenti delle
-    scuole superiori con l'obiettivo di diffondere l'apprendimento della
-    programmazione per la risoluzione di problemi computazionali di crescente
-    complessità. Le OII rappresentano un'opportunità stimolante per
-    socializzare e competere nelle gare di programmazione, attraverso un
-    percorso di selezione che comprende le fasi scolastica, territoriale e
-    nazionale. Questo percorso mira a determinare le squadre nazionali che
-    rappresenteranno l'Italia alle varie Olimpiadi Internazionali a cui il
-    nostro paese partecipa. L'attenzione nelle OII è posta sul carattere
-    algoritmico dei problemi, favorendo la partecipazione anche di coloro che
-    non hanno conoscenze specialistiche pregresse. Questo richiede
-    principalmente la capacità di ragionare e tradurre tale ragionamento in
-    codice efficiente per il computer. Pronti a scoprire il mondo della
-    programmazione competitiva? Iscriviti su
-    <a href="http://www.olimpiadi-scientifiche.it/">www.olimpiadi-scientifiche.it</a>
-  </div>
-</div>
-<div class="p-3"></div>
-<div class="row">
-  <div class="col-xl-6 lead">
-    <h3><a href="https://fibonacci.olinfo.it/">Giochi di Fibonacci</a></h3>
-      Prima si scopre una passione meglio è, no? Ecco perchè da pochi anni sono stati istituiti i Giochi di Fibonacci, una competizione pensata per i più piccoli: ragazzi delle elementari e delle medie.
-      Sono l'occasione per conoscere la disciplina dell'informatica spesso poco trattata nei contesti scolastici prima delle superiori.
-  </div>
-  <div class="col-xl-6 lead">
-    <h3><a href="https://sites.google.com/aldini.istruzioneer.it/olimpiadi-informatica-squadre/homepage">Olimpiadi a Squadre</a></h3>
-      Affrontare una sfida da soli non è facile, ma in team può essere molto divertente. Inoltre spesso il modo migliore per imparare
-      è osservare chi è più esperto di te. Il nostro campionato a squadre OIS, Olimpiadi di Informatica a Squadre,
-      è pensato per questo!
-  </div>
-</div>
-<div class="p-3"></div>
 
-<div class="row">
-  <h1>In evidenza</h1>
-</div>
-<div class="row">
-  {% set highlight_counter = 0 %}
-  {% for page in section.pages %}
-    {% if not page.extra?.highlighted %}{% continue %}{% endif %}
-    {% set highlight_counter = highlight_counter + 1 %}
-    {% if highlight_counter > 4 %}{% break %}{% endif %}
-    <div class="col-xl-3 col-md-4 col-sm-6 highlight">
-      {% include "preview.html" %}
+  <div class="intro-section my-4">
+    <p class="lead mb-3">
+      Le <strong>Olimpiadi Italiane di Informatica (OII)</strong> sono rivolte agli studenti delle scuole superiori con l'obiettivo di diffondere l'apprendimento della programmazione per la risoluzione di problemi computazionali di crescente complessità.
+    </p>
+    <p class="mb-4">
+      Le OII rappresentano un'opportunità stimolante per socializzare e competere nelle gare di programmazione attraverso un percorso di selezione che comprende le fasi scolastica, territoriale e nazionale, determinando le squadre nazionali alle Olimpiadi Internazionali. L'attenzione è posta sul carattere algoritmico dei problemi, favorendo la partecipazione anche di coloro che non hanno conoscenze specialistiche pregresse. Pronti a scoprire il mondo della programmazione competitiva?
+    </p>
+    <div class="pt-2 mb-2">
+      <a href="http://www.olimpiadi-scientifiche.it/" target="_blank" rel="noopener" class="btn btn-primary px-4 py-2 fw-semibold shadow-sm position-relative" style="z-index: 5;">
+        Iscriviti su olimpiadi-scientifiche.it &rarr;
+      </a>
     </div>
-  {% endfor %}
+  </div>
+
+  <div class="row g-4 mb-5 pt-3">
+  <div class="col-md-6">
+    <div class="card h-100 feature-card p-4 border-0 shadow-sm bg-body-tertiary">
+      <div class="d-flex align-items-center mb-2">
+        <span class="badge bg-primary-subtle text-primary border border-primary-subtle px-3 py-1">Elementari e Medie</span>
+      </div>
+      <h3 class="h4 card-title fw-bold my-2">
+        <a href="https://fibonacci.olinfo.it/" target="_blank" rel="noopener" class="link-body-emphasis text-decoration-none">
+          Giochi di Fibonacci <span class="arrow">&rarr;</span>
+        </a>
+      </h3>
+      <p class="card-text text-secondary mb-0">
+        Prima si scopre una passione meglio è! I Giochi di Fibonacci sono una competizione pensata per i più piccoli: ragazze e ragazzi delle elementari e delle medie, per conoscere l'informatica prima delle scuole superiori.
+      </p>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <div class="card h-100 feature-card p-4 border-0 shadow-sm bg-body-tertiary">
+      <div class="d-flex align-items-center mb-2">
+        <span class="badge bg-success-subtle text-success border border-success-subtle px-3 py-1">Campionato OIS</span>
+      </div>
+      <h3 class="h4 card-title fw-bold my-2">
+        <a href="https://sites.google.com/aldini.istruzioneer.it/olimpiadi-informatica-squadre/homepage" target="_blank" rel="noopener" class="link-body-emphasis text-decoration-none">
+          Olimpiadi a Squadre <span class="arrow">&rarr;</span>
+        </a>
+      </h3>
+      <p class="card-text text-secondary mb-0">
+        Affrontare una sfida da soli non è facile, ma in team può essere molto divertente! Inoltre il modo migliore per imparare è collaborare con chi è più esperto di te. Il nostro campionato a squadre è pensato per questo.
+      </p>
+    </div>
+  </div>
 </div>
+
+{% set highlighted_posts = [p for p in section.pages if p.extra?.highlighted] %}
+{% set count = highlighted_posts | length %}
+
+{% if count > 0 %}
+<div class="section-header d-flex align-items-center justify-content-between my-4 pt-3 border-bottom pb-2">
+  <h2 class="fw-bold mb-0">In evidenza</h2>
+</div>
+
+{% if count == 1 %}
+  {% set page = highlighted_posts[0] %}
+  {% include "preview_featured.html" %}
+
+{% elif count == 5 %}
+  {% set page = highlighted_posts[0] %}
+  {% include "preview_featured.html" %}
+
+  <div class="row g-4 mb-5">
+    {% for page in highlighted_posts %}
+      {% if loop.first %}{% continue %}{% endif %}
+      <div class="col-12 col-sm-6 col-lg-3">
+        {% include "preview.html" %}
+      </div>
+    {% endfor %}
+  </div>
+
+{% else %}
+  {% if count == 2 %}
+    {% set col_class = "col-12 col-md-6" %}
+  {% elif count == 3 %}
+    {% set col_class = "col-12 col-md-4" %}
+  {% elif count == 4 %}
+    {% set col_class = "col-12 col-sm-6 col-lg-3" %}
+  {% elif count % 4 == 0 %}
+    {% set col_class = "col-12 col-sm-6 col-lg-3" %}
+  {% else %}
+    {% set col_class = "col-12 col-sm-6 col-lg-4" %}
+  {% endif %}
+
+  <div class="row g-4 mb-5">
+    {% for page in highlighted_posts %}
+      <div class="{{ col_class }}">
+        {% include "preview.html" %}
+      </div>
+    {% endfor %}
+  </div>
+{% endif %}
+{% endif %}
 
 {% set edition = config.extra.current_edition %}
 {% set term = get_taxonomy_term(kind="edizioni", term=edition) %}
-{% include "edition.html" %}
+<div class="current-edition-section my-4">
+  {% include "edition.html" %}
+</div>
+</div>
 
 {% endblock content %}

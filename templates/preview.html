@@ -1,14 +1,38 @@
-<a href="{{ page.permalink | safe }}" class="link-secondary link-underline-opacity-0 post-preview">
-  <div class="thumbnail align-items-center justify-content-center d-flex my-1">
+<div class="card h-100 preview-card border-0 shadow-sm d-flex flex-column">
+  <a href="{{ page.permalink | safe }}" class="preview-thumbnail-wrapper d-block text-decoration-none" aria-label="{{ page.title }}">
     {% if page.extra?.thumbnail %}
-    {{ <img path={page.extra.thumbnail} width={500} height={350} alt={["thumbnail ", page.title] | join} class="img-thumbnail mx-auto d-block" fraction_xl={25} fraction_md={33} fraction_sm={50} fraction_xs={100} /> }}
+      {{ <img path={page.extra.thumbnail} width={600} height={400} alt={page.title} class="preview-img" fraction_xl={50} fraction_md={50} fraction_sm={100} fraction_xs={100} /> }}
     {% else %}
-    <div class="fake-thumbnail d-block mx-auto"></div>
+      <div class="preview-placeholder d-flex align-items-center justify-content-center">
+        <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" class="text-secondary opacity-50"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+      </div>
     {% endif %}
+  </a>
+  <div class="card-body p-3 d-flex flex-column">
+    <div class="d-flex align-items-center justify-content-between text-secondary small mb-2">
+      {% if page.date %}
+        <span>{{ page.date | date }}</span>
+      {% endif %}
+      {% if page.taxonomies?.gare %}
+        <span class="badge-category ms-auto">{{ page.taxonomies.gare[0] }}</span>
+      {% endif %}
+    </div>
+    <h5 class="card-title fw-semibold mb-2">
+      <a href="{{ page.permalink | safe }}" class="text-decoration-none text-body hover-primary">
+        {{ page.title }}
+      </a>
+    </h5>
+    {% if page.extra?.subtitle %}
+      <p class="card-text text-secondary small flex-grow-1 mb-2">{{ page.extra.subtitle }}</p>
+    {% elif page.summary %}
+      <p class="card-text text-secondary small flex-grow-1 mb-2">{{ page.summary | striptags | truncate(length=120) }}</p>
+    {% elif page.content %}
+      <p class="card-text text-secondary small flex-grow-1 mb-2">{{ page.content | striptags | truncate(length=120) }}</p>
+    {% endif %}
+    <div class="mt-auto pt-2">
+      <a href="{{ page.permalink | safe }}" class="text-primary small fw-semibold text-decoration-none">
+        Leggi notizia &rarr;
+      </a>
+    </div>
   </div>
-  <h5 class="text-body">{{ page.title }}</h5>
-  {% if page.extra?.subtitle %}
-  <p>{{ page.extra.subtitle }}</p>
-  {% endif %}
-  <div class="p-3"></div>
-</a>
+</div>

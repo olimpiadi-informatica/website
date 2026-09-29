@@ -1,30 +1,41 @@
-{% for page in page_list %}
-<div class="row">
-  {% if loop.index != 1 %}
-  <hr>
-  {% endif %}
-  <h2 class="title">
-    <a href="{{ page.permalink | safe }}" class="link-secondary link-underline-opacity-0" >{{ page.title }}</a>
-  </h2>
-  {% if page.extra.subtitle %}
-  <h3 class="subtitle">{{ page.extra.subtitle }}</h3>
-  {% endif %}
+<div class="post-list-container my-4">
+  {% for page in page_list %}
+    <article class="post-list-item card border-0 shadow-sm p-4 mb-4">
+      <div class="d-flex flex-wrap align-items-center gap-2 mb-2 text-secondary small">
+        {% if page.date %}
+        <span class="d-inline-flex align-items-center">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="me-1"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          {{ page.date | date }}
+        </span>
+        {% endif %}
+        {% if page.taxonomies?.gare %}
+          <span class="badge-category ms-auto">{{ page.taxonomies.gare[0] }}</span>
+        {% endif %}
+      </div>
+      <h2 class="h3 fw-bold mb-2">
+        <a href="{{ page.permalink | safe }}" class="link-body-emphasis text-decoration-none">{{ page.title }}</a>
+      </h2>
+      {% if page.extra?.subtitle %}
+        <p class="lead text-secondary fs-6 mb-3">{{ page.extra.subtitle }}</p>
+      {% endif %}
 
-  {% if page.summary %}
-  <div>
-  {{ page.summary | safe }}
-  <a href="{{ page.permalink | safe }}#continue-reading">Leggi tutto</a>
-  </div>
-  {% else %}
-  {% if page.content | length < 1000 %}
-  <div>
-  {{ page.content | safe }}
-  </div>
-  {% else %}
-  <div><a href="{{ page.permalink | safe }}">Leggi tutto</a></div>
-  {% endif %}
-  {% endif %}
+      <div class="post-list-excerpt text-secondary mb-3">
+        {% if page.summary %}
+          {{ page.summary | safe }}
+        {% else %}
+          {% if page.content | length < 1000 %}
+            {{ page.content | safe }}
+          {% else %}
+            {{ page.content | striptags | truncate(length=260) }}
+          {% endif %}
+        {% endif %}
+      </div>
+
+      <div>
+        <a href="{{ page.permalink | safe }}{% if page.summary %}#continue-reading{% endif %}" class="btn btn-sm btn-outline-primary fw-semibold">
+          Leggi tutto &rarr;
+        </a>
+      </div>
+    </article>
+  {% endfor %}
 </div>
-<div class="p-2"></div>
-{% endfor %}
-

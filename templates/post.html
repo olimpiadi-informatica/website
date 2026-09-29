@@ -2,46 +2,66 @@
 
 {% block content %}
 
-{% set edition = page.taxonomies.edizioni[0] %}
-{% set term = get_taxonomy_term(kind="edizioni", term=edition) %}
-<h6><a href="{{ term.permalink }}">Torna all'edizione {{ edition }}</a></h6>
-
-<h1 class="title">
-  {{ page.title }}
-</h1>
-{% if page.extra.subtitle %}
-<h3 class="subtitle">{{ page.extra.subtitle }}</h3>
+{% if page.taxonomies?.edizioni %}
+  {% set edition = page.taxonomies.edizioni[0] %}
+  {% set term = get_taxonomy_term(kind="edizioni", term=edition) %}
+  <div class="pt-2 pt-md-3 mb-3">
+    <a href="{{ term.permalink }}" class="btn btn-sm btn-outline-secondary d-inline-flex align-items-center gap-1">
+      &larr; Torna all'edizione {{ edition }}
+    </a>
+  </div>
 {% endif %}
 
-{% set d = page.date | date %}
+<div class="post-header mb-4" style="max-width: 900px;">
+  <h1 class="fw-bold mb-2">{{ page.title }}</h1>
+  {% if page.extra?.subtitle %}
+    <p class="lead text-secondary mb-3">{{ page.extra.subtitle }}</p>
+  {% endif %}
 
-{% if page.updated %}
-{% set u = page.updated | date %}
-{% else %}
-{% if page.extra?.override_updated %}
-{% set u = page.extra.override_updated | date %}
-{% else %}
-{% set u = d %}
-{% endif %}
-{% endif %}
+  {% set d = (page.date | date) if page.date else "" %}
 
-{% if d == u %}
-<h5>{{d}}</h5>
-{% else %}
-<h5>{{d}}<span class="text-body text-opacity-50">, aggiornato il {{u}}</span></h5>
-{% endif %}
+  {% if page.updated %}
+    {% set u = page.updated | date %}
+  {% else %}
+    {% if page.extra?.override_updated %}
+      {% set u = page.extra.override_updated | date %}
+    {% else %}
+      {% set u = d %}
+    {% endif %}
+  {% endif %}
 
-{% if page.extra?.thumbnail %}
-{{ <img path={page.extra.thumbnail} width={1000} height={500} alt={page.title} class="img-fluid mx-auto d-block page-thumbnail" /> }}
-<div class="p-2"></div>
-{% endif %}
-{{ page.content | safe }}
-<div class="p-2"></div>
+  <div class="d-flex flex-wrap align-items-center gap-2 text-secondary small py-2 border-bottom">
+    {% if d %}
+      <span class="d-inline-flex align-items-center">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="me-1"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+        {{ d }}
+      </span>
+      {% if d != u and u %}
+        <span class="text-body-secondary">&bull; Aggiornato il {{ u }}</span>
+      {% endif %}
+    {% endif %}
+    {% if page.taxonomies?.gare %}
+      <span class="badge-category ms-auto">{{ page.taxonomies.gare[0] }}</span>
+    {% endif %}
+  </div>
+</div>
 
+<div class="post-body my-4" style="max-width: 900px;">
+  {% if page.extra?.thumbnail %}
+    <div class="mb-4 text-center">
+      {{ <img path={page.extra.thumbnail} width={1000} height={500} alt={page.title} class="img-fluid rounded page-thumbnail" /> }}
+    </div>
+  {% endif %}
 
-<h6>
+  {{ page.content | safe }}
+</div>
+
+<div class="post-footer mt-5 pt-3 mb-5 pb-4 border-top d-flex justify-content-end" style="max-width: 900px;">
   <a href="https://edit.olimpiadi-informatica.it/#/collections/posts/entries/{{ page.slug }}"
-     target="_blank" class="edit">Proponi modifiche</a>
-</h6>
+     target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary d-inline-flex align-items-center gap-1">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
+    Proponi modifiche
+  </a>
+</div>
 
 {% endblock content %}

@@ -2,11 +2,16 @@
 
 {% block content %}
 
-{{ page.content | safe }}
+<article class="page-body my-4" style="max-width: 900px;">
+  {{ page.content | safe }}
+</article>
 
-<h6>
+<div class="post-footer mt-5 pt-3 mb-5 pb-4 border-top d-flex justify-content-end" style="max-width: 900px;">
   <a href="https://edit.olimpiadi-informatica.it/#/collections/pagine/entries/{{ page.slug }}"
-     target="_blank" class="edit">Proponi modifiche</a>
-</h6>
+     target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary d-inline-flex align-items-center gap-1">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
+    Proponi modifiche
+  </a>
+</div>
 
 {% endblock content %}
