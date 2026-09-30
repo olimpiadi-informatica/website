@@ -1,8 +1,9 @@
 async function loadLunr() {
-  for (const url of ["elasticlunr.min.js", "lunr.stemmer.support.js", "lunr.it.js"]) {
+  const scripts = (typeof lunrScripts !== "undefined" && lunrScripts) || ["/elasticlunr.min.js", "/lunr.stemmer.support.js", "/lunr.it.js"];
+  for (const url of scripts) {
     const script = document.createElement("script");
     script.type = "text/javascript";
-    script.src = "/" + url;
+    script.src = url;
     await new Promise((resolve) => {
       script.onload = resolve;
       document.body.appendChild(script);
@@ -21,7 +22,8 @@ const searchInput = document.getElementById("searchbar");
 async function search() {
   await lunrLoaded;
   if (index == null) {
-    const indexData = await (await fetch("/search_index.it.json")).json();
+    const fetchUrl = (typeof searchIndexURL !== "undefined" && searchIndexURL) || "/search_index.it.json";
+    const indexData = await (await fetch(fetchUrl)).json();
     index = elasticlunr.Index.load(indexData);
     index.use(lunr.it);
   }

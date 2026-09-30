@@ -23,7 +23,7 @@
         <div class="row g-0 align-items-stretch">
           <div class="col-md-5 col-lg-4 d-flex">
             <a href="{{ diario.forum_url }}" target="_blank" rel="noopener noreferrer" class="diario-img-link" aria-label="{{ diario.title }}">
-              <img src="{{ diario.image | safe }}" alt="{{ diario.title }}" class="diario-img {% if diario.image_fit == 'contain' %}diario-img-contain{% endif %}" loading="lazy">
+              <img src="{% if diario.image is starting_with(pat='/') %}{{ get_url(path=diario.image, cachebust=true) | replace(from=config.base_url, to='/') }}{% else %}{{ diario.image | safe }}{% endif %}" alt="{{ diario.title }}" class="diario-img {% if diario.image_fit == 'contain' %}diario-img-contain{% endif %}" loading="lazy">
             </a>
           </div>
           <div class="col-md-7 col-lg-8">

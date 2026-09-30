@@ -76,6 +76,12 @@
   </div>
 </nav>
 <script type="text/javascript">
+  const searchIndexURL = "{{ get_url(path='search_index.it.json', cachebust=true) | replace(from=config.base_url, to='/') }}";
+  const lunrScripts = [
+    "{{ get_url(path='elasticlunr.min.js', cachebust=true) | replace(from=config.base_url, to='/') }}",
+    "{{ get_url(path='lunr.stemmer.support.js', cachebust=true) | replace(from=config.base_url, to='/') }}",
+    "{{ get_url(path='lunr.it.js', cachebust=true) | replace(from=config.base_url, to='/') }}"
+  ];
   const specialURIs = {};
   {% set taxonomy = get_taxonomy(kind="gare") %}
   {% for term in taxonomy.items %}

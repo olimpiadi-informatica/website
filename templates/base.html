@@ -16,8 +16,9 @@
   {% endif %}
   >
   <title>Olimpiadi Italiane di Informatica</title>
-  <link rel="stylesheet" href="/style.css" />
-  <script defer src="/bootstrap.bundle.min.js"></script>
+  <link rel="icon" type="image/x-icon" href="{{ get_url(path='favicon.ico', cachebust=true) | replace(from=config.base_url, to='/') }}" />
+  <link rel="stylesheet" href="{{ get_url(path='style.css', cachebust=true) | replace(from=config.base_url, to='/') }}" />
+  <script defer src="{{ get_url(path='bootstrap.bundle.min.js', cachebust=true) | replace(from=config.base_url, to='/') }}"></script>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-6V23LS02FL"></script>
   <script>
