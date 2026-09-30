@@ -4,7 +4,14 @@
 
 {% set editions = [term.name for term in terms] | sort | reverse %}
 
-<div class="accordion" id="allEditions">
+<div class="text-center my-4 pb-2">
+  <h1 class="fw-bold mb-2">Tutte le Edizioni</h1>
+  <p class="lead text-secondary mx-auto" style="max-width: 680px;">
+    Archivio storico di tutte le edizioni delle Olimpiadi Italiane di Informatica, con classifiche, selezioni e notizie.
+  </p>
+</div>
+
+<div class="accordion shadow-sm rounded-3 overflow-hidden mb-5" id="allEditions">
   {% for edition in editions %}
   {% set edition_data = get_taxonomy_term(kind="edizioni", term=edition) %}
   {% set expand = loop.index0 < config.extra.expanded_editions %}
@@ -17,18 +24,26 @@
     {% set path = ["pagine/edizione-", edition, ".md"] | join %}
     {% set page = get_page(path=path) %}
     <h2 class="accordion-header">
-      <button class="accordion-button {{collapse}}" type="button"
+      <button class="accordion-button {{collapse}} d-flex align-items-center" type="button"
               data-bs-toggle="collapse" data-bs-target="#collapse{{edition}}"
               aria-expanded="{{expand}}" aria-controls="collapse{{edition}}">
-        {{ page.title }}
+        <span class="fw-semibold me-2">{{ page.title }}</span>
+        <span class="badge text-bg-secondary ms-auto me-3">{{ edition_data.pages | length }} post</span>
       </button>
     </h2>
     <div id="collapse{{edition}}" class="accordion-collapse collapse {%if expand%}show{%endif%}">
-      <div class="accordion-body row">
-        <a href="{{ edition_data.permalink }}">Visita la pagina di quest'edizione</a>
-        <div class="list-group">
+      <div class="accordion-body p-4">
+        <div class="d-flex justify-content-between align-items-center mb-3">
+          <a href="{{ edition_data.permalink }}" class="btn btn-sm btn-outline-primary fw-semibold">
+            Visita la pagina dell'edizione {{ edition }} &rarr;
+          </a>
+        </div>
+        <div class="list-group list-group-flush border rounded">
         {% for page in edition_data.pages %}
-          <a href="{{ page.permalink | safe }}" class="list-group-item list-group-item-action" >{{ page.title }}</a>
+          <a href="{{ page.permalink | safe }}" class="list-group-item list-group-item-action d-flex align-items-center justify-content-between py-2">
+            <span>{{ page.title }}</span>
+            <span class="text-secondary small">&rarr;</span>
+          </a>
         {% endfor %}
         </div>
       </div>

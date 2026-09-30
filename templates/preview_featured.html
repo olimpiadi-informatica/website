@@ -1,0 +1,44 @@
+<div class="card preview-card featured-preview border-0 shadow-sm overflow-hidden mb-4">
+  <div class="row g-0 align-items-stretch">
+    <div class="col-12 col-md-5 col-lg-5">
+      <a href="{{ page.permalink | safe }}" class="preview-thumbnail-wrapper d-block h-100 text-decoration-none" aria-label="{{ page.title }}">
+        {% if page.extra?.thumbnail %}
+          {{ <img path={page.extra.thumbnail} width={800} height={500} alt={page.title} class="preview-img" fraction_xl={50} fraction_md={50} fraction_sm={100} fraction_xs={100} /> }}
+        {% else %}
+          <div class="preview-placeholder d-flex align-items-center justify-content-center h-100" style="min-height: 240px;">
+            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" class="text-secondary opacity-50"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+          </div>
+        {% endif %}
+      </a>
+    </div>
+    <div class="col-12 col-md-7 col-lg-7 p-4 p-lg-5 d-flex flex-column justify-content-center">
+      <div class="d-flex flex-wrap align-items-center gap-2 mb-2">
+        <span class="badge-featured">In primo piano</span>
+        {% if page.date %}
+          <span class="text-secondary small">{{ page.date | date }}</span>
+        {% endif %}
+        {% if page.taxonomies?.gare %}
+          <span class="badge-category">{{ page.taxonomies.gare[0] | capitalize }}</span>
+        {% endif %}
+      </div>
+      <h3 class="card-title fw-bold my-2">
+        <a href="{{ page.permalink | safe }}" class="text-decoration-none text-body hover-primary">
+          {{ page.title }}
+        </a>
+      </h3>
+      {% if page.extra?.subtitle %}
+        <p class="lead text-secondary fs-6 mb-3">{{ page.extra.subtitle }}</p>
+      {% elif page.summary %}
+        <p class="card-text text-secondary mb-3">{{ page.summary | striptags | truncate(length=180) }}</p>
+      {% elif page.content %}
+        <p class="card-text text-secondary mb-3">{{ page.content | striptags | truncate(length=180) }}</p>
+      {% endif %}
+      <div class="pt-2">
+        <a href="{{ page.permalink | safe }}" class="btn btn-primary d-inline-flex align-items-center gap-2">
+          Leggi la notizia
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>

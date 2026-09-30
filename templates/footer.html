@@ -1,40 +1,44 @@
-<div class="container-fluid bg-dark footer">
-  <div class="p-3"></div>
-  <div class="container text-light">
-    <div class="row">
-      <div class="col-lg-3">
-        <h5 class="text-light">Segreteria</h5>
-        <p class="text-light">
+<footer class="bg-dark text-light py-5 footer mt-auto">
+  <div class="container">
+    <div class="row g-4">
+      <div class="col-12 col-md-6 col-lg-3">
+        <h5 class="text-white fw-bold mb-3">Segreteria</h5>
+        <p class="text-white-50 mb-0">
           Monica Gati<br />
           (AICA)<br />
-          <a href="tel:+390276455025" class="link-light">02 76455025</a><br />
-          <a href="mailto:info@olimpiadi-informatica.it" class="link-light">info@olimpiadi-informatica.it</a>
+          <a href="tel:+390276455025" class="link-light text-decoration-none">02 76455025</a><br />
+          <a href="mailto:info@olimpiadi-informatica.it" class="link-light text-decoration-none">info@olimpiadi-informatica.it</a>
         </p>
       </div>
-      <div class="col-lg-3">
-        {% set page = get_page(path="pagine/storia-oii.md") %}
-        <p><a href="{{page.path}}" class="link-light">Storia delle OII</a></p>
-        {% set page = get_page(path="pagine/organizzazione.md") %}
-        <p><a href="{{page.path}}" class="link-light">Organizzazione</a></p>
-        {% set page = get_page(path="pagine/collaborazioni.md") %}
-        <p><a href="{{page.path}}" class="link-light">Collaborazioni con università</a></p>
-        {% set page = get_page(path="pagine/iniziative-organizzate-dai-referenti-territoriali.md") %}
-        <p><a href="{{page.path}}" class="link-light">Iniziative dei referenti territoriali</a></p>
-        {% set term = get_taxonomy_term(kind="gare", term="digit") %}
-        <p><a href="{{term.path}}" class="link-light">Corso competenze digitali</a></p>
+      <div class="col-12 col-md-6 col-lg-3">
+        <h5 class="text-white fw-bold mb-3">Informazioni</h5>
+        <ul class="list-unstyled mb-0">
+          {% set page = get_page(path="pagine/storia-oii.md") %}
+          <li class="mb-2"><a href="{{page.path}}" class="link-light link-opacity-75 link-opacity-100-hover text-decoration-none">Storia delle OII</a></li>
+          {% set page = get_page(path="pagine/organizzazione.md") %}
+          <li class="mb-2"><a href="{{page.path}}" class="link-light link-opacity-75 link-opacity-100-hover text-decoration-none">Organizzazione</a></li>
+          {% set page = get_page(path="pagine/collaborazioni.md") %}
+          <li class="mb-2"><a href="{{page.path}}" class="link-light link-opacity-75 link-opacity-100-hover text-decoration-none">Collaborazioni con università</a></li>
+          {% set page = get_page(path="pagine/iniziative-organizzate-dai-referenti-territoriali.md") %}
+          <li class="mb-2"><a href="{{page.path}}" class="link-light link-opacity-75 link-opacity-100-hover text-decoration-none">Iniziative dei referenti territoriali</a></li>
+          {% set term = get_taxonomy_term(kind="gare", term="digit") %}
+          <li><a href="{{term.path}}" class="link-light link-opacity-75 link-opacity-100-hover text-decoration-none">Corso competenze digitali</a></li>
+        </ul>
       </div>
-      <div class="col-lg-6 collaborators">
-        <h5>Collaborazioni</h5>
-        <a href="https://bendingspoons.com/" class="link-light">
-          {{ <img path="/logos/bending-spoons.png" width={200} height={100} alt="logo Bending Spoons" /> }}
-        </a>
-        <a href="https://janestreet.com/" class="link-light">
-          {{ <img path="/logos/janestreet.png" width={200} height={100} alt="logo Jane Street" /> }}
-        </a>
-        <a href="https://www.confartigianato.it/" class="link-light">
-          {{ <img path="/logos/confartigianato.png" width={200} height={100} alt="logo Confartigianato ICT" /> }}
-        </a>
+      <div class="col-12 col-lg-6 collaborators">
+        <h5 class="text-white fw-bold mb-3">Collaborazioni</h5>
+        <div class="d-flex flex-wrap align-items-center gap-4 pt-1">
+          <a href="https://bendingspoons.com/" target="_blank" rel="noopener" class="link-light" title="Bending Spoons">
+            {{ <img path="/logos/bending-spoons.png" width={200} height={100} alt="logo Bending Spoons" /> }}
+          </a>
+          <a href="https://janestreet.com/" target="_blank" rel="noopener" class="link-light" title="Jane Street">
+            {{ <img path="/logos/janestreet.png" width={200} height={100} alt="logo Jane Street" /> }}
+          </a>
+          <a href="https://www.confartigianato.it/" target="_blank" rel="noopener" class="link-light" title="Confartigianato ICT">
+            {{ <img path="/logos/confartigianato.png" width={200} height={100} alt="logo Confartigianato ICT" /> }}
+          </a>
+        </div>
       </div>
     </div>
   </div>
-</div>
+</footer>

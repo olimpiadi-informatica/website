@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="it">
 
 <head>
   <meta charset="utf-8">
@@ -29,26 +29,28 @@
 </head>
 
 <body>
-  <div class="container center">
-    <a href="https://www.istruzione.it" class="logo">
-      {{ <img path="/logos/ministero.png" alt="logo MIM" width={350} height={120} fraction_xl={30} fraction_md={30} fraction_sm={30} fraction_xs={30} /> }}
-    </a>
-    <a href="/" class="logo">
-      {{ <img path="/logos/oii.png" alt="logo Olimpiadi" width={350} height={120} fraction_xl={30} fraction_md={30} fraction_sm={30} fraction_xs={30} /> }}
-    </a>
-    <a href="https://anpc.it" class="logo">
-      {{ <img path="/logos/anpc.png" alt="logo ANPC" width={120} height={120} fraction_xl={10} fraction_md={10} fraction_sm={10} fraction_xs={10} /> }}
-    </a>
-    <a href="https://www.aicanet.it" class="logo">
-      {{ <img path="/logos/aica.png" alt="logo AICA" width={350} height={120} fraction_xl={30} fraction_md={30} fraction_sm={30} fraction_xs={30} /> }}
-    </a>
-  </div>
+  <header class="site-header py-2">
+    <div class="container">
+      <div class="logo-container">
+        <a href="https://www.istruzione.it" class="logo-item" title="Ministero dell'Istruzione e del Merito" target="_blank" rel="noopener">
+          {{ <img path="/logos/ministero.png" alt="logo MIM" width={350} height={120} fraction_xl={30} fraction_md={30} fraction_sm={30} fraction_xs={45} /> }}
+        </a>
+        <a href="/" class="logo-item logo-main" title="Olimpiadi Italiane di Informatica">
+          {{ <img path="/logos/oii.png" alt="logo Olimpiadi" width={350} height={120} fraction_xl={30} fraction_md={30} fraction_sm={35} fraction_xs={45} /> }}
+        </a>
+        <a href="https://anpc.it" class="logo-item" title="Associazione Nazionale Presidi per la Comunicazione" target="_blank" rel="noopener">
+          {{ <img path="/logos/anpc.png" alt="logo ANPC" width={140} height={140} fraction_xl={15} fraction_md={15} fraction_sm={18} fraction_xs={25} /> }}
+        </a>
+        <a href="https://www.aicanet.it" class="logo-item" title="AICA" target="_blank" rel="noopener">
+          {{ <img path="/logos/aica.png" alt="logo AICA" width={350} height={120} fraction_xl={30} fraction_md={30} fraction_sm={30} fraction_xs={45} /> }}
+        </a>
+      </div>
+    </div>
+  </header>
   {% include "navbar.html" %}
-  <div class="p-3"></div>
-  <div class="container content">
+  <main class="container content mt-3 mb-5 flex-grow-1">
     {% block content %} {% endblock %}
-  </div>
-  <div class="p-3"></div>
+  </main>
   {% include "footer.html" %}
 </body>
 </html>

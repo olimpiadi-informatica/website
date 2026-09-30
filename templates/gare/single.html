@@ -5,16 +5,60 @@
 {% set path = ["pagine/", term.name, ".md"] | join %}
 {% set page = get_page(path=path) %}
 
-<div class="row">
-  <h1>{{page.title | safe }}</h1>
-</div>
-<div class="row lead">
-  {{page.content | safe }}
+<div class="gara-header mb-4" style="max-width: 900px;">
+  <h1 class="fw-bold mb-3">{{page.title | safe }}</h1>
+  {% if page.content %}
+    <div class="gara-description mb-4 lead">
+      {{page.content | safe }}
+    </div>
+  {% endif %}
 </div>
 
-<div class="p-3"></div>
+<hr class="my-4" style="max-width: 900px;">
 
-{% set page_list = term.pages %}
-{% include "post_list.html" %}
+{% if term.name == "blog" and page.extra?.diari %}
+  <div class="diari-list my-4" style="max-width: 900px;">
+    {% for diario in page.extra.diari %}
+      <article class="post-list-item card border-0 shadow-sm overflow-hidden mb-4 p-0 diario-card">
+        <div class="row g-0 align-items-stretch">
+          <div class="col-md-5 col-lg-4 d-flex">
+            <a href="{{ diario.forum_url }}" target="_blank" rel="noopener noreferrer" class="diario-img-link" aria-label="{{ diario.title }}">
+              <img src="{{ diario.image | safe }}" alt="{{ diario.title }}" class="diario-img {% if diario.image_fit == 'contain' %}diario-img-contain{% endif %}" loading="lazy">
+            </a>
+          </div>
+          <div class="col-md-7 col-lg-8">
+            <div class="card-body p-4 d-flex flex-column h-100">
+              <div class="d-flex flex-wrap align-items-center gap-2 mb-2 text-secondary small">
+                <span class="d-inline-flex align-items-center">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="me-1"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+                  {{ diario.date }}
+                </span>
+                <span class="badge-category ms-auto">{{ diario.competition }}</span>
+              </div>
+              <h2 class="h4 fw-bold mb-2">
+                <a href="{{ diario.forum_url }}" target="_blank" rel="noopener noreferrer" class="link-body-emphasis text-decoration-none d-inline-flex align-items-center gap-1">
+                  {{ diario.title }}
+                  <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-secondary flex-shrink-0" style="opacity: 0.7;"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+                </a>
+              </h2>
+              <p class="post-list-excerpt text-secondary mb-3 flex-grow-1" style="font-size: 0.95rem; line-height: 1.6; white-space: pre-line;">
+                {{ diario.excerpt }}
+              </p>
+              <div class="mt-auto pt-2">
+                <a href="{{ diario.forum_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-primary fw-semibold d-inline-flex align-items-center gap-1">
+                  Leggi il diario sul forum
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14"/><path d="M12 5l7 7-7 7"/></svg>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+{% else %}
+  {% set page_list = term.pages %}
+  {% include "post_list.html" %}
+{% endif %}
 
 {% endblock content %}
