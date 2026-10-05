@@ -125,7 +125,7 @@ Oltre a presidiare tutte le fasi della selezione territoriale, i referenti terri
 * sede territoriale **LOM1** - prov: MI tranne Legnano - **ITT Molinari di Milano** - Ref. Luca Mazzei
 * sede territoriale **LOM2** - prov: MB-VA e Legnano (MI) - **ITE E. Tosi di Busto Arsizio (VA)** - Ref. Silvia Tondo
 * sede territoriale **LOM3** - prov: BG - **ITI Paleocapa di Bergamo** - Ref. Adriano Rampoldi
-* sede territoriale **LOM4** - prov: BS-MN - **ITI Castelli di Brescia** - Ref. Alessandro Bugatti
+* sede territoriale **LOM4** - prov: BS-MN - **ITI Castelli di Brescia** - Ref. Barbara Bottari
 * sede territoriale **LOM5** - prov: CR-LO-PV - **IIS G. Galilei di Crema** - Ref. Nadia Manclossi
 * sede territoriale **LOM6** - prov: CO-LC-SO - **IIS A. Badoni di Lecco** - Ref. Sara Giorgi
 * sede territoriale **MAR** - prov: AN-AP-FM-MC-PU - **IIS Volterra Elia di Ancona** - Ref. Giuseppe Corinaldesi
