@@ -197,9 +197,9 @@ Altre risorse web con materiali relativi alle Olimpiadi Italiane di Informatica 
 Roma, 1 ottobre 2026
 
 	  
-	**Comitato per le Olimpiadi Italiane di Informatica**  
-	Il Presidente      
-	Luigi Laura
+**Comitato per le Olimpiadi Italiane di Informatica**  
+Il Presidente      
+Luigi Laura
 
   ![][image1]  
 
