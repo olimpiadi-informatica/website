@@ -1,4 +1,10 @@
-
++++
+title = "Circolare 2026-2027"
+date = 2026-10-07
+[taxonomies]
+edizioni = ["2026-2027"]
++++
+![loghi circolare oii](/images/uploads/loghi_circolare_oii.png)
 
 Ai Direttori  
 degli Uffici Scolastici Regionali  
