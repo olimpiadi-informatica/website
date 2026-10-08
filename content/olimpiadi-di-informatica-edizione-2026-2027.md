@@ -7,8 +7,6 @@ edizioni = ["2026-2027"]
 [extra]
 thumbnail = "/static/logos/oii.png"
 highlighted = true
-
-
 +++
 ## **Al via l’edizione 2026/2027 delle Olimpiadi di Informatica**
 
