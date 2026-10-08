@@ -1,8 +1,14 @@
 +++
 title = "Olimpiadi di Informatica - Edizione 2026-2027"
+uploaded_files = ["/static/logos/oii.png"]<img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/0bda08c9-7711-4ace-8fe3-e0b213782b74" />
 date = 2026-10-06T16:40:42.111Z
 [taxonomies]
 edizioni = ["2026-2027"]
+[extra]
+thumbnail = "/static/logos/oii.png"
+highlighted = true
+<img width="451" height="100" alt="image" src="https://github.com/user-attachments/assets/8ef813d4-c89a-4f2c-8348-104235188bd4" />
+
 +++
 ## **Al via l’edizione 2026/2027 delle Olimpiadi di Informatica**
 
