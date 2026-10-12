@@ -18,7 +18,6 @@ Il Comitato Olimpico per le Olimpiadi Italiane di Informatica risulta così comp
 * **Giorgio Audrito - Responsabile Tecnico Scientifico** (Ricercatore, Università di Torino)
 * **Antonio Piva - AICA** (Presidente AICA)
 * **Amanda Ferrario** (Dirigente Scolastico, ITE E. Tosi di Busto Arsizio)
-* **Imerio Chiappa** (Dirigente Scolastico, ITI Paleocapa di Bergamo)
 * **Nicoletta Negrello** (Docente, ISIS Malignani di Udine)
 * **Roberto Grossi** (Professore Ordinario, Università di Pisa)
 
