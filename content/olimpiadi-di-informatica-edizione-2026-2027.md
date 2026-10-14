@@ -1,9 +1,11 @@
 +++
 title = "Olimpiadi di Informatica - Edizione 2026-2027"
-uploaded_files = ["/static/logos/oii.png"]
 date = 2026-10-06T16:40:42.111Z
+uploaded_files = ["/static/logos/oii.png"]
+
 [taxonomies]
 edizioni = ["2026-2027"]
+
 [extra]
 thumbnail = "/static/logos/oii.png"
 highlighted = true
@@ -14,6 +16,6 @@ Una nuova edizione delle Olimpiadi di Informatica sta per cominciare. Anche ques
 
 Le Olimpiadi sono un percorso di scoperta e crescita: ogni problema è un invito a cercare soluzioni, sperimentare idee e imparare qualcosa di nuovo. Non serve conoscere già tutte le risposte: servono curiosità e voglia di mettersi in gioco.
 
-Scarica il regolamento con tutte le indicazione e le informazioni sulle modalità di partecipazione.
+Consulta la [circolare](https://www.olimpiadi-informatica.it/circolare-2026-2027/) con tutte le indicazione e le informazioni sulle modalità di partecipazione.
 
  ***La nuova sfida sta per iniziare!***
