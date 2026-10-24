@@ -79,7 +79,7 @@ Costituito da docenti universitari e ricercatori individuati dal Comitato Olimpi
   * Luigi Laura (Uninettuno)
   * Romeo Rizzi (Università di Verona)
 * Come tutor:
-  * Matteo Arcari (Scuola Normale di Pisa)
+  * Matteo Arcari (Sant’Anna di Pisa)
   * Luca Baglietto (Scuola Normale di Pisa)
   * James Bamber (Sant’Anna di Pisa)
   * Davide Bartoli (Università di Bologna)
