@@ -91,7 +91,7 @@ Costituito da docenti universitari e ricercatori individuati dal Comitato Olimpi
   * Alessandro Curseri (???)
   * Tommaso Dossi (Università di Pisa)
   * Leonardo Drago (???)
-  * Alessandro Farcas (Politecnico di Torino)
+  * Alessandro Farcaş (Politecnico di Torino)
   * Lorenzo Ferrari (Scuola Normale di Pisa)
   * Noemi Gambirasio (Università di Milano)
   * Francesco Lugli (Sant’Anna di Pisa)
